@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>8 AM World Business News</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; background: #f9f9f9; }
+        h1 { color: #333; text-align: center; border-bottom: 2px solid #333; padding-bottom: 10px; }
+        .article { background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .article h2 { margin-top: 0; color: #1a0dab; }
+        .article a { text-decoration: none; }
+        .article p { color: #555; line-height: 1.5; }
+        .source { font-size: 0.85em; color: #888; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <h1>Daily World Business News</h1>
+    <div id="news-container">Loading today's edition...</div>
+
+    <script>
+        // Fetch the local JSON file that our Python script updates daily
+        fetch('today_news.json')
+            .then(response => response.json())
+            .then(articles => {
+                const container = document.getElementById('news-container');
+                container.innerHTML = ''; // Clear the loading text
+
+                // Loop through each article and add it to the page
+                articles.forEach(article => {
+                    if (article.title && article.url) {
+                        const articleElement = document.createElement('div');
+                        articleElement.className = 'article';
+                        articleElement.innerHTML = `
+                            <h2><a href="${article.url}" target="_blank">${article.title}</a></h2>
+                            <p class="source">Source: ${article.source.name}</p>
+                            <p>${article.description || 'Click the headline to read the full story.'}</p>
+                        `;
+                        container.appendChild(articleElement);
+                    }
+                });
+            })
+            .catch(error => {
+                document.getElementById('news-container').innerHTML = 'Error loading news. Check back at 8 AM!';
+                print(error);
+            });
+    </script>
+</body>
+</html>
