@@ -1,5 +1,5 @@
 # Project-News
-Market news
+Marketnews1
 ├── .github/
 │   └── workflows/
 │       └── daily-news.yml  <-- This is your automation script
