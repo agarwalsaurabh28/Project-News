@@ -1,133 +1,16 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Daniel Howley",
-        "title": "SK Hynix IPO to give US investors bigger bite of the memory pie as shortages persist - Yahoo Finance",
-        "description": "SK Hynix will begin trading on the Nasdaq on Friday under the ticker symbol SKHY.",
-        "url": "https://finance.yahoo.com/technology/article/sk-hynix-ipo-to-give-us-investors-bigger-bite-of-the-memory-pie-as-shortages-persist-193700352.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/ABF5FD1598ACB09D9C2DE27C42B5F339078206E9C891E7BC42766091595A26F6/subgraphmysterio/resizefill_w1200_h837;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F68b46423-e998-4b1a-99f4-13e26a58efd0",
-        "publishedAt": "2026-07-09T14:33:17Z",
-        "content": "SK Hynix (000660.KS) is poised to set the final price for its US public trading debut on the Nasdaq on Friday, as appetite for the South Korean chipmaker's share sale runs high.\r\nThe initial public o\u2026 [+3965 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Barron's",
-        "title": "How SpaceX Stock Can Hit $900 - Barron's",
+        "author": "WSJ",
+        "title": "Stock Market Today: Dow Futures Edge Up Ahead of SK Hynix Debut \u2014 Live Updates - WSJ",
         "description": null,
-        "url": "https://www.barrons.com/articles/spacex-stock-price-analyst-target-7a020bc8",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-10-2026",
         "urlToImage": null,
-        "publishedAt": "2026-07-09T14:13:00Z",
+        "publishedAt": "2026-07-10T14:18:00Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Ashley Capoot",
-        "title": "OpenAI's newest AI model is 54% more token efficient on agentic coding, Altman tells CNBC - CNBC",
-        "description": null,
-        "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108316430-17805267702026-06-03t224450z_1708536359_rc2mmla7s69c_rtrmadp_0_usa-congress-openai.jpeg?v=1780674650&w=1920&h=1080",
-        "publishedAt": "2026-07-09T14:12:09Z",
-        "content": "OpenAI CEO Sam Altman told CNBC on Thursday that GPT-5.6 Sol, the company's latest artificial intelligence model, is 54% more token efficient on agentic coding tasks, and that it's \"as good or better\u2026 [+1552 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Hugh Son",
-        "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin - CNBC",
-        "description": "Competition in the multitrillion-dollar market for retirement assets is fierce among managers such as Goldman Sachs, BlackRock, Russell Investments and Mercer.",
-        "url": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221165-1762270506127-NACHMANN_STILL_1.jpg?v=1762270550&w=1920&h=1080",
-        "publishedAt": "2026-07-09T14:10:49Z",
-        "content": "Goldman Sachs said Thursday it won deals to manage a combined $70 billion in retirement assets for Verizon Communications and Lockheed Martin, one of the larger recent announcements in the fast-growi\u2026 [+1391 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Diana Olick",
-        "title": "June home sales disappoint as prices reach an all-time high - CNBC",
-        "description": "Home sales dropped in June month over month as mortgage rates remain stubbornly high. Prices hit an all-time high.",
-        "url": "https://www.cnbc.com/2026/07/09/june-home-sales-prices.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108290688-1776108462847-gettyimages-2271185271-_73a8368_orwebggl.jpeg?v=1776108562&w=1920&h=1080",
-        "publishedAt": "2026-07-09T14:00:01Z",
-        "content": "High mortgage rates coupled with record-high prices are causing homebuyers to pull back.\r\nSales of previously owned homes in June dropped 2.4% from May to 4.09 million units on a seasonally adjusted,\u2026 [+2188 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Dominic Preston, Hayden Field",
-        "title": "Meta says its new AI model is ready to compete on coding - The Verge",
-        "description": "Meta\u2019s new Muse Spark 1.1 AI model is available to US developers through the Meta Model API\u2019s public preview.",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-07-09T14:00:00Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nMuse Spark 1.1 is available to US developers through a public API preview.\r\nMuse Spark 1.1 is available to US developers through a public API preview.\r\nby\r\nDomin\u2026 [+2885 chars]"
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": "Fox News",
-        "title": "Restaurant owners reveal the biggest mistake diners make before ordering - New York Post",
-        "description": "Many diners find it helpful to ask their server, \u201cWhat\u2019s your favorite?\u201d, or simply, \u201cWhat should I order?\u201d. Restaurant professionals, however, say those questions may\u2026",
-        "url": "https://www.foxnews.com/food-drink/restaurant-owners-reveal-biggest-mistake-diners-make-before-ordering",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-39932212.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-07-09T13:57:00Z",
-        "content": "Choosing an entr\u00e9e isn\u2019t always easy, especially\u00a0at a restaurant\u00a0with an extensive menu.\r\nMany diners find it helpful to ask their server, \u201cWhat\u2019s your favorite?\u201d, or simply, \u201cWhat should I order?\u201d\r\n\u2026 [+3928 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Stan Choe",
-        "title": "Oil prices and stock markets worldwide hold steadier as AI stocks climb - AP News",
-        "description": "Wall Street and oil prices are holding steadier in the wait to see what will come next after President Donald Trump raised doubts about the temporary truce in the war with Iran. The S&P 500 rose 0.2% Thursday. The Dow Jones Industrial Average added 71 points,\u2026",
-        "url": "https://apnews.com/article/stock-markets-oil-iran-ai-ebb040b1377034108cfd55adfa94ecd1",
-        "urlToImage": "https://dims.apnews.com/dims4/default/d7740ff/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F70%2F25%2F8fdc41c9254608bf8081124dc9ce%2Fc09a775cb578415dae565f2086d8dfb6",
-        "publishedAt": "2026-07-09T13:51:00Z",
-        "content": "NEW YORK (AP) Wall Street and oil prices are holding steadier Thursday in the wait to see what will come next after President Donald Trump raised doubts about the temporary truce in the war with Iran\u2026 [+3943 chars]"
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": null,
-        "title": "Hooters closes operations in multiple LIB states, new footage of Payne Valley golf cart debacle & steak dinner - Fox News",
-        "description": "Hooters has now closed all locations in Massachusetts, New York, Connecticut, and Minnesota as the chain struggles in states under liberal control.",
-        "url": "https://www.foxnews.com/outkick-sports/hooters-closes-operations-multiple-lib-states-new-footage-payne-valley-golf-cart-debacle-steak-dinner",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Sydney-Sweeney-Hooters.jpg",
-        "publishedAt": "2026-07-09T13:44:53Z",
-        "content": "It's a beautiful July morning here in NW Ohio where we buckle up for another edition of Thursday Screencaps which includes not-so-shocking news from Hooters.\r\nWhile we were all focused on the World C\u2026 [+7642 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MarketWatch"
-        },
-        "author": "Barbara Kollmeyer",
-        "title": "Schwab strategists warn of a major market shift: The era of easy index gains is officially over - MarketWatch",
-        "description": "The \u2018great moderation\u2019 is over. Welcome to the temperamental era of investing, strategists say.",
-        "url": "https://www.marketwatch.com/story/schwab-strategists-warn-of-a-major-market-shift-the-era-of-easy-index-gains-is-officially-over-2396d139",
-        "urlToImage": "https://images.mktw.net/im-01535996/social",
-        "publishedAt": "2026-07-09T13:37:00Z",
-        "content": "Investors have a way of looking past geopolitical storms, as the seesaw performance on Wednesday shows following the latest U.S.-Iran clashes.\r\nSuch tensions, though, may be here to stay, says our \r\n\u2026 [+384 chars]"
     },
     {
         "source": {
@@ -135,89 +18,193 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "The Plan to Build Energy\u2019s Sci-Fi Future in Shut-Down Nuclear Plants - WSJ",
+        "title": "Circle Receives Approval to Launch Crypto-Focused Bank - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/business/energy-oil/the-plan-to-build-energys-sci-fi-future-in-shut-down-nuclear-plants-1b7c9cf2",
+        "url": "https://www.wsj.com/finance/currencies/circle-receives-approval-to-launch-crypto-focused-bank-df3a401f",
         "urlToImage": null,
-        "publishedAt": "2026-07-09T13:27:00Z",
+        "publishedAt": "2026-07-10T13:03:00Z",
         "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "Variety"
         },
-        "author": "Brian Sozzi",
-        "title": "The 'Magnificent 7' stocks are trading at their cheapest valuation in more than a decade - Yahoo Finance",
-        "description": "It's a rarity to see the \u201cMagnificent Seven\u201d tech stocks this cheap.",
-        "url": "https://finance.yahoo.com/markets/article/the-magnificent-7-stocks-are-trading-at-their-cheapest-valuation-in-more-than-a-decade-131922532.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/D5A03375C9207E76C22B618EEBF424D7874B3890E88A292F341FF748EF0087BD/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F04b780ea-52ed-4965-9c09-2989e508e216",
-        "publishedAt": "2026-07-09T13:19:22Z",
-        "content": "It's a rarity to see the \"Magnificent Seven\" tech stocks this cheap.\r\nQuick insight: The Magnificent Seven stocks are now trading at their cheapest valuation relative to the S&amp;P 500 (^GSPC) in mo\u2026 [+2295 chars]"
+        "author": "Zack Sharf",
+        "title": "SAG-AFTRA Slams Meta AI for Using Your Instagram Photos, Says Opt Out - Variety",
+        "description": "Meta is now allowing anyone to use Instagram photos on public accounts to generate AI images, unless users take action and opt out.",
+        "url": "https://variety.com/2026/film/news/sag-aftra-slams-meta-ai-instagram-photos-opt-out-1236806350/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2025/10/Instagram-Logo.png?w=1000&h=563&crop=1",
+        "publishedAt": "2026-07-10T12:00:00Z",
+        "content": "SAG-AFTRA is urging its members and all Instagram users to take action against Meta\u2019s new Muse Image model, which has been woven into the Instagram app and makes public accounts susceptible to AI gen\u2026 [+2449 chars]"
     },
     {
         "source": {
-            "id": "ars-technica",
-            "name": "Ars Technica"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Eric Berger",
-        "title": "The newest entrant in the military\u2019s launch competition isn't actually a launch company - Ars Technica",
-        "description": "I think it's fair to say that Phase 3 did not contemplate this.\"",
-        "url": "https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/36af0186816f14ac23c368a204957528772f23b1-6635x4423-1-1152x648.jpg",
-        "publishedAt": "2026-07-09T13:08:27Z",
-        "content": null
+        "author": null,
+        "title": "Volkswagen sales plunge as German automaker lays out plan to slash number of brands - AP News",
+        "description": "Volkswagen has reported weak sales numbers, with a significant drop in China. The company said Friday plans to cut its model lineup by nearly half. Volkswagen said group sales fell 8.6% in the second quarter to just under 2.1 million vehicles. Sales in China \u2026",
+        "url": "https://apnews.com/article/germany-volkswagen-sales-china-624740677b4c0093d90f184d1310282b",
+        "urlToImage": "https://dims.apnews.com/dims4/default/3d2d03f/2147483647/strip/true/crop/4896x3262+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2Ff4%2Fc578fe60f69f2a9941898271ce12%2F6c322811f1b8443bacff19cdae98777c",
+        "publishedAt": "2026-07-10T11:11:00Z",
+        "content": "BERLIN (AP) Volkswagen reported weak sales numbers on Friday, a day after the giant German automaker announced plans to slash the number of models by nearly half as sales plunged, particularly in Chi\u2026 [+1824 chars]"
     },
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "STAT",
-        "title": "AstraZeneca, Ionis report major trial failure with heart disease drug - STAT",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1VFdDBSUkZhRk9nQUc2bWRMdGlLdXFnUFpaNFcwUWJ2dUhwT2NBMnM2MG5NblJ3M0c2emJvajh2VWQ2MTkwXzlJWFVxSmZtaW41VEhvU3hlMWQ1YzRoZV9ZcU9MOC1aWl9yMWFIODkzeXY2VEJDaW5yWGJIMkM1Y190TVNrV2M?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2026-07-09T13:00:16Z",
-        "content": null
+        "author": "Kelvin Chan",
+        "title": "EU demands Facebook and Instagram dismantle design features it calls addictive for users - AP News",
+        "description": "The European Union is accusing Meta of breaching social media laws by designing Facebook and Instagram to be addictive. On Friday, the EU's executive arm demanded Meta disable features like infinite scrolling and autoplay by default. The charges are part of a\u2026",
+        "url": "https://apnews.com/article/facebook-instagram-eu-regulators-teens-addictive-b2f0ffd5ffc90721cacef7937e5909d2",
+        "urlToImage": "https://dims.apnews.com/dims4/default/047c6b4/2147483647/strip/true/crop/3306x2203+137+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F72%2F30%2Ffa2bbb88d6ec3936da4944d5bfef%2F4247bb2234f54bfab48aa6fabc8596e5",
+        "publishedAt": "2026-07-10T11:07:00Z",
+        "content": "The European Union accused Meta on Friday of breaching its social media law by designing Facebook and Instagram to get users hooked, and demanded it disable key addictive features like infinite scrol\u2026 [+3239 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Eleanor Pringle",
+        "title": "CBO: U.S. Treasury has borrowed $155 billion every month of this fiscal year - Fortune",
+        "description": "Congressional Budget Office report: U.S. Treasury borrowed $155 billion every month of this year\u2014and is paying $24 billion a week in interest on its debts.",
+        "url": "https://fortune.com/2026/07/10/us-treasury-borrowed-155-billion-every-month-fiscal-year-24-billion-a-week-interest-debt/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284344621-e1783677598560.jpg?resize=1200,600",
+        "publishedAt": "2026-07-10T10:36:00Z",
+        "content": "Despite concerns from debt hawks, the U.S. government is continuing to borrow at pace: For the fiscal year of 2026 so far, the federal deficit has totaled just under $1.4 trillion.The first nine mont\u2026 [+3609 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Scott Cohn",
-        "title": "Ohio is America's Top State for Business in 2026, capping yearslong rise with first No. 1 finish - CNBC",
-        "description": "Ohio tops CNBC's rankings for the first time in 2026, with the Buckeye State culminating a yearslong climb as the place to do business in America.",
-        "url": "https://www.cnbc.com/2026/07/09/ohio-no-1-americas-top-states-for-business-rankings.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108330101-1783012419076-gettyimages-2267146157-SOFTBANK_DATA_CENTER.jpeg?v=1783434396&w=1920&h=1080",
-        "publishedAt": "2026-07-09T12:41:54Z",
-        "content": "Offering unparalleled access at unrivaled costs, Ohio is America's Top State for Business in 2026.\u00a0\r\nIt is the pinnacle of a long climb for the Buckeye State, once considered the buckle of the Rust B\u2026 [+12664 chars]"
+        "author": "Leslie Josephs",
+        "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says - CNBC",
+        "description": "Delta is the first of the U.S. airlines to report second-quarter results.",
+        "url": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108317451-1780673029371-gettyimages-2253186744-aviation-stock-14873-en-delta-air-lines-boeing737-airplane-a.jpeg?v=1780673050&w=1920&h=1080",
+        "publishedAt": "2026-07-10T10:30:53Z",
+        "content": "Delta Air Lines' profit goal is in reach this year as the carrier passes along higher fuel costs to customers, pricing power CEO Ed Bastian expects to last even as oil prices drop from multiyear high\u2026 [+2784 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "The Wall Street Firm at the Center of Trump\u2019s Trading Spree - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/articles/the-wall-street-firm-at-the-center-of-trumps-trading-spree-6b6e34f3",
+        "urlToImage": null,
+        "publishedAt": "2026-07-10T10:01:00Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "BBC News"
         },
-        "author": "Brian Sozzi",
-        "title": "Nvidia's nearly $1 trillion wipeout could prompt this bullish action - Yahoo Finance",
-        "description": "It might be time for Nvidia to unleash the stock buybacks.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-nearly-1-trillion-wipeout-could-prompt-this-bullish-action-122707475.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/D9553BB6FBD90C9297270FAD8DABE27C4E5ED63853937721C18A21EC88A6A42E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F407f94a0-707a-11f1-977d-89290c6532c7_5e2d1fcef16fa823958eaaa3418530c88da7e0b25c7b892991e9041cc3d5e1c3.jpg",
-        "publishedAt": "2026-07-09T12:27:07Z",
-        "content": "Nvidia (NVDA) could be about to aggressively unleash share buybacks after a prolonged stretch of weakness in the stock.\r\nNvidia has lost roughly $1 trillion in market value since the stock hit a reco\u2026 [+2788 chars]"
+        "author": null,
+        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in - BBC",
+        "description": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
+        "url": "https://www.bbc.com/news/articles/cgjxqq9jg8yo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18e4/live/9e552290-7c30-11f1-b3bb-a3d4161295ad.jpg",
+        "publishedAt": "2026-07-10T09:38:07Z",
+        "content": "\"While the carrier has been buffeted recently by higher fuel costs and geopolitical turbulence, it has built a resilient European network, a strong balance sheet and, crucially, a fast-growing holida\u2026 [+69 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "Daily Beast"
         },
-        "author": "Brooke DiPalma",
-        "title": "PepsiCo reports that US consumers scaled back on snacks and soda as inflation bites - Yahoo Finance",
-        "description": "PepsiCo expects the second half of 2026 to improve.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/pepsico-reports-that-us-consumers-scaled-back-on-snacks-and-soda-as-inflation-bites-114809596.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/DB674B5D1D2B9F8375385EDD933F05C7EF33B40098265AB44876F53146E5176D/subgraphmysterio/resizefill_w1200_h822;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fe942f111-d10f-47b4-8b06-9b454bb5ae82",
-        "publishedAt": "2026-07-09T11:48:09Z",
-        "content": "PepsiCo (PEP) quarterly results showed that North American consumers remain under pressure as they focus on essentials and budget for higher gas prices.\r\nThe soda and snack giant beat Wall Street's e\u2026 [+2516 chars]"
+        "author": "Ewan Palmer",
+        "title": "White House Rages After Embarrassing Trump Story Exposed - The Daily Beast",
+        "description": "The president hoped he would be praised for lowering food costs at America\u2019s biggest retailer.",
+        "url": "https://www.thedailybeast.com/white-house-melts-down-after-trump-walmart-price-cut-humiliation/",
+        "urlToImage": "https://www.thedailybeast.com/resizer/v2/7RHKISCNBBHWNKTSJBE4GGK3BY.JPG?smart=true&auth=7f645a75f46453d0e0af21d0f3bd44c47ebe17638ccecadaa2d8b26afdd1b3df&width=1200&height=630",
+        "publishedAt": "2026-07-10T09:33:00Z",
+        "content": "The White House has gone into full defense mode after Donald Trump was found taking credit for price cuts that had nothing to do with him.\r\nOn Monday, the 80-year-old president posted on Truth Social\u2026 [+2993 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Taylor Rains",
+        "title": "Delta is introducing 'basic' business class. Here's how it works \u2014 and how it could mean you can finally afford a seat. - Business Insider",
+        "description": "Delta aims to make business class cheaper with by unbundling perks you may not want, like lounge access or seat choice.",
+        "url": "https://www.businessinsider.com/delta-air-lines-new-basic-business-class-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a4fdfccd3a449ec3445fd6e?width=1200&format=jpeg",
+        "publishedAt": "2026-07-10T09:00:00Z",
+        "content": "Delta Air Lines' fanciest passenger cabin just got a budget option. Sort of.\r\nThe airline this week launched new fare types that expand its \"basic\" strategy into its premium cabins First Class, Premi\u2026 [+3555 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Windows Central"
+        },
+        "author": "Jez Corden",
+        "title": "Rumors of the DOOM studio's demise are being wildly exaggerated - Windows Central",
+        "description": "While brutal, the cuts to id Software have been exaggerated. From what I've learned, I'm confident the legendary DOOM studio will endure \u2014 id Tech as well.",
+        "url": "https://www.windowscentral.com/gaming/zenimax-bethesda/whats-going-on-with-xboxs-id-software",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/WD8pgg3mFqMJc6LXZSETxi-1452-80.jpg",
+        "publishedAt": "2026-07-10T09:00:00Z",
+        "content": "Xbox's cuts over the past week have been brutal; let's not mince words here.\r\nFour studios divested with a possible fifth in progress, over a thousand jobs removed already, with a further 2000 planne\u2026 [+6207 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "GamesIndustry.biz"
+        },
+        "author": "Sophie McEvoy",
+        "title": "Asha Sharma to co-lead US Federal Reserve's Productivity and Jobs task force - GamesIndustry.biz",
+        "description": "Division will assess economic impact of new general-purpose tech, including AI; announcement follows sweeping layoffs at Xbox affecting 3,200 workers",
+        "url": "https://www.gamesindustry.biz/asha-sharma-to-co-lead-us-federal-reserves-productivity-and-jobs-task-force",
+        "urlToImage": "https://assetsio.gnwcdn.com/asha-sharma_wYeaPwM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "publishedAt": "2026-07-10T08:43:21Z",
+        "content": "The United States Federal Reserve has appointed Xbox CEO Asha Sharma to co-lead its Productivity and Jobs task force.\r\nAs detailed in a press release, the Federal Reserve has established five task fo\u2026 [+1560 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Landon Mion",
+        "title": "California city pushes for drive-thru ban after neighbors sounded alarm over burger chain's proposed addition - Fox Business",
+        "description": "A proposed In-N-Out location sparked a 45-day moratorium on new drive-thru permits in Culver City, California, as residents debate traffic, air quality and safety.",
+        "url": "https://www.foxbusiness.com/economy/california-city-pushes-drive-thru-ban-after-neighbors-sounded-alarm-over-burger-chains-proposed-addition",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/in-n-out-burger-california.jpg?ve=1&tl=1",
+        "publishedAt": "2026-07-10T01:11:00Z",
+        "content": "A California city is weighing a ban on drive-throughs after some residents expressed concern that a proposed In-N-Out could hurt air quality, worsen traffic and create safety issues for pedestrians a\u2026 [+3646 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Lucas Ropek",
+        "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
+        "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+        "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
+        "publishedAt": "2026-07-10T00:16:54Z",
+        "content": "Earlier this week, Bloomberg reported that Microsoft was replacing some of OpenAI\u2019s software with its own in-house models to cut costs. Those in-house models, known as MAI, were being used to power a\u2026 [+1289 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Stevie Bonifield",
+        "title": "Microsoft\u2019s carbon emissions went up 25 percent last year - The Verge",
+        "description": "Microsoft\u2019s 2026 sustainability report shows that its carbon emissions spiked by 25 percent last year, despite its goal to be carbon negative by 2030.",
+        "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-07-10T00:04:13Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe companys annual sustainability report also says sustainability solutions arent keeping up with AI demands.\r\nThe companys annual sustainability report also sa\u2026 [+2721 chars]"
     }
 ]
