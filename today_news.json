@@ -1,107 +1,55 @@
 [
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Stock Market Today: Dow Futures Edge Up Ahead of SK Hynix Debut \u2014 Live Updates - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-10-2026",
-        "urlToImage": null,
-        "publishedAt": "2026-07-10T14:18:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Circle Receives Approval to Launch Crypto-Focused Bank - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/finance/currencies/circle-receives-approval-to-launch-crypto-focused-bank-df3a401f",
-        "urlToImage": null,
-        "publishedAt": "2026-07-10T13:03:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Zack Sharf",
-        "title": "SAG-AFTRA Slams Meta AI for Using Your Instagram Photos, Says Opt Out - Variety",
-        "description": "Meta is now allowing anyone to use Instagram photos on public accounts to generate AI images, unless users take action and opt out.",
-        "url": "https://variety.com/2026/film/news/sag-aftra-slams-meta-ai-instagram-photos-opt-out-1236806350/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2025/10/Instagram-Logo.png?w=1000&h=563&crop=1",
-        "publishedAt": "2026-07-10T12:00:00Z",
-        "content": "SAG-AFTRA is urging its members and all Instagram users to take action against Meta\u2019s new Muse Image model, which has been woven into the Instagram app and makes public accounts susceptible to AI gen\u2026 [+2449 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": null,
-        "title": "Volkswagen sales plunge as German automaker lays out plan to slash number of brands - AP News",
-        "description": "Volkswagen has reported weak sales numbers, with a significant drop in China. The company said Friday plans to cut its model lineup by nearly half. Volkswagen said group sales fell 8.6% in the second quarter to just under 2.1 million vehicles. Sales in China \u2026",
-        "url": "https://apnews.com/article/germany-volkswagen-sales-china-624740677b4c0093d90f184d1310282b",
-        "urlToImage": "https://dims.apnews.com/dims4/default/3d2d03f/2147483647/strip/true/crop/4896x3262+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2Ff4%2Fc578fe60f69f2a9941898271ce12%2F6c322811f1b8443bacff19cdae98777c",
-        "publishedAt": "2026-07-10T11:11:00Z",
-        "content": "BERLIN (AP) Volkswagen reported weak sales numbers on Friday, a day after the giant German automaker announced plans to slash the number of models by nearly half as sales plunged, particularly in Chi\u2026 [+1824 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Kelvin Chan",
-        "title": "EU demands Facebook and Instagram dismantle design features it calls addictive for users - AP News",
-        "description": "The European Union is accusing Meta of breaching social media laws by designing Facebook and Instagram to be addictive. On Friday, the EU's executive arm demanded Meta disable features like infinite scrolling and autoplay by default. The charges are part of a\u2026",
-        "url": "https://apnews.com/article/facebook-instagram-eu-regulators-teens-addictive-b2f0ffd5ffc90721cacef7937e5909d2",
-        "urlToImage": "https://dims.apnews.com/dims4/default/047c6b4/2147483647/strip/true/crop/3306x2203+137+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F72%2F30%2Ffa2bbb88d6ec3936da4944d5bfef%2F4247bb2234f54bfab48aa6fabc8596e5",
-        "publishedAt": "2026-07-10T11:07:00Z",
-        "content": "The European Union accused Meta on Friday of breaching its social media law by designing Facebook and Instagram to get users hooked, and demanded it disable key addictive features like infinite scrol\u2026 [+3239 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Eleanor Pringle",
-        "title": "CBO: U.S. Treasury has borrowed $155 billion every month of this fiscal year - Fortune",
-        "description": "Congressional Budget Office report: U.S. Treasury borrowed $155 billion every month of this year\u2014and is paying $24 billion a week in interest on its debts.",
-        "url": "https://fortune.com/2026/07/10/us-treasury-borrowed-155-billion-every-month-fiscal-year-24-billion-a-week-interest-debt/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284344621-e1783677598560.jpg?resize=1200,600",
-        "publishedAt": "2026-07-10T10:36:00Z",
-        "content": "Despite concerns from debt hawks, the U.S. government is continuing to borrow at pace: For the fiscal year of 2026 so far, the federal deficit has totaled just under $1.4 trillion.The first nine mont\u2026 [+3609 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Leslie Josephs",
-        "title": "Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says - CNBC",
-        "description": "Delta is the first of the U.S. airlines to report second-quarter results.",
-        "url": "https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108317451-1780673029371-gettyimages-2253186744-aviation-stock-14873-en-delta-air-lines-boeing737-airplane-a.jpeg?v=1780673050&w=1920&h=1080",
-        "publishedAt": "2026-07-10T10:30:53Z",
-        "content": "Delta Air Lines' profit goal is in reach this year as the carrier passes along higher fuel costs to customers, pricing power CEO Ed Bastian expects to last even as oil prices drop from multiyear high\u2026 [+2784 chars]"
+        "author": "Annika Kim Constantino",
+        "title": "A tiny GLP-1 implant is the latest bet to help patients maintain their weight loss - CNBC",
+        "description": "Vivani Medical is developing an implant of semaglutide, the active ingredient in Novo Nordisk's obesity injection Wegovy and diabetes counterpart Ozempic.",
+        "url": "https://www.cnbc.com/2026/07/11/glp-1-implant-from-vivani-medical-aims-to-help-patients-stay-on-treatment.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108279913-1773864085826-gettyimages-2260914806-64393_48_ms_4337.jpeg?v=1773864352&w=1920&h=1080",
+        "publishedAt": "2026-07-11T12:00:01Z",
+        "content": "Losing weight with GLP-1 drugs is only half the battle. Keeping it off long term has proved even harder.\r\nFactors such as side effects, high out-of-pocket costs, injection fatigue and stigma around o\u2026 [+12838 chars]"
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": "the-hill",
+            "name": "The Hill"
         },
-        "author": "WSJ",
-        "title": "The Wall Street Firm at the Center of Trump\u2019s Trading Spree - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/articles/the-wall-street-firm-at-the-center-of-trumps-trading-spree-6b6e34f3",
-        "urlToImage": null,
-        "publishedAt": "2026-07-10T10:01:00Z",
-        "content": null
+        "author": "Rachel Frazin, Max Rego",
+        "title": "Mystery surrounds \u2018Freedom Fuel\u2019 gas stations touted by Trump - The Hill",
+        "description": "In recent days, President Trump has\u00a0touted\u00a025 \u201cFreedom Fuel\u201d gas stations, but little is publicly known about the stations or who is running them.\u00a0 The gas stations, located in Pennsylvania and New Jersey, are selling fuel at relatively low prices, and Trump\u2019\u2026",
+        "url": "https://thehill.com/policy/energy-environment/5963065-freedom-fuel-trump-gas-stations/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/Freedom-fuel_071126_Getty_Joe-Lamberti.jpg?w=1280",
+        "publishedAt": "2026-07-11T10:00:00Z",
+        "content": "Skip to content\r\nIn recent days, President Trump has\u00a0touted\u00a025 \u201cFreedom Fuel\u201d gas stations, but little is publicly known about the stations or who is running them.\u00a0\r\nThe gas stations, located in Penn\u2026 [+5134 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Megan Morrone",
+        "title": "Apple sues OpenAI for trade secret theft - Axios",
+        "description": "Apple has lost significant talent to OpenAI as the frontier lab prepares to unveil its first hardware device.",
+        "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft",
+        "urlToImage": "https://images.axios.com/CjZlbD1Jd_2r_2usaUtmXGYs_wk=/1366x768/smart/2024/03/28/004934-1711586974988.jpg",
+        "publishedAt": "2026-07-11T09:46:01Z",
+        "content": "What they're saying: \"Recently, significant evidence has emerged suggesting individuals employed by OpenAI wrongfully took Apple's secret and confidential information regarding our unreleased technol\u2026 [+3182 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Daniel de Vise\u0301",
+        "title": "A record number of young adults live with parents. Why? - USA Today",
+        "description": "A record number of under-35 adults are living with their parents rather than negotiate the tricky math of living alone.",
+        "url": "https://www.usatoday.com/story/money/personalfinance/2026/07/11/record-number-young-adults-live-with-parents/90865580007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/09/USAT/90867525007-getty-images-2263358322.jpg?crop=5833,3282,x0,y303&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2026-07-11T09:04:00Z",
+        "content": "A record number of adults under\u00a0age\u00a035\u00a0choose to live\u00a0with their parents, Census data shows,\u00a0rather than\u00a0contemplate the increasingly\u00a0tricky\u00a0math of living on their own.\u00a0\r\nMore than 25 million under-\u2026 [+5320 chars]"
     },
     {
         "source": {
@@ -109,102 +57,206 @@
             "name": "BBC News"
         },
         "author": null,
-        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in - BBC",
-        "description": "The airline says a bid from US firm Apollo has trumped a recent takeover offer from Castlelake.",
-        "url": "https://www.bbc.com/news/articles/cgjxqq9jg8yo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18e4/live/9e552290-7c30-11f1-b3bb-a3d4161295ad.jpg",
-        "publishedAt": "2026-07-10T09:38:07Z",
-        "content": "\"While the carrier has been buffeted recently by higher fuel costs and geopolitical turbulence, it has built a resilient European network, a strong balance sheet and, crucially, a fast-growing holida\u2026 [+69 chars]"
+        "title": "Trump Accounts: Will the new savings scheme for American children succeed? - BBC",
+        "description": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
+        "url": "https://www.bbc.com/news/articles/ckg55v9e2y9o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7442/live/ebd646e0-7a35-11f1-ab76-d75965dea4d1.jpg",
+        "publishedAt": "2026-07-11T07:41:18Z",
+        "content": "However, Andy Blocker, head of policy, regulatory and government relations at financial services firm Edward Jones, believes the $1,000 contribution for babies born during Trump's second term in offi\u2026 [+58 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Daily Beast"
+            "name": "Variety"
         },
-        "author": "Ewan Palmer",
-        "title": "White House Rages After Embarrassing Trump Story Exposed - The Daily Beast",
-        "description": "The president hoped he would be praised for lowering food costs at America\u2019s biggest retailer.",
-        "url": "https://www.thedailybeast.com/white-house-melts-down-after-trump-walmart-price-cut-humiliation/",
-        "urlToImage": "https://www.thedailybeast.com/resizer/v2/7RHKISCNBBHWNKTSJBE4GGK3BY.JPG?smart=true&auth=7f645a75f46453d0e0af21d0f3bd44c47ebe17638ccecadaa2d8b26afdd1b3df&width=1200&height=630",
-        "publishedAt": "2026-07-10T09:33:00Z",
-        "content": "The White House has gone into full defense mode after Donald Trump was found taking credit for price cuts that had nothing to do with him.\r\nOn Monday, the 80-year-old president posted on Truth Social\u2026 [+2993 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Taylor Rains",
-        "title": "Delta is introducing 'basic' business class. Here's how it works \u2014 and how it could mean you can finally afford a seat. - Business Insider",
-        "description": "Delta aims to make business class cheaper with by unbundling perks you may not want, like lounge access or seat choice.",
-        "url": "https://www.businessinsider.com/delta-air-lines-new-basic-business-class-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a4fdfccd3a449ec3445fd6e?width=1200&format=jpeg",
-        "publishedAt": "2026-07-10T09:00:00Z",
-        "content": "Delta Air Lines' fanciest passenger cabin just got a budget option. Sort of.\r\nThe airline this week launched new fare types that expand its \"basic\" strategy into its premium cabins First Class, Premi\u2026 [+3555 chars]"
+        "author": "Gene Maddaus",
+        "title": "Oregon Attorney General Drops Motion to Delay Paramount-Warner Bros. Merger - Variety",
+        "description": "Oregon has withdrawn its motion to delay the Paramount-Warner Bros. merger by 60 days and dropped a demand for records of its White House lobbying.",
+        "url": "https://variety.com/2026/film/news/oregon-paramount-warner-bros-merger-drops-delay-1236807068/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2026/07/Dan-Rayfield.jpg?crop=0px%2C3px%2C1500px%2C844px&resize=1000%2C563",
+        "publishedAt": "2026-07-11T02:33:00Z",
+        "content": "The Oregon attorney general\u2019s office has withdrawn its motion to delay the closing of the Paramount-Warner Bros. merger, according to a filing submitted Friday in the Multnomah County Circuit Court i\u2026 [+2449 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Windows Central"
+            "name": "KVUE.com"
         },
-        "author": "Jez Corden",
-        "title": "Rumors of the DOOM studio's demise are being wildly exaggerated - Windows Central",
-        "description": "While brutal, the cuts to id Software have been exaggerated. From what I've learned, I'm confident the legendary DOOM studio will endure \u2014 id Tech as well.",
-        "url": "https://www.windowscentral.com/gaming/zenimax-bethesda/whats-going-on-with-xboxs-id-software",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/WD8pgg3mFqMJc6LXZSETxi-1452-80.jpg",
-        "publishedAt": "2026-07-10T09:00:00Z",
-        "content": "Xbox's cuts over the past week have been brutal; let's not mince words here.\r\nFour studios divested with a possible fifth in progress, over a thousand jobs removed already, with a further 2000 planne\u2026 [+6207 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "GamesIndustry.biz"
-        },
-        "author": "Sophie McEvoy",
-        "title": "Asha Sharma to co-lead US Federal Reserve's Productivity and Jobs task force - GamesIndustry.biz",
-        "description": "Division will assess economic impact of new general-purpose tech, including AI; announcement follows sweeping layoffs at Xbox affecting 3,200 workers",
-        "url": "https://www.gamesindustry.biz/asha-sharma-to-co-lead-us-federal-reserves-productivity-and-jobs-task-force",
-        "urlToImage": "https://assetsio.gnwcdn.com/asha-sharma_wYeaPwM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "publishedAt": "2026-07-10T08:43:21Z",
-        "content": "The United States Federal Reserve has appointed Xbox CEO Asha Sharma to co-lead its Productivity and Jobs task force.\r\nAs detailed in a press release, the Federal Reserve has established five task fo\u2026 [+1560 chars]"
+        "author": "KVUE",
+        "title": "Downtown Austin residents question timing of planned overnight power outage amid July heat - KVUE",
+        "description": null,
+        "url": "https://www.kvue.com/article/news/local/downtown-austin-texas-residents-question-timing-planned-overnight-power-outage-july-heat/269-0c4bf1db-2750-41d2-aa18-ec70fb48e578",
+        "urlToImage": null,
+        "publishedAt": "2026-07-11T01:49:00Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
             "name": "Fox Business"
         },
-        "author": "Landon Mion",
-        "title": "California city pushes for drive-thru ban after neighbors sounded alarm over burger chain's proposed addition - Fox Business",
-        "description": "A proposed In-N-Out location sparked a 45-day moratorium on new drive-thru permits in Culver City, California, as residents debate traffic, air quality and safety.",
-        "url": "https://www.foxbusiness.com/economy/california-city-pushes-drive-thru-ban-after-neighbors-sounded-alarm-over-burger-chains-proposed-addition",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/in-n-out-burger-california.jpg?ve=1&tl=1",
-        "publishedAt": "2026-07-10T01:11:00Z",
-        "content": "A California city is weighing a ban on drive-throughs after some residents expressed concern that a proposed In-N-Out could hurt air quality, worsen traffic and create safety issues for pedestrians a\u2026 [+3646 chars]"
+        "author": "Michael Sinkewicz",
+        "title": "Trump celebrates $250B Micron investment, says America is 'GETTING SHOVELS IN THE GROUND' - Fox Business",
+        "description": "Micron Technology's $250 billion investment will create 100,000 American jobs across semiconductor facilities in New York, Idaho and Virginia.",
+        "url": "https://www.foxbusiness.com/politics/trump-celebrates-250b-micron-investment-america-getting-shovels-ground",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/trump-micron-250-billion-investment.jpg?ve=1&tl=1",
+        "publishedAt": "2026-07-11T01:38:00Z",
+        "content": "President Donald Trump on Friday touted Micron Technology's plans to invest $250 billion in U.S. semiconductor manufacturing, including what the company says will become the largest chip manufacturin\u2026 [+4557 chars]"
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Lucas Ropek",
-        "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
-        "description": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-        "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
-        "publishedAt": "2026-07-10T00:16:54Z",
-        "content": "Earlier this week, Bloomberg reported that Microsoft was replacing some of OpenAI\u2019s software with its own in-house models to cut costs. Those in-house models, known as MAI, were being used to power a\u2026 [+1289 chars]"
+        "author": "Kaitlyn Huamani",
+        "title": "Meta appeals landmark jury verdict that found it to blame for social media addiction for young users - AP News",
+        "description": "Meta, the parent company of Instagram and Facebook, is appealing the verdict of a landmark social media addiction lawsuit in Los Angeles. The appeal seeks to challenge the jury\u2019s determination that the company designed its platforms to hook young users withou\u2026",
+        "url": "https://apnews.com/article/meta-verdict-appeal-social-media-addiction-f2fc62210b02f1945bfd416f5554dd5c",
+        "urlToImage": "https://dims.apnews.com/dims4/default/8967160/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2F3a%2F281db9a06aaab0daa00f4d035461%2F95ddce9adb734c96bcaa705fc1484eac",
+        "publishedAt": "2026-07-10T23:59:00Z",
+        "content": "Meta, the parent company of Instagram and Facebook, has appealed the verdict of a landmark social media addiction lawsuit in Los Angeles, challenging the jurys determination that the company designed\u2026 [+3182 chars]"
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": null,
+            "name": "WABC-TV"
         },
-        "author": "Stevie Bonifield",
-        "title": "Microsoft\u2019s carbon emissions went up 25 percent last year - The Verge",
-        "description": "Microsoft\u2019s 2026 sustainability report shows that its carbon emissions spiked by 25 percent last year, despite its goal to be carbon negative by 2030.",
-        "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-07-10T00:04:13Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe companys annual sustainability report also says sustainability solutions arent keeping up with AI demands.\r\nThe companys annual sustainability report also sa\u2026 [+2721 chars]"
+        "author": "Eyewitness News",
+        "title": "Mayor Mamdani announces 'Click to Cancel' rule to rid NYC of subscription traps and junk fees - ABC7 New York",
+        "description": "The so-called \"Click to Cancel\" rule will require businesses to make it as easy for you to cancel your subscription as it was to sign up.",
+        "url": "https://abc7ny.com/post/mayor-mamdani-announces-click-cancel-rule-rid-nyc-subscription-traps-junk-fees/19481167/",
+        "urlToImage": "https://cdn.abcotvs.com/dip/images/19481168_071026-wabc-mamdani-click-to-cancel-img.jpg?w=1600",
+        "publishedAt": "2026-07-10T22:00:34Z",
+        "content": "NEW YORK (WABC) -- Mayor Zohran Mamdani announced a first-of-its-kind rule to protect New Yorkers from subscription traps and junk fees.\r\nThe so-called \"Click to Cancel\" rule will require businesses \u2026 [+2650 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Wealthy Americans choose one grocery store chain over rivals, survey finds - Fox News",
+        "description": "A YouGov survey reveals Costco is the top grocery store for higher-income Americans, but the reasons behind their warehouse club loyalty may surprise you.",
+        "url": "https://www.foxnews.com/food-drink/wealthy-americans-choose-one-grocery-store-chain-over-rivals-survey-finds",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/costco_customers.jpg",
+        "publishedAt": "2026-07-10T21:47:29Z",
+        "content": "Costco was the grocery retailer where the largest share of higher-income Americans reported doing most of their grocery shopping, according to a recent YouGov survey.\r\nEleven percent of respondents e\u2026 [+3850 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Air Current"
+        },
+        "author": "Jon Ostrower",
+        "title": "Apparent engine fan blade failure preceded rupture of Ryanair 737 window - The Air Current",
+        "description": "Blade failure follows similar accidents in 2016, 2018",
+        "url": "https://theaircurrent.com/feed/dispatches/engine-fan-blade-failure-preceded-rupture-ryanair-737-window-greece/",
+        "urlToImage": "https://theaircurrent.com/wp-content/uploads/2026/07/ryanair-img-jao-2.jpeg",
+        "publishedAt": "2026-07-10T21:02:08Z",
+        "content": "Air safety reporting is made accessible without a subscription as a public service. Subscribe to The Air Current for full access to our scoops, in-depth reporting and industry analysis.\r\nThe rupture \u2026 [+2934 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Adam Clark",
+        "title": "SK Hynix Stock Is the Star of the Show Today. Just Look at Micron Shares. - Barron's",
+        "description": "Micron Technology stock played second fiddle to memory-chip peer SK Hynix\u2019s strong market debut on Friday.",
+        "url": "https://www.barrons.com/articles/micron-stock-price-memory-chips-b4a4eeb7",
+        "urlToImage": "https://images.barrons.com/im-63738/social",
+        "publishedAt": "2026-07-10T20:56:00Z",
+        "content": "Micron Technologystock played second fiddle to memory-chip peerSK Hynixsstrongmarket debuton Friday.\r\nCopyright \u00a92026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": null,
+        "title": "Stock Market Today: Dow Ends Higher; SK Hynix Jumps In U.S. Trading Debut; Moderna Tumbles - Investor's Business Daily",
+        "description": "Stock Market Today: The Dow Jones index climbs Friday while shares of South Korean memory chipmaker SK Hynix spike in their U.S. debut.",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-sk-hynix-stock/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2019/04/Stock-StockCityscape-01-adobe.jpg",
+        "publishedAt": "2026-07-10T20:44:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "nj.com"
+        },
+        "author": "NJ.com",
+        "title": "White House fires back after Trump\u2019s stunning Walmart claim nearly blows up - NJ.com",
+        "description": null,
+        "url": "https://www.nj.com/politics/2026/07/white-house-fires-back-after-trumps-stunning-walmart-claim-nearly-blows-up.html",
+        "urlToImage": null,
+        "publishedAt": "2026-07-10T18:30:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New Jersey Globe"
+        },
+        "author": "David Wildstein",
+        "title": "N.J. campaigns brace for voter data shutdown under new law - New Jersey Globe",
+        "description": "Political campaigns, candidates, party organizations, and advocacy groups could lose access to critical voter data as early as tonight after a sweeping",
+        "url": "https://newjerseyglobe.com/campaigns/n-j-campaigns-brace-for-voter-data-shutdown-under-new-law/",
+        "urlToImage": "https://media.newjerseyglobe.com/wp-content/uploads/2026/01/04130118/KBS_1588-scaled.jpg",
+        "publishedAt": "2026-07-10T17:39:30Z",
+        "content": "Political campaigns, candidates, party organizations, and advocacy groups could lose access to critical voter data as early as tonight after a sweeping new state law has data providers scrambling to \u2026 [+9687 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Endpoints.news"
+        },
+        "author": "Ryan Cross",
+        "title": "'We're paranoid.' As China biotech competition heats up, American drugmakers get more secretive - Endpoints News",
+        "description": "US biotechs turn tight-lipped on gene targets and pipelines as China's fast-follower threat intensifies, 20+ founders and investors tell Endpoints.",
+        "url": "https://endpoints.news/us-biotechs-turn-secretive-as-they-fear-competition-from-rising-chinese-industry/",
+        "urlToImage": "https://endpoints.news/wp-content/uploads/2026/07/china-secrecy-abstract_og-social@2x.jpg",
+        "publishedAt": "2026-07-10T16:00:00Z",
+        "content": "Ja\u00adnine Sen\u00adgstack be\u00adlieves she may have found the next big break\u00adthrough in di\u00ada\u00adbetes and obe\u00adsi\u00adty. Her com\u00adpa\u00adny, Junevi\u00adty, has searched through hun\u00addreds"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KTLA Los Angeles"
+        },
+        "author": "Lily Dallow",
+        "title": "Need Friday night plans? Catch tonight\u2019s SpaceX launch from these SoCal spots - KTLA",
+        "description": "SpaceX is targeting Friday night to launch another batch of Starlink satellites into low-Earth orbit, continuing a string of near-weekly missions from California. However, despite their growing frequency, the wonder of a launch has not been lost on Southern C\u2026",
+        "url": "https://ktla.com/news/california/need-friday-night-plans-catch-tonights-spacex-launch-from-these-socal-spots/",
+        "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/04/69f23ade15caa5.94169123.jpeg?w=1280",
+        "publishedAt": "2026-07-10T15:39:40Z",
+        "content": "SpaceX is targeting Friday night to launch another batch of Starlink satellites into low-Earth orbit, continuing a string of near-weekly missions from California. However, despite their growing frequ\u2026 [+3615 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera Staff",
+        "title": "US-Iran escalation threatens oil supply recovery, warns IEA - Al Jazeera",
+        "description": "Sources suggest that the ceasefire can be revived amid a lull in fighting and backroom diplomacy.",
+        "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a3b37853fd2-1782265733.jpg?resize=1200%2C675",
+        "publishedAt": "2026-07-10T15:16:30Z",
+        "content": "The return of fighting between the United States and Iran threatens to extend the global energy crisis, the International Energy Agency has warned.\r\nThe risk that the resumption of hostilities could \u2026 [+5154 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": null,
+        "title": "Circle Stock Rallies On National Bank Approval. ARK Buys More Shares. - Investor's Business Daily",
+        "description": "Circle Internet lands regulator approval to establish a national trust bank. CRCL stock spikes. Cathie Wood bought more shares.",
+        "url": "https://www.investors.com/news/circle-national-trust-bank-occ-stablecoin-circle-stock/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/03/Stock-CircleInternet-Mkt-shut.jpg",
+        "publishedAt": "2026-07-10T15:14:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     }
 ]
