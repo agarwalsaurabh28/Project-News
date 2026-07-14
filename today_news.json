@@ -1,249 +1,223 @@
 [
     {
         "source": {
-            "id": "fox-news",
-            "name": "Fox News"
+            "id": null,
+            "name": "Yahoo Entertainment"
         },
-        "author": null,
-        "title": "Vintage photos reveal what grocery shopping looked like in the 1960s - Fox News",
-        "description": "Vintage 1960s grocery ads show sirloin steak at 78 cents per pound, but adjusting for inflation reveals surprising truths about today's prices.",
-        "url": "https://www.foxnews.com/food-drink/vintage-photos-reveal-what-grocery-shopping-looked-like-1960s",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/family-loading-grocieries-car-1960s.jpg",
-        "publishedAt": "2026-07-12T16:31:49Z",
-        "content": "Vintage grocery store ads from the 1960s are giving Americans a nostalgic look at a time when many grocery staples cost just pennies compared with today's prices.\r\nThe decades-old newspaper advertise\u2026 [+2958 chars]"
+        "author": "Brian Sozzi",
+        "title": "Earnings season is about to kick off \u2014 2 charts reveal how it may go - Yahoo Finance",
+        "description": "Wall Street is expecting a tranquil earnings season.",
+        "url": "https://finance.yahoo.com/markets/article/earnings-season-is-about-to-kick-off--2-charts-reveal-how-it-may-go-135222405.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/4E419D8557F9C9AFB252BE10CA9C65613FAB91C65544769010147C5AF8DB5E48/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F0833340e-b0c8-4caa-8aa5-18cce1003194",
+        "publishedAt": "2026-07-13T13:52:22Z",
+        "content": "Wall Street is expecting a tranquil earnings season.\r\nFirst, negative earnings preannouncements are well below the typical level. Second, earnings estimates have been on a steady upward climb, accord\u2026 [+2206 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Adam Clark",
+        "title": "The $536 Billion Chip War Threatening Micron Stock - Barron's",
+        "description": "Micron stock was following SK Hynix downward as investors looked to be nervy about the prospects for continued gains for memory companies.",
+        "url": "https://www.barrons.com/articles/micron-stock-price-memory-chips-f343ffbb",
+        "urlToImage": "https://images.barrons.com/im-02982466/social",
+        "publishedAt": "2026-07-13T13:42:00Z",
+        "content": "Micron Technologystock was falling early Monday. The memory-chip company looked to be hit by worries that increased investment in production by rivals would eventually drag down prices for its hardwa\u2026 [+102 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Deadline"
+        },
+        "author": "Dominic Patten",
+        "title": "Paramount-WBD Merger Is Competition Killer, State Attorneys General Allege In Proposed Blockbuster Antitrust Action - Deadline",
+        "description": "The long wait for California & NY officials to file their widely anticipated antitrust action over the $110B Paramount WBD merger could be over",
+        "url": "http://deadline.com/2026/07/paramount-antitrust-lawsuit-wbd-state-attorney-generals-1236978956/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/Paramount-and-Warner-Bros.-Water-Towers.jpg?w=1024",
+        "publishedAt": "2026-07-13T13:30:00Z",
+        "content": "From Sacramento to Albany and several state capitals in between, regional attorneys general are steeled to stop Paramount Skydance\u2019s $110 billion merger with Warner Bros Discovery in an antitrust law\u2026 [+9368 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Nauman Khan",
+        "title": "Micron New Investment Could Be an Early Warning for the AI Industry - Yahoo Finance",
+        "description": "Top Wall Street Firm Flags a New Risk for the AI Chip Boom",
+        "url": "https://finance.yahoo.com/technology/ai/articles/micron-investment-could-early-warning-132534470.html",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+        "publishedAt": "2026-07-13T13:25:34Z",
+        "content": "This article first appeared on GuruFocus.\r\nMicron Technology (NASDAQ:MU) has taken an equity stake in Taiwan-based GlobalWafers to support construction of the company's wafer manufacturing facility i\u2026 [+1070 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Aimee  Picchi",
+        "title": "Millions of Americans take on debt and drain savings to afford food - CBS News",
+        "description": "A quarter of working-age adults use credit cards to purchase groceries but struggle to repay their debts, a new study finds.",
+        "url": "https://www.cbsnews.com/news/americans-credit-card-debt-buy-groceries/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/19/3ca52f17-b1e3-4a21-947b-dee06b221069/thumbnail/1200x630/9ae311e1dbcbe2d2dab0e4fcdae047e8/gettyimages-2213316979.jpg",
+        "publishedAt": "2026-07-13T13:17:05Z",
+        "content": "Millions of Americans are borrowing money or draining their savings to buy groceries, highlighting the financial strain many households face as the cost of living rises, new research has found.\u00a0\r\nMor\u2026 [+4074 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Dean Seal",
+        "title": "Meta Lifts Cost of Louisiana Data Center to $50 Billion - WSJ",
+        "description": "Private-credit manager Blue Owl Capital owns a major stake in the project",
+        "url": "https://www.wsj.com/tech/meta-lifts-cost-of-louisiana-data-center-to-50-billion-02b2eb25",
+        "urlToImage": "https://images.wsj.net/im-50549965/social",
+        "publishedAt": "2026-07-13T12:57:00Z",
+        "content": "Meta PlatformsMETA-0.86%decrease; down pointing triangle\r\nhas scaled up the size of its massive data-center project in Northeast Louisiana to 5 gigawatts of compute capacity and said it would now cos\u2026 [+400 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Mark Gurman",
+        "title": "How Apple\u2019s Lawsuit Threatens to Disrupt OpenAI\u2019s Bid to Rival the iPhone - Bloomberg.com",
+        "description": "Apple Inc.\u2019s lawsuit accusing OpenAI of systematically stealing its intellectual property threatens to disrupt the AI company\u2019s device ambitions long before the case is resolved.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-13/how-apple-s-lawsuit-threatens-to-disrupt-openai-s-bid-to-rival-the-iphone",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSTpaL3NKZMg/v0/1200x800.jpg",
+        "publishedAt": "2026-07-13T12:32:47Z",
+        "content": "Apple Inc.s lawsuit accusing OpenAI of systematically stealing its intellectual property threatens to disrupt the AI companys device ambitions long before the case is resolved.\r\nIn the suit, filed la\u2026 [+314 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Trisha Pasricha, MD",
+        "title": "Column | The surprising health benefits of eating spicy food - The Washington Post",
+        "description": "Like it hot? Your heart, gut \u2014 and even your lifespan \u2014 may benefit.",
+        "url": "https://www.washingtonpost.com/wellness/2026/07/13/is-spicy-food-good-you-here-what-science-says/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/AFJQAI7B2EHKMQE2HTO3ULXFPA.jpg&w=1440",
+        "publishedAt": "2026-07-13T12:26:24Z",
+        "content": "Ive heard spicy food can be good for you. Is that true?\r\nHeres great news for people who love to feel the burn: The purported benefits of spicy foods have a strong scientific basis."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Adam Clark",
+        "title": "SK Hynix Stock Drops as AI Fears Resurface - Barron's",
+        "description": "SK Hynix dropped as investors looked to be taking some profit after a 500% gain in the past 12 months and a blockbuster U.S. listing.",
+        "url": "https://www.barrons.com/articles/sk-hynix-stock-price-fall-5ab9a632",
+        "urlToImage": "https://images.barrons.com/im-456658/social",
+        "publishedAt": "2026-07-13T12:14:00Z",
+        "content": "SK Hynixshares dived on Monday with the sustainability of artificial-intelligence spending back in focus. That was putting pressure on the memory-chip makers first day of trading in the U.S. under it\u2026 [+155 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Jordan Novet",
-        "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit - CNBC",
-        "description": "Sam Altman insisted that Elon Musk was again obsessed with him because of an OpenAI model release earlier this week.",
-        "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333755-1783868174451-gettyimages-2273245639-2026_apr_30_muskvsaltman_0352.jpeg?v=1783868241&w=1920&h=1080",
-        "publishedAt": "2026-07-12T15:32:34Z",
-        "content": "Elon Musk and Sam Altman criticized each other in new posts on X, highlighting the billionaires' long-standing tussle over OpenAI's evolution.\r\nMusk and Altman helped to start OpenAI in 2015 as a non\u2026 [+2943 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "OPB News"
-        },
-        "author": "Casey Frizzell",
-        "title": "Portland man faces mountain of 50,000 tires dumped on land he just bought - Oregon Public Broadcasting - OPB",
-        "description": "A Portland man purchased property to build his dream home. That dream has become a nightmare due to thousands of illegally dumped tires.",
-        "url": "https://www.opb.org/article/2026/07/12/portland-thousands-tires-dumped-land/",
-        "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/4V34JCLN2FC4JMEZLMZIAMW6MU.jpeg?auth=cb0e75a59a94bf51074f8a99b4fdf91b1c1fe97ecf2b297efb80e3059ad0a7ee&width=1200&height=675&focal=1678%2C2166",
-        "publishedAt": "2026-07-12T14:21:54Z",
-        "content": "Federal funding for public media is gone. Take action now and protect OPB's independent journalism and essential programs for everyone."
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Ashley Archambault",
-        "title": "I canceled Amazon Prime to curb my impulse shopping. It worked better than I expected. - Business Insider",
-        "description": "Giving up Amazon Prime saved me money, but it also reminded me how much I enjoyed shopping locally and getting out of the house.",
-        "url": "https://www.businessinsider.com/canceling-amazon-prime-running-errands-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a3d9b5ba25092c74cc9f77b?width=1200&format=jpeg",
-        "publishedAt": "2026-07-12T13:53:16Z",
-        "content": "I didn't get an Amazon Prime membership until the pandemic, when the allure of delivery finally outweighed the yearly cost for me. \r\nI was impressed by the convenience, and never looked back until th\u2026 [+3500 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "How Will Futures React To New U.S.-Iran Attacks? - Investor's Business Daily",
-        "description": "Taiwan Semiconductor, Goldman Sachs, GE Aerospace lead big earnings reports.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2024/04/ISRAEL_iranmissile_041524_adobe.jpg",
-        "publishedAt": "2026-07-12T13:01:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Newser"
-        },
-        "author": "Jenn Gidman",
-        "title": "You, Too, Can Be a Millionaire by Working at Costco - Newser",
-        "description": "Arizona cashier Tony Barzar, 60, who makes $32.90 an hour, has amassed an ample 401(k) nest egg",
-        "url": "https://www.newser.com/story/392507/this-longtime-costco-worker-is-now-a-millionaire.html",
-        "urlToImage": "https://cdn.newser.com/image/1697583-12-20260712074602.jpeg",
-        "publishedAt": "2026-07-12T12:29:00Z",
-        "content": "A million-dollar nest egg may not be the usual outcome for a store cashier, but the Wall Street Journal reports that's exactly what Costco's pay-and-benefits strategy has helped produce. The news out\u2026 [+1103 chars]"
+        "author": "Hugh Son",
+        "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility - CNBC",
+        "description": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
+        "url": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107344017-1701880715793-gettyimages-1835359958-wm_10780_jnkb6fjk.jpeg?v=1704725989&w=1920&h=1080",
+        "publishedAt": "2026-07-13T12:00:40Z",
+        "content": "(L-R) Brian Moynihan, Chairman and CEO of Bank of America; Jamie Dimon, Chairman and CEO of JPMorgan Chase; and Jane Fraser, CEO of Citigroup; testify during a Senate Banking Committee hearing at the\u2026 [+5459 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Justina Lee",
-        "title": "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds - CNBC",
-        "description": "A majority of U.S. employees now want an AI sovereign wealth fund to hold corporations more accountable, according to a recent survey, as tech layoffs rise.",
-        "url": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108331825-1783479240906-gettyimages-2208694533-87_data_circle_dark.jpeg?v=1783479264&w=1920&h=1080",
-        "publishedAt": "2026-07-12T12:27:55Z",
-        "content": "A majority of U.S. employees now want to hold corporations more accountable via an AI sovereign wealth fund, amid dissatisfaction over a growing number of tech layoffs despite higher overall corporat\u2026 [+2668 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Motley Fool"
-        },
-        "author": "Sean Williams",
-        "title": "The Stock Market Is on the Verge of Doing Something That's Never Been Observed in 155 Years -- and It Has Worrisome Ramifications for Wall Street - The Motley Fool",
-        "description": "A history-making moment may be imminent for Wall Street -- unfortunately, it's not the good kind.",
-        "url": "https://www.fool.com/investing/2026/07/12/stock-market-do-something-in-155-years-wall-street/",
-        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877925%2Fnyse-floor-trader-invest-buy-sell-options-stock-exchange-getty.png&w=1200&op=resize",
-        "publishedAt": "2026-07-12T11:36:00Z",
-        "content": "It's been a stellar last 17 years for Wall Street and investors. With the exception of the five-week COVID-19 crash in February-March 2020 and the nine-month bear market in 2022, optimists have ruled\u2026 [+6572 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SFGate"
-        },
-        "author": "Lester Black",
-        "title": "California's dairy industry panics over August recycling deadline - SFGATE",
-        "description": "California's latest attempt to reduce waste has the dairy industry warning that customers will soon be paying more for milk and other groceries.",
-        "url": "https://www.sfgate.com/food/article/california-recycling-law-milk-22339035.php",
-        "urlToImage": "https://s.hdnux.com/photos/01/66/63/45/31144273/3/rawImage.jpg",
-        "publishedAt": "2026-07-12T11:04:35Z",
-        "content": "Californias\u00a0new recycling law is leaving dairy manufacturers panicked that the legislations fees and mandates could be devastating to their business and could send Californians grocery bills even hig\u2026 [+6276 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Sydney Lake",
-        "title": "A Trump Account could make your kid a millionaire\u2014but financial experts warn of a catch - Fortune",
-        "description": "Four financial planners break down how much your kid could really make, where it fits with your 401(k), and the catch parents keep missing.",
-        "url": "https://fortune.com/2026/07/12/trump-account-how-much-kids-make-financial-planners/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284592549-e1783684107326.jpg?resize=1200,600",
-        "publishedAt": "2026-07-12T11:02:00Z",
-        "content": "If youve opened the Trump Accounts app, the pitch for investing is hard to resist.\u00a0Enter a $250-a-year contribution, and the app shows the user would have $19,000 by age 18 or a whopping $878,000 by \u2026 [+8664 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Wccftech"
-        },
-        "author": "Hassan Mujtaba",
-        "title": "SK Hynix CEO Warns 2027 Will Be Memory\u2019s \u201cWorst Year\u201d Ever, With Shortages Set To Outlast The Decade - Wccftech",
-        "description": "SK Hynix CEO has warned that memory shortages will be at their worst in 2027 as it celebrates its trading debut on Nasdaq in Times Square.",
-        "url": "https://wccftech.com/sk-hynix-ceo-warns-2027-memory-worst-year-ever-shortages-set-to-outlast-the-decade/",
-        "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/07/Photo-5.jpg",
-        "publishedAt": "2026-07-12T10:45:21Z",
-        "content": "SK Hynix CEO has warned that memory shortages will be at their worst in 2027 as it celebrates its trading debut on Nasdaq in Times Square.\r\nWell, memory shortages have gripped all aspects of the tech\u2026 [+3966 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Claire Atkinson",
-        "title": "James Murdoch may have reaped as much as $7.5 billion from his pre-IPO investment in Elon Musk\u2019s SpaceX - Fortune",
-        "description": "His early bet on the rocket company has likely made him much richer than his father Rupert Murdoch ever did.",
-        "url": "https://fortune.com/2026/07/12/james-murdoch-7-5-billion-ipo-elon-musk-spacex/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2267145665.jpg?resize=1200,600",
-        "publishedAt": "2026-07-12T10:31:00Z",
-        "content": "James Murdoch appears poised to reap a fortune from his investments in SpaceX that could far exceed what he gained from his fathers media empire.James, the estranged 53-year-old son of Rupert Murdoch\u2026 [+7564 chars]"
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": null,
-        "title": "Trump's ambitious energy bet could be a winning hand as the world burns more oil, gas than ever - Fox News",
-        "description": "U.S. oil production hit a record 21.1 million barrels per day in 2025 as fossil fuels still supply 86% of global energy, a new report reveals.",
-        "url": "https://www.foxnews.com/politics/trumps-ambitious-energy-bet-winning-hand-world-burns-more-oil-gas-than-ever",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/donald-trump-american-flag.jpg",
-        "publishedAt": "2026-07-12T10:00:42Z",
-        "content": "The world consumed more energy than ever before in 2025, with fossil fuels still supplying the vast majority of global energy despite record growth in renewable power, according to a new report.\r\nThe\u2026 [+4014 chars]"
-    },
-    {
-        "source": {
-            "id": "msnbc",
-            "name": "MS Now"
-        },
-        "author": "Emma Freer",
-        "title": "Big Medicine threatens your wallet and your health. But there is a solution. - MS NOW",
-        "description": "The Break Up Big Medicine Act has bipartisan support, and builds on new laws restricting pharmacy benefit managers.",
-        "url": "https://www.ms.now/news/big-medicine-pbms-health-care-warren-hawley",
-        "urlToImage": "https://www.ms.now/wp-content/uploads/2026/07/260709-cvs-pharmacy-medicine-drugs-drugstore-big-medicine-pbm-big-pharma-pill-bottles-es.webp?crop=0px,53px,1600px,840px&w=1200&h=630",
-        "publishedAt": "2026-07-12T10:00:00Z",
-        "content": "When Congress passed a spending package earlier this year, few industries were more disappointed than pharmacy benefit managers. PBMs are middlemen who liaise between insurers, drug manufacturers and\u2026 [+5993 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Minneapolis Star Tribune"
-        },
-        "author": "Jeff Day",
-        "title": "Minnesota social media stars\u2019 legal fight with local homebuilder goes viral - Star Tribune",
-        "description": "Millions follow Dillon and Suzanne White for their stories on parenting. Their battle with a local building company has become part of the narrative.",
-        "url": "https://www.startribune.com/minnesota-social-media-stars-legal-fight-with-local-homebuilder-goes-viral/601859266",
-        "urlToImage": "https://arc.stimg.co/startribunemedia/RJCQ4TNVE5FP7F2NFS4B74UPLI.JPG?&w=1200&ar=1.91:1&fit=crop",
-        "publishedAt": "2026-07-12T10:00:00Z",
-        "content": "The company that built a $1.2 million home for Dillon and Suzanne White wants them to be quiet about it.\r\nThe Whites are former speech and debate coaches at Woodbury High School and natural storytell\u2026 [+1484 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Tim Paradis",
-        "title": "Welcome to the era of the forever layoff - Business Insider",
-        "description": "Tech layoffs are becoming a recurring feature of the AI era as companies repeatedly reshape their workforces while investing in the tech.",
-        "url": "https://www.businessinsider.com/why-tech-companies-keep-doing-layoffs-ai-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a513336daf4d560957bf1c4?width=1200&format=jpeg",
-        "publishedAt": "2026-07-12T09:47:00Z",
-        "content": "Microsoft's latest round of layoffs has become a familiar corporate ritual.\r\nLast week, the software giant said it would eliminate about 4,800 jobs, marking another workforce reduction, as it remains\u2026 [+6021 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Daniel de Vise\u0301",
-        "title": "Americans fear this retirement setback more than death - USA Today",
-        "description": "Americans have several retirement fears. The big ones are mostly about money.",
-        "url": "https://www.usatoday.com/story/money/personalfinance/2026/07/12/retirement-fears-outliving-savings-death/90873636007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/01/USAT/89897884007-retirement-2.JPG?crop=5418,3048,x0,y564&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-07-12T09:03:00Z",
-        "content": "Americans are less concerned about dying and more perturbed by the financial implications of remaining alive.\r\nThats\u00a0one finding from\u00a0an\u00a0annual survey\u00a0by the Allianz Center for the Future of Retireme\u2026 [+5953 chars]"
+        "author": "Davis Giangiulio",
+        "title": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures - CNBC",
+        "description": "The platform is designed to alleviate problems the company's most active traders have run into, according to a memo provided to CNBC.",
+        "url": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108295412-17768709752026-04-22t150947z_256676586_rc2fukatooin_rtrmadp_0_kalshi-results.jpeg?v=1783882040&w=1920&h=1080",
+        "publishedAt": "2026-07-13T11:36:00Z",
+        "content": "Prediction market platform Kalshi is launching a product for its highly active traders on Monday, the company told CNBC.\r\nKalshi Pro, now available to the public, is designed for speculators who trad\u2026 [+1679 chars]"
     },
     {
         "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
-        "author": null,
-        "title": "Volkswagen CEO looks to avoid plant closures as automaker moves to cut costs - AP News",
-        "description": "Volkswagen\u2019s CEO has indicated that he\u2019s trying to avoid closing plants as he seeks to turn around the automaker\u2019s performance. The Wolfsburg, Germany-based company faces pressure to cut costs at home and increasingly intense competition in the lucrative Chin\u2026",
-        "url": "https://apnews.com/article/germany-volkswagen-plants-blume-5fe906aacf3d47f5720e3f540e985571",
-        "urlToImage": "https://dims.apnews.com/dims4/default/0d5aefb/2147483647/strip/true/crop/4667x3110+76+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd0%2F39%2Fc4fb4e5fa3d88062e66ef899a7a8%2Fca7e39475c2e4f918b2959567cc5c7b9",
-        "publishedAt": "2026-07-12T08:07:00Z",
-        "content": "BERLIN (AP) Volkswagens CEO indicated in comments published Sunday that hes trying to avoid closing plants as he seeks to turn around the automakers performance.\r\nThe Wolfsburg, Germany-based company\u2026 [+952 chars]"
+        "author": "Christopher Rugaber",
+        "title": "Massive AI buildout poses latest inflation threat as consumers pay more for laptops and electricity - AP News",
+        "description": "American consumers \u2014 and the Federal Reserve \u2014 are being hit with another high-cost headache. The gusher of investment in data centers \u2014 likely topping $700 billion this year \u2014 to power artificial intelligence has made memory chips, computer processors, and o\u2026",
+        "url": "https://apnews.com/article/ai-inflation-federal-reserve-434f02e62a02f9b92e57995d9375df57",
+        "urlToImage": "https://dims.apnews.com/dims4/default/cfae71b/2147483647/strip/true/crop/3657x2437+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1c%2F62%2F6478db5a29a2e2389f40d106c34e%2F53412e7a108a463fb005a1b5e0229ccd",
+        "publishedAt": "2026-07-13T11:28:00Z",
+        "content": "WASHINGTON (AP) American consumers and the Federal Reserve are being hit with another high-cost headache. \r\nThe gusher of investment in data centers likely topping $700 billion this year to power art\u2026 [+6253 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TheStreet"
+        },
+        "author": "thestreet.com",
+        "title": "Bessent\u2019s Treasury has troubling news for every taxpayer - thestreet.com",
+        "description": null,
+        "url": "https://www.thestreet.com/taxes/bessents-treasury-has-troubling-news-for-every-taxpayer",
+        "urlToImage": null,
+        "publishedAt": "2026-07-13T11:17:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SFGate"
+        },
+        "author": "Susana Guerrero",
+        "title": "Driscoll's strawberries hit with back-to-back accusations of pesticides and PFAS - SFGATE",
+        "description": "California-based berry company Driscoll's has been hit by back-to-back lawsuits alleging toxic chemicals have been found in its strawberries.",
+        "url": "https://www.sfgate.com/centralcoast/article/ca-driscolls-strawberry-lawsuit-22339734.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/66/63/41/31144035/3/rawImage.jpg",
+        "publishedAt": "2026-07-13T11:02:01Z",
+        "content": "File: A lawsuit filed against Driscolls alleges that the berry company failed to disclose forever chemicals in strawberries.\u00a0Driscolls strawberries are shown here on Sept. 3, 2014.\r\n Mike Mozart via \u2026 [+5546 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Eleanor Pringle",
+        "title": "Oil prices march upward again as the U.S-Iran conflict intensifies\u2014and it\u2019s yet another headache for Warsh and the Fed - Fortune",
+        "description": "Escalating tensions between the U.S. and Iran have knock-on effects for inflation expectations and the trajectory of the base rate, notes Goldman Sachs.",
+        "url": "https://fortune.com/2026/07/13/oil-price-rises-inflation-expectations-warsh-fed-goldman/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2277691365-e1783938652339.jpg?resize=1200,600",
+        "publishedAt": "2026-07-13T10:44:00Z",
+        "content": "Wall Street is looking nervously at the Middle East this week, after the conflict between the U.S. and Iran escalated over the weekend. At the time of writing, Brent crude is back up to $78 a barrel,\u2026 [+3343 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Matthew Burgess, Masaki Kondo",
+        "title": "Treasury Two-Year Yields Rise to Highest Since 2025 as Oil Jumps - Bloomberg.com",
+        "description": "Treasury two-year yields climbed to their highest level since early 2025 as renewed tensions in Iran pushed up oil prices, fanning speculation that the Federal Reserve will need to raise interest rates to combat inflation.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-13/treasury-two-year-yield-rises-to-highest-since-2025-on-oil-gain",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF1rZgT06SF0/v0/1200x800.jpg",
+        "publishedAt": "2026-07-13T09:58:37Z",
+        "content": "Treasury two-year yields climbed to their highest level since early 2025 as renewed tensions in Iran pushed up oil prices, fanning speculation that the Federal Reserve will need to raise interest rat\u2026 [+371 chars]"
     },
     {
         "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Katherine Tangalakis-Lippert",
-        "title": "I couldn't make my restaurant's numbers work. So I took prices off the menu. - Business Insider",
-        "description": "Dylan Alverson, owner of Post Modern Times, transformed his Minneapolis restaurant into a pay-what-you-can model, making more money than before.",
-        "url": "https://www.businessinsider.com/minneapolis-cafe-revived-by-pay-what-you-can-approach-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a4d68a85dc133dbf310dda0?width=1200&format=jpeg",
-        "publishedAt": "2026-07-12T08:01:14Z",
-        "content": "This as-told-to essay is based on a conversation with Dylan Alverson, 45, who owns Post Modern Times, a pay-what-you-can restaurant in Minneapolis. It has been edited for length and clarity.\r\nI start\u2026 [+4487 chars]"
+        "author": "Kathleen Elkins",
+        "title": "2 brothers started a junk-removal side hustle as teens with a $4,000 truck. Last year, they brought in about $3 million. - Business Insider",
+        "description": "In 2021, the McKinney brothers pooled their savings to buy a $4,000 Ford F-150. It became the start of their junk-removal business, Junk Teens.",
+        "url": "https://www.businessinsider.com/seven-figure-business-junk-removal-side-hustles-entrepreneurship-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a5131ddd9d92978fe6a5b27?width=1200&format=jpeg",
+        "publishedAt": "2026-07-13T09:35:17Z",
+        "content": "Kirk McKinney was riding bikes near his Massachusetts home about six years ago when he came across a goldmine: A dump filled with plenty of junk, sure, but also speakers and electronics.\r\n\"Someone ha\u2026 [+6592 chars]"
     }
 ]
