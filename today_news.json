@@ -1,107 +1,159 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Brian Sozzi",
-        "title": "Earnings season is about to kick off \u2014 2 charts reveal how it may go - Yahoo Finance",
-        "description": "Wall Street is expecting a tranquil earnings season.",
-        "url": "https://finance.yahoo.com/markets/article/earnings-season-is-about-to-kick-off--2-charts-reveal-how-it-may-go-135222405.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/4E419D8557F9C9AFB252BE10CA9C65613FAB91C65544769010147C5AF8DB5E48/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F0833340e-b0c8-4caa-8aa5-18cce1003194",
-        "publishedAt": "2026-07-13T13:52:22Z",
-        "content": "Wall Street is expecting a tranquil earnings season.\r\nFirst, negative earnings preannouncements are well below the typical level. Second, earnings estimates have been on a steady upward climb, accord\u2026 [+2206 chars]"
+        "author": "Stan Choe",
+        "title": "US stocks hold steadier after inflation data, even as IBM plunges - AP News",
+        "description": "Stocks are holding steadier after a report showed U.S. inflation is getting less bad. Tuesday's gains came even though oil prices continue to jump on worries that the United States and Iran may return to all-out war. The S&P 500 rose 0.4%, the Dow Jones Indus\u2026",
+        "url": "https://apnews.com/article/stocks-markets-oil-iran-trump-ai-6807d21c72974fbac48356f83eeebbce",
+        "urlToImage": "https://dims.apnews.com/dims4/default/0386868/2147483647/strip/true/crop/4910x3272+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2F4b%2Fa934220d60990e7805e99cfa6743%2Ffb839f5284984c4dba1b9fe93790431b",
+        "publishedAt": "2026-07-14T18:01:00Z",
+        "content": "NEW YORK (AP) Stocks are holding steadier Tuesday after a report showed U.S. inflation was not as bad last month as economists expected. That was even though oil prices continue to jump on worries th\u2026 [+5177 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Barron's"
+            "name": "CNBC"
         },
-        "author": "Adam Clark",
-        "title": "The $536 Billion Chip War Threatening Micron Stock - Barron's",
-        "description": "Micron stock was following SK Hynix downward as investors looked to be nervy about the prospects for continued gains for memory companies.",
-        "url": "https://www.barrons.com/articles/micron-stock-price-memory-chips-f343ffbb",
-        "urlToImage": "https://images.barrons.com/im-02982466/social",
-        "publishedAt": "2026-07-13T13:42:00Z",
-        "content": "Micron Technologystock was falling early Monday. The memory-chip company looked to be hit by worries that increased investment in production by rivals would eventually drag down prices for its hardwa\u2026 [+102 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": "Dominic Patten",
-        "title": "Paramount-WBD Merger Is Competition Killer, State Attorneys General Allege In Proposed Blockbuster Antitrust Action - Deadline",
-        "description": "The long wait for California & NY officials to file their widely anticipated antitrust action over the $110B Paramount WBD merger could be over",
-        "url": "http://deadline.com/2026/07/paramount-antitrust-lawsuit-wbd-state-attorney-generals-1236978956/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2026/07/Paramount-and-Warner-Bros.-Water-Towers.jpg?w=1024",
-        "publishedAt": "2026-07-13T13:30:00Z",
-        "content": "From Sacramento to Albany and several state capitals in between, regional attorneys general are steeled to stop Paramount Skydance\u2019s $110 billion merger with Warner Bros Discovery in an antitrust law\u2026 [+9368 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Nauman Khan",
-        "title": "Micron New Investment Could Be an Early Warning for the AI Industry - Yahoo Finance",
-        "description": "Top Wall Street Firm Flags a New Risk for the AI Chip Boom",
-        "url": "https://finance.yahoo.com/technology/ai/articles/micron-investment-could-early-warning-132534470.html",
-        "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-        "publishedAt": "2026-07-13T13:25:34Z",
-        "content": "This article first appeared on GuruFocus.\r\nMicron Technology (NASDAQ:MU) has taken an equity stake in Taiwan-based GlobalWafers to support construction of the company's wafer manufacturing facility i\u2026 [+1070 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Aimee  Picchi",
-        "title": "Millions of Americans take on debt and drain savings to afford food - CBS News",
-        "description": "A quarter of working-age adults use credit cards to purchase groceries but struggle to repay their debts, a new study finds.",
-        "url": "https://www.cbsnews.com/news/americans-credit-card-debt-buy-groceries/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/19/3ca52f17-b1e3-4a21-947b-dee06b221069/thumbnail/1200x630/9ae311e1dbcbe2d2dab0e4fcdae047e8/gettyimages-2213316979.jpg",
-        "publishedAt": "2026-07-13T13:17:05Z",
-        "content": "Millions of Americans are borrowing money or draining their savings to buy groceries, highlighting the financial strain many households face as the cost of living rises, new research has found.\u00a0\r\nMor\u2026 [+4074 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Dean Seal",
-        "title": "Meta Lifts Cost of Louisiana Data Center to $50 Billion - WSJ",
-        "description": "Private-credit manager Blue Owl Capital owns a major stake in the project",
-        "url": "https://www.wsj.com/tech/meta-lifts-cost-of-louisiana-data-center-to-50-billion-02b2eb25",
-        "urlToImage": "https://images.wsj.net/im-50549965/social",
-        "publishedAt": "2026-07-13T12:57:00Z",
-        "content": "Meta PlatformsMETA-0.86%decrease; down pointing triangle\r\nhas scaled up the size of its massive data-center project in Northeast Louisiana to 5 gigawatts of compute capacity and said it would now cos\u2026 [+400 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Mark Gurman",
-        "title": "How Apple\u2019s Lawsuit Threatens to Disrupt OpenAI\u2019s Bid to Rival the iPhone - Bloomberg.com",
-        "description": "Apple Inc.\u2019s lawsuit accusing OpenAI of systematically stealing its intellectual property threatens to disrupt the AI company\u2019s device ambitions long before the case is resolved.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-13/how-apple-s-lawsuit-threatens-to-disrupt-openai-s-bid-to-rival-the-iphone",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSTpaL3NKZMg/v0/1200x800.jpg",
-        "publishedAt": "2026-07-13T12:32:47Z",
-        "content": "Apple Inc.s lawsuit accusing OpenAI of systematically stealing its intellectual property threatens to disrupt the AI companys device ambitions long before the case is resolved.\r\nIn the suit, filed la\u2026 [+314 chars]"
+        "author": "Lorie Konish",
+        "title": "Social Security cost-of-living adjustment estimate for 2027 falls as inflation cools - CNBC",
+        "description": "New estimates show Social Security's annual cost-of-living adjustment for 2027 may be between 3.7% and 3.8%. Here's what to know.",
+        "url": "https://www.cnbc.com/2026/07/14/social-security-cola-in-2027-cooling-inflation-lowers-estimate.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108334308-1783972878483-gettyimages-2285918159-anotherday239785975_d8derouq.jpeg?v=1783972935&w=1920&h=1080",
+        "publishedAt": "2026-07-14T16:50:20Z",
+        "content": "People shop for groceries at a Wegman's store in Brooklyn on July 13, 2026 in New York City. \r\nCooling inflation has also chilled some experts' expectations for the 2027 Social Security cost-of-livin\u2026 [+3079 chars]"
     },
     {
         "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Trisha Pasricha, MD",
-        "title": "Column | The surprising health benefits of eating spicy food - The Washington Post",
-        "description": "Like it hot? Your heart, gut \u2014 and even your lifespan \u2014 may benefit.",
-        "url": "https://www.washingtonpost.com/wellness/2026/07/13/is-spicy-food-good-you-here-what-science-says/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/AFJQAI7B2EHKMQE2HTO3ULXFPA.jpg&w=1440",
-        "publishedAt": "2026-07-13T12:26:24Z",
-        "content": "Ive heard spicy food can be good for you. Is that true?\r\nHeres great news for people who love to feel the burn: The purported benefits of spicy foods have a strong scientific basis."
+        "author": "Lena H. Sun",
+        "title": "Authorities investigate Taco Bell and lettuce as cyclosporiasis outbreak surges - The Washington Post",
+        "description": "Authorities have not yet identified a produce grower or supplier responsible for the outbreak that has hospitalized more than 80 people.",
+        "url": "https://www.washingtonpost.com/health/2026/07/14/authorities-investigate-taco-bell-lettuce-multistate-cyclosporiasis-outbreak/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ZUSOQN7R6B3XUBFGDUVQWL62FY.jpg&w=1440",
+        "publishedAt": "2026-07-14T16:39:44Z",
+        "content": "Federal and state health officials are investigating whether Taco Bell restaurants played a role in one of the largest U.S. outbreaks of a gastrointestinal illness caused by a parasite that contamina\u2026 [+79 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Daniel Howley",
+        "title": "IBM stock plummets more than 25% on Q2 earnings warning - Yahoo Finance",
+        "description": "IBM stock collapses 25% after the company preannounced its Q2 earnings results.",
+        "url": "https://finance.yahoo.com/news/ibm-stock-plummets-more-than-25-on-q2-earnings-warning-150605880.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/7F044DB013D73517950EE82A279ABE5E84399C476492B1CC7A239AE872EC23C0/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fecddc880-bc99-11ee-87d7-599f25cf520c_a7801d61129b82e7eca93245df6710ffe13e54883797c35b02cb4d7ad101613c.jpg",
+        "publishedAt": "2026-07-14T15:06:05Z",
+        "content": "IBM (IBM) stock collapsed more than 25% on Tuesday, its worst drop in decades, after the company preannounced earnings that fell well below Wall Street's expectations, as customers shifted spending a\u2026 [+1879 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WGN TV Chicago"
+        },
+        "author": "WGN-TV",
+        "title": "United Airlines is replacing some of its middle seats with this new amenity - WGN-TV",
+        "description": null,
+        "url": "https://wgntv.com/news/united-airlines-is-replacing-some-of-its-middle-seats-with-this-new-amenity/",
+        "urlToImage": null,
+        "publishedAt": "2026-07-14T14:49:32Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Eric Revell",
+        "title": "Fed Chair Kevin Warsh says central bank has 'no tolerance' for elevated inflation - Fox Business",
+        "description": "Fed Chair Kevin Warsh told lawmakers the central bank won't tolerate persistently elevated inflation and will take the steps needed to preserve price stability.",
+        "url": "https://www.foxbusiness.com/economy/fed-chair-kevin-warsh-says-central-bank-has-no-tolerance-elevated-inflation",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/kevin-warsh-confirmation-hearing-01.jpg?ve=1&tl=1",
+        "publishedAt": "2026-07-14T14:31:51Z",
+        "content": "Federal Reserve Chair\u00a0Kevin Warsh\r\n on Tuesday told House lawmakers that the central bank's policymakers have \"no tolerance for persistently elevated inflation\" in his first testimony as Fed chief.\r\n\u2026 [+4365 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Stock Market Today: Big Banks\u2019 Bumper Quarter Points to Strong U.S. Economy - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-07-14-2026",
+        "urlToImage": null,
+        "publishedAt": "2026-07-14T14:06:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Hayden Field",
+        "title": "Sam Altman didn\u2019t need another lawsuit - The Verge",
+        "description": "On Friday, OpenAI was hit with a high-profile lawsuit from Apple, over allegedly stealing trade secrets. OpenAI\u2019s expensive hardware bet is what\u2019s on the line.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-07-14T14:01:21Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nSam Altman didnt need another lawsuit\r\nAnd yet, Apples accusations around stealing trade secrets might take years to litigate.\r\nby\r\nHayden FieldClose\r\nPosts from\u2026 [+11343 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Lauran Neergaard",
+        "title": "An experimental Alzheimer's drug shows promise targeting a different brain protein, new study shows - AP News",
+        "description": "An experimental drug might help slow early Alzheimer's disease in a markedly different way than current treatments \u2014 by lowering the brain's production of a protein called tau. Today two Alzheimer's drugs can modestly slow cognitive decline by clearing away b\u2026",
+        "url": "https://apnews.com/article/alzheimers-drug-brain-protein-tau-diranersen-biogen-d58728ee8f7d9dfd9ec8de416cddd75d",
+        "urlToImage": "https://dims.apnews.com/dims4/default/02826c2/2147483647/strip/true/crop/566x377+0+4/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2e%2F96%2F2e90bac91d68db2e15f00c517e93%2Fe93c7d875ce2422899308375505b7a89",
+        "publishedAt": "2026-07-14T13:44:14Z",
+        "content": "WASHINGTON (AP) An experimental drug might help slow early Alzheimers disease in a markedly different way than todays treatments by lowering levels of a brain protein called tau, researchers reported\u2026 [+5704 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Trefis"
+        },
+        "author": "Trefis Team",
+        "title": "How Deep Can Oracle Stock Fall? - Trefis",
+        "description": "Its history in market shocks reveals a pattern of deep falls and long recoveries that every shareholder should understand. Oracle (ORCL) stock took a sharp 6.5% drop on July 13, 2026, a move that brings a critical question into focus for any shareholder.",
+        "url": "https://www.trefis.com/stock/orcl/articles/607048/how-deep-can-oracle-stock-fall/2026-07-14",
+        "urlToImage": null,
+        "publishedAt": "2026-07-14T13:09:31Z",
+        "content": "Its history in market shocks reveals a pattern of deep falls and long recoveries that every shareholder should understand.\r\nOracle (ORCL) stock took a sharp 6.5% drop on July 13, 2026, a move that br\u2026 [+8282 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": null,
+        "title": "CPI Shockingly Cool, Curbing Fed Rate-Hike Odds; Warsh Ahead (Live Coverage) - Investor's Business Daily",
+        "description": "Fed chief Kevin Warsh said he'll \"get monetary policy right.\"",
+        "url": "https://www.investors.com/news/cpi-inflation-june-federal-reserve-warsh-testimony-oil-prices-sp-500/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2018/10/stock-Federal_Reserve-10-adobe.jpg",
+        "publishedAt": "2026-07-14T13:09:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Leslie Josephs",
+        "title": "Frontier Airlines to debut in-flight Wi-Fi in 2027 with SpaceX's Starlink - CNBC",
+        "description": "Frontier is signing with Starlink for in-flight Wi-Fi, with service debuting as early as next year.",
+        "url": "https://www.cnbc.com/2026/07/14/frontier-airlines-wifi-spacex-starlink.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108077723-1734546997432-gettyimages-2185023724-economou-notitle241112_npv8v.jpeg?v=1734547126&w=1920&h=1080",
+        "publishedAt": "2026-07-14T13:00:01Z",
+        "content": "Frontier Airlines and four other budget carriers with more than 1,000 planes between them will debut in-flight Wi-Fi early next year from SpaceX's Starlink, another win for the satellite internet pro\u2026 [+1529 chars]"
     },
     {
         "source": {
@@ -109,115 +161,63 @@
             "name": "Barron's"
         },
         "author": "Adam Clark",
-        "title": "SK Hynix Stock Drops as AI Fears Resurface - Barron's",
-        "description": "SK Hynix dropped as investors looked to be taking some profit after a 500% gain in the past 12 months and a blockbuster U.S. listing.",
-        "url": "https://www.barrons.com/articles/sk-hynix-stock-price-fall-5ab9a632",
-        "urlToImage": "https://images.barrons.com/im-456658/social",
-        "publishedAt": "2026-07-13T12:14:00Z",
-        "content": "SK Hynixshares dived on Monday with the sustainability of artificial-intelligence spending back in focus. That was putting pressure on the memory-chip makers first day of trading in the U.S. under it\u2026 [+155 chars]"
+        "title": "SK Hynix Stock Jumps as U.S. Gains Kick In for Memory-Chip Maker - Barron's",
+        "description": "SK Hynix stock was surging and its American depositary receipts are outpacing its South Korean shares. Micron stock was also rising.",
+        "url": "https://www.barrons.com/articles/sk-hynix-stock-price-memory-chips-96a3da25",
+        "urlToImage": "https://images.barrons.com/im-60593/social",
+        "publishedAt": "2026-07-14T12:12:00Z",
+        "content": "SK Hynixstock was gaining early Tuesday. The memory-chip company looks to be reaping the benefits of its recent U.S. listing as its American depositary receipts outpaced its South Korean shares.\r\nCop\u2026 [+94 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Yahoo Entertainment"
         },
-        "author": "Hugh Son",
-        "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility - CNBC",
-        "description": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
-        "url": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107344017-1701880715793-gettyimages-1835359958-wm_10780_jnkb6fjk.jpeg?v=1704725989&w=1920&h=1080",
-        "publishedAt": "2026-07-13T12:00:40Z",
-        "content": "(L-R) Brian Moynihan, Chairman and CEO of Bank of America; Jamie Dimon, Chairman and CEO of JPMorgan Chase; and Jane Fraser, CEO of Citigroup; testify during a Senate Banking Committee hearing at the\u2026 [+5459 chars]"
+        "author": "David Hollerith",
+        "title": "JPMorgan notches the highest quarterly profit in US banking history - Yahoo Finance",
+        "description": "The nation's biggest bank announced another bang-up quarter.",
+        "url": "https://finance.yahoo.com/markets/article/jpmorgan-notches-record-quarter-as-ceo-jamie-dimon-calls-the-banking-environment-close-to-as-good-as-it-gets-110031854.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/2D2B56DB13FF0DF66375C40FB934BD60F888E192484214A36AC184A6920BE747/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F9b05e5b3-f3c0-4f68-be49-b849ce6afb6f",
+        "publishedAt": "2026-07-14T12:11:32Z",
+        "content": "The country's largest bank just raked in more quarterly profit than any US bank ever.\r\nJPMorgan Chase (JPM) said profits jumped 41% to $21.2 billion in its second quarter, or $7.70 per share, far exc\u2026 [+3374 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Substack.com"
         },
-        "author": "Davis Giangiulio",
-        "title": "Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures - CNBC",
-        "description": "The platform is designed to alleviate problems the company's most active traders have run into, according to a memo provided to CNBC.",
-        "url": "https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108295412-17768709752026-04-22t150947z_256676586_rc2fukatooin_rtrmadp_0_kalshi-results.jpeg?v=1783882040&w=1920&h=1080",
-        "publishedAt": "2026-07-13T11:36:00Z",
-        "content": "Prediction market platform Kalshi is launching a product for its highly active traders on Monday, the company told CNBC.\r\nKalshi Pro, now available to the public, is designed for speculators who trad\u2026 [+1679 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Christopher Rugaber",
-        "title": "Massive AI buildout poses latest inflation threat as consumers pay more for laptops and electricity - AP News",
-        "description": "American consumers \u2014 and the Federal Reserve \u2014 are being hit with another high-cost headache. The gusher of investment in data centers \u2014 likely topping $700 billion this year \u2014 to power artificial intelligence has made memory chips, computer processors, and o\u2026",
-        "url": "https://apnews.com/article/ai-inflation-federal-reserve-434f02e62a02f9b92e57995d9375df57",
-        "urlToImage": "https://dims.apnews.com/dims4/default/cfae71b/2147483647/strip/true/crop/3657x2437+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1c%2F62%2F6478db5a29a2e2389f40d106c34e%2F53412e7a108a463fb005a1b5e0229ccd",
-        "publishedAt": "2026-07-13T11:28:00Z",
-        "content": "WASHINGTON (AP) American consumers and the Federal Reserve are being hit with another high-cost headache. \r\nThe gusher of investment in data centers likely topping $700 billion this year to power art\u2026 [+6253 chars]"
+        "author": "Paul Krugman",
+        "title": "Suddenly, Hormuz is Less Crucial Than It Was - Paul Krugman | Substack",
+        "description": "Why? Because the real energy crunch is coming from the Russia/Ukraine war",
+        "url": "https://paulkrugman.substack.com/p/suddenly-hormuz-is-less-crucial-than",
+        "urlToImage": "https://substackcdn.com/image/fetch/$s_!AaoH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F799aba85-563f-479f-aefc-341c0bf3d9e6_1360x765.jpeg",
+        "publishedAt": "2026-07-14T10:30:10Z",
+        "content": "Is Russia burning?\r\nAre we back at war with Iran? Did the war ever stop? The US is, once again, bombing Iran while Iranian drones strike shipping. Iran, giddy with its success in defying America, is \u2026 [+5813 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "TheStreet"
+            "name": "NPR"
         },
-        "author": "thestreet.com",
-        "title": "Bessent\u2019s Treasury has troubling news for every taxpayer - thestreet.com",
-        "description": null,
-        "url": "https://www.thestreet.com/taxes/bessents-treasury-has-troubling-news-for-every-taxpayer",
-        "urlToImage": null,
-        "publishedAt": "2026-07-13T11:17:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SFGate"
-        },
-        "author": "Susana Guerrero",
-        "title": "Driscoll's strawberries hit with back-to-back accusations of pesticides and PFAS - SFGATE",
-        "description": "California-based berry company Driscoll's has been hit by back-to-back lawsuits alleging toxic chemicals have been found in its strawberries.",
-        "url": "https://www.sfgate.com/centralcoast/article/ca-driscolls-strawberry-lawsuit-22339734.php",
-        "urlToImage": "https://s.hdnux.com/photos/01/66/63/41/31144035/3/rawImage.jpg",
-        "publishedAt": "2026-07-13T11:02:01Z",
-        "content": "File: A lawsuit filed against Driscolls alleges that the berry company failed to disclose forever chemicals in strawberries.\u00a0Driscolls strawberries are shown here on Sept. 3, 2014.\r\n Mike Mozart via \u2026 [+5546 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Eleanor Pringle",
-        "title": "Oil prices march upward again as the U.S-Iran conflict intensifies\u2014and it\u2019s yet another headache for Warsh and the Fed - Fortune",
-        "description": "Escalating tensions between the U.S. and Iran have knock-on effects for inflation expectations and the trajectory of the base rate, notes Goldman Sachs.",
-        "url": "https://fortune.com/2026/07/13/oil-price-rises-inflation-expectations-warsh-fed-goldman/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2277691365-e1783938652339.jpg?resize=1200,600",
-        "publishedAt": "2026-07-13T10:44:00Z",
-        "content": "Wall Street is looking nervously at the Middle East this week, after the conflict between the U.S. and Iran escalated over the weekend. At the time of writing, Brent crude is back up to $78 a barrel,\u2026 [+3343 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Matthew Burgess, Masaki Kondo",
-        "title": "Treasury Two-Year Yields Rise to Highest Since 2025 as Oil Jumps - Bloomberg.com",
-        "description": "Treasury two-year yields climbed to their highest level since early 2025 as renewed tensions in Iran pushed up oil prices, fanning speculation that the Federal Reserve will need to raise interest rates to combat inflation.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-13/treasury-two-year-yield-rises-to-highest-since-2025-on-oil-gain",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF1rZgT06SF0/v0/1200x800.jpg",
-        "publishedAt": "2026-07-13T09:58:37Z",
-        "content": "Treasury two-year yields climbed to their highest level since early 2025 as renewed tensions in Iran pushed up oil prices, fanning speculation that the Federal Reserve will need to raise interest rat\u2026 [+371 chars]"
+        "author": "Greg Rosalsky",
+        "title": "'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI : Planet Money - NPR",
+        "description": "AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise \u2014 but also risks crowding out the human relationships children need most.",
+        "url": "https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/956x538+2+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2F8a%2F19dca0bf49258aac6fc539b681c9%2F3ajksmskews9-9jtc8abkghqxlcnqwk6omyw8uugql1e4ibvkxuk7bf8efgh6-vutorshqytg6a550th2roz6lb0lljgscfz-2xdptgdu8cpusce9hp2krt3d5ylpnche0kl7y-ijz2z1wavyamtakoew-onlgykooh7r5motshjdlvirqpbolea0qq2yynm.jpeg",
+        "publishedAt": "2026-07-14T10:30:00Z",
+        "content": "Back in 2001, Steven Spielberg released an underrated scifi movie named A.I. Artificial Intelligence (yes, the title is a bit redundant). The movie, which loosely borrows from Pinocchio, tells the st\u2026 [+11198 chars]"
     },
     {
         "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Kathleen Elkins",
-        "title": "2 brothers started a junk-removal side hustle as teens with a $4,000 truck. Last year, they brought in about $3 million. - Business Insider",
-        "description": "In 2021, the McKinney brothers pooled their savings to buy a $4,000 Ford F-150. It became the start of their junk-removal business, Junk Teens.",
-        "url": "https://www.businessinsider.com/seven-figure-business-junk-removal-side-hustles-entrepreneurship-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a5131ddd9d92978fe6a5b27?width=1200&format=jpeg",
-        "publishedAt": "2026-07-13T09:35:17Z",
-        "content": "Kirk McKinney was riding bikes near his Massachusetts home about six years ago when he came across a goldmine: A dump filled with plenty of junk, sure, but also speakers and electronics.\r\n\"Someone ha\u2026 [+6592 chars]"
+        "author": "Polly Thompson",
+        "title": "Michael Dell has nailed his relationship with Donald Trump, and it's paying off - Business Insider",
+        "description": "Michael Dell has developed one of the more visible and steady corporate relationships of President Donald Trump's second term in the White House.",
+        "url": "https://www.businessinsider.com/michael-dell-donald-trump-relationship-business-politics-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a4d1c9b5dc133dbf310da12?width=1200&format=jpeg",
+        "publishedAt": "2026-07-14T09:32:11Z",
+        "content": "It's a good year to be Michael Dell.\r\nHis net worth is up over $80 billion. His company's shares have risen 240% as it rides a wave of AI-driven growth. And, critically, Dell, 61, has found favor wit\u2026 [+7839 chars]"
     }
 ]
