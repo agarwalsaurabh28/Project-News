@@ -1,224 +1,16 @@
 [
     {
         "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Gabe Hauari",
-        "title": "Celebrate National Ice Cream Day with these sweet freebies, deals - USA Today",
-        "description": "National Ice Cream Day falls on Sunday, July 19 this year. Here's where you can scoop up deals and freebies on the day.",
-        "url": "https://www.usatoday.com/story/money/food/2026/07/18/national-ice-cream-day-2026-deals-freebies/90955230007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/17/USAT/90957282007-usatsi-26945403.jpg?crop=6228,3504,x0,y324&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-07-18T11:02:00Z",
-        "content": "National Ice Cream Day is Sunday, July 19, this year and according to one source, vanilla is the undisputed top flavor in America yet again.\r\nData from Instacart published July 8 shows that vanilla r\u2026 [+4573 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Seeking Alpha"
-        },
-        "author": "Clark Schultz",
-        "title": "Big box breakout: Costco debuts gas pumps as a standalone concept (COST:NASDAQ) - Seeking Alpha",
-        "description": "Costco (COST) opens its first standalone, members-only gas station in California\u2014testing a new model in pricey markets.",
-        "url": "https://seekingalpha.com/news/4614849-big-box-breakout-costco-debuts-gas-pumps-as-a-standalone-concept",
-        "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2210820549/image_2210820549.jpg?io=getty-c-w630",
-        "publishedAt": "2026-07-18T11:00:55Z",
-        "content": "Marvin Samuel Tolentino Pineda\r\nCostco Wholesale (COST) broke away from its familiar warehouse-and-gas combo model this summer after it opened the first standalone, fuel-only retail location in the c\u2026 [+128 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Theron Mohamed",
-        "title": "Warren Buffett warned investors to be careful, calling out gambling in markets and the cost of AI - Business Insider",
-        "description": "Warren Buffett called out widespread gambling on stocks and the huge amounts being spent on AI. He also discussed his Alphabet wager.",
-        "url": "https://www.businessinsider.com/warren-buffett-warning-interview-berkshire-ai-spending-alphabet-stock-portfolio-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a5a30bf548c9c486b30d37f?width=1200&format=jpeg",
-        "publishedAt": "2026-07-18T09:15:02Z",
-        "content": "Warren Buffett is worried.\r\nThe legendary investor called out reckless speculation in markets and the massive cost of the AI buildout during a\u00a0rare interview\u00a0with CNBC on Wednesday.\r\n\"It's tough to f\u2026 [+3656 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Daniel de Vise\u0301",
-        "title": "Here's the latest retirement 'magic number.' Can you reach it? - USA Today",
-        "description": "American workers think they'll need more than $1 million to retire in comfort, but it\u2019s a goal most of them don\u2019t expect to meet.",
-        "url": "https://www.usatoday.com/story/money/personalfinance/2026/07/18/retirement-magic-number-savings-goal/90942888007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/16/USAT/90947177007-retirement-6.JPG?crop=4714,2652,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-07-18T09:02:00Z",
-        "content": "A new survey reaffirms an old paradox in retirement planning:\u00a0American workers think they\u00a0will\u00a0need more than $1 million in savings to retire in comfort, but\u00a0its a goal most of them dont expect to me\u2026 [+4447 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Tech Xplore"
-        },
-        "author": null,
-        "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT - Tech Xplore",
-        "description": "Another powerful new artificial intelligence model from China took the U.S. tech industry by surprise Friday, the latest sign that Chinese startups that publicly release their \"open-source\" AI technology are making the California titans of AI sweat.",
-        "url": "https://techxplore.com/news/2026-07-chinese-ai-tech-industry-abilities.html",
-        "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/chinese-ai-model-takes.jpg",
-        "publishedAt": "2026-07-18T08:06:24Z",
-        "content": "Another powerful new artificial intelligence model from China took the U.S. tech industry by surprise Friday, the latest sign that Chinese startups that publicly release their \"open-source\" AI techno\u2026 [+5369 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Shawn Tully",
-        "title": "SpaceX stock falls back to earth shortly after Wall Street analysts release florid targets: 'Paving the superhighway to the stars' - Fortune",
-        "description": "A wave of wildly bullish price targets from Wall Street's SpaceX underwriters arrived just before the stock fell\u2014raising questions about how much analysts really know.",
-        "url": "https://fortune.com/2026/07/18/wall-street-analysts-spacex-outlook-stock-predictions/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2280569342.jpg?resize=1200,600",
-        "publishedAt": "2026-07-18T08:00:00Z",
-        "content": "SpaceX stock just handed Wall Street a lesson in bad timing. Days after analysts at more than a dozen banks rolled out price targets that were almost uniformly bullish, the shares tumbled below their\u2026 [+6528 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Fox Business"
         },
-        "author": "Michael Sinkewicz",
-        "title": "Popular garlic powder recalled nationwide over bacterial contamination concerns - Fox Business",
-        "description": "Heavenly Spices garlic powder sold at Dollarama stores across Canada is recalled over Bacillus cereus contamination, prompting a Class 2 warning.",
-        "url": "https://www.foxbusiness.com/lifestyle/popular-garlic-powder-recalled-bacterial-contamination-concerns",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/dollarama-garlic-powder-recall.jpg?ve=1&tl=1",
-        "publishedAt": "2026-07-18T07:01:00Z",
-        "content": "A popular garlic powder sold at Dollarama stores across Canada is being recalled due to potential microbial contamination, health officials announced this week.\r\nThe Canadian Food Inspection Agency (\u2026 [+2460 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Lena H. Sun, Miriam Waldvogel",
-        "title": "Taylor Farms to launch recall after iceberg lettuce is tied to outbreak - The Washington Post",
-        "description": "The company had earlier announced it was removing some lettuce from the U.S. market but must now notify customers and work to recover affected products amid the cyclosporiasis outbreak.",
-        "url": "https://www.washingtonpost.com/health/2026/07/17/taylor-farms-pulls-all-iceberg-lettuce-sourced-central-mexico-us-market/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HZRGMIEUI2EY2MD2CBW3MU34XQ.jpg&w=1440",
-        "publishedAt": "2026-07-18T04:53:00Z",
-        "content": "Hours after Taylor Farms announced Friday that it was voluntarily removing iceberg lettuce sourced from central Mexico from the U.S. market, the Food and Drug Administration said the company informed\u2026 [+48 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Sasha Jovanovic",
-        "title": "SpaceX (SPCX) Is Down 14.7% After Starship Abort and Rising Scrutiny of Its Lofty Valuation - Yahoo Finance",
-        "description": "In mid-July 2026, SpaceX\u2019s highly anticipated 13th Starship test flight was automatically aborted seconds before liftoff due to multiple Raptor engines faili...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-down-14-7-041842663.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/B54D7A012A8520CF7B0E6243382C3141ADA4F0AE11B6132DF7925FAB48C3995A/subgraphmysterio/resizefill_w1200_h434;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fc2812f0390355efb37808cf9f9c522ed",
-        "publishedAt": "2026-07-18T04:18:00Z",
-        "content": "<ul><li>In mid-July 2026, SpaceX's highly anticipated 13th Starship test flight was automatically aborted seconds before liftoff due to multiple Raptor engines failing to ignite, intensifying scrutin\u2026 [+4025 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Sarah Rumpf-Whitten",
-        "title": "Costco adds hot fan favorite to food court menu as shoppers debate taste and value - Fox Business",
-        "description": "Costco is expanding its famously affordable food court menu with a new $6.99 chicken strip meal and the addition has already divided shoppers over its flavor, breading and value.",
-        "url": "https://www.foxbusiness.com/lifestyle/costco-adds-hot-fan-favorite-food-court-menu-shoppers-debate-taste-value",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/costco-chicked-sign-.jpg?ve=1&tl=1",
-        "publishedAt": "2026-07-17T22:28:00Z",
-        "content": "Costco shoppers have a new reason to linger after loading their carts with bulk paper towels and oversized snack packs: The retailer has added chicken strips to its famously affordable food court men\u2026 [+2352 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Hilary Brueck",
-        "title": "Still avoiding salads because of the cyclospora outbreak? Experts say you may need to wait a bit. - Business Insider",
-        "description": "Iceberg lettuce from Mexico was identified as one source of the cyclosporiasis outbreak. So, is it safe to eat lettuce yet?",
-        "url": "https://www.businessinsider.com/when-salad-greens-safe-to-eat-cyclospora-experts-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a5aa366ce52cb26b8390f21?width=1200&format=jpeg",
-        "publishedAt": "2026-07-17T22:03:00Z",
-        "content": "Is it safe to eat salad yet? On Friday, California-based salad juggernaut Taylor Farms announced it is \"voluntarily\" removing all of the iceberg lettuce it sources from central Mexico for the US mark\u2026 [+4359 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Federal News Network"
-        },
-        "author": "Justin Doubleday",
-        "title": "DoD plans CMMC listening sessions as questions swirl around review - Federal News Network",
-        "description": "The CMMC review could lead to \"everything from an overhaul, to small tweaks here and there,\u201d DoD CIO Kirsten Davies said after the review team's first meeting.",
-        "url": "https://federalnewsnetwork.com/defense-news/2026/07/dod-plans-cmmc-listening-sessions-as-questions-swirl-around-review/",
-        "urlToImage": "https://federalnewsnetwork.com/wp-content/uploads/2022/03/Copy-of-Untitled-6.png",
-        "publishedAt": "2026-07-17T21:52:18Z",
-        "content": "The Pentagon wants to move quickly with its review of the Cybersecurity Maturity Model Certification program, but plenty of questions swirl around what defense officials can do differently this time \u2026 [+10167 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Magic.gg"
-        },
-        "author": null,
-        "title": "Pro Tour Magic: The Gathering\u00ae | Marvel Super Heroes Day One Highlights - magic.gg",
-        "description": "With over 300 players vying for their spot in a historic Top 8 draft, the Pro Tour at MagicCon: Amsterdam began with an electric Day One.",
-        "url": "https://magic.gg/news/pro-tour-marvel-super-heroes-day-one-highlights",
-        "urlToImage": "https://images.ctfassets.net/ryplwhabvmmk/2QNFmlKvPCLkropoyPrtLc/8ad4b0d32246868941e35f5e16a71e41/PT-MSH-Day-One-960x540.jpg",
-        "publishedAt": "2026-07-17T21:25:10Z",
-        "content": "Play the game, meet the world. It's not just a phrase that harkens back to the earliest days of Magic's Pro Tour. It is also the feeling that Mason Buonadonna first felt when his team converged on a \u2026 [+11200 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Eric Revell",
-        "title": "Apple briefly overtakes Nvidia as world's most valuable company amid AI investment doubts - Fox Business",
-        "description": "Apple briefly overtook Nvidia as the world's most valuable company Friday before the AI chip giant reclaimed its $4.92 trillion market cap by closing bell.",
-        "url": "https://www.foxbusiness.com/markets/apple-briefly-overtakes-nvidia-worlds-most-valuable-company-amid-ai-investment-doubts",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/0/0/apple-store-new-iphone.jpg?ve=1&tl=1",
-        "publishedAt": "2026-07-17T20:50:00Z",
-        "content": "Apple briefly passed Nvidia to become the world's most valuable company on Friday as the tech titans jostled for the top spot as investors reconsider the outlook for investments in AI.\r\nApple's marke\u2026 [+3304 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Stock Market Today: Dow Drops 400 Points Amid Iran War News; Netflix Tumbles (Live Coverage) - Investor's Business Daily",
-        "description": "Stock Market Today: The Dow Jones index drops Friday as oil prices rise. Nasdaq dives as Netflix stock sinks on soft guidance.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-netflix-earnings-nflx-stock-spacex-stock/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/07/wSMTaction071726G.jpg",
-        "publishedAt": "2026-07-17T20:28:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Mackenzie Tatananni",
-        "title": "After an Epic Fall, IBM Faces a Long Road Back to Relevance - Barron's",
-        "description": "The blue chip\u2019s biggest wipeout on record will force the company to reinvent itself\u2014again.",
-        "url": "https://www.barrons.com/articles/ibm-stock-price-fall-sell-87657335",
-        "urlToImage": "https://images.barrons.com/im-37560701/social",
-        "publishedAt": "2026-07-17T20:27:00Z",
-        "content": "IBMhas been forced to reinvent itself many times in the past. After its biggest wipeout on record this past week, it will have to do so again.\r\nCopyright \u00a92026Dow Jones &amp; Company, Inc. All Rights\u2026 [+42 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Ken Sweet",
-        "title": "Citizens Bank to cut ties with CoreCivic and GEO after a fierce public pressure campaign - AP News",
-        "description": "Citizens Bank plans to end its financial relationship with two private prison companies, CoreCivic and The GEO Group. These companies have been government contractors under the Trump administration, running immigration detention centers. Citizens faced public\u2026",
-        "url": "https://apnews.com/article/citizens-bank-ice-immigration-3895b2e05c1221e69b79bdb17e116735",
-        "urlToImage": "https://dims.apnews.com/dims4/default/ce7ae49/2147483647/strip/true/crop/4159x2771+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4a%2Fa2%2F250d89635d6da4fa827e341c4091%2F1ba215da14f24aa3bd4542efc5b8f5f1",
-        "publishedAt": "2026-07-17T19:11:00Z",
-        "content": "NEW YORK (AP) Citizens Bank said it plans to wind down its financial relationship with two private prison companies that have been government contractors under the Trump administration to help run im\u2026 [+2268 chars]"
+        "author": "Sophia Compton",
+        "title": "Dollar Tree to shutter 75 stores while growing its overall footprint - Fox Business",
+        "description": "The discount retailer expects to close about 75 stores this year while opening roughly 400 new locations and growing its overall footprint.",
+        "url": "https://www.foxbusiness.com/retail/dollar-tree-shutter-75-stores-while-growing-overall-footprint",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/0/0/dollar-tree.jpg?ve=1&tl=1",
+        "publishedAt": "2026-07-19T19:57:00Z",
+        "content": "Dollar Tree plans to close dozens of stores nationwide this year while continuing to expand its overall footprint.\r\nThe Chesapeake, Virginia-based company said in its first-quarter earnings report, r\u2026 [+2589 chars]"
     },
     {
         "source": {
@@ -226,24 +18,245 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Exclusive | SpaceX in Talks to Provide Computing Power for Pentagon\u2019s AI Push - WSJ",
+        "title": "Boeing Needs to Shore Up Finances Before Launching New Airplane Design, CEO Says - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4",
+        "url": "https://www.wsj.com/business/airlines/boeing-needs-to-shore-up-finances-before-launching-new-airplane-design-ceo-says-97676587",
         "urlToImage": null,
-        "publishedAt": "2026-07-17T19:03:00Z",
+        "publishedAt": "2026-07-19T17:19:00Z",
         "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "AL.com"
+            "name": "Redheaded Blackbelt"
         },
-        "author": "Howard Koplowitz | hkoplowitz@al.com",
-        "title": "Trump spokeswoman\u2019s Olive Garden Pasta Pass-voter ID analogy ripped by critics: \u2018The dumbest people\u2019 - AL.com",
-        "description": "Opponents of the SAVE America Act pointed out one glaring difference between the bill and Olive Garden's Never-Ending Pasta Pass.",
-        "url": "https://www.al.com/politics/2026/07/trump-spokeswomans-olive-garden-pasta-pass-voter-id-analogy-ripped-by-critics-the-dumbest-people.html",
-        "urlToImage": "https://www.al.com/resizer/v2/NBCKOQ3ULFGBNH4MGL35C6ZMC4.jpg?auth=c9bd7709547f9569b43690a00a9ed4d20ca1efb4890dc4e9a7f832f564564015&width=1280&smart=true&quality=90",
-        "publishedAt": "2026-07-17T17:49:00Z",
-        "content": "White House spokeswoman Abigail Jackson was mocked Friday by opponents of the Donald Trump-backed SAVE America Act after she claimed Olive Garden has tighter security over its Never-Ending Pasta Pass\u2026 [+2694 chars]"
+        "author": "Oliver Cory",
+        "title": "DEVELOPING SITUATION: Lanes Shut Down for Woman on Ledge at Fourth and E Streets, Traffic Backing Up - Redheaded Blackbelt",
+        "description": "According to our reporter Mark McKenna at the scene, Police have shut down two lanes of Fourth Street and shut down E Street between Third and Fifth Streets in Eureka.",
+        "url": "https://kymkemp.com/2026/07/19/developing-situation-lanes-shut-down-for-woman-on-ledge-at-fourth-and-e-streets-traffic-backing-up/",
+        "urlToImage": "https://kymkemp.com/wp-content/uploads/2026/07/Untitled-33.jpg",
+        "publishedAt": "2026-07-19T17:13:44Z",
+        "content": "Photos by Mark McKenna\r\nA woman on a ledge of a four-story building at the corner of Fourth and E Streets in Eureka has led to a large police presence and multiple closed lanes while police attempt t\u2026 [+1204 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Inc."
+        },
+        "author": "inc.com",
+        "title": "Hackers Just Pulled Off Every Food Manufacturer's Worst Nightmare. Now Coca-Cola's $4-Billion Dairy Brand Is Shut Down - inc.com",
+        "description": null,
+        "url": "https://www.inc.com/amaya-nichole/hackers-pulled-off-food-manufacturers-worst-nightmare-coca-cola-fairlife-shut-down/91375955",
+        "urlToImage": null,
+        "publishedAt": "2026-07-19T16:36:06Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SFGate"
+        },
+        "author": "Katie Dowd",
+        "title": "California Forever dealt huge blow as $3 billion contract goes to Texas - SFGATE",
+        "description": "California Forever, a controversial project with aspirations to expand Solano County by up to 400,000 residents, was dealt a blow last week.",
+        "url": "https://www.sfgate.com/bayarea/article/california-forever-contract-22351276.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/54/70/05/28541255/3/rawImage.jpg",
+        "publishedAt": "2026-07-19T15:13:35Z",
+        "content": "A rendering of the Suisun Expansion Project in Solano County, part of the proposal by California Forever.\r\nCalifornia Forever/Handout\r\nCalifornia Forever, a controversial project with aspirations to \u2026 [+2796 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Bob Woods",
+        "title": "The market for psychedelic drugs to treat mental health conditions gets a big buy signal - CNBC",
+        "description": "Eli Lilly's acquisition of psychedelic drug maker AtaiBeckley extends Big Pharma's embrace of a stigmatized class of medications for treating mental health.",
+        "url": "https://www.cnbc.com/2026/07/19/psychedelic-drugs-mental-health.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107278618-1690561438668-gettyimages-1576472024-img_2863_lkjgkvrg.jpeg?v=1784390862&w=1920&h=1080",
+        "publishedAt": "2026-07-19T14:45:37Z",
+        "content": "Thursday's announcement that Eli Lilly will acquire AtaiBeckley, a clinical-stage maker of psychedelic drugs, for up to $3.8 billion indicates Big Pharma's increasing embrace of a long-stigmatized cl\u2026 [+12153 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Marthe van der Wolf",
+        "title": "Why is China protesting about the nationalisation of British Steel? - Al Jazeera",
+        "description": "The UK move to take over British Steel fuels a brewing dispute with China amid political leadership change in London.",
+        "url": "https://www.aljazeera.com/news/2026/7/19/why-is-a-chinese-company-protesting-over-uk-nationalising-a-steel-plant",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T062639Z_1679785522_RC2PZDAYQR1Y_RTRMADP_3_BRITAIN-POLITICS-STARMER-STEEL-1784450774.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-07-19T14:26:15Z",
+        "content": "A Chinese company is demanding compensation from the United Kingdom government for investment losses following the nationalisation of a steel plant last week.\r\nJingye Steel asked the UK on Sunday to \u2026 [+4126 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Meryl Kornfield, Faiz Siddiqui, Elizabeth Dwoskin",
+        "title": "DOGE was supposed to be dead. Its remnants are everywhere. - The Washington Post",
+        "description": "The fallout from Elon Musk\u2019s cost-cutting venture can be found across the government if you know where to look.",
+        "url": "https://www.washingtonpost.com/politics/2026/07/19/doge-was-supposed-be-dead-its-remnants-are-everywhere/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6URFUOSWVWG4JAE2G6QJWTMPN4.jpg&w=1440",
+        "publishedAt": "2026-07-19T13:32:10Z",
+        "content": "When Elon Musk and Vivek Ramaswamy were initially tapped to co-lead the Department of Government Efficiency at the end of 2024, the billionaire duo promised DOGEs last act would be to delete itself b\u2026 [+35 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "DW (English)"
+        },
+        "author": "Nik Martin",
+        "title": "EU ban on destroying unsold clothes takes effect - DW.com",
+        "description": "Under new rules to reduce waste, large companies across the European Union can no longer dispose of unsold clothes, accessories and footwear.",
+        "url": "https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888",
+        "urlToImage": "https://static.dw.com/image/78025968_6.jpg",
+        "publishedAt": "2026-07-19T13:29:41Z",
+        "content": "A ban on the disposal of unsold clothes and shoes\u00a0took effect across the European Union on Sunday, in the bloc's latest move to cut waste.\r\nHundreds of thousands of tons of fashionwear are\u00a0destroyed \u2026 [+3325 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Newsnationnow.com"
+        },
+        "author": "Michael Ramsey",
+        "title": "Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says - NewsNation",
+        "description": "Positive test on shredded iceberg lettuce adds to investigation of parasitic outbreak that has sickened more than 1,600 people nationwide.",
+        "url": "https://www.newsnationnow.com/health/diarrhea-outbreak-lettuce-tests-positive-fda/",
+        "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/04/FDA_GettyImages_Psychedelics.png?w=1280",
+        "publishedAt": "2026-07-19T13:06:08Z",
+        "content": "(NewsNation) \u00a0A sample of shredded iceberg lettuce produced by a Taylor Farms subsidiary in Mexico has tested positive for cyclospora, the parasite linked to a growing multistate outbreak that has si\u2026 [+3542 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Jake Conley",
+        "title": "Big Tech earnings test tech's big rotation: What to watch this week - Yahoo Finance",
+        "description": "Earnings results from Alphabet and Tesla headline a busy week, amid a chip sell-off and a conflict in Iran that keeps geopolitics simmering and oil prices ri...",
+        "url": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/C5ADD16FE0676F9B7A44B46A2E470D327611CA9D970F1AE4838CEB2CD7D65CEA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-05%2Fa5fd6670-53cb-11f1-b7ef-f267ecd76b19",
+        "publishedAt": "2026-07-19T12:23:59Z",
+        "content": "We're coming off a busy week in markets dominated by the resurgence of war in the Middle East and a sharp sell-off in the seemingly invincible semiconductor trade.\r\nThis week, investors step into ano\u2026 [+9217 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TheStreet"
+        },
+        "author": "Daniel Kline, Celine Provini",
+        "title": "44-year-old mall steak chain closed over 275 locations - thestreet.com",
+        "description": "The company spent years trying to escape a problem that kept getting worse.",
+        "url": "https://www.thestreet.com/restaurants/44-year-old-mall-chain-steak-escape-closed-over-275-locations",
+        "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTE4Mzgz/restaurant-closed-lead.jpg?profile=share16-9",
+        "publishedAt": "2026-07-19T12:17:00Z",
+        "content": "Shopping malls arent as empty as many Americans think, despite the widespread belief that online shopping has kept people at home.\r\nAmericans are still heading to the mall, according to the Placer.ai\u2026 [+6647 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Devi Shastri",
+        "title": "How to keep the air inside your home clean during wildfires - AP News",
+        "description": "When the air is smoky from burning wildfires, health experts say to stay indoors. But there are steps you should take to keep the air clean inside your home. Buy or make an air filter, ensure your window AC is not pulling in outside air, seal up drafts and av\u2026",
+        "url": "https://apnews.com/article/wildfires-smoke-filters-e39f285bec1eccfdb0fbc33b753a987a",
+        "urlToImage": "https://dims.apnews.com/dims4/default/38bcb74/2147483647/strip/true/crop/4972x3313+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcf%2Ffa%2Fd8de42292f7e3bc4baa56a06ff13%2F9314e7a1faa74f0eb847afc2c1dea76c",
+        "publishedAt": "2026-07-19T12:08:00Z",
+        "content": "MILWAUKEE (AP) The eerie glow of an orange sun through thick wildfire smoke might be unnerving, but the biggest risk from the haze is something much harder to see. \r\nTiny particles in the air can cau\u2026 [+4370 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Leslie Josephs",
+        "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap - CNBC",
+        "description": "The carrier is working on improving reliability, investing in more premium seats and lounges, and considering Boeing and Airbus for a new wide-body plane order.",
+        "url": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240178-1765397940981-gettyimages-2250480480-ISOM_INTERVIEW.jpeg?v=1783702948&w=1920&h=1080",
+        "publishedAt": "2026-07-19T12:00:01Z",
+        "content": "Robert Isom, chief executive officer of American Airlines Group Inc., speaks during a Bloomberg Television interview in New York, US, on Wednesday, Dec. 10, 2025.\r\nFORT WORTH, Texas American Airlines\u2026 [+13119 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Mike Zapler",
+        "title": "Gas prices are rising again \u2014 and so is GOP grief in the midterms - Axios",
+        "description": "The renewed outbreak of fighting spells trouble for Republican hopes.",
+        "url": "https://www.axios.com/2026/07/19/gas-prices-iran-war-trump-election",
+        "urlToImage": "https://images.axios.com/QZZ4EM112mR2dBHr3WDHzSo8VGI=/0x0:1344x756/1366x768/2026/07/17/1784320346502.png",
+        "publishedAt": "2026-07-19T11:46:13Z",
+        "content": "The big picture: Trump has said repeatedly that gas prices will \"drop like a rock\" when the war is over. But the war doesn't look like it's ending anytime soon.\r\n<ul><li>When the U.S. first launched \u2026 [+2516 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Sophia Compton",
+        "title": "Major grocery chain beats Walmart, Aldi in price war as shoppers hunt for checkout relief - Fox Business",
+        "description": "A new price comparison of 15 store-brand grocery staples found Kroger had the cheapest overall basket, beating Walmart, Aldi and Albertsons.",
+        "url": "https://www.foxbusiness.com/lifestyle/major-grocery-chain-beats-walmart-aldi-price-war-shoppers-hunt-checkout-relief",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/kroger-grocery-store-shoppers.jpg?ve=1&tl=1",
+        "publishedAt": "2026-07-19T11:00:00Z",
+        "content": "Shoppers looking to stretch their grocery budgets may want to take a closer look at Kroger.\r\nThe Ohio-based grocer had the cheapest store-brand grocery basket in a new price comparison of four major \u2026 [+2776 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Laura Boast",
+        "title": "Baby boomers didn't save enough for retirement \u2014 now their kids are paying the price. What\u2019s behind the crisis - Yahoo Finance",
+        "description": "The Great Wealth Transfer is reversing as struggling boomers turn to their children for help.",
+        "url": "https://finance.yahoo.com/economy/articles/baby-boomers-didnt-save-enough-110000818.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/3F123128C61C825338584E7F4415803D09D2A5247AF72A1F166242497017BF64/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F70272e51a6fd69b3312000903ec09b6e",
+        "publishedAt": "2026-07-19T11:00:00Z",
+        "content": "Kikostock / Shutterstock\r\nThe Great Wealth Transfer was supposed to be about baby boomers passing down wealth to Gen X and millennials. Increasingly, though, wealth is moving in the opposite directio\u2026 [+5477 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Andrea Palladino",
+        "title": "World Cup Final 2026 deals and freebies: McDonald\u2019s, Chipotle and more - New York Post",
+        "description": "As the World Cup Final kicks off Sunday, July 19, fans don\u2019t need a jersey to score and win big.",
+        "url": "https://nypost.com/2026/07/19/lifestyle/world-cup-final-2026-food-deals-mcdonalds-chipotle-and-more/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-ps7mza3k8-1784302493797.jpg?quality=75&strip=all&1784288176&w=1200",
+        "publishedAt": "2026-07-19T11:00:00Z",
+        "content": "As the World Cup Final kicks off on Sunday, July 19, fans don\u2019t need a jersey to score and win big. Whether you\u2019re a die-hard Soccer fan or just looking for halftime snacks, restaurants and chains ar\u2026 [+2307 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "A Statistical Revamp Is About to Lower Inflation, at a Critical Time - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/economy/central-banking/pce-inflation-data-updates-ca7bfd61",
+        "urlToImage": null,
+        "publishedAt": "2026-07-19T09:30:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "mashable",
+            "name": "Mashable"
+        },
+        "author": "Chase DiBenedetto",
+        "title": "Fix AI Mode or get Google out of classrooms, advocates say - Mashable",
+        "description": "Education advocates urge schools to cut ties with Google over AI Search.",
+        "url": "https://mashable.com/tech/is-google-search-ai-mode-safe-for-students",
+        "urlToImage": "https://helios-i.mashable.com/imagery/articles/051q1Nkl99Vt1im5C2xn6J7/hero-image.fill.size_1200x675.v1784225228.jpg",
+        "publishedAt": "2026-07-19T09:23:48Z",
+        "content": null
     }
 ]
