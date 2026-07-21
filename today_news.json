@@ -1,172 +1,42 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Fox Business"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Sophia Compton",
-        "title": "Dollar Tree to shutter 75 stores while growing its overall footprint - Fox Business",
-        "description": "The discount retailer expects to close about 75 stores this year while opening roughly 400 new locations and growing its overall footprint.",
-        "url": "https://www.foxbusiness.com/retail/dollar-tree-shutter-75-stores-while-growing-overall-footprint",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/0/0/dollar-tree.jpg?ve=1&tl=1",
-        "publishedAt": "2026-07-19T19:57:00Z",
-        "content": "Dollar Tree plans to close dozens of stores nationwide this year while continuing to expand its overall footprint.\r\nThe Chesapeake, Virginia-based company said in its first-quarter earnings report, r\u2026 [+2589 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Boeing Needs to Shore Up Finances Before Launching New Airplane Design, CEO Says - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/business/airlines/boeing-needs-to-shore-up-finances-before-launching-new-airplane-design-ceo-says-97676587",
-        "urlToImage": null,
-        "publishedAt": "2026-07-19T17:19:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Redheaded Blackbelt"
-        },
-        "author": "Oliver Cory",
-        "title": "DEVELOPING SITUATION: Lanes Shut Down for Woman on Ledge at Fourth and E Streets, Traffic Backing Up - Redheaded Blackbelt",
-        "description": "According to our reporter Mark McKenna at the scene, Police have shut down two lanes of Fourth Street and shut down E Street between Third and Fifth Streets in Eureka.",
-        "url": "https://kymkemp.com/2026/07/19/developing-situation-lanes-shut-down-for-woman-on-ledge-at-fourth-and-e-streets-traffic-backing-up/",
-        "urlToImage": "https://kymkemp.com/wp-content/uploads/2026/07/Untitled-33.jpg",
-        "publishedAt": "2026-07-19T17:13:44Z",
-        "content": "Photos by Mark McKenna\r\nA woman on a ledge of a four-story building at the corner of Fourth and E Streets in Eureka has led to a large police presence and multiple closed lanes while police attempt t\u2026 [+1204 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Inc."
-        },
-        "author": "inc.com",
-        "title": "Hackers Just Pulled Off Every Food Manufacturer's Worst Nightmare. Now Coca-Cola's $4-Billion Dairy Brand Is Shut Down - inc.com",
-        "description": null,
-        "url": "https://www.inc.com/amaya-nichole/hackers-pulled-off-food-manufacturers-worst-nightmare-coca-cola-fairlife-shut-down/91375955",
-        "urlToImage": null,
-        "publishedAt": "2026-07-19T16:36:06Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SFGate"
-        },
-        "author": "Katie Dowd",
-        "title": "California Forever dealt huge blow as $3 billion contract goes to Texas - SFGATE",
-        "description": "California Forever, a controversial project with aspirations to expand Solano County by up to 400,000 residents, was dealt a blow last week.",
-        "url": "https://www.sfgate.com/bayarea/article/california-forever-contract-22351276.php",
-        "urlToImage": "https://s.hdnux.com/photos/01/54/70/05/28541255/3/rawImage.jpg",
-        "publishedAt": "2026-07-19T15:13:35Z",
-        "content": "A rendering of the Suisun Expansion Project in Solano County, part of the proposal by California Forever.\r\nCalifornia Forever/Handout\r\nCalifornia Forever, a controversial project with aspirations to \u2026 [+2796 chars]"
+        "author": "Lena H. Sun",
+        "title": "FDA retracts test result but still links Taylor Farms lettuce to cyclosporiasis - The Washington Post",
+        "description": "The FDA did not back away from its conclusion that the company remains linked to a multistate outbreak of cyclosporiasis through its investigation.",
+        "url": "https://www.washingtonpost.com/health/2026/07/20/taylor-farms-still-linked-parasite-outbreak-despite-false-positive-fda-says/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MMFEZ36L3DETO54LE2SDD6EN4Q_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-07-20T16:38:01Z",
+        "content": "The Food and Drug Administration said Sunday that a laboratory finding showing cyclospora contamination in a sample of shredded iceberg lettuce supplied by Taylor Farms de Mexico was a false positive."
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Bob Woods",
-        "title": "The market for psychedelic drugs to treat mental health conditions gets a big buy signal - CNBC",
-        "description": "Eli Lilly's acquisition of psychedelic drug maker AtaiBeckley extends Big Pharma's embrace of a stigmatized class of medications for treating mental health.",
-        "url": "https://www.cnbc.com/2026/07/19/psychedelic-drugs-mental-health.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107278618-1690561438668-gettyimages-1576472024-img_2863_lkjgkvrg.jpeg?v=1784390862&w=1920&h=1080",
-        "publishedAt": "2026-07-19T14:45:37Z",
-        "content": "Thursday's announcement that Eli Lilly will acquire AtaiBeckley, a clinical-stage maker of psychedelic drugs, for up to $3.8 billion indicates Big Pharma's increasing embrace of a long-stigmatized cl\u2026 [+12153 chars]"
-    },
-    {
-        "source": {
-            "id": "al-jazeera-english",
-            "name": "Al Jazeera English"
-        },
-        "author": "Marthe van der Wolf",
-        "title": "Why is China protesting about the nationalisation of British Steel? - Al Jazeera",
-        "description": "The UK move to take over British Steel fuels a brewing dispute with China amid political leadership change in London.",
-        "url": "https://www.aljazeera.com/news/2026/7/19/why-is-a-chinese-company-protesting-over-uk-nationalising-a-steel-plant",
-        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T062639Z_1679785522_RC2PZDAYQR1Y_RTRMADP_3_BRITAIN-POLITICS-STARMER-STEEL-1784450774.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-07-19T14:26:15Z",
-        "content": "A Chinese company is demanding compensation from the United Kingdom government for investment losses following the nationalisation of a steel plant last week.\r\nJingye Steel asked the UK on Sunday to \u2026 [+4126 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Meryl Kornfield, Faiz Siddiqui, Elizabeth Dwoskin",
-        "title": "DOGE was supposed to be dead. Its remnants are everywhere. - The Washington Post",
-        "description": "The fallout from Elon Musk\u2019s cost-cutting venture can be found across the government if you know where to look.",
-        "url": "https://www.washingtonpost.com/politics/2026/07/19/doge-was-supposed-be-dead-its-remnants-are-everywhere/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6URFUOSWVWG4JAE2G6QJWTMPN4.jpg&w=1440",
-        "publishedAt": "2026-07-19T13:32:10Z",
-        "content": "When Elon Musk and Vivek Ramaswamy were initially tapped to co-lead the Department of Government Efficiency at the end of 2024, the billionaire duo promised DOGEs last act would be to delete itself b\u2026 [+35 chars]"
+        "author": "Sean Conlon, Hugh Leask, Justina Lee",
+        "title": "Stock futures are higher to start the week as U.S. oil reverses gains, chipmakers rise: Live updates - CNBC",
+        "description": "Stocks rose Monday as oil prices fluctuated in response to the latest bout of military exchanges between the U.S. and Iran.",
+        "url": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108336168-1784226596908-gettyimages-2285755036-CSQUARE_IPO.jpeg?v=1784226672&w=1920&h=1080",
+        "publishedAt": "2026-07-20T16:07:00Z",
+        "content": "The S&amp;P 500 and Nasdaq Composite rose on Monday as oil prices fluctuated in response to the latest bout of military exchanges between the U.S. and Iran. Chipmakers also traded higher to give U.S.\u2026 [+2129 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "DW (English)"
+            "name": "Investor's Business Daily"
         },
-        "author": "Nik Martin",
-        "title": "EU ban on destroying unsold clothes takes effect - DW.com",
-        "description": "Under new rules to reduce waste, large companies across the European Union can no longer dispose of unsold clothes, accessories and footwear.",
-        "url": "https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888",
-        "urlToImage": "https://static.dw.com/image/78025968_6.jpg",
-        "publishedAt": "2026-07-19T13:29:41Z",
-        "content": "A ban on the disposal of unsold clothes and shoes\u00a0took effect across the European Union on Sunday, in the bloc's latest move to cut waste.\r\nHundreds of thousands of tons of fashionwear are\u00a0destroyed \u2026 [+3325 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Newsnationnow.com"
-        },
-        "author": "Michael Ramsey",
-        "title": "Explosive diarrhea outbreak: Lettuce tests positive for cyclospora, FDA says - NewsNation",
-        "description": "Positive test on shredded iceberg lettuce adds to investigation of parasitic outbreak that has sickened more than 1,600 people nationwide.",
-        "url": "https://www.newsnationnow.com/health/diarrhea-outbreak-lettuce-tests-positive-fda/",
-        "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/04/FDA_GettyImages_Psychedelics.png?w=1280",
-        "publishedAt": "2026-07-19T13:06:08Z",
-        "content": "(NewsNation) \u00a0A sample of shredded iceberg lettuce produced by a Taylor Farms subsidiary in Mexico has tested positive for cyclospora, the parasite linked to a growing multistate outbreak that has si\u2026 [+3542 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Jake Conley",
-        "title": "Big Tech earnings test tech's big rotation: What to watch this week - Yahoo Finance",
-        "description": "Earnings results from Alphabet and Tesla headline a busy week, amid a chip sell-off and a conflict in Iran that keeps geopolitics simmering and oil prices ri...",
-        "url": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/C5ADD16FE0676F9B7A44B46A2E470D327611CA9D970F1AE4838CEB2CD7D65CEA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-05%2Fa5fd6670-53cb-11f1-b7ef-f267ecd76b19",
-        "publishedAt": "2026-07-19T12:23:59Z",
-        "content": "We're coming off a busy week in markets dominated by the resurgence of war in the Middle East and a sharp sell-off in the seemingly invincible semiconductor trade.\r\nThis week, investors step into ano\u2026 [+9217 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TheStreet"
-        },
-        "author": "Daniel Kline, Celine Provini",
-        "title": "44-year-old mall steak chain closed over 275 locations - thestreet.com",
-        "description": "The company spent years trying to escape a problem that kept getting worse.",
-        "url": "https://www.thestreet.com/restaurants/44-year-old-mall-chain-steak-escape-closed-over-275-locations",
-        "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTE4Mzgz/restaurant-closed-lead.jpg?profile=share16-9",
-        "publishedAt": "2026-07-19T12:17:00Z",
-        "content": "Shopping malls arent as empty as many Americans think, despite the widespread belief that online shopping has kept people at home.\r\nAmericans are still heading to the mall, according to the Placer.ai\u2026 [+6647 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Devi Shastri",
-        "title": "How to keep the air inside your home clean during wildfires - AP News",
-        "description": "When the air is smoky from burning wildfires, health experts say to stay indoors. But there are steps you should take to keep the air clean inside your home. Buy or make an air filter, ensure your window AC is not pulling in outside air, seal up drafts and av\u2026",
-        "url": "https://apnews.com/article/wildfires-smoke-filters-e39f285bec1eccfdb0fbc33b753a987a",
-        "urlToImage": "https://dims.apnews.com/dims4/default/38bcb74/2147483647/strip/true/crop/4972x3313+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcf%2Ffa%2Fd8de42292f7e3bc4baa56a06ff13%2F9314e7a1faa74f0eb847afc2c1dea76c",
-        "publishedAt": "2026-07-19T12:08:00Z",
-        "content": "MILWAUKEE (AP) The eerie glow of an orange sun through thick wildfire smoke might be unnerving, but the biggest risk from the haze is something much harder to see. \r\nTiny particles in the air can cau\u2026 [+4370 chars]"
+        "author": null,
+        "title": "IREN, Hut 8 Soar On AI Data Center Deals, Lead Neocloud Rally - Investor's Business Daily",
+        "description": "IREN lifts cloud revenue target, as it upgrades contracts with AI leaders.",
+        "url": "https://www.investors.com/news/iren-hut8-ai-cloud-data-center-contract-lease-deals-iren-stock-hut-neocloud/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2017/02/Stock-datacenter-4-adobe.jpg",
+        "publishedAt": "2026-07-20T14:25:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
@@ -174,64 +44,12 @@
             "name": "CNBC"
         },
         "author": "Leslie Josephs",
-        "title": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap - CNBC",
-        "description": "The carrier is working on improving reliability, investing in more premium seats and lounges, and considering Boeing and Airbus for a new wide-body plane order.",
-        "url": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108240178-1765397940981-gettyimages-2250480480-ISOM_INTERVIEW.jpeg?v=1783702948&w=1920&h=1080",
-        "publishedAt": "2026-07-19T12:00:01Z",
-        "content": "Robert Isom, chief executive officer of American Airlines Group Inc., speaks during a Bloomberg Television interview in New York, US, on Wednesday, Dec. 10, 2025.\r\nFORT WORTH, Texas American Airlines\u2026 [+13119 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Mike Zapler",
-        "title": "Gas prices are rising again \u2014 and so is GOP grief in the midterms - Axios",
-        "description": "The renewed outbreak of fighting spells trouble for Republican hopes.",
-        "url": "https://www.axios.com/2026/07/19/gas-prices-iran-war-trump-election",
-        "urlToImage": "https://images.axios.com/QZZ4EM112mR2dBHr3WDHzSo8VGI=/0x0:1344x756/1366x768/2026/07/17/1784320346502.png",
-        "publishedAt": "2026-07-19T11:46:13Z",
-        "content": "The big picture: Trump has said repeatedly that gas prices will \"drop like a rock\" when the war is over. But the war doesn't look like it's ending anytime soon.\r\n<ul><li>When the U.S. first launched \u2026 [+2516 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Sophia Compton",
-        "title": "Major grocery chain beats Walmart, Aldi in price war as shoppers hunt for checkout relief - Fox Business",
-        "description": "A new price comparison of 15 store-brand grocery staples found Kroger had the cheapest overall basket, beating Walmart, Aldi and Albertsons.",
-        "url": "https://www.foxbusiness.com/lifestyle/major-grocery-chain-beats-walmart-aldi-price-war-shoppers-hunt-checkout-relief",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/kroger-grocery-store-shoppers.jpg?ve=1&tl=1",
-        "publishedAt": "2026-07-19T11:00:00Z",
-        "content": "Shoppers looking to stretch their grocery budgets may want to take a closer look at Kroger.\r\nThe Ohio-based grocer had the cheapest store-brand grocery basket in a new price comparison of four major \u2026 [+2776 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Laura Boast",
-        "title": "Baby boomers didn't save enough for retirement \u2014 now their kids are paying the price. What\u2019s behind the crisis - Yahoo Finance",
-        "description": "The Great Wealth Transfer is reversing as struggling boomers turn to their children for help.",
-        "url": "https://finance.yahoo.com/economy/articles/baby-boomers-didnt-save-enough-110000818.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/3F123128C61C825338584E7F4415803D09D2A5247AF72A1F166242497017BF64/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_327%2F70272e51a6fd69b3312000903ec09b6e",
-        "publishedAt": "2026-07-19T11:00:00Z",
-        "content": "Kikostock / Shutterstock\r\nThe Great Wealth Transfer was supposed to be about baby boomers passing down wealth to Gen X and millennials. Increasingly, though, wealth is moving in the opposite directio\u2026 [+5477 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Andrea Palladino",
-        "title": "World Cup Final 2026 deals and freebies: McDonald\u2019s, Chipotle and more - New York Post",
-        "description": "As the World Cup Final kicks off Sunday, July 19, fans don\u2019t need a jersey to score and win big.",
-        "url": "https://nypost.com/2026/07/19/lifestyle/world-cup-final-2026-food-deals-mcdonalds-chipotle-and-more/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-ps7mza3k8-1784302493797.jpg?quality=75&strip=all&1784288176&w=1200",
-        "publishedAt": "2026-07-19T11:00:00Z",
-        "content": "As the World Cup Final kicks off on Sunday, July 19, fans don\u2019t need a jersey to score and win big. Whether you\u2019re a die-hard Soccer fan or just looking for halftime snacks, restaurants and chains ar\u2026 [+2307 chars]"
+        "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space - CNBC",
+        "description": "JetBlue Airways won takeoff and landing slots for up to 12 round-trip flights at LaGuardia Airport.",
+        "url": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107095537-1659028403770-AP22188764454263.jpg?v=1678203230&w=1920&h=1080",
+        "publishedAt": "2026-07-20T14:23:37Z",
+        "content": "JetBlue Airways has won Spirit Airlines slots at New York's LaGuardia Airport and is looking to move back into the failed budget carrier's old home, a major reshuffling at the congested airport less \u2026 [+1616 chars]"
     },
     {
         "source": {
@@ -239,24 +57,180 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "A Statistical Revamp Is About to Lower Inflation, at a Critical Time - WSJ",
+        "title": "Stock Market Today: Nasdaq Climbs at Open as Chip Stocks Recover; Oil Prices in Focus \u2014 Live Updates - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/economy/central-banking/pce-inflation-data-updates-ca7bfd61",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026",
         "urlToImage": null,
-        "publishedAt": "2026-07-19T09:30:00Z",
+        "publishedAt": "2026-07-20T14:07:00Z",
         "content": null
     },
     {
         "source": {
-            "id": "mashable",
-            "name": "Mashable"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "Chase DiBenedetto",
-        "title": "Fix AI Mode or get Google out of classrooms, advocates say - Mashable",
-        "description": "Education advocates urge schools to cut ties with Google over AI Search.",
-        "url": "https://mashable.com/tech/is-google-search-ai-mode-safe-for-students",
-        "urlToImage": "https://helios-i.mashable.com/imagery/articles/051q1Nkl99Vt1im5C2xn6J7/hero-image.fill.size_1200x675.v1784225228.jpg",
-        "publishedAt": "2026-07-19T09:23:48Z",
+        "author": "Steve Kopack",
+        "title": "Gas prices hit $4 again after oil soars more than 15% in a week - NBC News",
+        "description": "The average price for regular gasoline hits $4 per gallon as the renewed conflict with Iran and Ukraine-Russia attacks rattle energy markets.",
+        "url": "https://www.nbcnews.com/business/energy/gas-prices-hit-4-dollars-renewed-iran-russia-tensions-rcna588055",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260529-gas-prices-rs-086688.jpg",
+        "publishedAt": "2026-07-20T14:00:33Z",
+        "content": "On Friday, oil prices posted their second straight weekly gain. Last week alone, U.S. crude oil and international Brent crude oil bothrose more than 15%. Over the last two weeks, prices have risen mo\u2026 [+2616 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Thom Jensen",
+        "title": "United Airlines employee threatens to call ICE on Bay Area family at SFO - NBC News",
+        "description": "A viral video captured the confrontation during a ticketing dispute, leaving the family fearing detainment upon their return from Canada.",
+        "url": "https://www.nbcnews.com/news/us-news/united-airlines-employee-threatens-call-ice-bay-area-family-sfo-rcna588343",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260720-united-airlines-vl-923a-b8a081.jpg",
+        "publishedAt": "2026-07-20T13:31:30Z",
+        "content": "A Bay Area family flew back from Montreal, Canada, Saturday night with lingering fears of possible ICE detainment after a United Airlines employee threatened to call immigration authorities on them d\u2026 [+3346 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TribLIVE"
+        },
+        "author": "Patrick Varine",
+        "title": "Trump praises Giant Eagle for its price-lowering promotion - TribLIVE.com",
+        "description": "Pittsburgh grocery chain Giant Eagle got a shoutout Sunday evening in one of President Donald Trump&rsquo;s Truth Social posts. &ldquo;I have just been informed that Giant Eagle, a GREAT American Grocery Company, will be lowering prices, by a lot, across more\u2026",
+        "url": "https://triblive.com/local/regional/trump-praises-giant-eagle-for-its-price-lowering-promotion/",
+        "urlToImage": "https://assets-varnish.triblive.com/2026/07/9772270_web1_ptr-GiantEagle2e-092625.jpg",
+        "publishedAt": "2026-07-20T13:00:54Z",
+        "content": "Pittsburgh grocery chain Giant Eagle got a shoutout Sunday evening in one of President Donald Trump\u2019s Truth Social posts.\r\n\u201cI have just been informed that Giant Eagle, a GREAT American Grocery Compan\u2026 [+1570 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Katie Tarasov",
+        "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
+        "description": "AMD is taking aim at Nvidia with Helios, its first AI rack system, and has landed Microsoft as a new customer, joining Meta, OpenAI and Oracle.",
+        "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108046124-17285796992024-06-03t042116z_664522133_rc2e38aenu99_rtrmadp_0_taiwan-computex.jpeg?v=1728579779&w=1920&h=1080",
+        "publishedAt": "2026-07-20T13:00:01Z",
+        "content": "After a decade-long comeback, chip giant Advanced Micro Devices is preparing to ship its first rack-scale system for artificial intelligence, called Helios, to a growing list of customers that now in\u2026 [+6976 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Information"
+        },
+        "author": "Erin Woo, Qianer Liu",
+        "title": "Google Plans New \u2018Frozen\u2019 Chip to Run Its AI Models Much More Efficiently - The Information",
+        "description": "Google is working on a new server chip that would directly integrate the blueprint of its Gemini AI model, enabling the company to serve its AI models to users much more efficiently, according to two people with direct knowledge of the matter. Google intends \u2026",
+        "url": "https://www.theinformation.com/articles/google-plans-new-frozen-chip-run-ai-models-efficiently",
+        "urlToImage": "https://tii.imgix.net/production/articles/17487/e3116a0f-d0e4-4e07-944d-d4411394dbd1.png?fm=jpg&auto=compress&w=1200&frame=0",
+        "publishedAt": "2026-07-20T13:00:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Space.com"
+        },
+        "author": "https://www.space.com/author/josh-dinner",
+        "title": "SpaceX Starship Flight 13 launch updates: New liftoff set for this week - Space",
+        "description": "SpaceX is progressing toward Starship's next big test launch.",
+        "url": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-20-2026",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/nuZjBPHeXgE9FxV5LBfDt5-1920-80.jpg",
+        "publishedAt": "2026-07-20T12:07:36Z",
+        "content": "2026-07-20T12:07:36.301ZSpaceX targets Starship launch on July 23\r\nStarship stands at SpaceX's Pad 2 at its Starbase facility in Texas. (Image credit: SpaceX)\r\nAfter their assessment over the weekend\u2026 [+10562 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Yahoo Finance",
+        "title": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results - Yahoo Finance",
+        "description": "Wall Street is coming into a busy week of earnings with high expectations.",
+        "url": "https://finance.yahoo.com/markets/live/earnings-live-second-quarter-results-tesla-google-july-115324842.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/68513CD42FC013CBD3F868D60D32BB2E7BD1F412778ADC4B29371612830996CA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F2464a4e8-cf28-4125-a5e5-66651adfed8b",
+        "publishedAt": "2026-07-20T12:05:12Z",
+        "content": "A big quarter for AMC (AMC) showed the movie industry is finally regaining its footing after years of a stilted post-pandemic recovery.\r\nThe results kick off a stacked week of earnings, with Big Tech\u2026 [+990 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jeff John Roberts",
+        "title": "The American Dream according to Bill Ackman - Fortune",
+        "description": "The billionaire investor on reviving Americans\u2019 faith in capitalism\u2014and the family crisis reshaping his legacy.",
+        "url": "https://fortune.com/2026/07/20/american-dream-bill-ackman-investing-pershing-square-new-york-city/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Bill-Ackman-social-thumbnail.jpg?resize=1200,600",
+        "publishedAt": "2026-07-20T12:03:00Z",
+        "content": "Its a fine June day in New York City. Bill Ackman peels off his suit jacket in the afternoon sunshine, and hands it to a chauffeur parked outside his office in Manhattans Hells Kitchen. Wearing a cri\u2026 [+15850 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "The \u2018decayed\u2019 impact of Trump\u2019s Truth Social bombs - Financial Times",
+        "description": "Markets are gradually learning to ignore the president",
+        "url": "https://www.ft.com/content/7e8f44cb-946f-448d-96d5-4b7d6e193403",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F364bfaf9-8de0-4f0a-bc4b-a3019402afa7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-07-20T12:01:53Z",
+        "content": "Complete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.\r\n<ul><li>Global news &amp; analysis</li><li>Expert opinion</li><li>FT App\u2026 [+420 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Flight passenger blasts 'incompetent parents' after unruly child forces plane delay - Fox News",
+        "description": "A flight delay caused by a child's tantrum sparked an online debate about airline etiquette and parenting. Etiquette expert Diane Gottsman says safety is the crew's main concern.",
+        "url": "https://www.foxnews.com/travel/flight-passenger-blasts-incompetent-parents-after-unruly-child-forces-plane-delay",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Kid-plane.jpg",
+        "publishedAt": "2026-07-20T12:00:06Z",
+        "content": "A flight delay due to an unruly toddler aboard a plane has sparked online debate about how airlines and passengers should react when midair mayhem occurs.\r\nAn unhappy passenger took to Reddit recentl\u2026 [+3173 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "One Mile at a Time"
+        },
+        "author": "Ben Schlappig",
+        "title": "Philippine Airlines Orders Boeing 787-10, As Part Of Major Fleet Renewal - One Mile at a Time",
+        "description": "Philippine Airlines is placing an order for up to 20 Boeing 787-10 Dreamliners, which is a major development for the future oneworld member.",
+        "url": "https://onemileatatime.com/news/philippine-airlines-boeing-787-order/",
+        "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2026/07/PAL-Dreamliner.jpeg",
+        "publishedAt": "2026-07-20T11:44:35Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Anduril launches helicopter strike drone - Financial Times",
+        "description": "Unveiling of \u2018Thunder\u2019 comes as militaries increase autonomous systems in their arsenal",
+        "url": "https://www.ft.com/content/cc727d6a-7f82-4359-a27f-f54c3bee8039?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e360b5b-767f-4dbd-8aa7-b5d6b6c87b29.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-07-20T11:30:02Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Jersey Mike\u2019s Sets IPO Terms That Could Push Market Cap Toward $8 Billion - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/retail/jersey-mikes-sets-ipo-terms-that-could-push-market-cap-toward-8-billion-41cd9d18",
+        "urlToImage": null,
+        "publishedAt": "2026-07-20T11:26:00Z",
         "content": null
     }
 ]
