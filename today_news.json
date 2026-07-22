@@ -1,55 +1,55 @@
 [
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": "ars-technica",
+            "name": "Ars Technica"
         },
-        "author": "Lena H. Sun",
-        "title": "FDA retracts test result but still links Taylor Farms lettuce to cyclosporiasis - The Washington Post",
-        "description": "The FDA did not back away from its conclusion that the company remains linked to a multistate outbreak of cyclosporiasis through its investigation.",
-        "url": "https://www.washingtonpost.com/health/2026/07/20/taylor-farms-still-linked-parasite-outbreak-despite-false-positive-fda-says/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MMFEZ36L3DETO54LE2SDD6EN4Q_size-normalized.jpg&w=1440",
-        "publishedAt": "2026-07-20T16:38:01Z",
-        "content": "The Food and Drug Administration said Sunday that a laboratory finding showing cyclospora contamination in a sample of shredded iceberg lettuce supplied by Taylor Farms de Mexico was a false positive."
+        "author": "Ashley Belanger",
+        "title": "Judge approves Anthropic\u2019s $1.5 billion copyright settlement with authors - Ars Technica",
+        "description": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
+        "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg",
+        "publishedAt": "2026-07-21T17:33:14Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Rebecca Bellan",
+        "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro - TechCrunch",
+        "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+        "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+        "publishedAt": "2026-07-21T17:11:50Z",
+        "content": "On Tuesday, Google DeepMind released Gemini 3.6 Flash,\u00a03.5 Flash-Lite, and 3.5 Flash Cyber. Gemini 3.6 Flash is Googles workhorse model that promises improved capabilities in coding, knowledge work, \u2026 [+2088 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Eric Revell",
+        "title": "Jamie Dimon says he wouldn\u2019t buy stocks or Treasurys at current prices - Fox Business",
+        "description": "Jamie Dimon said he wouldn't buy stocks or long-term Treasury bonds at current prices, warning that geopolitical and fiscal risks are underpriced.",
+        "url": "https://www.foxbusiness.com/markets/jamie-dimon-says-he-wouldnt-buy-stocks-treasurys-current-prices",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/jamie-dimon-reagan-nef-26.jpg?ve=1&tl=1",
+        "publishedAt": "2026-07-21T16:45:00Z",
+        "content": "JPMorgan Chase CEO Jamie Dimon said in an interview on Monday that he wouldn't buy stocks or long-term Treasury bonds at their current prices as he thinks investors aren't accounting fully for risks \u2026 [+3366 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Sean Conlon, Hugh Leask, Justina Lee",
-        "title": "Stock futures are higher to start the week as U.S. oil reverses gains, chipmakers rise: Live updates - CNBC",
-        "description": "Stocks rose Monday as oil prices fluctuated in response to the latest bout of military exchanges between the U.S. and Iran.",
-        "url": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108336168-1784226596908-gettyimages-2285755036-CSQUARE_IPO.jpeg?v=1784226672&w=1920&h=1080",
-        "publishedAt": "2026-07-20T16:07:00Z",
-        "content": "The S&amp;P 500 and Nasdaq Composite rose on Monday as oil prices fluctuated in response to the latest bout of military exchanges between the U.S. and Iran. Chipmakers also traded higher to give U.S.\u2026 [+2129 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "IREN, Hut 8 Soar On AI Data Center Deals, Lead Neocloud Rally - Investor's Business Daily",
-        "description": "IREN lifts cloud revenue target, as it upgrades contracts with AI leaders.",
-        "url": "https://www.investors.com/news/iren-hut8-ai-cloud-data-center-contract-lease-deals-iren-stock-hut-neocloud/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2017/02/Stock-datacenter-4-adobe.jpg",
-        "publishedAt": "2026-07-20T14:25:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Leslie Josephs",
-        "title": "JetBlue wins Spirit slots at LaGuardia Airport, eyes move to Marine Air Terminal as airlines fight for space - CNBC",
-        "description": "JetBlue Airways won takeoff and landing slots for up to 12 round-trip flights at LaGuardia Airport.",
-        "url": "https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107095537-1659028403770-AP22188764454263.jpg?v=1678203230&w=1920&h=1080",
-        "publishedAt": "2026-07-20T14:23:37Z",
-        "content": "JetBlue Airways has won Spirit Airlines slots at New York's LaGuardia Airport and is looking to move back into the failed budget carrier's old home, a major reshuffling at the congested airport less \u2026 [+1616 chars]"
+        "author": "Matt Peterson",
+        "title": "IRS chief Frank Bisignano dismisses JPMorgan spying allegations - CNBC",
+        "description": "Bisignano denied allegations The Wall Street Journal reported that he surveilled his colleagues while working at JPMorgan more than a decade ago.",
+        "url": "https://www.cnbc.com/2026/07/21/irs-chief-frank-bisignano-laughs-off-jpmorgan-spying-allegations.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108319975-1781129828071-gettyimages-2280246653-SOCIAL_SECURITY_CONGRESS.jpeg?v=1781129865&w=1920&h=1080",
+        "publishedAt": "2026-07-21T16:18:27Z",
+        "content": "Internal Revenue Service CEO Frank Bisignano denied allegations that he spied on his fellow executives while working at JPMorgan Chase more than a decade age. \"None of it's true,\" Bisignano told CNBC\u2026 [+3755 chars]"
     },
     {
         "source": {
@@ -57,129 +57,38 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Stock Market Today: Nasdaq Climbs at Open as Chip Stocks Recover; Oil Prices in Focus \u2014 Live Updates - WSJ",
+        "title": "Stock Market Today: Nasdaq Rises on Chip Stock Gains, Oil Climbs \u2014 Live Updates - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026",
         "urlToImage": null,
-        "publishedAt": "2026-07-20T14:07:00Z",
+        "publishedAt": "2026-07-21T15:53:00Z",
         "content": null
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Steve Kopack",
-        "title": "Gas prices hit $4 again after oil soars more than 15% in a week - NBC News",
-        "description": "The average price for regular gasoline hits $4 per gallon as the renewed conflict with Iran and Ukraine-Russia attacks rattle energy markets.",
-        "url": "https://www.nbcnews.com/business/energy/gas-prices-hit-4-dollars-renewed-iran-russia-tensions-rcna588055",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260529-gas-prices-rs-086688.jpg",
-        "publishedAt": "2026-07-20T14:00:33Z",
-        "content": "On Friday, oil prices posted their second straight weekly gain. Last week alone, U.S. crude oil and international Brent crude oil bothrose more than 15%. Over the last two weeks, prices have risen mo\u2026 [+2616 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Thom Jensen",
-        "title": "United Airlines employee threatens to call ICE on Bay Area family at SFO - NBC News",
-        "description": "A viral video captured the confrontation during a ticketing dispute, leaving the family fearing detainment upon their return from Canada.",
-        "url": "https://www.nbcnews.com/news/us-news/united-airlines-employee-threatens-call-ice-bay-area-family-sfo-rcna588343",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260720-united-airlines-vl-923a-b8a081.jpg",
-        "publishedAt": "2026-07-20T13:31:30Z",
-        "content": "A Bay Area family flew back from Montreal, Canada, Saturday night with lingering fears of possible ICE detainment after a United Airlines employee threatened to call immigration authorities on them d\u2026 [+3346 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TribLIVE"
-        },
-        "author": "Patrick Varine",
-        "title": "Trump praises Giant Eagle for its price-lowering promotion - TribLIVE.com",
-        "description": "Pittsburgh grocery chain Giant Eagle got a shoutout Sunday evening in one of President Donald Trump&rsquo;s Truth Social posts. &ldquo;I have just been informed that Giant Eagle, a GREAT American Grocery Company, will be lowering prices, by a lot, across more\u2026",
-        "url": "https://triblive.com/local/regional/trump-praises-giant-eagle-for-its-price-lowering-promotion/",
-        "urlToImage": "https://assets-varnish.triblive.com/2026/07/9772270_web1_ptr-GiantEagle2e-092625.jpg",
-        "publishedAt": "2026-07-20T13:00:54Z",
-        "content": "Pittsburgh grocery chain Giant Eagle got a shoutout Sunday evening in one of President Donald Trump\u2019s Truth Social posts.\r\n\u201cI have just been informed that Giant Eagle, a GREAT American Grocery Compan\u2026 [+1570 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Katie Tarasov",
-        "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer - CNBC",
-        "description": "AMD is taking aim at Nvidia with Helios, its first AI rack system, and has landed Microsoft as a new customer, joining Meta, OpenAI and Oracle.",
-        "url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108046124-17285796992024-06-03t042116z_664522133_rc2e38aenu99_rtrmadp_0_taiwan-computex.jpeg?v=1728579779&w=1920&h=1080",
-        "publishedAt": "2026-07-20T13:00:01Z",
-        "content": "After a decade-long comeback, chip giant Advanced Micro Devices is preparing to ship its first rack-scale system for artificial intelligence, called Helios, to a growing list of customers that now in\u2026 [+6976 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Information"
-        },
-        "author": "Erin Woo, Qianer Liu",
-        "title": "Google Plans New \u2018Frozen\u2019 Chip to Run Its AI Models Much More Efficiently - The Information",
-        "description": "Google is working on a new server chip that would directly integrate the blueprint of its Gemini AI model, enabling the company to serve its AI models to users much more efficiently, according to two people with direct knowledge of the matter. Google intends \u2026",
-        "url": "https://www.theinformation.com/articles/google-plans-new-frozen-chip-run-ai-models-efficiently",
-        "urlToImage": "https://tii.imgix.net/production/articles/17487/e3116a0f-d0e4-4e07-944d-d4411394dbd1.png?fm=jpg&auto=compress&w=1200&frame=0",
-        "publishedAt": "2026-07-20T13:00:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Space.com"
-        },
-        "author": "https://www.space.com/author/josh-dinner",
-        "title": "SpaceX Starship Flight 13 launch updates: New liftoff set for this week - Space",
-        "description": "SpaceX is progressing toward Starship's next big test launch.",
-        "url": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-20-2026",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/nuZjBPHeXgE9FxV5LBfDt5-1920-80.jpg",
-        "publishedAt": "2026-07-20T12:07:36Z",
-        "content": "2026-07-20T12:07:36.301ZSpaceX targets Starship launch on July 23\r\nStarship stands at SpaceX's Pad 2 at its Starbase facility in Texas. (Image credit: SpaceX)\r\nAfter their assessment over the weekend\u2026 [+10562 chars]"
+        "author": "Brent D. Griffiths",
+        "title": "Treasury Secretary says its 'unacceptable' that Chinese open source AI models may have been built on 'IP theft' - Business Insider",
+        "description": "Treasury Secretary Scott Bessent said the Trump administration is looking into whether Chinese open source AI models were built on stolen IP.",
+        "url": "https://www.businessinsider.com/treasury-secretary-chinese-ai-open-source-sanctions-kimi-k3-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a5f87f3ce52cb26b8391cd0?width=1200&format=jpeg",
+        "publishedAt": "2026-07-21T15:32:26Z",
+        "content": "The Trump administration is signaling that it may clamp down on Chinese open-source AI models that are the talk of the industry.\r\nOn Tuesday, Treasury Secretary Scott Bessent said the US government i\u2026 [+3095 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Yahoo Finance",
-        "title": "Earnings live: Google, Tesla to kick off 'Magnificent Seven' quarterly results - Yahoo Finance",
-        "description": "Wall Street is coming into a busy week of earnings with high expectations.",
-        "url": "https://finance.yahoo.com/markets/live/earnings-live-second-quarter-results-tesla-google-july-115324842.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/68513CD42FC013CBD3F868D60D32BB2E7BD1F412778ADC4B29371612830996CA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F2464a4e8-cf28-4125-a5e5-66651adfed8b",
-        "publishedAt": "2026-07-20T12:05:12Z",
-        "content": "A big quarter for AMC (AMC) showed the movie industry is finally regaining its footing after years of a stilted post-pandemic recovery.\r\nThe results kick off a stacked week of earnings, with Big Tech\u2026 [+990 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jeff John Roberts",
-        "title": "The American Dream according to Bill Ackman - Fortune",
-        "description": "The billionaire investor on reviving Americans\u2019 faith in capitalism\u2014and the family crisis reshaping his legacy.",
-        "url": "https://fortune.com/2026/07/20/american-dream-bill-ackman-investing-pershing-square-new-york-city/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Bill-Ackman-social-thumbnail.jpg?resize=1200,600",
-        "publishedAt": "2026-07-20T12:03:00Z",
-        "content": "Its a fine June day in New York City. Bill Ackman peels off his suit jacket in the afternoon sunshine, and hands it to a chauffeur parked outside his office in Manhattans Hells Kitchen. Wearing a cri\u2026 [+15850 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "The \u2018decayed\u2019 impact of Trump\u2019s Truth Social bombs - Financial Times",
-        "description": "Markets are gradually learning to ignore the president",
-        "url": "https://www.ft.com/content/7e8f44cb-946f-448d-96d5-4b7d6e193403",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F364bfaf9-8de0-4f0a-bc4b-a3019402afa7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-07-20T12:01:53Z",
-        "content": "Complete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.\r\n<ul><li>Global news &amp; analysis</li><li>Expert opinion</li><li>FT App\u2026 [+420 chars]"
+        "author": "Pras Subramanian",
+        "title": "GM stock rises after automaker boosts full-year guidance, reports Q2 earnings - Yahoo Finance",
+        "description": "GM reported second quarter results before the bell on Tuesday that topped expectations, with the Big Three stalwart continuing to grow profits, despite fewer...",
+        "url": "https://finance.yahoo.com/markets/stocks/article/gm-stock-rises-after-automaker-boosts-full-year-guidance-reports-q2-earnings-162130416.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/B00E8FAC1BA022CF3D375AA66354A467E0BD7C2AB57E88A861AE05596FF79E3C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2Fd584f0b0-2448-11f0-bdbf-82316d711bfa",
+        "publishedAt": "2026-07-21T15:31:59Z",
+        "content": "GM (GM) reported second quarter results before the bell on Tuesday that topped expectations, with the Big Three stalwart continuing to grow profits despite fewer sales.\u00a0\r\nAnd for a second time this y\u2026 [+4479 chars]"
     },
     {
         "source": {
@@ -187,50 +96,154 @@
             "name": "Fox News"
         },
         "author": null,
-        "title": "Flight passenger blasts 'incompetent parents' after unruly child forces plane delay - Fox News",
-        "description": "A flight delay caused by a child's tantrum sparked an online debate about airline etiquette and parenting. Etiquette expert Diane Gottsman says safety is the crew's main concern.",
-        "url": "https://www.foxnews.com/travel/flight-passenger-blasts-incompetent-parents-after-unruly-child-forces-plane-delay",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Kid-plane.jpg",
-        "publishedAt": "2026-07-20T12:00:06Z",
-        "content": "A flight delay due to an unruly toddler aboard a plane has sparked online debate about how airlines and passengers should react when midair mayhem occurs.\r\nAn unhappy passenger took to Reddit recentl\u2026 [+3173 chars]"
+        "title": "Joe Biden mandated all new vehicles come installed with a 'kill switch.' This Republican wants to repeal it - Fox News",
+        "description": "Rep. Scott Perry is pushing the No Kill Switches in Cars Act to repeal a federal mandate requiring passive driver impairment monitoring technology in new vehicles, citing privacy and cost concerns.",
+        "url": "https://www.foxnews.com/politics/joe-biden-mandated-all-new-vehicles-come-installed-kill-switch-republican-wants-repeal",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/Scott-Perry-of-Cumberland-County-Pennsylvania.jpeg",
+        "publishedAt": "2026-07-21T15:13:44Z",
+        "content": "Rep. Scott Perry, R-Penn., wants to kill the kill switch.\r\nA bill Perry is seeking to push through Congress would rescind a provision in former President Joe Biden's Infrastructure Investment and Job\u2026 [+8736 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "One Mile at a Time"
+            "name": "CNBC"
         },
-        "author": "Ben Schlappig",
-        "title": "Philippine Airlines Orders Boeing 787-10, As Part Of Major Fleet Renewal - One Mile at a Time",
-        "description": "Philippine Airlines is placing an order for up to 20 Boeing 787-10 Dreamliners, which is a major development for the future oneworld member.",
-        "url": "https://onemileatatime.com/news/philippine-airlines-boeing-787-order/",
-        "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2026/07/PAL-Dreamliner.jpeg",
-        "publishedAt": "2026-07-20T11:44:35Z",
+        "author": "Kif Leswing",
+        "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel - CNBC",
+        "description": "Nvidia released new information about its data center CPU, called Vera, that prospective customers need to fully evaluate the chip.",
+        "url": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108330581-1783302717764-gettyimages-2266485037-NVIDIA_GTC.jpeg?v=1784578669&w=1920&h=1080",
+        "publishedAt": "2026-07-21T15:00:02Z",
+        "content": "Jensen Huang, chief executive officer of Nvidia Corp., speaks next to a Vera Rubin Ultra Kyber compute tray and a Vera Rubin Ultra Kyber NVLink midplane during a keynote address at the Nvidia GTC con\u2026 [+5617 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Becker's Hospital Review"
+        },
+        "author": "Becker's Hospital Review",
+        "title": "4 more executives leaving Epic: Report - Becker's Hospital Review",
+        "description": null,
+        "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/4-more-executives-leaving-epic-report/",
+        "urlToImage": null,
+        "publishedAt": "2026-07-21T14:52:16Z",
         "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "CNBC"
+        },
+        "author": "Yun Li",
+        "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive - CNBC",
+        "description": "About 206 million SpaceX shares are now sold short, representing roughly 32% of the company's publicly tradable float, according to S3.",
+        "url": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108324918-1782142360494-gettyimages-2281775976-boivin-notitle260619_npgQq.jpeg?v=1783429034&w=1920&h=1080",
+        "publishedAt": "2026-07-21T14:28:52Z",
+        "content": "Elon Musk warned that investors betting against SpaceX have little chance of survival even as short sellers boosted their wagers against the company to about one-third of its publicly tradable shares\u2026 [+2082 chars]"
+    },
+    {
+        "source": {
+            "id": "the-hill",
+            "name": "The Hill"
+        },
+        "author": "Addy Bink",
+        "title": "Allergy medication recalled over potentially \u2018life-threatening\u2019 cross-contamination - The Hill",
+        "description": "Some consumers may have a hypersensitivity to the possible contaminate, officials warn.",
+        "url": "https://thehill.com/business/5980219-allergy-medication-recalled-over-potentially-life-threatening-cross-contamination/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/05/generic-product-recall-e1762293600241_df6581.jpg?w=1280",
+        "publishedAt": "2026-07-21T14:16:00Z",
+        "content": "Skip to content\r\n(NEXSTAR) \u2013 Several lots of an over-the-counter medication used for allergies have been recalled after they were potentially contaminated with a different medication that could cause\u2026 [+2639 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lora Kolodny, Samantha Subin",
+        "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares - CNBC",
+        "description": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak after announcing Aug. 4 as its maiden earnings report",
+        "url": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108322572-1781623538376-NV11GN5J.jpg?v=1781623596&w=1920&h=1080",
+        "publishedAt": "2026-07-21T14:10:49Z",
+        "content": "SpaceX celebrates their IPO at the Nasdaq on June 12th, 2026.\r\nSpaceX's stock gained 7% on Tuesday, attempting to snap a seven-day losing streak after setting its maiden earnings report, which coinci\u2026 [+4174 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Michael Wayland",
+        "title": "GM announces new gas-powered Cadillac vehicles amid EV pullback - CNBC",
+        "description": "GM CEO Mary Barra said Tuesday the next-generation Cadillacs will include new versions of the CT5 sedan, XT5 midsize SUV and discontinued three-row XT6 SUV.",
+        "url": "https://www.cnbc.com/2026/07/21/gm-new-gas-powered-cadillac.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108006866-1721149223038-V-Series.JPG?v=1721149292&w=1920&h=1080",
+        "publishedAt": "2026-07-21T13:54:41Z",
+        "content": "DETROIT General Motors will launch new gas-powered Cadillac vehicles beginning next spring as the automaker continues to shift gears away from all-electric vehicles. \r\nGM CEO Mary Barra said Tuesday \u2026 [+1407 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "Barbara Kollmeyer",
+        "title": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he\u2019s putting his money now. - MarketWatch",
+        "description": "Howard Lindzon is treading carefully with AI investments and betting on \u2018degenerates\u2019",
+        "url": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f",
+        "urlToImage": "https://images.mktw.net/im-97631246/social",
+        "publishedAt": "2026-07-21T13:50:00Z",
+        "content": "Roughly a month ago, Stocktwits CEO and co-founder Howard Lindzon raised a red flag on his blog about chip stocks, selling down more than half of his semiconductor-index exposure.\r\nThat proved savvy \u2026 [+414 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Kate Knibbs",
+        "title": "The Great Peptide Cash Grab Has Begun - WIRED",
+        "description": "The FDA could decide whether to loosen rules around peptide production this week. Some telehealth players are already seeing dollar signs.",
+        "url": "https://www.wired.com/story/fda-peptide-decision-telehealth-companies-cashing-in/",
+        "urlToImage": "https://media.wired.com/photos/6a5e71395f6d3c2bb8444368/191:100/w_1280,c_limit/Business_TheGreatPeptideLandGrabHasBegun_v1_.jpg",
+        "publishedAt": "2026-07-21T13:45:00Z",
+        "content": "Has anyone tried to sell you peptides yet? If not, they probably will soon. Once a niche interest among bodybuilders and biohackers, peptides are an increasingly popular class of substance hyped by b\u2026 [+3652 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
         },
         "author": null,
-        "title": "Anduril launches helicopter strike drone - Financial Times",
-        "description": "Unveiling of \u2018Thunder\u2019 comes as militaries increase autonomous systems in their arsenal",
-        "url": "https://www.ft.com/content/cc727d6a-7f82-4359-a27f-f54c3bee8039?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e360b5b-767f-4dbd-8aa7-b5d6b6c87b29.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-07-20T11:30:02Z",
-        "content": null
+        "title": "The 'Surprisingly Soft' Unit That Caused Danaher To Plummet - Investor's Business Daily",
+        "description": "Danaher stock plummeted Tuesday after reporting what one analyst called \"surprisingly soft\" bioprocessing sales.",
+        "url": "https://www.investors.com/news/technology/danaher-stock-danaher-earnings-q2-2026/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2020/10/Stock-Danaher-01-shutt.jpg",
+        "publishedAt": "2026-07-21T13:06:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": null,
+            "name": "Investor's Business Daily"
         },
-        "author": "WSJ",
-        "title": "Jersey Mike\u2019s Sets IPO Terms That Could Push Market Cap Toward $8 Billion - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/business/retail/jersey-mikes-sets-ipo-terms-that-could-push-market-cap-toward-8-billion-41cd9d18",
-        "urlToImage": null,
-        "publishedAt": "2026-07-20T11:26:00Z",
-        "content": null
+        "author": null,
+        "title": "Trump Oversees Ethics Provisions As Clarity Act Nears Vote - Investor's Business Daily",
+        "description": "The Clarity Act nears a Senate vote this week after President Trump reportedly agreed to a debated ethics provision.",
+        "url": "https://www.investors.com/news/clarity-act-cryptocurrency-market-structure-trump-ethics-senate/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/08/Stock-TrumpBitcoin-mash-shut.jpg",
+        "publishedAt": "2026-07-21T13:00:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Abcnews.com"
+        },
+        "author": "CHAN HO-HIM AP business writer",
+        "title": "China's new AI model halts new subscriptions as demand swamps capacity - ABC News - Breaking News, Latest News and Videos",
+        "description": "The Chinese AI model Kimi K3 has suspended new subscriptions after overwhelming demand pushed its capacity close to its limits",
+        "url": "https://abcnews.com/Technology/wireStory/chinas-new-ai-model-halts-new-subscriptions-demand-134909820",
+        "urlToImage": "https://i.abcnewsfe.com/a/279ba83e-6b2e-4617-b381-d96c3573c7d2/wirestory_4c66a2e0f557ce79d3cc2d769c9a6226_16x9.jpg?w=1600",
+        "publishedAt": "2026-07-21T12:02:24Z",
+        "content": "HONG KONG -- The new, powerful Chinese artificial intelligence model Kimi K3, which has caused a stir in the U.S. tech industry, has suspended new subscriptions after a flood in demand overwhelmed ca\u2026 [+2863 chars]"
     }
 ]
