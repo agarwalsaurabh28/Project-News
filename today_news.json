@@ -1,29 +1,16 @@
 [
     {
         "source": {
-            "id": "ars-technica",
-            "name": "Ars Technica"
+            "id": null,
+            "name": "Investor's Business Daily"
         },
-        "author": "Ashley Belanger",
-        "title": "Judge approves Anthropic\u2019s $1.5 billion copyright settlement with authors - Ars Technica",
-        "description": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
-        "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg",
-        "publishedAt": "2026-07-21T17:33:14Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Rebecca Bellan",
-        "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro - TechCrunch",
-        "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-        "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-        "publishedAt": "2026-07-21T17:11:50Z",
-        "content": "On Tuesday, Google DeepMind released Gemini 3.6 Flash,\u00a03.5 Flash-Lite, and 3.5 Flash Cyber. Gemini 3.6 Flash is Googles workhorse model that promises improved capabilities in coding, knowledge work, \u2026 [+2088 chars]"
+        "author": null,
+        "title": "Tesla Earnings, Elon Musk Loom: What Investors Want To Know (Live Coverage). - Investor's Business Daily",
+        "description": "Tesla will report after the close on Wednesday, followed by the conference call.",
+        "url": "https://www.investors.com/news/tesla-earnings-elon-musk-robotaxi-optimus-electric-vehicle-evs/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/01/Stock-Tesla-NewModelY-01-company.jpg",
+        "publishedAt": "2026-07-22T18:29:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
@@ -31,25 +18,90 @@
             "name": "Fox Business"
         },
         "author": "Eric Revell",
-        "title": "Jamie Dimon says he wouldn\u2019t buy stocks or Treasurys at current prices - Fox Business",
-        "description": "Jamie Dimon said he wouldn't buy stocks or long-term Treasury bonds at current prices, warning that geopolitical and fiscal risks are underpriced.",
-        "url": "https://www.foxbusiness.com/markets/jamie-dimon-says-he-wouldnt-buy-stocks-treasurys-current-prices",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/jamie-dimon-reagan-nef-26.jpg?ve=1&tl=1",
-        "publishedAt": "2026-07-21T16:45:00Z",
-        "content": "JPMorgan Chase CEO Jamie Dimon said in an interview on Monday that he wouldn't buy stocks or long-term Treasury bonds at their current prices as he thinks investors aren't accounting fully for risks \u2026 [+3366 chars]"
+        "title": "Google expands Miami office as co-founders flee California for South Florida - Fox Business",
+        "description": "Larry Page and Sergey Brin purchased multimillion-dollar homes in South Florida as California voters weigh a billionaire wealth tax this November.",
+        "url": "https://www.foxbusiness.com/economy/google-expands-miami-office-co-founders-flee-california-south-florida",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/02/0/0/miami-skyline.jpg?ve=1&tl=1",
+        "publishedAt": "2026-07-22T16:18:00Z",
+        "content": "Google reportedly expanded its office presence in Miami this year after two of its co-founders purchased houses in South Florida.\r\nAlphabet, the parent company of Google, signed a lease expanding its\u2026 [+3146 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Amber Tong, Laura Curtis",
+        "title": "Trump\u2019s 100% Generic Drug Duty Threatens US Low-Cost Supply - Bloomberg.com",
+        "description": "Generic drug manufacturers must move production to the US or face a 100% import duty from August 2028, President Donald Trump said, threatening the supply of low-cost medicines that millions of Americans rely on.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plans-100-tariff-on-generic-drugs-from-august-2028",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQl6SYKD.klk/v0/1200x800.jpg",
+        "publishedAt": "2026-07-22T16:16:33Z",
+        "content": "Generic drug manufacturers must move production to the US or face a 100% import duty from August 2028, President Donald Trump said, threatening the supply of low-cost medicines that millions of Ameri\u2026 [+255 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Tim De Chant",
+        "title": "OpenAI\u2019s AI spending spree has ballooned to $750B - TechCrunch",
+        "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+        "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+        "publishedAt": "2026-07-22T16:13:30Z",
+        "content": "OpenAI announced Wednesday that it will spend $750 billion on infrastructure through 2030, some 25% more than it estimated earlier this year, The Wall Street Journal reported. The renewed blitz comes\u2026 [+2654 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Matt Peterson",
-        "title": "IRS chief Frank Bisignano dismisses JPMorgan spying allegations - CNBC",
-        "description": "Bisignano denied allegations The Wall Street Journal reported that he surveilled his colleagues while working at JPMorgan more than a decade ago.",
-        "url": "https://www.cnbc.com/2026/07/21/irs-chief-frank-bisignano-laughs-off-jpmorgan-spying-allegations.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108319975-1781129828071-gettyimages-2280246653-SOCIAL_SECURITY_CONGRESS.jpeg?v=1781129865&w=1920&h=1080",
-        "publishedAt": "2026-07-21T16:18:27Z",
-        "content": "Internal Revenue Service CEO Frank Bisignano denied allegations that he spied on his fellow executives while working at JPMorgan Chase more than a decade age. \"None of it's true,\" Bisignano told CNBC\u2026 [+3755 chars]"
+        "author": "Emily Wilkins",
+        "title": "Senate crypto bill would ban federal officials \u2014 including presidents \u2014 from issuing digital assets - CNBC",
+        "description": "A new version of the Clarity Act would impose the first limits on federal officials sponsoring or issuing cryptocurrency.",
+        "url": "https://www.cnbc.com/2026/07/22/senate-crypto-bill-would-ban-federal-officials-from-issuing-digital-assets.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108328672-1782825697565-gettyimages-2283477671-US_CAPITOL.jpeg?v=1782825719&w=1920&h=1080",
+        "publishedAt": "2026-07-22T16:00:02Z",
+        "content": "Presidents and other federal officials would be banned from issuing or sponsoring cryptocurrency and other digital assets under newly updated legislation the Senate is considering.\r\nRepublicans on We\u2026 [+2157 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ashley Capoot",
+        "title": "OpenAI cyber models broke out of training environment to hack Hugging Face - CNBC",
+        "description": "The incident is unique because it was \"driven, end to end, by an autonomous AI agent system,\" according to Hugging Face.",
+        "url": "https://www.cnbc.com/2026/07/22/open-ai-cyber-models-hack-hugging-face.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108316425-1780524392850-gettyimages-2278944432-AFP_B4XB76X.jpeg?v=1780524485&w=1920&h=1080",
+        "publishedAt": "2026-07-22T15:54:04Z",
+        "content": "OpenAI said that its artificial intelligence models were behind an \"unprecedented cyber incident\" that affected the open-source developer platform Hugging Face, rattling researchers across the indust\u2026 [+2803 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Stan Choe",
+        "title": "Oil prices rise another 3%, while Wall Street drifts in mixed trading - AP News",
+        "description": "The U.S. stock market is drifting in mixed trading, while oil prices climb another 3% as fighting continues in the war with Iran. The S&P 500 slipped less than 0.1% Wednesday after swinging between modest losses and gains. The Dow Jones Industrial Average add\u2026",
+        "url": "https://apnews.com/article/stocks-markets-iran-ai-trump-207dfa55d180fcc565420454178168c5",
+        "urlToImage": "https://dims.apnews.com/dims4/default/80f8974/2147483647/strip/true/crop/4275x2849+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fde%2F65%2F5374686139550e8b4b057f23015b%2F4529033bae1a4c77be311aae4d096f87",
+        "publishedAt": "2026-07-22T15:49:00Z",
+        "content": "NEW YORK (AP) The U.S. stock market is drifting in mixed trading Wednesday, while oil prices climb another 3% as fighting continues in the war with Iran. \r\nThe S&amp;P 500 slipped less than 0.1%, com\u2026 [+4243 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": null,
+        "title": "AT&T Earnings Beat. CEO Stankey: Starlink Deal Not Needed At All - Investor's Business Daily",
+        "description": "AT&T stock rose amid Q2 earnings that topped estimates while revenue missed for the second straight quarter. Wireless postpaid phone subscriber additions came in above expectations.",
+        "url": "https://www.investors.com/news/technology/att-stock-q2-2026-earnings-wireless-fiber-growth/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2022/04/Stock-attbuilding-01-shutt.jpg",
+        "publishedAt": "2026-07-22T15:39:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
@@ -57,193 +109,128 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Stock Market Today: Nasdaq Rises on Chip Stock Gains, Oil Climbs \u2014 Live Updates - WSJ",
+        "title": "In Surprise Move, Mamdani Names Lina Khan to Development Post - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026",
+        "url": "https://www.wsj.com/politics/in-surprise-move-mamdani-names-lina-khan-to-development-post-993abe92",
         "urlToImage": null,
-        "publishedAt": "2026-07-21T15:53:00Z",
+        "publishedAt": "2026-07-22T15:34:00Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Brent D. Griffiths",
-        "title": "Treasury Secretary says its 'unacceptable' that Chinese open source AI models may have been built on 'IP theft' - Business Insider",
-        "description": "Treasury Secretary Scott Bessent said the Trump administration is looking into whether Chinese open source AI models were built on stolen IP.",
-        "url": "https://www.businessinsider.com/treasury-secretary-chinese-ai-open-source-sanctions-kimi-k3-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a5f87f3ce52cb26b8391cd0?width=1200&format=jpeg",
-        "publishedAt": "2026-07-21T15:32:26Z",
-        "content": "The Trump administration is signaling that it may clamp down on Chinese open-source AI models that are the talk of the industry.\r\nOn Tuesday, Treasury Secretary Scott Bessent said the US government i\u2026 [+3095 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Pras Subramanian",
-        "title": "GM stock rises after automaker boosts full-year guidance, reports Q2 earnings - Yahoo Finance",
-        "description": "GM reported second quarter results before the bell on Tuesday that topped expectations, with the Big Three stalwart continuing to grow profits, despite fewer...",
-        "url": "https://finance.yahoo.com/markets/stocks/article/gm-stock-rises-after-automaker-boosts-full-year-guidance-reports-q2-earnings-162130416.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/B00E8FAC1BA022CF3D375AA66354A467E0BD7C2AB57E88A861AE05596FF79E3C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2Fd584f0b0-2448-11f0-bdbf-82316d711bfa",
-        "publishedAt": "2026-07-21T15:31:59Z",
-        "content": "GM (GM) reported second quarter results before the bell on Tuesday that topped expectations, with the Big Three stalwart continuing to grow profits despite fewer sales.\u00a0\r\nAnd for a second time this y\u2026 [+4479 chars]"
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": null,
-        "title": "Joe Biden mandated all new vehicles come installed with a 'kill switch.' This Republican wants to repeal it - Fox News",
-        "description": "Rep. Scott Perry is pushing the No Kill Switches in Cars Act to repeal a federal mandate requiring passive driver impairment monitoring technology in new vehicles, citing privacy and cost concerns.",
-        "url": "https://www.foxnews.com/politics/joe-biden-mandated-all-new-vehicles-come-installed-kill-switch-republican-wants-repeal",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/Scott-Perry-of-Cumberland-County-Pennsylvania.jpeg",
-        "publishedAt": "2026-07-21T15:13:44Z",
-        "content": "Rep. Scott Perry, R-Penn., wants to kill the kill switch.\r\nA bill Perry is seeking to push through Congress would rescind a provision in former President Joe Biden's Infrastructure Investment and Job\u2026 [+8736 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kif Leswing",
-        "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel - CNBC",
-        "description": "Nvidia released new information about its data center CPU, called Vera, that prospective customers need to fully evaluate the chip.",
-        "url": "https://www.cnbc.com/2026/07/21/nvidia-vera-cpu-ai-amd-intel.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108330581-1783302717764-gettyimages-2266485037-NVIDIA_GTC.jpeg?v=1784578669&w=1920&h=1080",
-        "publishedAt": "2026-07-21T15:00:02Z",
-        "content": "Jensen Huang, chief executive officer of Nvidia Corp., speaks next to a Vera Rubin Ultra Kyber compute tray and a Vera Rubin Ultra Kyber NVLink midplane during a keynote address at the Nvidia GTC con\u2026 [+5617 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Becker's Hospital Review"
-        },
-        "author": "Becker's Hospital Review",
-        "title": "4 more executives leaving Epic: Report - Becker's Hospital Review",
-        "description": null,
-        "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ehrs/4-more-executives-leaving-epic-report/",
-        "urlToImage": null,
-        "publishedAt": "2026-07-21T14:52:16Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Yun Li",
-        "title": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive - CNBC",
-        "description": "About 206 million SpaceX shares are now sold short, representing roughly 32% of the company's publicly tradable float, according to S3.",
-        "url": "https://www.cnbc.com/2026/07/21/bets-against-spacex-grow-to-32percent-of-float-as-elon-musk-warns-short-sellers-wont-survive.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108324918-1782142360494-gettyimages-2281775976-boivin-notitle260619_npgQq.jpeg?v=1783429034&w=1920&h=1080",
-        "publishedAt": "2026-07-21T14:28:52Z",
-        "content": "Elon Musk warned that investors betting against SpaceX have little chance of survival even as short sellers boosted their wagers against the company to about one-third of its publicly tradable shares\u2026 [+2082 chars]"
-    },
-    {
-        "source": {
-            "id": "the-hill",
-            "name": "The Hill"
-        },
-        "author": "Addy Bink",
-        "title": "Allergy medication recalled over potentially \u2018life-threatening\u2019 cross-contamination - The Hill",
-        "description": "Some consumers may have a hypersensitivity to the possible contaminate, officials warn.",
-        "url": "https://thehill.com/business/5980219-allergy-medication-recalled-over-potentially-life-threatening-cross-contamination/",
-        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/05/generic-product-recall-e1762293600241_df6581.jpg?w=1280",
-        "publishedAt": "2026-07-21T14:16:00Z",
-        "content": "Skip to content\r\n(NEXSTAR) \u2013 Several lots of an over-the-counter medication used for allergies have been recalled after they were potentially contaminated with a different medication that could cause\u2026 [+2639 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Lora Kolodny, Samantha Subin",
-        "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares - CNBC",
-        "description": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak after announcing Aug. 4 as its maiden earnings report",
-        "url": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108322572-1781623538376-NV11GN5J.jpg?v=1781623596&w=1920&h=1080",
-        "publishedAt": "2026-07-21T14:10:49Z",
-        "content": "SpaceX celebrates their IPO at the Nasdaq on June 12th, 2026.\r\nSpaceX's stock gained 7% on Tuesday, attempting to snap a seven-day losing streak after setting its maiden earnings report, which coinci\u2026 [+4174 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Michael Wayland",
-        "title": "GM announces new gas-powered Cadillac vehicles amid EV pullback - CNBC",
-        "description": "GM CEO Mary Barra said Tuesday the next-generation Cadillacs will include new versions of the CT5 sedan, XT5 midsize SUV and discontinued three-row XT6 SUV.",
-        "url": "https://www.cnbc.com/2026/07/21/gm-new-gas-powered-cadillac.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108006866-1721149223038-V-Series.JPG?v=1721149292&w=1920&h=1080",
-        "publishedAt": "2026-07-21T13:54:41Z",
-        "content": "DETROIT General Motors will launch new gas-powered Cadillac vehicles beginning next spring as the automaker continues to shift gears away from all-electric vehicles. \r\nGM CEO Mary Barra said Tuesday \u2026 [+1407 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MarketWatch"
-        },
-        "author": "Barbara Kollmeyer",
-        "title": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he\u2019s putting his money now. - MarketWatch",
-        "description": "Howard Lindzon is treading carefully with AI investments and betting on \u2018degenerates\u2019",
-        "url": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f",
-        "urlToImage": "https://images.mktw.net/im-97631246/social",
-        "publishedAt": "2026-07-21T13:50:00Z",
-        "content": "Roughly a month ago, Stocktwits CEO and co-founder Howard Lindzon raised a red flag on his blog about chip stocks, selling down more than half of his semiconductor-index exposure.\r\nThat proved savvy \u2026 [+414 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Kate Knibbs",
-        "title": "The Great Peptide Cash Grab Has Begun - WIRED",
-        "description": "The FDA could decide whether to loosen rules around peptide production this week. Some telehealth players are already seeing dollar signs.",
-        "url": "https://www.wired.com/story/fda-peptide-decision-telehealth-companies-cashing-in/",
-        "urlToImage": "https://media.wired.com/photos/6a5e71395f6d3c2bb8444368/191:100/w_1280,c_limit/Business_TheGreatPeptideLandGrabHasBegun_v1_.jpg",
-        "publishedAt": "2026-07-21T13:45:00Z",
-        "content": "Has anyone tried to sell you peptides yet? If not, they probably will soon. Once a niche interest among bodybuilders and biohackers, peptides are an increasingly popular class of substance hyped by b\u2026 [+3652 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "The 'Surprisingly Soft' Unit That Caused Danaher To Plummet - Investor's Business Daily",
-        "description": "Danaher stock plummeted Tuesday after reporting what one analyst called \"surprisingly soft\" bioprocessing sales.",
-        "url": "https://www.investors.com/news/technology/danaher-stock-danaher-earnings-q2-2026/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2020/10/Stock-Danaher-01-shutt.jpg",
-        "publishedAt": "2026-07-21T13:06:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Trump Oversees Ethics Provisions As Clarity Act Nears Vote - Investor's Business Daily",
-        "description": "The Clarity Act nears a Senate vote this week after President Trump reportedly agreed to a debated ethics provision.",
-        "url": "https://www.investors.com/news/clarity-act-cryptocurrency-market-structure-trump-ethics-senate/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/08/Stock-TrumpBitcoin-mash-shut.jpg",
-        "publishedAt": "2026-07-21T13:00:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Abcnews.com"
         },
-        "author": "CHAN HO-HIM AP business writer",
-        "title": "China's new AI model halts new subscriptions as demand swamps capacity - ABC News - Breaking News, Latest News and Videos",
-        "description": "The Chinese AI model Kimi K3 has suspended new subscriptions after overwhelming demand pushed its capacity close to its limits",
-        "url": "https://abcnews.com/Technology/wireStory/chinas-new-ai-model-halts-new-subscriptions-demand-134909820",
-        "urlToImage": "https://i.abcnewsfe.com/a/279ba83e-6b2e-4617-b381-d96c3573c7d2/wirestory_4c66a2e0f557ce79d3cc2d769c9a6226_16x9.jpg?w=1600",
-        "publishedAt": "2026-07-21T12:02:24Z",
-        "content": "HONG KONG -- The new, powerful Chinese artificial intelligence model Kimi K3, which has caused a stir in the U.S. tech industry, has suspended new subscriptions after a flood in demand overwhelmed ca\u2026 [+2863 chars]"
+        "author": "ABC News - Breaking News, Latest News and Videos",
+        "title": "More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News - Breaking News, Latest News and Videos",
+        "description": null,
+        "url": "https://abcnews.com/Health/11500-cyclosporiasis-cases-reported-41-states-cdc/story?id\\\\u003d134979908",
+        "urlToImage": null,
+        "publishedAt": "2026-07-22T15:23:22Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Brian Sozzi",
+        "title": "Tech's AI debt boom, in one chart - Yahoo Finance",
+        "description": "So much debt is being piled on tech companies right now.",
+        "url": "https://finance.yahoo.com/technology/article/techs-ai-debt-boom-in-one-chart-143849995.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/F8D373500C513DEFC318BBC6FD85F4346791E1D191142F7480BDCBEEC597BBAD/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2F0b82c910-037a-11f1-bfff-64481a7e8c60",
+        "publishedAt": "2026-07-22T14:38:49Z",
+        "content": "The year of tech companies tapping the debt markets to fuel their AI ambitions is far from over, and debt issuance is already busting through Wall Street projections, with five months left to go in 2\u2026 [+2696 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Stock Market Today: Nasdaq Slips, Oil Price Touches $95 as War Squeezes Supply \u2014 Live Updates - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-22-2026",
+        "urlToImage": null,
+        "publishedAt": "2026-07-22T14:28:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Kristen Altus",
+        "title": "Cathie Wood says battered SpaceX could become 'most important company in global history' - Fox Business",
+        "description": "ARK Invest allocated $80 million to SpaceX after its IPO, and CEO Cathie Wood remains bullish even as the stock sheds nearly $1.4 trillion in market value.",
+        "url": "https://www.foxbusiness.com/markets/cathie-wood-says-battered-spacex-most-important-company-global-history",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/cathie-wood-elon-musk-split.jpg?ve=1&tl=1",
+        "publishedAt": "2026-07-22T14:15:00Z",
+        "content": "ARK Invest CEO Cathie Wood is defending her fund's stake in SpaceX, declaring the aerospace and satellite network pioneer could become the \"most important company in global history\" despite the stock\u2026 [+1896 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": null,
+        "title": "Why Arrowhead Shot Sky-High, While Chief Rival Ionis Toppled - Investor's Business Daily",
+        "description": "Arrowhead Pharmaceuticals' triglycerides-buster hit the \"best-case scenario\" in two studies Wednesday.",
+        "url": "https://www.investors.com/news/technology/arrowhead-pharmaceuticals-stock-triglycerides-treatment/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2022/11/Stock-arrowheadpharma-01-adobe.jpg",
+        "publishedAt": "2026-07-22T14:05:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Grace O'Donnell",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq diverge with Alphabet, Tesla earnings on deck - Yahoo! Finance Canada",
+        "description": "Stocks slid as markets braced for a round of Big Tech earnings, the next AI trade test.",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-earnings-083644887.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/2E1DA596B233F3595218FDB5CE341382580F7C820C6718BD0C3255F3E48957E1/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fd13df058-a03c-4059-bd09-aa31e3929e7d",
+        "publishedAt": "2026-07-22T13:41:16Z",
+        "content": "US stocks diverged on Wednesday as investors looked ahead to earnings from Alphabet (GOOG) and Tesla (TSLA)\u00a0after the market close, while fresh tariffs and rising oil prices remained in focus.\r\nThe D\u2026 [+1506 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Atlanta Journal Constitution"
+        },
+        "author": "Mirtha Donastorg, Amy Wenk",
+        "title": "Chick-fil-A data breach exposes personal information from loyalty accounts - AJC.com",
+        "description": "Chick-fil-A said an automated attack on Chick-fil-A One accounts exposed the personal information of an undisclosed number of customers.",
+        "url": "https://www.ajc.com/business/2026/07/chick-fil-a-data-breach-exposes-personal-information-from-loyalty-accounts/",
+        "urlToImage": "https://images.ajc.com/resizer/v2/NSVE7ZL7PZDEZBZH2CKOG3EHAQ.jpg?auth=979c5c124ede8458fe5e3a32a473e77892e94946c0b04c803ee4874becf88c17&width=1200&height=630&smart=true",
+        "publishedAt": "2026-07-22T13:32:39Z",
+        "content": "Some Chick-fil-A accounts were hacked last month, exposing the personal information of an undisclosed number of customers, the company said this week.\r\nThe data potentially accessed in the hack inclu\u2026 [+3455 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Angela Palumbo",
+        "title": "Alphabet Earnings Preview: Will Doubling AI Capex Pay Off for GOOGL Stock? - Barron's",
+        "description": "Alphabet will report second quarter earnings after the stock market closes Wednesday. Analysts expect capex for the quarter to be $45.1 billion, a 101% increase from a year earlier.",
+        "url": "https://www.barrons.com/articles/alphabet-earnings-googl-stock-price-274aed13",
+        "urlToImage": "https://images.barrons.com/im-02323037/social",
+        "publishedAt": "2026-07-22T13:04:00Z",
+        "content": "Alphabetwill report earnings Wednesday, and Wall Street expects capital spending to double as the company builds the infrastructure needed to power artificial intelligence.\r\nCopyright \u00a92026Dow Jones \u2026 [+72 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Alexa St. John",
+        "title": "Need backup power? Automakers want you to look no further than their vehicles in your driveway - AP News",
+        "description": "Texas resident Kenneth Kovar has a home energy setup from Ford, in which drivers of certain popular F-150 models can plug their vehicle directly into their electric meter to power their home during an outage. It is the latest example of automakers broadly ada\u2026",
+        "url": "https://apnews.com/article/climate-automakers-home-energy-power-outage-c5e2945dbf973794de453efe3178a2dd",
+        "urlToImage": "https://dims.apnews.com/dims4/default/380c7b9/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F38%2Fcd%2Fb7cc8e43010026b83f89c2fb1816%2Ff048feb7c1704c16bee60f2181b5edc6",
+        "publishedAt": "2026-07-22T13:02:00Z",
+        "content": "DETROIT (AP) Winter Storm Uri, the multiday freeze that slammed Texas in February 2021 and pummeled the states power grid, has been on Kenneth Kovars mind ever since. Though the resident of New Braun\u2026 [+6032 chars]"
     }
 ]
