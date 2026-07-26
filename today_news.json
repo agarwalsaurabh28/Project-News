@@ -1,262 +1,236 @@
 [
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Kerry  Breen",
-        "title": "Cyclospora outbreak linked to iceberg lettuce expands to 4 more states - CBS News",
-        "description": "The cyclosporiasis outbreak, the nation's largest, is currently affecting nine states.",
-        "url": "https://www.cbsnews.com/news/cyclospora-outbreak-expands-lettuce-mexico/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/24/5e9fae4a-784b-425b-bb6c-c69d3a994a4e/thumbnail/1200x630/d6d79a463cd4849f6fcb51fb395de491/gettyimages-144325185.jpg",
-        "publishedAt": "2026-07-24T13:45:00Z",
-        "content": "A cyclospora outbreak linked to shredded iceberg lettuce from central Mexico has expanded to four more states, the U.S. Department of Health and Human Services confirmed to CBS News on Friday. This b\u2026 [+1478 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Bradford Betz",
-        "title": "Albertsons warns of softer grocery demand as consumers pull back - Fox Business",
-        "description": "Albertsons cut its annual outlook after comparable grocery sales declined, while digital and pharmacy growth helped offset pressure in its core business.",
-        "url": "https://www.foxbusiness.com/economy/albertsons-warns-softer-grocery-demand-consumers-pull-back",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/Albertsons-shoppers.jpg?ve=1&tl=1",
-        "publishedAt": "2026-07-24T13:34:00Z",
-        "content": "Albertsons lowered its fiscal 2026 sales and earnings outlook Thursday after weaker grocery demand and a more cautious consumer weighed on its first-quarter performance.\r\nThe grocery chain now expect\u2026 [+3268 chars]"
+        "author": "Haze Fan, Pei Li",
+        "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts - Bloomberg.com",
+        "description": "DeepSeek has told prospective investors in its second fundraising round that it\u2019s suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Liang Wenfeng about US-Chinese AI competition went viral.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOMuldH8BI_k/v1/1200x931.jpg",
+        "publishedAt": "2026-07-25T14:49:55Z",
+        "content": "DeepSeek has told prospective investors in its second fundraising round that its suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Li\u2026 [+617 chars]"
     },
     {
         "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Evan Halper",
-        "title": "Why the gas price surge may be just the start - The Washington Post",
-        "description": "After five months of war, analysts say oil markets will be forced to price in long-term disruption to global energy flows.",
-        "url": "https://www.washingtonpost.com/business/2026/07/24/gas-prices-poised-climb-further-markets-price-iran-disruption/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NN2AYVSLDAIGVVRARYJFESYWNA_size-normalized.jpg&w=1440",
-        "publishedAt": "2026-07-24T13:32:39Z",
-        "content": "American drivers face fresh sticker shock after disruptions from the Iran war intensified in recent days, sending oil over $100 a barrel and national gasoline prices above $4 a gallon.\r\nBut pricescou\u2026 [+235 chars]"
+        "author": "Christopher Rowland",
+        "title": "Some people are getting shut out when it comes to GLP-1 drugs. Here\u2019s why. - The Washington Post",
+        "description": "A third of state Medicaid programs paid for the drugs for weight loss as of mid-2025. This year it's about one in five, according to a review by The Washington Post.",
+        "url": "https://www.washingtonpost.com/health/2026/07/24/medicaid-cuts-have-put-ozempic-other-glp-1-drugs-out-reach-some/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A3EFGOX437GZZD6MXSTWVOPGYQ_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-07-25T14:36:30Z",
+        "content": "Primary care doctor Ian Huntington has been counseling low-income Boston patients how to keep their weight under control, after the states Medicaid program stopped covering GLP-1 drugs for weight los\u2026 [+12 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "TheStreet"
         },
-        "author": "Sean Conlon, Joseph Wilkins, Justina Lee, Lee Ying Shan, Fred Imbert",
-        "title": "Dow futures rebound by 150 points as oil surge eases, Intel gains after earnings: Live updates - CNBC",
-        "description": "The three major averages are heading for weekly losses, led by the tech-heavy Nasdaq Composite.",
-        "url": "https://www.cnbc.com/2026/07/23/stock-market-today-live-updates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108339274-17848187672026-07-23t145241z_1118146142_rc2pjma6771y_rtrmadp_0_usa-stocks.jpeg?v=1784818796&w=1920&h=1080",
-        "publishedAt": "2026-07-24T13:03:00Z",
-        "content": "The Nasdaq Composite fell on Friday, bogged down by chip stocks, as the index headed for a losing week.\r\nThe tech-heavy Nasdaq dropped 0.5%, while the S&amp;P 500 traded around the flatline. The Dow \u2026 [+2171 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Rachel Barber",
-        "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict - USA Today",
-        "description": "Federal Reserve Chair Kevin Warsh expects another \"good family fight\" at policymakers' July meeting. Why it's hard to know if interest rates will change.",
-        "url": "https://www.usatoday.com/story/money/economy/2026/07/24/july-fed-meeting-interest-rates-what-to-expect/91007839007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/23/USAT/91022100007-20260617-t-185612-z-509635631-rc-2-uvlamb-0-g-1-rtrmadp-3-usafed.JPG?crop=4319,2431,x0,y224&width=3200&height=1802&format=pjpg&auto=webp",
-        "publishedAt": "2026-07-24T12:55:00Z",
-        "content": "As many Americans struggle to make ends meet, Federal Reserve Chair Kevin Warsh has pledged to bring inflation back to its 2% target, but it remains unclear exactly how he plans to get there as the c\u2026 [+6989 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Erika Edwards",
-        "title": "Cyclosporiasis outbreak expands to 9 states - NBC News",
-        "description": "The massive, multistate outbreak of cyclosporiasis has expanded to nine states, the Centers for Disease Control and Prevention said Friday.",
-        "url": "https://www.nbcnews.com/health/health-news/cyclosporiasis-outbreak-expands-9-states-rcna589013",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260724-iceberg-lettuce-mn-0830-98ffc1.jpg",
-        "publishedAt": "2026-07-24T12:32:30Z",
-        "content": "The massive, multistate outbreak of cyclosporiasis has expanded to nine states, the Centers for Disease Control and Prevention said Friday. \r\nSubscribe to read this story ad-free\r\nGet unlimited acces\u2026 [+2957 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KOAT New Mexico"
-        },
-        "author": "Vincent Rodriguez",
-        "title": "Recall issued for eggs sold in New Mexico - KOAT",
-        "description": "FDA says eggs sold in New Mexico are being recalled over possible Salmonella contamination.",
-        "url": "https://www.koat.com/article/new-mexico-egg-recall/73245665",
-        "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/3e79fc22-6768-474e-8112-1d8d23abe98a.png?resize=1200%3A*&crop=1.00xw%3A0.748xh%3B0%2C0",
-        "publishedAt": "2026-07-24T11:17:00Z",
-        "content": "NEW MEXICOThe Food and Drug Administration has announced that Midwest Poultry Services is voluntarily recalling white shell eggs and brown cage free eggs sold in New Mexico due to the potential of Sa\u2026 [+962 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Robert Frank",
-        "title": "Boom in tech wealth is fueling record prices for dinosaur bones, art and watches, auction houses say - CNBC",
-        "description": "The major auction houses racked up nearly $10 billion in sales in the first half, marking one of the strongest-ever starts to the year.",
-        "url": "https://www.cnbc.com/2026/07/24/wealth-auctions-art-watches.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108338623-1784736667371-gettyimages-2283667030-AFP_B8YA9H6.jpeg?v=1784845634&w=1920&h=1080",
-        "publishedAt": "2026-07-24T11:00:01Z",
-        "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer.\u00a0Sign up\u00a0to receive future editions, straight\u2026 [+4973 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Heesu Lee",
-        "title": "Samsung, SK Hynix to Ink Large Chip Supply Deals With US Firms - Bloomberg.com",
-        "description": "Samsung Electronics Co. and SK Hynix Inc. are set to unveil major agreements involving \u201cvery large\u201d sums with leading US technology companies during President Lee Jae Myung\u2019s visit to Silicon Valley, a senior presidential official said.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-24/samsung-sk-hynix-to-ink-large-chip-supply-deals-with-us-firms",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSKApccEcjAc/v1/1200x800.jpg",
-        "publishedAt": "2026-07-24T11:00:00Z",
-        "content": "Samsung Electronics Co. and SK Hynix Inc. are set to unveil major agreements involving very large sums with leading US technology companies during President Lee Jae Myungs visit to Silicon Valley, a \u2026 [+325 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Andrew Pantazi",
-        "title": "Europe just fined Google $1 billion, the day before Trump is expected to announce tariffs - Axios",
-        "description": "The clash over U.S. tech giants is escalating.",
-        "url": "https://www.axios.com/2026/07/23/eu-google-billion-fine-search-play-store",
-        "urlToImage": "https://images.axios.com/_JF0D15b4Az4gpFr37j5uPrw3eo=/0x0:1920x1080/1366x768/2019/01/22/1548126298338.jpg",
-        "publishedAt": "2026-07-24T10:53:05Z",
-        "content": "Driving the news: The fine is just one half of Thursday's action. The commission also ordered Google to overhaul how it ranks rivals in Search and how it operates its Play store.\r\n<ul><li>These are t\u2026 [+3239 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WMUR Manchester"
-        },
-        "author": "Jackson Stoever",
-        "title": "9 confirmed cases of cyclosporiasis linked to lettuce served at Cheshire Medical Center - WMUR",
-        "description": "Nine people who ate lettuce that was served at the Cheshire Medical Center cafeteria in Keene came down with confirmed cases of cyclosporiasis, state health officials said Thursday.",
-        "url": "https://www.wmur.com/article/cyclosporiasis-lettuce-cheshire-medical-center-723/73249439",
-        "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/06a81242-59c5-4443-a497-5b3e882234e6.jpg?resize=1200%3A*&crop=1.00xw%3A1.00xh%3B0%2C0",
-        "publishedAt": "2026-07-24T10:41:00Z",
-        "content": "CONCORD, N.H.Nine people who ate lettuce that was served at the Cheshire Medical Center cafeteria in Keene came down with confirmed cases of cyclosporiasis, state health officials said Thursday.\r\nThe\u2026 [+1843 chars]"
-    },
-    {
-        "source": {
-            "id": "the-hill",
-            "name": "The Hill"
-        },
-        "author": "Miranda Nazzaro",
-        "title": "OpenAI\u2019s breach of Hugging Face stokes fears about what\u2019s next for AI - The Hill",
-        "description": "Washington and the technology industry are on high alert this week after OpenAI revealed that some of its AI agents went rogue and hacked into the systems of technology start-up Hugging Face.\u00a0 The incident bore out years of warnings from the tech and cybersec\u2026",
-        "url": "https://thehill.com/policy/technology/5987397-openai-hugging-face-hack/",
-        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AI_Nazzaro_AdobeStock.jpg?w=1280",
-        "publishedAt": "2026-07-24T10:00:00Z",
-        "content": "Skip to content\r\nWashington and the technology industry are on high alert this week after OpenAI revealed that some of its AI agents went rogue and hacked into the systems of technology start-up Hugg\u2026 [+7406 chars]"
+        "author": "thestreet.com",
+        "title": "Bankrupt fried chicken chain franchisee sells last 23 locations - thestreet.com",
+        "description": null,
+        "url": "https://www.thestreet.com/restaurants/popeyes-franchisee-sells-23-more-stores",
+        "urlToImage": null,
+        "publishedAt": "2026-07-25T14:07:00Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Daniel Howley",
-        "title": "Intel stock rises after Q2 earnings blow past estimates on top and bottom lines, upbeat Q3 outlook - Yahoo Finance",
-        "description": "Intel reported its Q2 earnings after the bell on Thursday.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/intel-stock-rises-after-q2-earnings-blow-past-estimates-on-top-and-bottom-lines-upbeat-q3-outlook-121538508.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/1CF53899E55D53B908D908C2B4810FB6F6EA55736A0BAFA434444E25B6F45E02/subgraphmysterio/resizefill_w1200_h806;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2Fe71d93ab-3903-4d59-803b-30c8def0ddf9",
-        "publishedAt": "2026-07-24T08:08:23Z",
-        "content": "Intel (INTC) reported its second quarter earnings after the bell on Thursday, blowing past Wall Street's expectations on both the top and bottom lines and topping third quarter guidance estimates.\r\nI\u2026 [+3704 chars]"
+        "author": "Brian Sozzi",
+        "title": "Alphabet flops, Intel shocks, and Tesla tanks: AlphaSpace weekly recap - Yahoo Finance",
+        "description": "Some markets observations, compliments of Yahoo Finance AlphaSpace.",
+        "url": "https://finance.yahoo.com/markets/article/alphabet-flops-intel-shocks-and-tesla-tanks-alphaspace-weekly-recap-123816321.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/07340B54268F308DE7815EC26D69FBA1A61FCBC48F18EBF4CD3C953B47CFD95B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fed937aaa-069e-453c-8853-fc66794cae36",
+        "publishedAt": "2026-07-25T12:38:16Z",
+        "content": "Earnings season kicked into warp overdrive this past week. And it won't be any easier to navigate the market next week, with results from the likes of Amazon (AMZN), Meta (META), and Microsoft (MSFT)\u2026 [+2274 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "usa-today",
+            "name": "USA Today"
         },
-        "author": "Eleanor Pringle",
-        "title": "\u2018The demographic dividend of the last 40 years is ending\u2019: J.P. Morgan says the world is running out of the two things that kept interest rates down - Fortune",
-        "description": "JPMorgan's Joyce Chang and team wrote deficits and smaller populations will shape the global economy.",
-        "url": "https://fortune.com/2026/07/24/demographic-dividend-ending-jp-morgan-interest-rates/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-539723657.jpg?resize=1200,600",
-        "publishedAt": "2026-07-24T07:04:00Z",
-        "content": "In 2025, the IMF reported that,\u00a0across the globe, companies, households, and countries had amassed $251 trillion in debt. Looking toward the end of 2026, J.P. Morgan has warned that interest rates on\u2026 [+3800 chars]"
+        "author": "Gabe Hauari, USA TODAY",
+        "title": "You can get free Raising Cane's on National Chicken Finger Day - Yahoo Life UK",
+        "description": "Raising Cane's is celebrating National Chicken Finger Day on Monday, July 27, with a deal for loyalty members. Here's what to know.",
+        "url": "https://www.usatoday.com/story/money/food/2026/07/25/raising-canes-national-chicken-finger-day-2026/91024999007/",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/9c6d4a0f751899136549c06b2d38af0f443da19b4cc47dba6f51fd67d427154e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_money_325%2F6d00fd2d3d47f14401d47b10077c8529",
+        "publishedAt": "2026-07-25T12:01:16Z",
+        "content": "National Chicken Finger Day is Monday, July 27, and Raising Cane's has an offer for loyalty members to celebrate the occasion.\r\nAccording to the fast food chicken chain, Caniac Club members and Hot F\u2026 [+2450 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Priyanka Salve",
-        "title": "U.S. to see higher generic drug prices thanks to tariffs, CEO of leading India pharma firm warns - CNBC",
-        "description": "CEO of Indian pharma company Dr Reddy's has warned that Trump's proposed tariffs on generic drugs will make them more expensive for patients.",
-        "url": "https://www.cnbc.com/2026/07/24/us-to-see-higher-generic-drug-prices-on-tariffs-indian-pharma-ceo.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108144276-17470722822025-05-12t173618z_940040002_rc2yj8abm3ue_rtrmadp_0_usa-trump-drugpricing.jpeg?v=1747072307&w=1920&h=1080",
-        "publishedAt": "2026-07-24T02:24:00Z",
-        "content": "U.S. President Donald Trump's proposed tariffs on generic drugs will increase the price of these medicines for patients in the country, Erez Israeli, the chief executive of Indian drugmaker Dr. Reddy\u2026 [+2082 chars]"
+        "author": "Laya Neelakandan",
+        "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage - CNBC",
+        "description": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
+        "url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108325794-1782248072319-gettyimages-2282993191-_88a8074_xprn14ys.jpeg?v=1782248250&w=1920&h=1080",
+        "publishedAt": "2026-07-25T12:00:02Z",
+        "content": "A FedEx worker walks past his truck in the North Beach neighborhood on June 23, 2026 in San Francisco, California.\r\nAs demand rises for specialized medications like GLP-1s, logistics companies includ\u2026 [+7574 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Morningstar.com"
+            "name": "CNBC"
+        },
+        "author": "Kif Leswing, Jonathan Vanian",
+        "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation - CNBC",
+        "description": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.",
+        "url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108254389-1772565827216-108254389-17689275282026-01-20t124808z_1149863023_rc205jas0xak_rtrmadp_0_davos-meeting.jpeg?v=1777907000&w=1920&h=1080",
+        "publishedAt": "2026-07-25T12:00:02Z",
+        "content": "Jeff Dean, head of artificial intelligence at Google LLC, speaks during a Google AI event in San Francisco, California, U.S., on Tuesday, Jan. 28, 2020.\r\nEarlier this year, Google AI lead Jeff Dean, \u2026 [+7367 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Abcnews.com"
+        },
+        "author": "DEE-ANN DURBIN Associated Press, TERRY TANG Associated Press, MAGGIE SCALES Associated Press, SANDY GUATIBONZA Associated Press, HIKARI MAE HIDA Associated Press, THE LEXINGTON OBSERVER Associated Press, LA ESQUINA Associated Press, HONOLULU CIVIL BEAT Associated Press",
+        "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years - ABC News - Breaking News, Latest News and Videos",
+        "description": "Living through the biggest jump in grocery prices in a half-century has many Americans changing their eating and food shopping habits",
+        "url": "https://abcnews.com/US/wireStory/americans-rewire-grocery-shopping-routines-digesting-biggest-price-135077702",
+        "urlToImage": "https://i.abcnewsfe.com/a/d330d866-f4eb-48fa-94f7-ee8dc991b1d5/wirestory_8468c1d6532ca762bbcfa17e3c7707d1_16x9.jpg?w=1600",
+        "publishedAt": "2026-07-25T11:18:17Z",
+        "content": "Whats for dinner? Lately, at Apral Jacks house, its whatever is on sale.\r\nJack scouts an app for deals at her local supermarket before she buys groceries. When she reaches the store, she grabs the we\u2026 [+11434 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
         },
         "author": null,
-        "title": "The Treasury market is flashing a warning sign for home buyers. Are 7% mortgage rates next? - Morningstar",
-        "description": "",
-        "url": "https://www.morningstar.com/news/marketwatch/20260723176/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next",
-        "urlToImage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
-        "publishedAt": "2026-07-23T22:03:00Z",
-        "content": "By Aarthi Swaminathan \r\nThe 30-year fixed-rate mortgage edged up to its highest level of 2026 \r\nEvery percentage-point increase in mortgage rates means thousands of dollars in extra costs to the loan\u2026 [+3782 chars]"
+        "title": "Investors increase bets on Federal Reserve rate rise after oil price surge - Financial Times",
+        "description": "Sharp increase in energy prices means next week\u2019s US central bank meeting is \u2018live\u2019, investors say",
+        "url": "https://www.ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6f9fcf36-d1ed-4831-9ca6-89a3907bfd91.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-07-25T10:00:09Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "Fox Business"
+            "name": "Yahoo Entertainment"
         },
-        "author": "Sophia Compton, Lorraine Taylor",
-        "title": "Department of War taps Oracle for software deal worth nearly $7B - Fox Business",
-        "description": "The agreement, which could run for up to 10 years, is projected to save taxpayers at least $441 million by consolidating Oracle software purchases across the military.",
-        "url": "https://www.foxbusiness.com/politics/department-war-taps-oracle-software-deal-worth-nearly-7b",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/pentagon-building-arlington-va.jpg?ve=1&tl=1",
-        "publishedAt": "2026-07-23T21:24:00Z",
-        "content": "The Department of War announced Thursday that it awarded Oracle a software contract worth nearly $7 billion aimed at cutting costs and modernizing technology across the military.\r\nThe agreement carri\u2026 [+3737 chars]"
+        "author": "Jake Conley",
+        "title": "Why aren't oil prices higher? Staggering drop in energy demand leaves strategists puzzled. - Yahoo Finance",
+        "description": "Oil markets are tighter than ever, so why are prices rangebound? The market has rebalanced, JPMorgan says.",
+        "url": "https://finance.yahoo.com/energy/article/why-arent-oil-prices-higher-staggering-drop-in-energy-demand-leaves-strategists-puzzled-100000046.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/280AA765FAB6C2DAD086F209BDA9430AB2CA5BC14E71B3CCAFC6477D33984814/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F5876b380-9942-4397-8137-04f7bdef23e2",
+        "publishedAt": "2026-07-25T10:00:00Z",
+        "content": "The US-Iran war is back in full force, traffic through the Strait of Hormuz is plummeting, and attacks from the Houthis have threatened shipping through the Red Sea, a critical release valve for oil \u2026 [+3757 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Abcnews.com"
+        },
+        "author": "The Associated Press",
+        "title": "Ford recalls more than half a million Broncos due to engine fire risk - ABC News - Breaking News, Latest News and Videos",
+        "description": "Ford Motor Co. is recalling more than half a million Broncos because a wiring harness in the engine compartment can short circuit and increase the risk of fire",
+        "url": "https://abcnews.com/Business/wireStory/ford-recalls-half-million-broncos-due-engine-fire-135051635",
+        "urlToImage": "https://i.abcnewsfe.com/a/93948cf2-9dbe-4776-b632-0889609bec59/wirestory_3a6ea11ac11a7330cddbdc7e16727fca_16x9.jpg?w=1600",
+        "publishedAt": "2026-07-25T09:46:44Z",
+        "content": "WASHINGTON -- Ford Motor Co. is recalling more than half a million Broncos because a wiring harness in the engine compartment can short circuit and increase the risk of fire.\r\nFord said Thursday that\u2026 [+1025 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Shawn Tully",
+        "title": "SpaceX may have missed its window to buy Tesla - Yahoo Finance",
+        "description": "SpaceX's stock nosedive makes Elon Musk's merger dreams much harder to justify.",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-may-missed-window-buy-080000394.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/90B4E01015ACD07F8C172CF4D604212B9C4F880BB1C968CAF755AAA416720E6B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F406d795cedc3b0cc34eec20fa93b1cbf",
+        "publishedAt": "2026-07-25T08:00:00Z",
+        "content": "On the Tesla Q2 earnings call the evening of July 22, an analyst asked Elon Musk the question that's top of mind for shareholders in his two largest ventures: Is SpaceX planning to buy the EV, batter\u2026 [+3511 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Kif Leswing",
+        "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal - CNBC",
+        "description": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
+        "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335934-1784206429202-gettyimages-2285710540-JAPAN_NVIDIA.jpeg?v=1784206465&w=1920&h=1080",
+        "publishedAt": "2026-07-25T05:00:01Z",
+        "content": "Nvidia said it's secured AI memory supply from South Korea's SK Hynix, as the chipmaker tries to lock in a key component for its advanced processors and systems.\r\nThe agreement, announced late Friday\u2026 [+2149 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Daniel Wu",
+        "title": "FDA panel gives nod to six controversial peptides - The Washington Post",
+        "description": "The FDA will make a final decision after the committee\u2019s recommendation, which could take months.",
+        "url": "https://www.washingtonpost.com/health/2026/07/24/fda-panel-gives-nod-six-controversial-peptides/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/L6PMTRDLEFLM53LUEFNEF2G4HA.JPG&w=1440",
+        "publishedAt": "2026-07-25T04:33:14Z",
+        "content": "The market for peptides, chemicals that have been increasingly promoted as new medical treatments and wellness products, got a big boost this week as a divided Food and Drug Administration panel vote\u2026 [+85 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera Staff",
+        "title": "Trump threatens EU will pay \u2018big price\u2019 after Brussels fines Google $1bn - Al Jazeera",
+        "description": "EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.",
+        "url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T185745Z_338274370_RC235MAACO0U_RTRMADP_3_ALPHABET-AI-1784941927.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-07-25T01:21:25Z",
+        "content": "United States President Donald Trump has threatened the European Union with steep tariffs and a new trade investigation, saying that the bloc will pay a very big price after Brussels fined Google $1b\u2026 [+2402 chars]"
     },
     {
         "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
-        "author": "WSJ",
-        "title": "Reality Bites Elon Musk and His Tesla, SpaceX Believers - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/finance/stocks/reality-bites-elon-musk-and-his-tesla-spacex-believers-1b639591",
-        "urlToImage": null,
-        "publishedAt": "2026-07-23T21:04:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Jasper Goodman",
-        "title": "Gallego eyes crypto bill ethics counteroffer, calling GOP proposal a \u2018piece of s--t\u2019 - Politico",
-        "description": "\u201cWhatever piece of s--t they sent back to us, that was not a serious effort,\u201d said Sen. Ruben Gallego (D-Ariz.).",
-        "url": "https://www.politico.com/live-updates/2026/07/23/congress/gallego-eyes-crypto-bill-ethics-counteroffer-calling-gop-proposal-a-piece-of-shit-01010651",
-        "urlToImage": "https://www.politico.com/dims4/default/ad74183/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F9a%2Fca%2F7758e6db4cc3840383afa7eff11c%2Fu-s-congress-38873.jpg",
-        "publishedAt": "2026-07-23T21:00:39Z",
-        "content": null
+        "author": "Sabrina Siddiqui, Jesse Newman, Josh Dawsey",
+        "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall - WSJ",
+        "description": "Officials became convinced by FDA\u2019s findings, and gave the agency the green light to make them public",
+        "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+        "urlToImage": "https://images.wsj.net/im-30631038/social",
+        "publishedAt": "2026-07-25T01:00:00Z",
+        "content": "Representatives for produce giant Taylor Farms contacted the White House with an urgent plea: the company wanted to delay announcing a recall tied to one of the largest foodborne illness outbreaks in\u2026 [+678 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Space.com"
+            "name": "SpaceNews"
         },
-        "author": "https://www.space.com/author/josh-dinner",
-        "title": "SpaceX Starship Flight 13 launch updates: SpaceX delays Starship launch to July 24 - Space",
-        "description": "Join us Friday, July 24, at 6:15 p.m. EDT (2215 GMT) for live coverage of Starship Flight 13.",
-        "url": "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-23-2026",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/nuZjBPHeXgE9FxV5LBfDt5-1920-80.jpg",
-        "publishedAt": "2026-07-23T20:53:19Z",
-        "content": "2026-07-23T20:53:19.708ZSTARSHIP DELAY! Bad weather pushes SpaceX Flight 13 launch to July 24\r\nA towering SpaceX Starship rocket stands ready for Flight 13 launch amid a stunning twilight sky. (Image\u2026 [+16055 chars]"
+        "author": "Jeff Foust",
+        "title": "SpaceX conducts 13th Starship test flight - SpaceNews",
+        "description": "SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight.",
+        "url": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
+        "urlToImage": "https://spacenews.com/wp-content/uploads/2026/07/starship-flt13-liftoff.jpeg",
+        "publishedAt": "2026-07-25T00:29:32Z",
+        "content": "WASHINGTON SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time.\r\nS\u2026 [+3650 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PBS"
+        },
+        "author": null,
+        "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says - PBS",
+        "description": "Investigators have determined that shell eggs recalled by Midwest Poultry Services are a likely source of the germ, but the Indiana-based company doesn\u2019t account for all the illnesses.",
+        "url": "https://www.pbs.org/newshour/health/salmonella-outbreak-tied-to-eggs-has-sickened-98-people-in-17-states-since-november-fda-says",
+        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2022/09/GettyImages-1415035613-e1667412503779-1024x608.jpg",
+        "publishedAt": "2026-07-24T23:25:12Z",
+        "content": "WASHINGTON (AP) Nearly 100 people in 17 states have been sickened in a salmonella outbreak tied to recalled eggs, federal health officials said Friday.\r\nThe 98 people had illnesses that started betwe\u2026 [+1498 chars]"
     }
 ]
