@@ -1,107 +1,29 @@
 [
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Haze Fan, Pei Li",
-        "title": "DeepSeek Said to Tell Backers of Funding Pause After Viral Posts - Bloomberg.com",
-        "description": "DeepSeek has told prospective investors in its second fundraising round that it\u2019s suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Liang Wenfeng about US-Chinese AI competition went viral.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-25/deepseek-said-to-tell-backers-of-funding-pause-after-viral-posts",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOMuldH8BI_k/v1/1200x931.jpg",
-        "publishedAt": "2026-07-25T14:49:55Z",
-        "content": "DeepSeek has told prospective investors in its second fundraising round that its suspending the deal for now, people familiar with the matter said, days after comments widely attributed to founder Li\u2026 [+617 chars]"
-    },
-    {
-        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Christopher Rowland",
-        "title": "Some people are getting shut out when it comes to GLP-1 drugs. Here\u2019s why. - The Washington Post",
-        "description": "A third of state Medicaid programs paid for the drugs for weight loss as of mid-2025. This year it's about one in five, according to a review by The Washington Post.",
-        "url": "https://www.washingtonpost.com/health/2026/07/24/medicaid-cuts-have-put-ozempic-other-glp-1-drugs-out-reach-some/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A3EFGOX437GZZD6MXSTWVOPGYQ_size-normalized.jpg&w=1440",
-        "publishedAt": "2026-07-25T14:36:30Z",
-        "content": "Primary care doctor Ian Huntington has been counseling low-income Boston patients how to keep their weight under control, after the states Medicaid program stopped covering GLP-1 drugs for weight los\u2026 [+12 chars]"
+        "author": "Todd C. Frankel",
+        "title": "Good news for nervous fliers: More planes get emergency auto-land tech - The Washington Post",
+        "description": "Inspired by tragedy, the system goes beyond what autopilot can do, even on sophisticated commercial airlines.",
+        "url": "https://www.washingtonpost.com/transportation/2026/07/26/good-news-nervous-flyers-more-planes-get-emergency-auto-land-tech/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TBCUXILNOFE4RNT2DP6BZDY7VU.jpg&w=1440",
+        "publishedAt": "2026-07-26T17:00:00Z",
+        "content": "In 1999, a Learjet 35 carrying professional golfer Payne Stewart and five others flew wildly off-course for nearly four hours before crashing into a field in South Dakota.\r\nThe plane heading from Orl\u2026 [+293 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "TheStreet"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "thestreet.com",
-        "title": "Bankrupt fried chicken chain franchisee sells last 23 locations - thestreet.com",
-        "description": null,
-        "url": "https://www.thestreet.com/restaurants/popeyes-franchisee-sells-23-more-stores",
-        "urlToImage": null,
-        "publishedAt": "2026-07-25T14:07:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Brian Sozzi",
-        "title": "Alphabet flops, Intel shocks, and Tesla tanks: AlphaSpace weekly recap - Yahoo Finance",
-        "description": "Some markets observations, compliments of Yahoo Finance AlphaSpace.",
-        "url": "https://finance.yahoo.com/markets/article/alphabet-flops-intel-shocks-and-tesla-tanks-alphaspace-weekly-recap-123816321.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/07340B54268F308DE7815EC26D69FBA1A61FCBC48F18EBF4CD3C953B47CFD95B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fed937aaa-069e-453c-8853-fc66794cae36",
-        "publishedAt": "2026-07-25T12:38:16Z",
-        "content": "Earnings season kicked into warp overdrive this past week. And it won't be any easier to navigate the market next week, with results from the likes of Amazon (AMZN), Meta (META), and Microsoft (MSFT)\u2026 [+2274 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Gabe Hauari, USA TODAY",
-        "title": "You can get free Raising Cane's on National Chicken Finger Day - Yahoo Life UK",
-        "description": "Raising Cane's is celebrating National Chicken Finger Day on Monday, July 27, with a deal for loyalty members. Here's what to know.",
-        "url": "https://www.usatoday.com/story/money/food/2026/07/25/raising-canes-national-chicken-finger-day-2026/91024999007/",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/9c6d4a0f751899136549c06b2d38af0f443da19b4cc47dba6f51fd67d427154e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_money_325%2F6d00fd2d3d47f14401d47b10077c8529",
-        "publishedAt": "2026-07-25T12:01:16Z",
-        "content": "National Chicken Finger Day is Monday, July 27, and Raising Cane's has an offer for loyalty members to celebrate the occasion.\r\nAccording to the fast food chicken chain, Caniac Club members and Hot F\u2026 [+2450 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Laya Neelakandan",
-        "title": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage - CNBC",
-        "description": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
-        "url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108325794-1782248072319-gettyimages-2282993191-_88a8074_xprn14ys.jpeg?v=1782248250&w=1920&h=1080",
-        "publishedAt": "2026-07-25T12:00:02Z",
-        "content": "A FedEx worker walks past his truck in the North Beach neighborhood on June 23, 2026 in San Francisco, California.\r\nAs demand rises for specialized medications like GLP-1s, logistics companies includ\u2026 [+7574 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kif Leswing, Jonathan Vanian",
-        "title": "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation - CNBC",
-        "description": "Distillation has long been a topic for AI wonks, but it's become a hot-button issue of late as techies and lawmakers debate how it should be regulated.",
-        "url": "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108254389-1772565827216-108254389-17689275282026-01-20t124808z_1149863023_rc205jas0xak_rtrmadp_0_davos-meeting.jpeg?v=1777907000&w=1920&h=1080",
-        "publishedAt": "2026-07-25T12:00:02Z",
-        "content": "Jeff Dean, head of artificial intelligence at Google LLC, speaks during a Google AI event in San Francisco, California, U.S., on Tuesday, Jan. 28, 2020.\r\nEarlier this year, Google AI lead Jeff Dean, \u2026 [+7367 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Abcnews.com"
-        },
-        "author": "DEE-ANN DURBIN Associated Press, TERRY TANG Associated Press, MAGGIE SCALES Associated Press, SANDY GUATIBONZA Associated Press, HIKARI MAE HIDA Associated Press, THE LEXINGTON OBSERVER Associated Press, LA ESQUINA Associated Press, HONOLULU CIVIL BEAT Associated Press",
-        "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years - ABC News - Breaking News, Latest News and Videos",
-        "description": "Living through the biggest jump in grocery prices in a half-century has many Americans changing their eating and food shopping habits",
-        "url": "https://abcnews.com/US/wireStory/americans-rewire-grocery-shopping-routines-digesting-biggest-price-135077702",
-        "urlToImage": "https://i.abcnewsfe.com/a/d330d866-f4eb-48fa-94f7-ee8dc991b1d5/wirestory_8468c1d6532ca762bbcfa17e3c7707d1_16x9.jpg?w=1600",
-        "publishedAt": "2026-07-25T11:18:17Z",
-        "content": "Whats for dinner? Lately, at Apral Jacks house, its whatever is on sale.\r\nJack scouts an app for deals at her local supermarket before she buys groceries. When she reaches the store, she grabs the we\u2026 [+11434 chars]"
+        "author": "Laurie Kellman, Lindsey Bahr",
+        "title": "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup - AP News",
+        "description": "In 1984, the Skynet of \"The Terminator\" films were science fiction. But it looks more and more realistic in 2026 after OpenAI agent broke out of a test corral, traveled the internet and hacked into Hugging Face, another company, to solve a problem. The compan\u2026",
+        "url": "https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b",
+        "urlToImage": "https://dims.apnews.com/dims4/default/873c1ad/2147483647/strip/true/crop/4000x2665+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2F33%2Fbaf62dae2820a9cbc7de5965607b%2Ffb40cfa400de492ba10aec41e5b9625a",
+        "publishedAt": "2026-07-26T16:54:00Z",
+        "content": "To be fair, James Cameron did warn us.\r\nLong before OpenAI broke out of its test corral and hacked into Hugging Face, before the internet and Sam Altman were even born, Cameron wrote a screenplay abo\u2026 [+7351 chars]"
     },
     {
         "source": {
@@ -109,128 +31,206 @@
             "name": "Financial Times"
         },
         "author": null,
-        "title": "Investors increase bets on Federal Reserve rate rise after oil price surge - Financial Times",
-        "description": "Sharp increase in energy prices means next week\u2019s US central bank meeting is \u2018live\u2019, investors say",
-        "url": "https://www.ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6f9fcf36-d1ed-4831-9ca6-89a3907bfd91.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-07-25T10:00:09Z",
+        "title": "What is the risk of using Chinese open AI models like Kimi K3? - Financial Times",
+        "description": "The real problem is not overseas open-source but lack of co-ordination to protect infrastructure in the face of cyber attacks",
+        "url": "https://www.ft.com/content/aa856a9d-b57c-4adf-b5aa-d1b22f9be3b2",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F73d4bafe-43b8-475b-ab3e-c4465dccae7c.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-07-26T15:00:08Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Jake Conley",
-        "title": "Why aren't oil prices higher? Staggering drop in energy demand leaves strategists puzzled. - Yahoo Finance",
-        "description": "Oil markets are tighter than ever, so why are prices rangebound? The market has rebalanced, JPMorgan says.",
-        "url": "https://finance.yahoo.com/energy/article/why-arent-oil-prices-higher-staggering-drop-in-energy-demand-leaves-strategists-puzzled-100000046.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/280AA765FAB6C2DAD086F209BDA9430AB2CA5BC14E71B3CCAFC6477D33984814/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F5876b380-9942-4397-8137-04f7bdef23e2",
-        "publishedAt": "2026-07-25T10:00:00Z",
-        "content": "The US-Iran war is back in full force, traffic through the Strait of Hormuz is plummeting, and attacks from the Houthis have threatened shipping through the Red Sea, a critical release valve for oil \u2026 [+3757 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Abcnews.com"
-        },
-        "author": "The Associated Press",
-        "title": "Ford recalls more than half a million Broncos due to engine fire risk - ABC News - Breaking News, Latest News and Videos",
-        "description": "Ford Motor Co. is recalling more than half a million Broncos because a wiring harness in the engine compartment can short circuit and increase the risk of fire",
-        "url": "https://abcnews.com/Business/wireStory/ford-recalls-half-million-broncos-due-engine-fire-135051635",
-        "urlToImage": "https://i.abcnewsfe.com/a/93948cf2-9dbe-4776-b632-0889609bec59/wirestory_3a6ea11ac11a7330cddbdc7e16727fca_16x9.jpg?w=1600",
-        "publishedAt": "2026-07-25T09:46:44Z",
-        "content": "WASHINGTON -- Ford Motor Co. is recalling more than half a million Broncos because a wiring harness in the engine compartment can short circuit and increase the risk of fire.\r\nFord said Thursday that\u2026 [+1025 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Shawn Tully",
-        "title": "SpaceX may have missed its window to buy Tesla - Yahoo Finance",
-        "description": "SpaceX's stock nosedive makes Elon Musk's merger dreams much harder to justify.",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-may-missed-window-buy-080000394.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/90B4E01015ACD07F8C172CF4D604212B9C4F880BB1C968CAF755AAA416720E6B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F406d795cedc3b0cc34eec20fa93b1cbf",
-        "publishedAt": "2026-07-25T08:00:00Z",
-        "content": "On the Tesla Q2 earnings call the evening of July 22, an analyst asked Elon Musk the question that's top of mind for shareholders in his two largest ventures: Is SpaceX planning to buy the EV, batter\u2026 [+3511 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kif Leswing",
-        "title": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal - CNBC",
-        "description": "Nvidia is aggressively securing supply of high-bandwidth memory, an essential component for its GPUs and systems.",
-        "url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108335934-1784206429202-gettyimages-2285710540-JAPAN_NVIDIA.jpeg?v=1784206465&w=1920&h=1080",
-        "publishedAt": "2026-07-25T05:00:01Z",
-        "content": "Nvidia said it's secured AI memory supply from South Korea's SK Hynix, as the chipmaker tries to lock in a key component for its advanced processors and systems.\r\nThe agreement, announced late Friday\u2026 [+2149 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Daniel Wu",
-        "title": "FDA panel gives nod to six controversial peptides - The Washington Post",
-        "description": "The FDA will make a final decision after the committee\u2019s recommendation, which could take months.",
-        "url": "https://www.washingtonpost.com/health/2026/07/24/fda-panel-gives-nod-six-controversial-peptides/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/L6PMTRDLEFLM53LUEFNEF2G4HA.JPG&w=1440",
-        "publishedAt": "2026-07-25T04:33:14Z",
-        "content": "The market for peptides, chemicals that have been increasingly promoted as new medical treatments and wellness products, got a big boost this week as a divided Food and Drug Administration panel vote\u2026 [+85 chars]"
-    },
-    {
-        "source": {
-            "id": "al-jazeera-english",
-            "name": "Al Jazeera English"
-        },
-        "author": "Al Jazeera Staff",
-        "title": "Trump threatens EU will pay \u2018big price\u2019 after Brussels fines Google $1bn - Al Jazeera",
-        "description": "EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.",
-        "url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn",
-        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-16T185745Z_338274370_RC235MAACO0U_RTRMADP_3_ALPHABET-AI-1784941927.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-07-25T01:21:25Z",
-        "content": "United States President Donald Trump has threatened the European Union with steep tariffs and a new trade investigation, saying that the bloc will pay a very big price after Brussels fined Google $1b\u2026 [+2402 chars]"
     },
     {
         "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
-        "author": "Sabrina Siddiqui, Jesse Newman, Josh Dawsey",
-        "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall - WSJ",
-        "description": "Officials became convinced by FDA\u2019s findings, and gave the agency the green light to make them public",
-        "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
-        "urlToImage": "https://images.wsj.net/im-30631038/social",
-        "publishedAt": "2026-07-25T01:00:00Z",
-        "content": "Representatives for produce giant Taylor Farms contacted the White House with an urgent plea: the company wanted to delay announcing a recall tied to one of the largest foodborne illness outbreaks in\u2026 [+678 chars]"
+        "author": "WSJ",
+        "title": "The Future of the Toy Industry Isn\u2019t Toys. It\u2019s Magic. - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/retail/hasbro-magic-the-gathering-card-game-c4538f5b",
+        "urlToImage": null,
+        "publishedAt": "2026-07-26T15:00:00Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "SpaceNews"
+            "name": "New York Post"
         },
-        "author": "Jeff Foust",
-        "title": "SpaceX conducts 13th Starship test flight - SpaceNews",
-        "description": "SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight.",
-        "url": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
-        "urlToImage": "https://spacenews.com/wp-content/uploads/2026/07/starship-flt13-liftoff.jpeg",
-        "publishedAt": "2026-07-25T00:29:32Z",
-        "content": "WASHINGTON SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time.\r\nS\u2026 [+3650 chars]"
+        "author": "Rachel Sacks",
+        "title": "Do you have \u2018ferritin face\u2019? The mineral deficiency that could be messing with your looks - New York Post",
+        "description": "People have been sharing on social media their pale, washed-out skin, dull lips and dark under-eye circles, dubbing it \u201cferritin face,\u201d a potential sign of a deficiency.",
+        "url": "https://nypost.com/2026/07/26/health/ferritin-face-the-mineral-deficiency-messing-with-your-looks/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135572346.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-07-26T15:00:00Z",
+        "content": "Wrinkles, dark under-eye circles, and dull skin? They could be signs of something more than skin deep.\r\nFrom \u201cmonster\u201d sheds to the prehistoric \u201ccaveman\u201d ritual, nicknames for skin issues and care ro\u2026 [+2877 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "PBS"
+            "name": "Forbes"
         },
-        "author": null,
-        "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says - PBS",
-        "description": "Investigators have determined that shell eggs recalled by Midwest Poultry Services are a likely source of the germ, but the Indiana-based company doesn\u2019t account for all the illnesses.",
-        "url": "https://www.pbs.org/newshour/health/salmonella-outbreak-tied-to-eggs-has-sickened-98-people-in-17-states-since-november-fda-says",
-        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2022/09/GettyImages-1415035613-e1667412503779-1024x608.jpg",
-        "publishedAt": "2026-07-24T23:25:12Z",
-        "content": "WASHINGTON (AP) Nearly 100 people in 17 states have been sickened in a salmonella outbreak tied to recalled eggs, federal health officials said Friday.\r\nThe 98 people had illnesses that started betwe\u2026 [+1498 chars]"
+        "author": "Zachary Folk",
+        "title": "Powerball Jackpot Reaches $633 Million\u2014Here\u2019s What A Winner Could Take Home After Taxes - Forbes",
+        "description": "The Powerball jackpot rose after the second drawing that included tickets sold in the U.K.",
+        "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/26/powerball-jackpot-reaches-633-million-heres-what-winner-could-take-home-after-taxes/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68bd8815aa3dc186a7d17029/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-07-26T14:13:04Z",
+        "content": "The Powerball jackpot grew to $633 million after no winners were drawn on Saturday night, although an eventual winner would take home significantly less after taxes.\r\nThe Powerball jackpot rose after\u2026 [+2343 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bernard Goyder, Katherine Doherty",
+        "title": "Traders Are Getting a New Tool to Wager on the Biggest US Stocks - Bloomberg.com",
+        "description": "Investors will soon have another way to bet on the hottest stocks from Nvidia Corp. to SpaceX, without trading a single share.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-26/traders-are-getting-a-new-tool-to-wager-on-the-biggest-us-stocks",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwSzLyKmwK50/v7/1200x798.jpg",
+        "publishedAt": "2026-07-26T14:00:00Z",
+        "content": "Investors will soon have another way to bet on the hottest stocks from Nvidia Corp. to SpaceX, without trading a single share.\r\nCME Group Inc. will launch single-stock futures Monday, allowing invest\u2026 [+209 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Takeout"
+        },
+        "author": "Jet Burnham",
+        "title": "Hands-Down, These Are The Best Restaurants For Prime Rib In Every State - The Takeout",
+        "description": "Based on local praise, awards, and national recognition, these restaurants serve some of the best prime rib in the U.S., including St. Elmo's and La T\u00eate d\u2019Or.",
+        "url": "https://www.thetakeout.com/2220639/restaurants-every-state-hands-down-best-prime-rib/",
+        "urlToImage": "https://www.thetakeout.com/img/gallery/hands-down-these-are-the-best-restaurants-for-prime-rib-in-every-state/l-intro-1784727004.jpg",
+        "publishedAt": "2026-07-26T13:40:00Z",
+        "content": "It's easy to fill up at The Prime Rib, an award-winning restaurant in Spencer, Iowa. The super-sized menu features\u00a0Huey's Famous Prime Rib,\u00a0served in 10, 14, and 22-ounce thick-cut portions, with an \u2026 [+357 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Mashed.com"
+        },
+        "author": "Sam Zwick",
+        "title": "Culver's North Atlantic Cod Fish Sandwich Vs McDonald's Filet-O-Fish: Who Makes The Better Fish Sandwich? - Mashed",
+        "description": "When pitted head-to-head, there is a clear winner between Culver's North Atlantic Cod Fish Sandwich and McDonald's Filet-O-Fish.",
+        "url": "https://www.mashed.com/2219065/culvers-vs-mcdonalds-who-makes-better-fish-sandwich/",
+        "urlToImage": "https://www.mashed.com/img/gallery/culvers-north-atlantic-cod-fish-sandwich-vs-mcdonalds-filet-o-fish-who-makes-the-better-fish-sandwich/l-intro-1784572855.jpg",
+        "publishedAt": "2026-07-26T13:23:00Z",
+        "content": "While chicken nuggets are perhaps the best-known sidekick to a classic McDonald's burger and fries, the Filet-O-Fish actually predates any chicken items on the restaurant's menu by nearly 20 years. I\u2026 [+1110 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Jeran Wittenstein, Ryan Vlastelica",
+        "title": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending - Bloomberg.com",
+        "description": "For years, US technology giants had a tacit agreement with investors: The companies could spend lavishly on artificial intelligence, and the stock market would reward them long as their revenues were rising. That deal is suddenly breaking down.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUVMH3JB4rZ0/v0/1200x800.jpg",
+        "publishedAt": "2026-07-26T13:00:00Z",
+        "content": "For years, US technology giants had a tacit agreement with investors: The companies could spend lavishly on artificial intelligence, and the stock market would reward them long as their revenues were\u2026 [+346 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Michelle Ye Hee Lee",
+        "title": "See what it\u2019s like to use a North Korean smartphone under Kim Jong Un - The Washington Post",
+        "description": "North Koreans are banking, getting makeup tutorials and using period trackers on their phones. But under Kim, these digital comforts are also tools of control.",
+        "url": "https://www.washingtonpost.com/world/2026/07/26/see-what-its-like-use-north-korean-smartphone-under-kim-jong-un/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GVQFU6QD3RFC7BV7GXJYP3RV3E_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-07-26T12:43:55Z",
+        "content": "SEOUL People in North Korea cant access the internet. But that hasnt stopped a meaningful share of them from buying smartphones.\r\nThe Washington Post, with the help of Martyn Williams, a North Korean\u2026 [+171 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Brian Sozzi",
+        "title": "Why are investors freaking out about Big Tech's booming AI capex? - Yahoo Finance",
+        "description": "Why so worried about AI spending?",
+        "url": "https://finance.yahoo.com/markets/article/why-are-investors-freaking-out-about-big-techs-booming-ai-capex-123000998.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/DF19E92D4B20EEF1E3D85EF68353BF2CD33E3150DE4D6697F299F7121093DB68/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fd8c38474-b4a7-4ecb-bddf-085f6fb83536",
+        "publishedAt": "2026-07-26T12:30:00Z",
+        "content": "I've long held one core belief when it comes to markets: Price is truth.\u00a0\r\nBy that I mean that each day, a stock's movement is trying to tell investors a story. Over time, those stories begin to pain\u2026 [+4227 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Ines Ferr\u00e9",
+        "title": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks - Yahoo Finance",
+        "description": "Alphabet's increased capex forecast for 2026 this week was the latest tailwind for AI infrastructure stocks.",
+        "url": "https://finance.yahoo.com/markets/article/the-ai-trade-is-still-on-wall-street-sees-big-techs-spending-as-positive-for-semiconductor-stocks-121056519.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/80D40F0F7CE0B7EDBDA037709A906170C84D4BBED3ED159C4815410A1A5774C3/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F7ee42d4b-8f81-49fa-86c2-16c7fb100a08",
+        "publishedAt": "2026-07-26T12:10:56Z",
+        "content": "The AI trade this year has been centered around infrastructure plays, including chips, networking equipment, and data center providers.\r\nAlphabet's (GOOG,\u00a0GOOGL) ballooning capital expenditures, disc\u2026 [+4851 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Samantha Grindell Pettyjohn",
+        "title": "A woman built a $400,000 ADU on her property so her parents can live rent-free - Business Insider",
+        "description": "Hana Brown didn't want her parents to have to worry about housing as they age, so she and her husband built a luxury ADU for them in their yard.",
+        "url": "https://www.businessinsider.com/woman-built-adu-on-her-property-parents-live-rent-free-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a5a4613548c9c486b30d49d?width=1200&format=jpeg",
+        "publishedAt": "2026-07-26T12:05:26Z",
+        "content": "Now that they are older, the Cataks spend part of the year in Bosnia; Jasmin Catak is there for about five months annually, while Azra Catak is there for three months. When they're in the US, though,\u2026 [+971 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Eva Roytburg",
+        "title": "The U.S. government invested $27 billion in corporate stakes. Good luck finding them - Fortune",
+        "description": "The Trump administration's equity stakes\u2014from Intel to quantum startups\u2014appear in no budget document and are subject to no watchdog.",
+        "url": "https://fortune.com/2026/07/26/the-u-s-government-invested-27-billion-in-corporate-stakes-good-luck-finding-them/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-925486348-e1784926695268.jpg?resize=1200,600",
+        "publishedAt": "2026-07-26T12:00:00Z",
+        "content": "The Trump administration has invested roughly $26.7 billion across 30 equity or quasi-equity deals, headlined by a 9.9% stake in chipmaker Intel thats now worth $42 billion.\u00a0Others include $400 milli\u2026 [+4913 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Andrew Ackerman",
+        "title": "The new Fed chair won\u2019t tell you what he thinks - The Washington Post",
+        "description": "Two months into his tenure as Fed chief, Kevin Warsh is saying as little as possible about interest rates, inflation and his own thinking.",
+        "url": "https://www.washingtonpost.com/business/2026/07/26/new-fed-chair-wont-tell-you-what-he-thinks/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/VRXKDNDD3AOKOUVSGXBLSEYDGM.JPG&w=1440",
+        "publishedAt": "2026-07-26T11:32:32Z",
+        "content": "Ask Kevin Warsh how the Federal Reserve should think about inflation, talk to markets or weigh the impact of artificial intelligence on the economy, and the new chair has a stock answer: Theres a tas\u2026 [+16 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Ramishah Maruf",
+        "title": "Millennials are trying to make minivans cool again - CNN",
+        "description": "They see them rolling, but maybe they won\u2019t be hating.",
+        "url": "https://www.cnn.com/2026/07/26/business/millennials-are-trying-to-make-minivans-cool-again",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/260723-ma-business-minivan-0002.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-07-26T10:30:26Z",
+        "content": "They see them rolling, but maybe they wont be hating.\r\nMillennial parents are changing their minds about the minivan. A TikTok video shows off lounge-style chairs with built-in ottomans and 14-inch s\u2026 [+5206 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Thibault Spirlet",
+        "title": "Europe is warming to America's obsession with staying cool - Business Insider",
+        "description": "As Europe recorded its hottest June on record, Europeans flocked to buy AC units, eroding a decades-old divide with America.",
+        "url": "https://www.businessinsider.com/europe-is-warming-to-americas-obsession-with-ac-2026-7#article",
+        "urlToImage": "https://i.insider.com/6a56373c81137eabe596d31d?width=1200&format=jpeg",
+        "publishedAt": "2026-07-26T10:11:05Z",
+        "content": "Europe may finally be admitting Americans had a point.\r\nFor decades, much of the continent treated air conditioning as an unnecessary luxury something for hotels, shopping malls, and the occasional t\u2026 [+5732 chars]"
     }
 ]
