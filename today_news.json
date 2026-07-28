@@ -1,146 +1,159 @@
 [
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Todd C. Frankel",
-        "title": "Good news for nervous fliers: More planes get emergency auto-land tech - The Washington Post",
-        "description": "Inspired by tragedy, the system goes beyond what autopilot can do, even on sophisticated commercial airlines.",
-        "url": "https://www.washingtonpost.com/transportation/2026/07/26/good-news-nervous-flyers-more-planes-get-emergency-auto-land-tech/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TBCUXILNOFE4RNT2DP6BZDY7VU.jpg&w=1440",
-        "publishedAt": "2026-07-26T17:00:00Z",
-        "content": "In 1999, a Learjet 35 carrying professional golfer Payne Stewart and five others flew wildly off-course for nearly four hours before crashing into a field in South Dakota.\r\nThe plane heading from Orl\u2026 [+293 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Laurie Kellman, Lindsey Bahr",
-        "title": "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup - AP News",
-        "description": "In 1984, the Skynet of \"The Terminator\" films were science fiction. But it looks more and more realistic in 2026 after OpenAI agent broke out of a test corral, traveled the internet and hacked into Hugging Face, another company, to solve a problem. The compan\u2026",
-        "url": "https://apnews.com/article/skynet-ai-terminator-artificial-intelligence-eb85da03a0161beaa5f3babc4331e93b",
-        "urlToImage": "https://dims.apnews.com/dims4/default/873c1ad/2147483647/strip/true/crop/4000x2665+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2F33%2Fbaf62dae2820a9cbc7de5965607b%2Ffb40cfa400de492ba10aec41e5b9625a",
-        "publishedAt": "2026-07-26T16:54:00Z",
-        "content": "To be fair, James Cameron did warn us.\r\nLong before OpenAI broke out of its test corral and hacked into Hugging Face, before the internet and Sam Altman were even born, Cameron wrote a screenplay abo\u2026 [+7351 chars]"
+        "author": "Brandon Gomez",
+        "title": "Consolidated food supply may be worsening cyclospora outbreaks, experts say - CNBC",
+        "description": "Experts say food industry consolidation may be amplifying the cyclospora outbreak, allowing contaminated produce to spread farther.",
+        "url": "https://www.cnbc.com/2026/07/27/cyclospora-outbreak-food-industry-consolidation.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196748-1757505651383-gettyimages-2230334583-jr_17802_vpk16hla.jpeg?v=1785170210&w=1920&h=1080",
+        "publishedAt": "2026-07-27T15:49:31Z",
+        "content": "Vegetables on display in a grocery store on Aug. 15, 2025, in Delray Beach, Florida.\r\nThe cyclospora outbreak that has sickened thousands in the U.S. is drawing renewed attention to a decades long sh\u2026 [+6631 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "Investor's Business Daily"
         },
         "author": null,
-        "title": "What is the risk of using Chinese open AI models like Kimi K3? - Financial Times",
-        "description": "The real problem is not overseas open-source but lack of co-ordination to protect infrastructure in the face of cyber attacks",
-        "url": "https://www.ft.com/content/aa856a9d-b57c-4adf-b5aa-d1b22f9be3b2",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F73d4bafe-43b8-475b-ab3e-c4465dccae7c.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-07-26T15:00:08Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "The Future of the Toy Industry Isn\u2019t Toys. It\u2019s Magic. - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/business/retail/hasbro-magic-the-gathering-card-game-c4538f5b",
-        "urlToImage": null,
-        "publishedAt": "2026-07-26T15:00:00Z",
-        "content": null
+        "title": "Stock Market Today: Dow Jumps 575 Points On U.S.-Iran Hopes; Oil Prices Plunge (Live Coverage) - Investor's Business Daily",
+        "description": "Stock Market Today: The Dow Jones index jumps on hopes of U.S.-Iran talks. Oil skids but software shines Monday. Nvidia falls on OpenAI move.",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices-plunge/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/08/Stock-MoneyPharma-shut.jpg",
+        "publishedAt": "2026-07-27T15:39:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "New York Post"
+            "name": "Hollywood Reporter"
         },
-        "author": "Rachel Sacks",
-        "title": "Do you have \u2018ferritin face\u2019? The mineral deficiency that could be messing with your looks - New York Post",
-        "description": "People have been sharing on social media their pale, washed-out skin, dull lips and dark under-eye circles, dubbing it \u201cferritin face,\u201d a potential sign of a deficiency.",
-        "url": "https://nypost.com/2026/07/26/health/ferritin-face-the-mineral-deficiency-messing-with-your-looks/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135572346.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-07-26T15:00:00Z",
-        "content": "Wrinkles, dark under-eye circles, and dull skin? They could be signs of something more than skin deep.\r\nFrom \u201cmonster\u201d sheds to the prehistoric \u201ccaveman\u201d ritual, nicknames for skin issues and care ro\u2026 [+2877 chars]"
+        "author": "Alex Weprin",
+        "title": "Peacock to Be Included With YouTube Premium in Major Streaming Tie-Up - The Hollywood Reporter",
+        "description": "The new deal expands on a wide-ranging agreement inked between Google and NBCUniversal last year, and will also see NBCU stream some live sporting events on its YouTube channels.",
+        "url": "http://www.hollywoodreporter.com/business/digital/peacock-youtube-premium-streaming-deal-1236657073/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/NBCUniversal-YouTube-partnership.jpg?crop=0px%2C941px%2C2160px%2C1208px&resize=1440%2C810",
+        "publishedAt": "2026-07-27T15:09:01Z",
+        "content": "YouTube appears poised to turn its YouTube Premium subscription product into a new bundler of entertainment.\r\nOn Monday, YouTube and NBCUniversal announced a new deal that will see Peacock Premium in\u2026 [+3154 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Forbes"
+            "name": "BBC News"
         },
-        "author": "Zachary Folk",
-        "title": "Powerball Jackpot Reaches $633 Million\u2014Here\u2019s What A Winner Could Take Home After Taxes - Forbes",
-        "description": "The Powerball jackpot rose after the second drawing that included tickets sold in the U.K.",
-        "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/26/powerball-jackpot-reaches-633-million-heres-what-winner-could-take-home-after-taxes/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68bd8815aa3dc186a7d17029/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-26T14:13:04Z",
-        "content": "The Powerball jackpot grew to $633 million after no winners were drawn on Saturday night, although an eventual winner would take home significantly less after taxes.\r\nThe Powerball jackpot rose after\u2026 [+2343 chars]"
+        "author": null,
+        "title": "Oil price dives as US and Iran pause attacks - BBC",
+        "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+        "url": "https://www.bbc.com/news/articles/clyj834jn5lo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/92a8/live/d2b46450-89a6-11f1-a85a-79136c2d298e.jpg",
+        "publishedAt": "2026-07-27T15:08:37Z",
+        "content": "\"Low European inventories, strong Asian demand and limited new LNG supply growth almost guarantee elevated prices through this winter and into 2027,\" said Massimo Di Odoardo, vice president of gas an\u2026 [+32 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ashley Capoot, Kate Rooney",
+        "title": "Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say - CNBC",
+        "description": "Altman will preview the capabilities of the company's upcoming family of AI models and answer questions about cybersecurity and open-weight models.",
+        "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108329738-1782973277479-gettyimages-2194585046-2195165799.jpeg?v=1782973363&w=1920&h=1080",
+        "publishedAt": "2026-07-27T14:20:15Z",
+        "content": "OpenAI CEO Sam Altman will meet with senior Trump administration officials, lawmakers and economists in Washington, D.C., this week to preview the capabilities of the company's upcoming family of art\u2026 [+3403 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Eric Revell",
+        "title": "Cracker Barrel CEO Julie Masino to step down - Fox Business",
+        "description": "Cracker Barrel CEO Julie Masino will step down and be replaced by David Deno. She will stay with the company in an advisory capacity until Oct. 9.",
+        "url": "https://www.foxbusiness.com/business-leaders/cracker-barrel-ceo-julie-masino-step-down",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/08/0/0/cracker-barrel-ceo-branding-fox-news-015.jpg?ve=1&tl=1",
+        "publishedAt": "2026-07-27T14:20:00Z",
+        "content": "Cracker Barrel announced on Monday that CEO Julie Masino will step down, effective Aug. 10, and be replaced by David Deno.\r\nMasino will remain with the company in an advisory capacity until Oct. 9.\r\n\u2026 [+2655 chars]"
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Bernard Goyder, Katherine Doherty",
-        "title": "Traders Are Getting a New Tool to Wager on the Biggest US Stocks - Bloomberg.com",
-        "description": "Investors will soon have another way to bet on the hottest stocks from Nvidia Corp. to SpaceX, without trading a single share.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-26/traders-are-getting-a-new-tool-to-wager-on-the-biggest-us-stocks",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwSzLyKmwK50/v7/1200x798.jpg",
-        "publishedAt": "2026-07-26T14:00:00Z",
-        "content": "Investors will soon have another way to bet on the hottest stocks from Nvidia Corp. to SpaceX, without trading a single share.\r\nCME Group Inc. will launch single-stock futures Monday, allowing invest\u2026 [+209 chars]"
+        "author": "Sarah Jacob",
+        "title": "ASML Slides on Report of China Starting DUV Tool Production - Bloomberg",
+        "description": "ASML Holding NV shares slid to the lowest since early June after a report that a Chinese state-backed company has begun mass producing certain chipmaking machines, posing a potential threat to the Dutch firm\u2019s sales.",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-27/asml-slides-after-report-of-china-beginning-duv-tool-production",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTpC8SFRO6mc/v1/1200x800.jpg",
+        "publishedAt": "2026-07-27T14:18:28Z",
+        "content": "ASML Holding NV shares slid to the lowest since early June after a report that a Chinese state-backed company has begun mass producing certain chipmaking machines, posing a potential threat to the Du\u2026 [+365 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "The Takeout"
+            "name": "Barron's"
         },
-        "author": "Jet Burnham",
-        "title": "Hands-Down, These Are The Best Restaurants For Prime Rib In Every State - The Takeout",
-        "description": "Based on local praise, awards, and national recognition, these restaurants serve some of the best prime rib in the U.S., including St. Elmo's and La T\u00eate d\u2019Or.",
-        "url": "https://www.thetakeout.com/2220639/restaurants-every-state-hands-down-best-prime-rib/",
-        "urlToImage": "https://www.thetakeout.com/img/gallery/hands-down-these-are-the-best-restaurants-for-prime-rib-in-every-state/l-intro-1784727004.jpg",
-        "publishedAt": "2026-07-26T13:40:00Z",
-        "content": "It's easy to fill up at The Prime Rib, an award-winning restaurant in Spencer, Iowa. The super-sized menu features\u00a0Huey's Famous Prime Rib,\u00a0served in 10, 14, and 22-ounce thick-cut portions, with an \u2026 [+357 chars]"
+        "author": "Al Root",
+        "title": "SpaceX Stock Falls After \u2018Near Perfect\u2019 13th Starship Test. Flight 14 Will Be Wild. - Barron's",
+        "description": "SpaceX stock was rising after its huge, fully reusable Starship launched on Friday evening.",
+        "url": "https://www.barrons.com/articles/spacex-stock-starship-test-flight-8d7765c4",
+        "urlToImage": "https://images.barrons.com/im-67028026/social",
+        "publishedAt": "2026-07-27T13:51:00Z",
+        "content": "SpaceXstock rose a little in early trading, but gains didnt last after the company completed a successful Starshiptest flighton Friday evening.\r\nCopyright \u00a92026Dow Jones &amp; Company, Inc. All Right\u2026 [+43 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Mashed.com"
+            "name": "Yahoo Entertainment"
         },
-        "author": "Sam Zwick",
-        "title": "Culver's North Atlantic Cod Fish Sandwich Vs McDonald's Filet-O-Fish: Who Makes The Better Fish Sandwich? - Mashed",
-        "description": "When pitted head-to-head, there is a clear winner between Culver's North Atlantic Cod Fish Sandwich and McDonald's Filet-O-Fish.",
-        "url": "https://www.mashed.com/2219065/culvers-vs-mcdonalds-who-makes-better-fish-sandwich/",
-        "urlToImage": "https://www.mashed.com/img/gallery/culvers-north-atlantic-cod-fish-sandwich-vs-mcdonalds-filet-o-fish-who-makes-the-better-fish-sandwich/l-intro-1784572855.jpg",
-        "publishedAt": "2026-07-26T13:23:00Z",
-        "content": "While chicken nuggets are perhaps the best-known sidekick to a classic McDonald's burger and fries, the Filet-O-Fish actually predates any chicken items on the restaurant's menu by nearly 20 years. I\u2026 [+1110 chars]"
+        "author": "Yahoo Finance",
+        "title": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade - Yahoo Finance",
+        "description": "Tech stocks rose on Monday morning amid tentative optimism ahead of a flood of Big Tech earnings this week.",
+        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/A92CF1B1F7FF1E0548AC13A02DC58D386E14CFFA313890E57068AFFCEF5BFD5E/subgraphmysterio/resizefill_w1200_h780;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F5d4dd17f-cf0c-4da3-9e25-56a69e11fdcd",
+        "publishedAt": "2026-07-27T13:46:11Z",
+        "content": "Tech stocks rose on Monday morning amid tentative optimism ahead of a flood of Big Tech earnings this week.\r\nResults from Microsoft (MSFT), Meta Platforms (META), Apple (AAPL), and Amazon (AMZN) high\u2026 [+515 chars]"
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": null,
+            "name": "Yahoo Entertainment"
         },
-        "author": "Jeran Wittenstein, Ryan Vlastelica",
-        "title": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending - Bloomberg.com",
-        "description": "For years, US technology giants had a tacit agreement with investors: The companies could spend lavishly on artificial intelligence, and the stock market would reward them long as their revenues were rising. That deal is suddenly breaking down.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUVMH3JB4rZ0/v0/1200x800.jpg",
-        "publishedAt": "2026-07-26T13:00:00Z",
-        "content": "For years, US technology giants had a tacit agreement with investors: The companies could spend lavishly on artificial intelligence, and the stock market would reward them long as their revenues were\u2026 [+346 chars]"
+        "author": "Grace O'Donnell",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as oil tumbles, investors brace for busy week - Yahoo Finance",
+        "description": "Markets are entering the busiest week of the quarter, with more Big Tech earnings and a Fed decision on deck.",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-27-dow-sp-500-nasdaq-080412540.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/E0475032100CB664D6E150BF988C4F28C319D8D893F318594FE09E04A0CF6E71/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F9d756d07-e7a6-46ff-bcd1-79edb500a21b",
+        "publishedAt": "2026-07-27T13:38:38Z",
+        "content": "US stocks seesawed on Monday morning after a strong open as chip stocks began selling off. Oil prices sank, offsetting tech weakness, as markets entered the busiest week of the quarter, jam-packed wi\u2026 [+1585 chars]"
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "Seeking Alpha"
         },
-        "author": "Michelle Ye Hee Lee",
-        "title": "See what it\u2019s like to use a North Korean smartphone under Kim Jong Un - The Washington Post",
-        "description": "North Koreans are banking, getting makeup tutorials and using period trackers on their phones. But under Kim, these digital comforts are also tools of control.",
-        "url": "https://www.washingtonpost.com/world/2026/07/26/see-what-its-like-use-north-korean-smartphone-under-kim-jong-un/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GVQFU6QD3RFC7BV7GXJYP3RV3E_size-normalized.jpg&w=1440",
-        "publishedAt": "2026-07-26T12:43:55Z",
-        "content": "SEOUL People in North Korea cant access the internet. But that hasnt stopped a meaningful share of them from buying smartphones.\r\nThe Washington Post, with the help of Martyn Williams, a North Korean\u2026 [+171 chars]"
+        "author": "Michael Wiggins De Oliveira",
+        "title": "Nebius: The Market Still Doesn't Get It, Here's The Setup (NASDAQ:NBIS) - Seeking Alpha",
+        "description": "Nebius (NBIS) stock: AI infrastructure & GPU data center demand drive strong cash flow and 2026 guidance; weigh dilution and volatility risks\u2014read now.",
+        "url": "https://seekingalpha.com/article/4925852-nebius-stock-exceptional-cash-flow-generation-ai-infrastructure-positioning",
+        "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2160027598/image_2160027598.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-07-27T13:16:01Z",
+        "content": "Analysts Disclosure: I/we have a beneficial long position in the shares of NBIS either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opi\u2026 [+730 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "STAT"
+        },
+        "author": "Jason Mast",
+        "title": "Ahead of hearing, FDA questions the efficacy of Capricor\u2019s Duchenne drug - STAT",
+        "description": "Ahead of a hearing, the FDA raised questions about the benefits of a Duchenne treatment from Capricor Therapeutics, another twist for the rare disease drug.",
+        "url": "https://www.statnews.com/2026/07/27/fda-efficacy-doubts-capricor-therapeutics-duchenne-muscular-dystrophy/",
+        "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/09/GettyImages-1227710420-1024x576.jpg",
+        "publishedAt": "2026-07-27T13:08:32Z",
+        "content": "The Food and Drug Administration said Monday that Capricor Therapeutics stem cell treatment for Duchenne muscular dystrophy did not meet the objectives of a Phase 3 trial contrary to the companys cla\u2026 [+824 chars]"
     },
     {
         "source": {
@@ -148,89 +161,102 @@
             "name": "Yahoo Entertainment"
         },
         "author": "Brian Sozzi",
-        "title": "Why are investors freaking out about Big Tech's booming AI capex? - Yahoo Finance",
-        "description": "Why so worried about AI spending?",
-        "url": "https://finance.yahoo.com/markets/article/why-are-investors-freaking-out-about-big-techs-booming-ai-capex-123000998.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/DF19E92D4B20EEF1E3D85EF68353BF2CD33E3150DE4D6697F299F7121093DB68/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2Fd8c38474-b4a7-4ecb-bddf-085f6fb83536",
-        "publishedAt": "2026-07-26T12:30:00Z",
-        "content": "I've long held one core belief when it comes to markets: Price is truth.\u00a0\r\nBy that I mean that each day, a stock's movement is trying to tell investors a story. Over time, those stories begin to pain\u2026 [+4227 chars]"
+        "title": "Why another shocking Meta capex number may keep the stock underwater - Yahoo Finance",
+        "description": "All eyes on Meta's big spending plans.",
+        "url": "https://finance.yahoo.com/technology/article/why-another-shocking-meta-capex-number-may-keep-the-stock-underwater-130420154.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/6D14229696316224853CC8ECE8ED238A9C2E07CAFB6910F876F7B4CD38CA116D/subgraphmysterio/resizefill_w1200_h777;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F1bbc0885-ce7f-4a04-98ef-95a8669e7b10",
+        "publishedAt": "2026-07-27T13:04:20Z",
+        "content": "When Meta (META) reports second quarter earnings on Wednesday afternoon, all eyes will be on its capital expenditures plan for the rest of the year and in 2027.\r\nThis area of Meta's cash flow stateme\u2026 [+1940 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Keach Hagey",
+        "title": "Exclusive | Nvidia Bets on Ilya Sutskever\u2019s New AI Lab to Expand Compute Reach - WSJ",
+        "description": "Partnership with former top OpenAI scientist aims to boost chip giant\u2019s high-profile customer roster during AI boom",
+        "url": "https://www.wsj.com/tech/ai/nvidia-bets-on-ilya-sutskevers-new-ai-lab-to-expand-compute-reach-f95596e8",
+        "urlToImage": "https://images.wsj.net/im-10990539/social",
+        "publishedAt": "2026-07-27T13:00:00Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "Investor's Business Daily"
         },
-        "author": "Ines Ferr\u00e9",
-        "title": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks - Yahoo Finance",
-        "description": "Alphabet's increased capex forecast for 2026 this week was the latest tailwind for AI infrastructure stocks.",
-        "url": "https://finance.yahoo.com/markets/article/the-ai-trade-is-still-on-wall-street-sees-big-techs-spending-as-positive-for-semiconductor-stocks-121056519.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/80D40F0F7CE0B7EDBDA037709A906170C84D4BBED3ED159C4815410A1A5774C3/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F7ee42d4b-8f81-49fa-86c2-16c7fb100a08",
-        "publishedAt": "2026-07-26T12:10:56Z",
-        "content": "The AI trade this year has been centered around infrastructure plays, including chips, networking equipment, and data center providers.\r\nAlphabet's (GOOG,\u00a0GOOGL) ballooning capital expenditures, disc\u2026 [+4851 chars]"
+        "author": null,
+        "title": "Quantum Computing Stocks: D-Wave, AT&T Expand Quantum Agreement - Investor's Business Daily",
+        "description": "D-Wave shares popped amid an expanded AT&T deal with earnings due for quantum computing stocks in early August.",
+        "url": "https://www.investors.com/news/technology/quantum-computing-stocks-d-wave-att-expand-quantum-agreement/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/03/A1-031025-Quantum-Shutt.jpg",
+        "publishedAt": "2026-07-27T12:58:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": null,
+            "name": "Investor's Business Daily"
         },
-        "author": "Samantha Grindell Pettyjohn",
-        "title": "A woman built a $400,000 ADU on her property so her parents can live rent-free - Business Insider",
-        "description": "Hana Brown didn't want her parents to have to worry about housing as they age, so she and her husband built a luxury ADU for them in their yard.",
-        "url": "https://www.businessinsider.com/woman-built-adu-on-her-property-parents-live-rent-free-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a5a4613548c9c486b30d49d?width=1200&format=jpeg",
-        "publishedAt": "2026-07-26T12:05:26Z",
-        "content": "Now that they are older, the Cataks spend part of the year in Bosnia; Jasmin Catak is there for about five months annually, while Azra Catak is there for three months. When they're in the US, though,\u2026 [+971 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Eva Roytburg",
-        "title": "The U.S. government invested $27 billion in corporate stakes. Good luck finding them - Fortune",
-        "description": "The Trump administration's equity stakes\u2014from Intel to quantum startups\u2014appear in no budget document and are subject to no watchdog.",
-        "url": "https://fortune.com/2026/07/26/the-u-s-government-invested-27-billion-in-corporate-stakes-good-luck-finding-them/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-925486348-e1784926695268.jpg?resize=1200,600",
-        "publishedAt": "2026-07-26T12:00:00Z",
-        "content": "The Trump administration has invested roughly $26.7 billion across 30 equity or quasi-equity deals, headlined by a 9.9% stake in chipmaker Intel thats now worth $42 billion.\u00a0Others include $400 milli\u2026 [+4913 chars]"
+        "author": null,
+        "title": "Rocket Lab Stock Jumps After Securing Largest Launch Contract With Pentagon - Investor's Business Daily",
+        "description": "Rocket Lab won a U.S. Space Force contract to launch at least 12 satellites. Shares of Rocket Lab rose about 5% on Monday morning.",
+        "url": "https://www.investors.com/news/space-x-rocket-lab-pentagon-space-force-satellites/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2021/08/Stock-RocketLabs-F2-29-company.jpg",
+        "publishedAt": "2026-07-27T12:48:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Andrew Ackerman",
-        "title": "The new Fed chair won\u2019t tell you what he thinks - The Washington Post",
-        "description": "Two months into his tenure as Fed chief, Kevin Warsh is saying as little as possible about interest rates, inflation and his own thinking.",
-        "url": "https://www.washingtonpost.com/business/2026/07/26/new-fed-chair-wont-tell-you-what-he-thinks/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/VRXKDNDD3AOKOUVSGXBLSEYDGM.JPG&w=1440",
-        "publishedAt": "2026-07-26T11:32:32Z",
-        "content": "Ask Kevin Warsh how the Federal Reserve should think about inflation, talk to markets or weigh the impact of artificial intelligence on the economy, and the new chair has a stock answer: Theres a tas\u2026 [+16 chars]"
+        "author": "Faiz Siddiqui",
+        "title": "Musk\u2019s SpaceX tumbles back to Earth, dragging Tesla stock down with it - The Washington Post",
+        "description": "After a record-setting IPO last month, SpaceX\u2019s honeymoon is over. Investors in companies led by Elon Musk, who has lost his trillionaire status, want results.",
+        "url": "https://www.washingtonpost.com/technology/2026/07/27/musks-spacex-tumbles-back-earth-dragging-tesla-down-with-it/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBYQ7WXYVU6A2EAE5M57SNYOQU_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-07-27T12:33:09Z",
+        "content": "It seemed to be only good news for Elon Musk and investors in companies he oversees.\r\nSpaceX had marked a record-setting IPO, Musk was the first trillionaire in history, and the rocket company vaulte\u2026 [+49 chars]"
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": null,
+            "name": "Barron's"
         },
-        "author": "Ramishah Maruf",
-        "title": "Millennials are trying to make minivans cool again - CNN",
-        "description": "They see them rolling, but maybe they won\u2019t be hating.",
-        "url": "https://www.cnn.com/2026/07/26/business/millennials-are-trying-to-make-minivans-cool-again",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/260723-ma-business-minivan-0002.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-07-26T10:30:26Z",
-        "content": "They see them rolling, but maybe they wont be hating.\r\nMillennial parents are changing their minds about the minivan. A TikTok video shows off lounge-style chairs with built-in ottomans and 14-inch s\u2026 [+5206 chars]"
+        "author": "Callum Keown",
+        "title": "Micron Stock Faces New Memory Threat as China's CXMT Surges 466% After IPO - Barron's",
+        "description": "CXMT stock surged 466% on its trading debut in China Monday. Micron and SK Hynix stocks were lower shortly after the open.",
+        "url": "https://www.barrons.com/articles/cxmt-stock-ipo-micron-memory-chips-china-834b55db",
+        "urlToImage": "https://images.barrons.com/im-105602/social",
+        "publishedAt": "2026-07-27T12:17:00Z",
+        "content": "Sometimes threes a crowd. But when it comes to the memory boom, theres room, and plenty of demand, for more chip makersincluding ChinasChangXin Memory Technologies(CXMT), which IPOed on Monday, bring\u2026 [+148 chars]"
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Thibault Spirlet",
-        "title": "Europe is warming to America's obsession with staying cool - Business Insider",
-        "description": "As Europe recorded its hottest June on record, Europeans flocked to buy AC units, eroding a decades-old divide with America.",
-        "url": "https://www.businessinsider.com/europe-is-warming-to-americas-obsession-with-ac-2026-7#article",
-        "urlToImage": "https://i.insider.com/6a56373c81137eabe596d31d?width=1200&format=jpeg",
-        "publishedAt": "2026-07-26T10:11:05Z",
-        "content": "Europe may finally be admitting Americans had a point.\r\nFor decades, much of the continent treated air conditioning as an unnecessary luxury something for hotels, shopping malls, and the occasional t\u2026 [+5732 chars]"
+        "author": "Jessica Dickler",
+        "title": "Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers - CNBC",
+        "description": "The Federal Reserve is expected to keep its overnight rate unchanged at the conclusion of its July meeting.",
+        "url": "https://www.cnbc.com/2026/07/27/fed-interest-rates-july.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108323563-1781728922470-gettyimages-2281471656-fomc_fed_087_061726.jpeg?v=1784841107&w=1920&h=1080",
+        "publishedAt": "2026-07-27T12:15:01Z",
+        "content": "Federal Reserve Chairman Kevin Warsh concludes a news conference after a meeting of the Federal Open Market Committee, June 17, 2026.\r\nThe Federal Reserve\u00a0is expected to hold\u00a0interest rates\u00a0unchanged\u2026 [+3951 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Robert Hart",
+        "title": "Nvidia, Microsoft launch open AI security alliance \u2014 without OpenAI, Google, or Anthropic - The Verge",
+        "description": "It comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-07-27T12:06:22Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\r\nIt comes after Hugging Face used a Chinese open-weight A\u2026 [+2724 chars]"
     }
 ]
