@@ -1,29 +1,133 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Claire Boston",
-        "title": "Mortgage rates just hit their highest level in a year \u2014 and may be headed higher: Mortgage and refinance interest rates today, Thursday, July 30, 2026 - Yahoo Finance",
-        "description": "Mortgage rates rose to their highest level in a year amid the re-escalating conflict with Iran and investors grew more worried about the Federal Reserve\u2019s pl...",
-        "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-just-hit-their-highest-level-in-a-year--and-may-be-headed-higher-mortgage-and-refinance-interest-rates-today-thursday-july-30-2026-100000591.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/6779544810823CA681E475731072A8F67D34B6ADF0EEB0582C1E67AC89326E30/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2Fc595015b-d1b0-4936-ba51-056b606bace6",
-        "publishedAt": "2026-07-30T16:01:05Z",
-        "content": "Mortgage rates rose to their highest level in a year amid the re-escalating conflict with Iran and investors grew more worried about the Federal Reserve's plans to tame inflation.\u00a0\r\nThe average 30-ye\u2026 [+6540 chars]"
-    },
-    {
-        "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Exclusive | Citadel Buys Situational Awareness\u2019s Stock Portfolio After Big Losses in AI - WSJ",
+        "title": "Stock Market Today: Apple Dips, Dow Slips \u2014 Live Updates - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-31-2026",
         "urlToImage": null,
-        "publishedAt": "2026-07-30T15:31:00Z",
+        "publishedAt": "2026-07-31T14:35:00Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Barron's",
+        "title": "Apple, Amazon, Reddit, Micron, SK Hynix, Roblox, and More Stocks That Explain Today\u2019s Market - Barron's",
+        "description": null,
+        "url": "https://www.barrons.com/articles/stock-movers-e7d1ed18",
+        "urlToImage": null,
+        "publishedAt": "2026-07-31T13:57:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Al Root",
+        "title": "Rivian Stock Reverses After Earnings. The R2 Rollout Is Paying Off. - Barron's",
+        "description": "Rivian stock rose after the EV maker reported a second-quarter gross profit of $170 million. Wall Street was looking for $71 million.",
+        "url": "https://www.barrons.com/articles/rivian-earnings-stock-price-ba825004",
+        "urlToImage": "https://images.barrons.com/im-69338354/social",
+        "publishedAt": "2026-07-31T13:46:00Z",
+        "content": "Rivian Automotivejust reported what could be considered its most important quarter ever. It went well enough to lift the stock, at least for a minute.\r\nCopyright \u00a92026Dow Jones &amp; Company, Inc. Al\u2026 [+50 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Sean O'Kane",
+        "title": "Tesla reportedly might sell its China business ahead of a SpaceX merger - techcrunch.com",
+        "description": "Tesla had already reportedly prepped for the idea in the event that Beijing invades Taiwan.",
+        "url": "https://techcrunch.com/2026/07/31/tesla-reportedly-might-sell-its-china-business-ahead-of-a-spacex-merger/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
+        "publishedAt": "2026-07-31T13:45:53Z",
+        "content": "Tesla is reportedly considering cleaving off its entire business in China to grease the wheels of a merger with SpaceX, according to the Wall Street Journal.\r\nThe newspaper reports that \u201csome Tesla e\u2026 [+737 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Michael Wayland",
+        "title": "GM to launch its own in-vehicle AI system later this year - CNBC",
+        "description": "General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.",
+        "url": "https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107420905-1716922517246-1716305392-dbe401096ad9612fc2427852896d5e5b.jpg?v=1716922614&w=1920&h=1080",
+        "publishedAt": "2026-07-31T13:20:52Z",
+        "content": "DETROIT General Motors plans to launch its own in-vehicle artificial intelligence system that's better tailored for its customers later this year.\r\nThe new GM AI assistant is expected to be more inte\u2026 [+2069 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Annie Palmer, Jordan Novet, Lora Kolodny",
+        "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag - CNBC",
+        "description": "Amazon, Alphabet and Tesla all reported negative cash flow in the latest quarter, while Meta's cash generation plummeted by 91%.",
+        "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108343137-1785504348309-108343137-1785504232240-gettyimages-2279915553-AFP_B6EK2EN.jpg?v=1785504363&w=1920&h=1080",
+        "publishedAt": "2026-07-31T13:06:00Z",
+        "content": "Almost four years into the artificial intelligence boom, the world's biggest tech companies are still making grand promises about the future. The problem is, they're burning through their cash in the\u2026 [+5947 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Ines Ferr\u00e9",
+        "title": "Apple stock falls on weak revenue forecast as CEO Tim Cook flags 'increasing impact' from memory shortage - Yahoo Finance",
+        "description": "The iPhone maker reported its third quarter earnings on Thursday, beating analysts' expectations on the top and bottom lines on strong iPhone sales, but shar...",
+        "url": "https://finance.yahoo.com/technology/article/apple-stock-falls-on-weak-revenue-forecast-as-ceo-tim-cook-flags-increasing-impact-from-memory-shortage-130428410.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/8533B6A80E439C4C30611D6195850C02C025164873A75DCC39DEE9E35AF16EB8/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fc29bf3d3-b9a3-4dc2-b8c5-42ed16d17f45_5245c07f73834e1d02b646db565370c36ad6deefc1ca478989b6aa07644e2c74.jpg",
+        "publishedAt": "2026-07-31T13:04:28Z",
+        "content": "What happened: Apple (AAPL) stock sank 8% in early trading on Friday.\r\nWhat's behind the move: The iPhone maker reported its third quarter earnings on Thursday, beating analysts' expectations on the \u2026 [+2088 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Davis Giangiulio",
+        "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation' - CNBC",
+        "description": "It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.",
+        "url": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108241908-1785502191794-108241908-1765819608472-gettyimages-2252060021-mms22834_njfknwmp.jpg?v=1785502208&w=1920&h=1080",
+        "publishedAt": "2026-07-31T12:41:34Z",
+        "content": "New York state sued prediction market platform Kalshi on Friday, alleging that the company is running an \"illegal gambling operation.\"\r\nIn a case filed in a Manhattan state court, the lawsuit claims \u2026 [+3701 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Ines Ferr\u00e9",
+        "title": "Amazon stock soars as e-commerce giant's AWS cloud business booms in 'home run' quarter - Yahoo Finance",
+        "description": "The e-commerce and cloud giant topped second quarter expectations as accelerating cloud growth at Amazon Web Services (AWS) helped drive strong results.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-soars-as-e-commerce-giants-aws-cloud-business-booms-in-home-run-quarter-122456315.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/86CC36415AE0127661DA66DF34AAD4161619F2B9548C56727D2A6046ACB91C7C/subgraphmysterio/resizefill_w1200_h775;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-07%2F03726c00-6d5a-11f0-97ff-bfe6c78643ec",
+        "publishedAt": "2026-07-31T12:24:56Z",
+        "content": "What's happened: Amazon (AMZN) stock soared 15% on Friday.\r\nWhat's behind the move: The e-commerce and cloud giant topped second quarter expectations as accelerating cloud growth at Amazon Web Servic\u2026 [+2022 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Jeff Cox",
+        "title": "Fed officials who voted to hike rates say action is needed now against inflation - CNBC",
+        "description": "Kashkari and Hammack joined Dallas Fed President Lorie Logan in dissenting against holding the Fed's key overnight borrowing rate steady.",
+        "url": "https://www.cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220143-1761932982247-gettyimages-2243837894-DALLAS_FED_SPEAK.jpeg?v=1761933060&w=1920&h=1080",
+        "publishedAt": "2026-07-31T12:01:02Z",
+        "content": "Federal Reserve officials who voted this week against the decision to hold interest rates steady said Friday they favor hiking now as a way to stave off inflation.\r\n\"In my view, now is the time for t\u2026 [+2776 chars]"
     },
     {
         "source": {
@@ -31,219 +135,102 @@
             "name": "Investor's Business Daily"
         },
         "author": null,
-        "title": "Amazon Stock Climbs With Earnings Due. Google And Microsoft Just Raised The Cloud Stakes. - Investor's Business Daily",
-        "description": "Amazon stock is on a losing streak coming into its Q2 earnings report but could highlight AI enterprise momentum.",
-        "url": "https://www.investors.com/news/technology/amazon-stock-q2-earnings-preview-ai-bedrock/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2023/07/Stock-Amazon-doorstep-company.jpg",
-        "publishedAt": "2026-07-30T15:03:00Z",
+        "title": "Stock Market Today: Dow Rises But Apple Dives On Weak Forecast; Amazon Stock Surges - Investor's Business Daily",
+        "description": "Stock Market Today: The Dow Jones index turns lower as Apple dives on a weak sales forecast. Amazon stock surges on earnings.",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-earnings-aapl-stock-amazon-stock-amzn/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
+        "publishedAt": "2026-07-31T12:01:00Z",
         "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Fox Business"
         },
-        "author": "Alex Sherman",
-        "title": "How NBCUniversal's deal with YouTube could jump-start the next chapter of the streaming wars - CNBC",
-        "description": "The next iteration of the streaming wars is likely to be about aggregating content on the biggest existing platforms.",
-        "url": "https://www.cnbc.com/2026/07/30/nbcuniversal-youtube-deal-streaming-wars.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108342064-1785357650663-gettyimages-2265402153-ecs260309140_uconn_vs_nova.jpeg?v=1785427802&w=1920&h=1080",
-        "publishedAt": "2026-07-30T14:55:17Z",
-        "content": "A general view of the Peacock logo on a microphone during the Big East Women's Basketball Tournament Championship game between the University of Connecticut Huskies and the Villanova Wildcats on Marc\u2026 [+5569 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Drive"
-        },
-        "author": "Jerry Perez",
-        "title": "The Ferrari Luce Has Done Its Job - The Drive",
-        "description": "Things are looking rosy at Ferrari, with the Luce EV reaching its 2026 sales target in just two months, and the automaker raising its full-year revenue estimate.",
-        "url": "https://www.thedrive.com/news/the-ferrari-luce-has-done-its-job",
-        "urlToImage": "https://www.thedrive.com/wp-content/uploads/2026/07/ferrari-luce-jerry-perez-1.jpeg?w=1200",
-        "publishedAt": "2026-07-30T14:39:44Z",
-        "content": "The biggest car news and reviews, no BS\r\nOur free daily newsletter sends the stories that really matter directly to you, every weekday.\r\nDuring its earnings call Thursday morning, Ferrari painted a p\u2026 [+2072 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Paul Wiseman",
-        "title": "US economy grows a sluggish 1.5% second-quarter with inflation remaining stubbornly high - AP News",
-        "description": "The U.S. economy expanded at a sluggish 1.5% pace from April through June as rising imports weighed on growth. But consumer spending rose. And the Federal Reserve\u2019s favored measure of inflation grew more slowly last month, but remained above the central bank\u2019\u2026",
-        "url": "https://apnews.com/article/economy-inflation-spending-growth-consumers-growth-jobs-caf3b24d92688568f9c4f95725c87e55",
-        "urlToImage": "https://dims.apnews.com/dims4/default/0e9bb1f/2147483647/strip/true/crop/5101x3399+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6f%2F39%2Fd61274502db52c9ca4d0fd4f0ddc%2F3f2f58c02d9f48d7bf8621a04b2a727d",
-        "publishedAt": "2026-07-30T14:21:00Z",
-        "content": "WASHINGTON (AP) The U.S. economy expanded at a sluggish 1.5% pace from April through June as rising imports weighed on growth, yet consumers continued to spend. And the Federal Reserves favored measu\u2026 [+3491 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Taco Bell\u2019s Plan to Win Back Customers After Cyclospora Illness Outbreak - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/business/hospitality/taco-bells-plan-to-win-back-customers-after-cyclospora-illness-outbreak-a7ab5ae6",
-        "urlToImage": null,
-        "publishedAt": "2026-07-30T13:25:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Shell Turns Refineries Up to 11 During Oil-Price Surge - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/business/energy-oil/shells-profits-climb-as-middle-east-conflict-continues-to-offer-earnings-windfall-478c6a6a",
-        "urlToImage": null,
-        "publishedAt": "2026-07-30T13:10:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Matt Ott",
-        "title": "US filings for jobless benefits rise to 197,000 last week, but layoffs remain historically low - AP News",
-        "description": "The number of Americans applying for unemployment benefits rose last week but layoffs remain in the historically healthy range of the past few years. U.S. filings for jobless aid in the week ending July 25 rose by 9,000 to 197,000, the Labor Department report\u2026",
-        "url": "https://apnews.com/article/unemployment-benefits-jobless-claims-layoffs-labor-99d765b2bbab7e278fb3eaed818d8319",
-        "urlToImage": "https://dims.apnews.com/dims4/default/1964fe1/2147483647/strip/true/crop/5565x3708+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F25%2Fc7%2F3f1059896eccf03a2ae07f7a6186%2F2d01160d97d84e188441e5d899fdd194",
-        "publishedAt": "2026-07-30T12:47:25Z",
-        "content": "WASHINGTON (AP) The number of Americans applying for unemployment benefits rose last week but layoffs remain in the historically healthy range of the past few years.\r\nU.S. filings for jobless aid in \u2026 [+3052 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Alicia Wallace",
-        "title": "The Fed\u2019s preferred inflation gauge cooled in June. It might not last - CNN",
-        "description": "The temporary truce in the war with Iran sent gas prices \u2013 and thus inflation \u2013 lower in June, providing some fuel for a crucial economic engine: the American consumer.",
-        "url": "https://www.cnn.com/2026/07/30/economy/us-pce-inflation-consumer-spending-june",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285568235a.JPG?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-07-30T12:38:19Z",
-        "content": "The temporary truce in the war with Iran sent gas prices and thus inflation lower in June, providing some fuel for a crucial economic engine: the American consumer.\r\nThe welcome readings, however, ar\u2026 [+2178 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Nauman Khan",
-        "title": "Qualcomm Has Huge News for Apple - Yahoo Finance",
-        "description": "Apple's In-House Modem Push Deals Fresh Blow to Qualcomm",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-huge-news-apple-123650717.html",
-        "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-        "publishedAt": "2026-07-30T12:36:50Z",
-        "content": "This article first appeared on GuruFocus.\r\nQualcomm (NASDAQ:QCOM) said revenue from its Apple (AAPL) modem business will decline faster than previously expected as the iPhone maker accelerates adopti\u2026 [+1124 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Renato Neves, CFA",
-        "title": "Meta Stock Falls as Buybacks Hit Zero and Cash Flow Collapses - Yahoo Finance",
-        "description": "Repurchases went to zero from $10.17 billion a year ago, with $24.91 billion of debt issued instead",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-falls-buybacks-hit-123430898.html",
-        "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-        "publishedAt": "2026-07-30T12:34:30Z",
-        "content": "This article first appeared on GuruFocus.\r\nMeta Platforms (NASDAQ:META) fell 8.39% premarket after reporting second-quarter diluted earnings of $6.18 a share, down 13% from a year earlier and well sh\u2026 [+1186 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Kevin Schaul, Gerrit De Vynck",
-        "title": "How a rogue AI system\u2019s stealthy cyberattack played out day by day - The Washington Post",
-        "description": "A timeline of the unprecedented cyberattack by OpenAI \u201cagent\u201d that escaped containment shows its sophistication.",
-        "url": "https://www.washingtonpost.com/technology/interactive/2026/07/30/timeline-cyberattack-by-openais-ai-agent-shows-its-sophistication/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XDG3TXFU2EI6ZA2YECVBMNK7WQ.jpg&w=1200",
-        "publishedAt": "2026-07-30T12:02:04Z",
-        "content": "ChatGPT-maker OpenAI disclosed last week that one of its cutting-edge artificial intelligence systems had escaped from a controlled testing environment and hacked into another technology company. The\u2026 [+1283 chars]"
-    },
-    {
-        "source": {
-            "id": "mashable",
-            "name": "Mashable"
-        },
-        "author": "Amanda Yeo",
-        "title": "The FCC bans all robot vacuums made outside the U.S. - Mashable",
-        "description": "That's pretty much all of them.",
-        "url": "https://mashable.com/tech/us-robot-vacuum-ban-fcc-foreign",
-        "urlToImage": "https://helios-i.mashable.com/imagery/articles/00et3QIRk6vJVi4v25aymVM/hero-image.fill.size_1200x675.v1785395572.png",
-        "publishedAt": "2026-07-30T11:48:45Z",
-        "content": null
+        "author": "Alex Nitzberg",
+        "title": "Commerce Dept to demand equity from 7 tech companies as a condition to tap into millions in federal funding - Fox Business",
+        "description": "The Department of Commerce plans to require seven companies to fork over equity in order to obtain federal funding to develop technology.",
+        "url": "https://www.foxbusiness.com/politics/commerce-dept-demand-equity-from-tech-companies-condition-tap-millions-federal-funding",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/trump-lutnick-2025.jpg?ve=1&tl=1",
+        "publishedAt": "2026-07-31T12:00:00Z",
+        "content": "The Commerce Department indicated that the federal government is on track to dole out millions of dollars to seven companies to fund technology development but will require the businesses to fork ove\u2026 [+4137 chars]"
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Katherine Doherty",
-        "title": "NYSE Parent ICE Agrees to Buy MarketAxess for About $6 Billion - Bloomberg",
-        "description": "Intercontinental Exchange Inc., the parent of the New York Stock Exchange, agreed to buy MarketAxess Holdings Inc. for about $6 billion in cash, adding one of the world\u2019s biggest fixed-income exchanges to ICE\u2019s collection of trading platforms.",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-30/nyse-parent-ice-agrees-to-buy-marketaxess-for-about-6-billion",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuxzrCwt2j.M/v0/1200x800.jpg",
-        "publishedAt": "2026-07-30T11:41:16Z",
-        "content": "Intercontinental Exchange Inc., the parent of the New York Stock Exchange, agreed to buy MarketAxess Holdings Inc. for about $6 billion in cash, adding one of the worlds biggest fixed-income exchange\u2026 [+266 chars]"
+        "author": "Alfred Cang, Jack Farchy, Archie Hunter, Mark Burton, Katharine Gemmell, Katherine Doherty",
+        "title": "Vitol, Cargill Cut Ties With Radiant World Amid Fake Invoice Concerns - Bloomberg.com",
+        "description": "Vitol Group and Cargill Inc. have stopped trading with Radiant World, a private firm that\u2019s rapidly risen to become one of the world\u2019s largest iron ore traders, while Glencore Plc is no longer doing new business with the company, according to people familiar \u2026",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-31/vitol-cargill-cut-ties-with-radiant-world-amid-fake-invoice-concerns",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.w7_KNQwUCs/v1/1200x799.jpg",
+        "publishedAt": "2026-07-31T11:51:16Z",
+        "content": "Vitol Group and Cargill Inc. have stopped trading with Radiant World, a private firm thats rapidly risen to become one of the worlds largest iron ore traders, while Glencore Plc is no longer doing ne\u2026 [+507 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Hayley Cuccinello",
-        "title": "Wealth managers face a new challenger: their clients\u2019 AI chatbots - CNBC",
-        "description": "Large language models may give financial advisors a run for their money, but wealth management leaders say the human touch can't be replaced.",
-        "url": "https://www.cnbc.com/2026/07/30/wealth-managers-ai-chatbots.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108293465-1776456426273-gettyimages-2217250788-boy07912.jpeg?v=1776456457&w=1920&h=1080",
-        "publishedAt": "2026-07-30T11:30:01Z",
-        "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer.\u00a0Sign up\u00a0to receive future editions, straight\u2026 [+7240 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jim Edwards",
-        "title": "Wall Street reacts brutally to Fed chair Warsh\u2019s interest rate hold: \u2018the bond market puked on him\u2019 - Fortune",
-        "description": "Everything you need to know before you reach the office this morning.",
-        "url": "https://fortune.com/2026/07/30/wall-street-fed-chair-warsh-interest-rate-bond-market-puked/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2288203935.jpg?resize=1200,600",
-        "publishedAt": "2026-07-30T10:45:00Z",
-        "content": "Did someone forward you this email? If you would like to receive this information directly, every morning before the markets open in New York,sign up here.ONE BIG THING\r\nExtremely, scarily expensive:\u2026 [+9945 chars]"
+        "author": "Elsa Ohlen",
+        "title": "Novo Nordisk shares dive 9% after heart medicine fails trial - CNBC",
+        "description": "The experimental medicine ziltivekimab didn't translate into a statistically meaningful reduction in major cardiovascular adverse events, Novo said Friday.",
+        "url": "https://www.cnbc.com/2026/07/31/novo-nordisk-trial-results.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108317499-1780677508664-gettyimages-2279271814-US_STOCKS.jpeg?v=1780677967&w=1920&h=1080",
+        "publishedAt": "2026-07-31T11:39:14Z",
+        "content": "Shares of Novo Nordisk fell as much as 10% on Friday after the drugmaker said a late-stage heart drug trial failed to reduce major adverse cardiovascular events, or MACE, compared to a placebo.\r\nWhil\u2026 [+2918 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "CNBC"
         },
-        "author": null,
-        "title": "Kevin Warsh\u2019s stripped-back Fed communication \u2018already backfiring\u2019, say investors - Financial Times",
-        "description": "Traders warn lack of guidance on interest rates erodes US central bank\u2019s influence on Treasury market",
-        "url": "https://www.ft.com/content/57aac838-baee-406d-b4ac-c0ffda351aee?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb5b69d3f-bbf6-4881-a899-3b76530c47ce.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-07-30T10:24:26Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        "author": "Laya Neelakandan",
+        "title": "More consumer companies are staying private for longer, avoiding the IPO road - CNBC",
+        "description": "With the rise of secondary markets and a stronger liquidity environment, more companies are choosing to stay private for longer, according to experts.",
+        "url": "https://www.cnbc.com/2026/07/31/private-consumer-companies-ipo.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108337514-1784574988953-gettyimages-2286327848-JERSEY_MIKES_IPO.jpeg?v=1785449295&w=1920&h=1080",
+        "publishedAt": "2026-07-31T11:30:01Z",
+        "content": "Signage at a Jersey Mike's restaurant in Washington, July 20, 2026.\r\nFive years after the initial public offering boom of 2021, public markets look a lot different as more companies are choosing to s\u2026 [+6875 chars]"
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": null,
+            "name": "Seeking Alpha"
         },
-        "author": "wsj.com",
-        "title": "Stock Market Today: Dow Futures Tick Up; Bond Selloff Extends; Oil Ticks Higher \u2014 Live Updates - wsj.com",
-        "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-30-2026",
-        "urlToImage": null,
-        "publishedAt": "2026-07-30T10:01:00Z",
-        "content": null
+        "author": "Samuel Smith",
+        "title": "A Major Market Rotation Is Just Getting Underway - Seeking Alpha",
+        "description": "AI stocks have slumped. Click here to learn why they may stay weak, where market leadership is shifting, and my top picks now.",
+        "url": "https://seekingalpha.com/article/4928525-major-market-rotation-just-getting-underway",
+        "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1391887455/image_1391887455.jpg?io=getty-c-w1536",
+        "publishedAt": "2026-07-31T11:05:00Z",
+        "content": "Analysts Disclosure: I/we have a beneficial long position in the shares of ET, RYN, AEM either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my\u2026 [+738 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Stan Choe",
+        "title": "South Korea\u2019s Kospi index jumps nearly 18% on a surge in chipmaking stocks - AP News",
+        "description": "The U.S. stock market is swerving between gains and losses, as Wall Street\u2019s wild July remains rocky. Amazon is leaping on Friday, but Apple is sinking, and rising oil prices are adding to worries about inflation already squeezing the bond market. The S&P 500\u2026",
+        "url": "https://apnews.com/article/stock-markets-rates-korea-ai-oil-e31b3a442bcb957a53f1823ef21e73e8",
+        "urlToImage": "https://dims.apnews.com/dims4/default/706bed0/2147483647/strip/true/crop/8367x5575+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9d%2Faa%2F43ea2d49aef7a371fab3fb32c517%2F39dc526a7fd54cc285313a744f68c990",
+        "publishedAt": "2026-07-31T10:25:00Z",
+        "content": "NEW YORK (AP) The U.S. stock market is swinging between gains and losses on Friday, as Wall Streets wildJuly remains rocky. Amazon is leaping, but Apple is sinking, and rising oil prices are adding t\u2026 [+4223 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Chan Ho-him",
+        "title": "Anthropic says its AI models hacked 3 organizations during testing - AP News",
+        "description": "Anthropic says its AI models hacked into three organizations during testing. This comes just days after OpenAI said its AI models went rogue and hacked into another company. Anthropic, based in San Francisco, posted on its website that it discovered the incid\u2026",
+        "url": "https://apnews.com/article/anthropic-ai-models-hack-cybersecurity-b0a2c284b981de79c55e2a33712f4bec",
+        "urlToImage": "https://dims.apnews.com/dims4/default/39f6488/2147483647/strip/true/crop/4497x2996+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F18%2F43%2F478f3e1c7c020bf5377e2b2c9410%2F29c57f7133f34a08b9b6c69c437a5c01",
+        "publishedAt": "2026-07-31T09:52:00Z",
+        "content": "Anthropic said its artificial intelligence models hacked into three other organizations during testing, just days after ChatGPT maker OpenAI raised concerns over AI controls after it disclosed its ro\u2026 [+3432 chars]"
     }
 ]
