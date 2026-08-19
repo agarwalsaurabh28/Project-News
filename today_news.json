@@ -1,42 +1,120 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "One Mile at a Time"
+        },
+        "author": "Ben Schlappig",
+        "title": "American Greatly Expands First Class & Extra Legroom Seating On Narrow Body Fleet - One Mile at a Time",
+        "description": "American Airlines will greatly increase the number of premium seats on narrow body planes, including adding more first class and Main Cabin Extra seats.",
+        "url": "https://onemileatatime.com/news/american-expands-first-class-extra-legroom-seating-narrow-body-fleet/",
+        "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2026/08/American-Airlines-Seat-Back-TV-1.jpg",
+        "publishedAt": "2026-08-18T13:01:05Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Eric Revell",
+        "title": "OpenAI builds dedicated ChatGPT experience for teens with parental controls and study features - Fox Business",
+        "description": "OpenAI addresses teen safety with a dedicated ChatGPT portal featuring homework help tools, quiet hours and stronger content guardrails for minors.",
+        "url": "https://www.foxbusiness.com/markets/openai-builds-dedicated-chatgpt-experience-teens-parental-controls-study-features",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/teen-studying-computer.jpg?ve=1&tl=1",
+        "publishedAt": "2026-08-18T12:48:00Z",
+        "content": "ChatGPT-maker OpenAI on Tuesday announced that it's creating a new portal for teenagers between the ages of 13 and 17 as it looks to address concerns about online safety for young people.\r\nThe compan\u2026 [+3099 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Alexander Osipovich, Colin Kellaher, Luke Vargas, Matt Wirz, Rhiannon Hoyle, Connor Hart, Rebecca Feng, Julia Amann, WSJ Staff",
+        "title": "Stock Market Today: Global Bond Rout Deepens, Nasdaq Futures Slide \u2014 Live Updates - WSJ",
+        "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026",
+        "urlToImage": "https://images.wsj.net/im-925349/social",
+        "publishedAt": "2026-08-18T12:39:00Z",
+        "content": "Government bonds are selling off worldwide as investors fret over heavy fiscal spending and inflation.\r\nAt the same time, the capital-hungry AI industry has been gobbling up debt, competing with trad\u2026 [+914 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Variety"
+        },
+        "author": "Brian Steinberg",
+        "title": "ABC Files First Amendment Lawsuit Against FCC - Variety",
+        "description": "ABC Files First Amendment Lawsuit Against FCC",
+        "url": "https://variety.com/2026/tv/news/abc-first-amendment-lawsuit-fcc-1236837028/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2026/08/ABC-Sues-FCC-First-Amendment.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-08-18T12:20:00Z",
+        "content": "Disney\u2018s ABC filed a First Amendment lawsuit against the Federal Communications Commission on Tuesday, raising the pitch of the company\u2019s efforts to countermand unusual pressure from the federal gove\u2026 [+4146 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Jenni Reid",
+        "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn - CNBC",
+        "description": "History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.",
+        "url": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080",
+        "publishedAt": "2026-08-18T12:07:05Z",
+        "content": "The American flag flies behind a Wall Street sign near the New York Stock Exchange (NYSE) in New York City on April 22, 2026. \r\nU.S. and European stocks are scaling record highs as investors pile int\u2026 [+2355 chars]"
+    },
+    {
+        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Todd C. Frankel",
-        "title": "They were told to park outside. Then their cars burst into flames. - The Washington Post",
-        "description": "Modern vehicles don\u2019t need to be moving \u2014 or even turned on \u2014 to catch fire. That\u2019s fueling lots of safety recalls and tough choices.",
-        "url": "https://www.washingtonpost.com/business/2026/08/17/they-were-told-park-outside-then-their-cars-burst-into-flames/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MVMYXMJKG3KSFK6WYVTAAOSVIE.jpg&w=1440",
-        "publishedAt": "2026-08-17T12:26:46Z",
-        "content": "Late last year, when Sarah Lammersen learned her 2022 Jeep Wrangler plug-in hybrid was being recalled because the high-voltage battery could catch fire at any time even when the vehicle was parked sh\u2026 [+110 chars]"
+        "author": "Steve Thompson, Riley Beggin",
+        "title": "U.S. debt set to hit $40 trillion months earlier than expected - The Washington Post",
+        "description": "Faster borrowing \u2014 driven in part by lost revenue from invalidated tariffs \u2014 means the next debt-limit fight is also likely to arrive ahead of schedule.",
+        "url": "https://www.washingtonpost.com/business/2026/08/18/us-debt-set-hit-40-trillion-months-earlier-than-expected/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B64LT2UZ7C67ZLZEKJ5FMCTA5M_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-08-18T11:32:19Z",
+        "content": "The U.S. national debt is likely to surpass $40 trillion this week, months earlier than forecasters previously expected, in part because of billions of dollars in lost revenue from President Donald T\u2026 [+25 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Dominick Reuter",
+        "title": "Walmart store workers have a new responsibility: correcting AI errors - AOL.com",
+        "description": "Walmart is accelerating the rollout of AI tools for store workers, but the tech is prone to making mistakes that they must fix, clean up, or ignore.",
+        "url": "https://www.businessinsider.com/walmart-workers-new-responsibility-correcting-ai-errors-retail-2026-7",
+        "urlToImage": "https://hermes.media.static.aol.com/media/2026/08/18/08afe4ea-8f84-3f93-afdd-9367e6a28dee/460ec743-3945-49bc-92e2-b6002cab210f.jpg",
+        "publishedAt": "2026-08-18T11:02:18Z",
+        "content": "<ul><li>Walmart is accelerating the rollout of AI with a suite of tools for store workers.\r\n</li><li>Workers say the tech is prone to making mistakes they must fix, manage, or ignore.\r\n</li><li>Walma\u2026 [+7370 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Hugh Leask",
-        "title": "'Don't get too comfortable': Wall Street\u2019s \u2018fear gauge\u2019 hits 2026 low \u2014 here's why it's unlikely to last - CNBC",
-        "description": "A falling VIX points to growing investor complacency ahead of a traditionally turbulent time for markets, strategists warn.",
-        "url": "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108285956-1775048846885-gettyimages-2269291703-6e6a0089_copy_zhv0gn6f.jpeg?v=1775048926&w=1920&h=1080",
-        "publishedAt": "2026-08-17T12:19:50Z",
-        "content": "Wall Street's so-called \"fear gauge\" has fallen to its lowest level of 2026 so far, reflecting relative market tranquility in a year marked by geopolitical turbulence but the calm appears unlikely to\u2026 [+3063 chars]"
+        "author": "Laya Neelakandan",
+        "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions' - CNBC",
+        "description": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
+        "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349756-1786715492682-gettyimages-2289917116-HOME_DEPOT_EARNS.jpeg?v=1786715537&w=1920&h=1080",
+        "publishedAt": "2026-08-18T10:00:31Z",
+        "content": "Home Depot on Tuesday reported fiscal second-quarter results that beat Wall Street expectations on the top and bottom lines and reaffirmed its full fiscal-year guidance.\r\n\"We continue to operate in w\u2026 [+3375 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Jonathan Vanian",
-        "title": "Meta faces \u2018astronomical\u2019 consequences as legal fight reaches critical moment in California - CNBC",
-        "description": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
-        "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&w=1920&h=1080",
-        "publishedAt": "2026-08-17T12:00:01Z",
-        "content": "Mark Zuckerberg, CEO of Meta, is seen in the U.S. Capitol after a meeting in the office of Senate Majority Leader John Thune, R-S.D., March 26, 2026.\r\nIf New Mexico created the blueprint for taking o\u2026 [+8778 chars]"
+        "author": "Madison Mills",
+        "title": "Anthropic's revenue run rate reportedly surpasses $65 billion pre-IPO - Axios",
+        "description": "The figure was hit at the end of July, per Bloomberg, and implies a sevenfold increase from where it was at the end of last year.",
+        "url": "https://www.axios.com/2026/08/17/anthropic-revenue-run-rate-ipo-openai",
+        "urlToImage": "https://images.axios.com/c8Mm2Kwowv6c4KIw-0-dhCBfjxI=/0x0:1920x1080/1366x768/2026/05/27/1779901367550.jpeg",
+        "publishedAt": "2026-08-18T09:39:37Z",
+        "content": "By the numbers: Anthropic generated more than $11.5 billion in preliminary revenue in the second quarter, according to documents seen by Bloomberg.\r\n<ul><li>That's more than 14 times what it generate\u2026 [+2624 chars]"
     },
     {
         "source": {
@@ -44,116 +122,12 @@
             "name": "Yahoo Entertainment"
         },
         "author": "Grace O'Donnell",
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver ahead of retail earnings - Yahoo Finance",
-        "description": "Stocks were little changed ahead of a relatively quiet week, with retail earnings on the docket.",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/FCE04FAF0562F8D1585D118B55C512877F3B1B04CC750AE759AF202A403A06C4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgettyimages-2172027595_4556.jpg",
-        "publishedAt": "2026-08-17T11:41:14Z",
-        "content": "US stock futures wavered on Monday as investors weighed the Federal Reserve's next policy move and awaited a slate of retail earnings this week.\r\nFutures on the Dow Jones Industrial Average (YM=F) sl\u2026 [+1266 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Matt Phillips",
-        "title": "What rising Treasury yields are telling us - Axios",
-        "description": "Federal deficits, corporate borrowing and uncertainty about monetary policy are making investors nervous.",
-        "url": "https://www.axios.com/2026/08/17/treasury-yields-warsh-bonds",
-        "urlToImage": "https://images.axios.com/GfwkUMp4NpL8S8XsPeAFXFxigh4=/0x0:1600x900/1366x768/2026/08/14/1786745355920.png",
-        "publishedAt": "2026-08-17T11:14:14Z",
-        "content": "Yields on U.S. government bonds known as Treasurys continue to climb, thanks to groaning federal deficits, bonkers corporate borrowing and uncertainty about monetary policy under Federal Reserve chai\u2026 [+3140 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "James Powel, Gabe Hauari",
-        "title": "Buc-ee's to open 6 locations in 6 states. See when and where - USA Today",
-        "description": "The beaver-branded travel center opened its first location in Arkansas, continuing its nationwide expansion.",
-        "url": "https://www.usatoday.com/story/money/2026/08/17/buc-ees-arkansas-opening-next-locations/91296860007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/16/USAT/91330432007-20260622-t-163939-z-544043756-mt-1-usatoday-29245769-rtrmadp-3-customersarecheckedoutduringthebuceesgrandopening.JPG?crop=3899,2193,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-        "publishedAt": "2026-08-17T11:02:00Z",
-        "content": "Buc-ee's opened its first Arkansas location in Benton on Aug. 17, continuing the beaver-branded travel center's expansion out of its Texas stomping grounds.\r\nThe location is expected to bring more th\u2026 [+3306 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Kathleen Wong",
-        "title": "What locals want visitors to know about Pacific Palisades today - USA Today",
-        "description": "Twenty months after the devastating wildfire, Pacific Palisades is welcoming visitors back to help fuel its recovery.",
-        "url": "https://www.usatoday.com/story/travel/destinations/2026/08/16/pacific-palisades-fire-recovery-tourism/91245066007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/13/USAT/91289954007-20251212-t-023825-z-1016685523-rc-2-ceia-6-bybb-rtrmadp-3-californiawildfirespacificpalisades.JPG?crop=6499,3656,x0,y975&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-08-17T10:38:00Z",
-        "content": "<ul><li>A 2025 fire in Pacific Palisades, California, destroyed over 23,000 acres and caused significant economic damage.</li><li>Twenty months later, the community is rebuilding, marked by the reope\u2026 [+10330 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "syracuse.com"
-        },
-        "author": "Syracuse.com",
-        "title": "Syracuse airport charges the highest parking fees in Upstate NY. It just raised them even more - Syracuse.com",
-        "description": null,
-        "url": "https://www.syracuse.com/business/2026/08/syracuse-airport-charges-the-highest-parking-fees-in-upstate-ny-it-just-raised-them-even-more.html",
-        "urlToImage": null,
-        "publishedAt": "2026-08-17T10:00:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Sawdah Bhaimiya",
-        "title": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry - CNBC",
-        "description": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
-        "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&w=1920&h=1080",
-        "publishedAt": "2026-08-17T07:46:41Z",
-        "content": "President Donald Trump on Monday said the U.S. would \"bomb\" Oman if the Gulf nation \"gets in the way,\" as Washington's 60-day ceasefire with Iran expires with no official negotiations or deal in sigh\u2026 [+2303 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Android Authority"
-        },
-        "author": null,
-        "title": "Anthropic reveals how Claude secretly watermarks AI-written text - Android Authority",
-        "description": "Anthropic has revealed how Claude is able to secretly watermark AI-written text, and it has everything to do with word choices.",
-        "url": "https://www.androidauthority.com/how-claude-watermarks-text-3699100/",
-        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/04/Claude-main-screen-scaled.jpg",
-        "publishedAt": "2026-08-17T07:33:00Z",
-        "content": "<ul><li>Anthropic has revealed how Claudes text watermark system will work.</li><li>Watermarks are used as Claude makes low-stakes choices between the words it will generate.</li><li>Anthropic claims\u2026 [+3872 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": null,
-        "title": "Copper Heads Toward Record High on LME as Supply Tensions Build - Bloomberg.com",
-        "description": "Copper advanced toward a record, with a key spread in London widening to extreme levels in a sign of competition for prompt supply.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-17/copper-heads-toward-record-high-on-lme-as-supply-tensions-build",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icaxouUzw19c/v0/1200x800.jpg",
-        "publishedAt": "2026-08-17T07:06:56Z",
-        "content": "Copper advanced toward a record, with a key spread in London widening to extreme levels in a sign of competition for prompt supply.\r\nThe metals spot price traded as much as $543.50 a ton above contra\u2026 [+220 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "Higgsfield valued at $5.4bn as Goldman and Intel back AI video start-up - Financial Times",
-        "description": "Company founded by former Snap executive Alex Mashrabov targets marketing content for businesses",
-        "url": "https://www.ft.com/content/719c8108-f4ae-466b-80f4-96f26558d642?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2aba2b61-c0f6-4e73-837a-704a811ccb8b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-08-17T04:01:04Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions - Yahoo Finance",
+        "description": "US stock futures fell on Tuesday as rising tensions between the US and Iran revived inflation concerns, with elevated oil prices adding pressure.",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/BB839603EFCE1AD8B9E2D0820BB527AE345B268ED59583D63FDD4AB4C3885D50/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fc40db2f8-45ef-4572-b197-221a6efb0bb0",
+        "publishedAt": "2026-08-18T09:32:42Z",
+        "content": "US stock futures fell on Tuesday as rising tensions between the US and Iran revived inflation concerns, with elevated oil prices adding pressure.\r\nFutures on the Dow Jones Industrial Average (YM=F) w\u2026 [+1132 chars]"
     },
     {
         "source": {
@@ -161,24 +135,89 @@
             "name": "BBC News"
         },
         "author": null,
-        "title": "Ferrari's first ever electric car sold for record $40m at auction - BBC",
-        "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
-        "url": "https://www.bbc.com/news/articles/c77ggpgrp2do",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg",
-        "publishedAt": "2026-08-17T01:47:33Z",
-        "content": "The charity sale marks a \"tangible expression of innovation, responsibility, and long-term vision for future generations,\" Sotheby's said."
+        "title": "AI to help planes avoid climate-warming 'sky graffiti' - BBC",
+        "description": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
+        "url": "https://www.bbc.com/news/articles/c62em5lpvnjo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg",
+        "publishedAt": "2026-08-18T09:26:41Z",
+        "content": "The 30-month Operation Blue Skies project brings together Google, the UK government, the Met Office, air traffic control provider National Air Traffic Services (NATS) and researchers at the Universit\u2026 [+42 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "Theregister.com"
+        },
+        "author": "Simon Sharwood",
+        "title": "Google buys crashed airline Spirit\u2019s data at auction, because AI - theregister.com",
+        "description": "$10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+        "urlToImage": "https://image.theregister.com/5273664.jpg?imageId=5273664&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-08-18T06:43:06Z",
+        "content": "Google has acquired the data of failed US airline Spirit.\r\nSpirit hit financial turbulence when COVID-19 blew in during 2020 and started making losses. Its balance sheet never climbed back to a safe \u2026 [+2131 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
         "author": null,
-        "title": "The next China shock will come from open-source AI - Financial Times",
-        "description": "Countries adopting Chinese models will also absorb Chinese standards and governance",
-        "url": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F275ca360-8c22-48dc-9908-352a51f8623f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-08-17T01:00:05Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        "title": "Xi\u2019s No. 2 Urges More Support for Economy After Big Growth Slump - bloomberg.com",
+        "description": "China\u2019s economy showed across-the-board weakness in July and growth likely slipped further below the government\u2019s annual target, sparking a call from Premier Li Qiang on officials to ramp up supportive measures.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-18/xi-s-no-2-urges-more-support-for-economy-after-big-growth-slump",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icL8sS.kLVY0/v0/1200x800.jpg",
+        "publishedAt": "2026-08-18T03:05:00Z",
+        "content": "Chinas economy showed across-the-board weakness in July and growth likely slipped further below the governments annual target, sparking a call from Premier Li Qiang on officials to ramp up supportive\u2026 [+324 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WLS-TV"
+        },
+        "author": "ABC7 Chicago Digital Team",
+        "title": "Hours after American Airlines Chicago airport emergency, United flight 739 suffers tire damage while landing at O'Hare airport - ABC7 Chicago",
+        "description": "The Federal Aviation Administration is investigating after two airplanes suffered tire damage in incidents that happened hours apart at Chicago O'Hare International Airport Monday.",
+        "url": "https://abc7chicago.com/post/emergency-response-tarmac-ohare-airport-fire-trucks-police-cars-seen-around-american-airlines-plane-live/19693730/",
+        "urlToImage": "https://cdn.abcotvs.com/dip/images/19693699_081726-wls-chopper-ohare-response-img.png?w=1600",
+        "publishedAt": "2026-08-18T02:42:04Z",
+        "content": "CHICAGO (WLS) -- The Federal Aviation Administration is investigating after two airplanes suffered tire damage in incidents that happened hours apart at Chicago O'Hare International Airport Monday.\r\n\u2026 [+1232 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Landon Mion",
+        "title": "Nearly 1M Chrysler, Jeep, Dodge and Ram vehicles recalled over camera glitch - Fox Business",
+        "description": "Stellantis is recalling nearly one million Chrysler, Jeep, Dodge and Ram vehicles worldwide over radio software that may disable rearview cameras.",
+        "url": "https://www.foxbusiness.com/economy/nearly-1m-chrysler-jeep-dodge-ram-vehicles-recalled-over-camera-glitch",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/chryslaer-one-million-car-recall.png?ve=1&tl=1",
+        "publishedAt": "2026-08-18T02:03:00Z",
+        "content": "Chrysler parent Stellantis\u00a0announced on Monday that nearly one million vehicles\u00a0 worldwide are being recalled over radio software that may\u00a0prevent\u00a0rearview cameras from displaying images properly.\r\nA\u2026 [+2067 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "The Web of Hidden Deals That Snared the Dodgers Owner in a Federal Probe - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/finance/walter-dodgers-lakers-investigation-3e114ef9",
+        "urlToImage": null,
+        "publishedAt": "2026-08-18T01:00:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investopedia"
+        },
+        "author": "Daniel Liberto",
+        "title": "Gen X Retirement Savings: Typical Balances, Gaps, and Why Many Fall Short of Benchmarks - Investopedia",
+        "description": "Gen X was the first generation pushed toward do-it-yourself retirement. Federal data now shows how much many have saved\u2014and why the numbers are troubling.",
+        "url": "https://www.investopedia.com/gen-x-retirement-savings-how-much-they-ve-saved-and-why-many-haven-t-met-benchma-12036511",
+        "urlToImage": "https://www.investopedia.com/thmb/9WAV46N-6UQg3Axs9Xeoorl-kNw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2269627855-af05a860673044b494d7bb1c3f07e45c.jpg",
+        "publishedAt": "2026-08-18T00:28:01Z",
+        "content": "<ul><li>About 4 in 10 Gen X households have no retirement savings, according to federal data.</li><li>Gen X households with retirement accounts have a median balance of $100,000well below many common\u2026 [+5114 chars]"
     }
 ]
