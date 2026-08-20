@@ -1,198 +1,16 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "One Mile at a Time"
-        },
-        "author": "Ben Schlappig",
-        "title": "American Greatly Expands First Class & Extra Legroom Seating On Narrow Body Fleet - One Mile at a Time",
-        "description": "American Airlines will greatly increase the number of premium seats on narrow body planes, including adding more first class and Main Cabin Extra seats.",
-        "url": "https://onemileatatime.com/news/american-expands-first-class-extra-legroom-seating-narrow-body-fleet/",
-        "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2026/08/American-Airlines-Seat-Back-TV-1.jpg",
-        "publishedAt": "2026-08-18T13:01:05Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Eric Revell",
-        "title": "OpenAI builds dedicated ChatGPT experience for teens with parental controls and study features - Fox Business",
-        "description": "OpenAI addresses teen safety with a dedicated ChatGPT portal featuring homework help tools, quiet hours and stronger content guardrails for minors.",
-        "url": "https://www.foxbusiness.com/markets/openai-builds-dedicated-chatgpt-experience-teens-parental-controls-study-features",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/teen-studying-computer.jpg?ve=1&tl=1",
-        "publishedAt": "2026-08-18T12:48:00Z",
-        "content": "ChatGPT-maker OpenAI on Tuesday announced that it's creating a new portal for teenagers between the ages of 13 and 17 as it looks to address concerns about online safety for young people.\r\nThe compan\u2026 [+3099 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Alexander Osipovich, Colin Kellaher, Luke Vargas, Matt Wirz, Rhiannon Hoyle, Connor Hart, Rebecca Feng, Julia Amann, WSJ Staff",
-        "title": "Stock Market Today: Global Bond Rout Deepens, Nasdaq Futures Slide \u2014 Live Updates - WSJ",
-        "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026",
-        "urlToImage": "https://images.wsj.net/im-925349/social",
-        "publishedAt": "2026-08-18T12:39:00Z",
-        "content": "Government bonds are selling off worldwide as investors fret over heavy fiscal spending and inflation.\r\nAt the same time, the capital-hungry AI industry has been gobbling up debt, competing with trad\u2026 [+914 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Brian Steinberg",
-        "title": "ABC Files First Amendment Lawsuit Against FCC - Variety",
-        "description": "ABC Files First Amendment Lawsuit Against FCC",
-        "url": "https://variety.com/2026/tv/news/abc-first-amendment-lawsuit-fcc-1236837028/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2026/08/ABC-Sues-FCC-First-Amendment.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2026-08-18T12:20:00Z",
-        "content": "Disney\u2018s ABC filed a First Amendment lawsuit against the Federal Communications Commission on Tuesday, raising the pitch of the company\u2019s efforts to countermand unusual pressure from the federal gove\u2026 [+4146 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Jenni Reid",
-        "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn - CNBC",
-        "description": "History suggests valuations will tumble even if they are a fair reflection of the transformative power of AI, according to a European Central Bank analysis.",
-        "url": "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108295609-1776882616323-gettyimages-2271950132-AFP_A8NJ9YH.jpeg?v=1776882638&w=1920&h=1080",
-        "publishedAt": "2026-08-18T12:07:05Z",
-        "content": "The American flag flies behind a Wall Street sign near the New York Stock Exchange (NYSE) in New York City on April 22, 2026. \r\nU.S. and European stocks are scaling record highs as investors pile int\u2026 [+2355 chars]"
-    },
-    {
-        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Steve Thompson, Riley Beggin",
-        "title": "U.S. debt set to hit $40 trillion months earlier than expected - The Washington Post",
-        "description": "Faster borrowing \u2014 driven in part by lost revenue from invalidated tariffs \u2014 means the next debt-limit fight is also likely to arrive ahead of schedule.",
-        "url": "https://www.washingtonpost.com/business/2026/08/18/us-debt-set-hit-40-trillion-months-earlier-than-expected/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B64LT2UZ7C67ZLZEKJ5FMCTA5M_size-normalized.jpg&w=1440",
-        "publishedAt": "2026-08-18T11:32:19Z",
-        "content": "The U.S. national debt is likely to surpass $40 trillion this week, months earlier than forecasters previously expected, in part because of billions of dollars in lost revenue from President Donald T\u2026 [+25 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Dominick Reuter",
-        "title": "Walmart store workers have a new responsibility: correcting AI errors - AOL.com",
-        "description": "Walmart is accelerating the rollout of AI tools for store workers, but the tech is prone to making mistakes that they must fix, clean up, or ignore.",
-        "url": "https://www.businessinsider.com/walmart-workers-new-responsibility-correcting-ai-errors-retail-2026-7",
-        "urlToImage": "https://hermes.media.static.aol.com/media/2026/08/18/08afe4ea-8f84-3f93-afdd-9367e6a28dee/460ec743-3945-49bc-92e2-b6002cab210f.jpg",
-        "publishedAt": "2026-08-18T11:02:18Z",
-        "content": "<ul><li>Walmart is accelerating the rollout of AI with a suite of tools for store workers.\r\n</li><li>Workers say the tech is prone to making mistakes they must fix, manage, or ignore.\r\n</li><li>Walma\u2026 [+7370 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Laya Neelakandan",
-        "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions' - CNBC",
-        "description": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
-        "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349756-1786715492682-gettyimages-2289917116-HOME_DEPOT_EARNS.jpeg?v=1786715537&w=1920&h=1080",
-        "publishedAt": "2026-08-18T10:00:31Z",
-        "content": "Home Depot on Tuesday reported fiscal second-quarter results that beat Wall Street expectations on the top and bottom lines and reaffirmed its full fiscal-year guidance.\r\n\"We continue to operate in w\u2026 [+3375 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Madison Mills",
-        "title": "Anthropic's revenue run rate reportedly surpasses $65 billion pre-IPO - Axios",
-        "description": "The figure was hit at the end of July, per Bloomberg, and implies a sevenfold increase from where it was at the end of last year.",
-        "url": "https://www.axios.com/2026/08/17/anthropic-revenue-run-rate-ipo-openai",
-        "urlToImage": "https://images.axios.com/c8Mm2Kwowv6c4KIw-0-dhCBfjxI=/0x0:1920x1080/1366x768/2026/05/27/1779901367550.jpeg",
-        "publishedAt": "2026-08-18T09:39:37Z",
-        "content": "By the numbers: Anthropic generated more than $11.5 billion in preliminary revenue in the second quarter, according to documents seen by Bloomberg.\r\n<ul><li>That's more than 14 times what it generate\u2026 [+2624 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Grace O'Donnell",
-        "title": "Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions - Yahoo Finance",
-        "description": "US stock futures fell on Tuesday as rising tensions between the US and Iran revived inflation concerns, with elevated oil prices adding pressure.",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/BB839603EFCE1AD8B9E2D0820BB527AE345B268ED59583D63FDD4AB4C3885D50/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fc40db2f8-45ef-4572-b197-221a6efb0bb0",
-        "publishedAt": "2026-08-18T09:32:42Z",
-        "content": "US stock futures fell on Tuesday as rising tensions between the US and Iran revived inflation concerns, with elevated oil prices adding pressure.\r\nFutures on the Dow Jones Industrial Average (YM=F) w\u2026 [+1132 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "AI to help planes avoid climate-warming 'sky graffiti' - BBC",
-        "description": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
-        "url": "https://www.bbc.com/news/articles/c62em5lpvnjo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg",
-        "publishedAt": "2026-08-18T09:26:41Z",
-        "content": "The 30-month Operation Blue Skies project brings together Google, the UK government, the Met Office, air traffic control provider National Air Traffic Services (NATS) and researchers at the Universit\u2026 [+42 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Theregister.com"
-        },
-        "author": "Simon Sharwood",
-        "title": "Google buys crashed airline Spirit\u2019s data at auction, because AI - theregister.com",
-        "description": "$10 million buys over 100 million emails, 30 million recorded phone calls, reams of stuff from Teams, Oracle, and SAP",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-        "urlToImage": "https://image.theregister.com/5273664.jpg?imageId=5273664&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-08-18T06:43:06Z",
-        "content": "Google has acquired the data of failed US airline Spirit.\r\nSpirit hit financial turbulence when COVID-19 blew in during 2020 and started making losses. Its balance sheet never climbed back to a safe \u2026 [+2131 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": null,
-        "title": "Xi\u2019s No. 2 Urges More Support for Economy After Big Growth Slump - bloomberg.com",
-        "description": "China\u2019s economy showed across-the-board weakness in July and growth likely slipped further below the government\u2019s annual target, sparking a call from Premier Li Qiang on officials to ramp up supportive measures.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-18/xi-s-no-2-urges-more-support-for-economy-after-big-growth-slump",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icL8sS.kLVY0/v0/1200x800.jpg",
-        "publishedAt": "2026-08-18T03:05:00Z",
-        "content": "Chinas economy showed across-the-board weakness in July and growth likely slipped further below the governments annual target, sparking a call from Premier Li Qiang on officials to ramp up supportive\u2026 [+324 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WLS-TV"
-        },
-        "author": "ABC7 Chicago Digital Team",
-        "title": "Hours after American Airlines Chicago airport emergency, United flight 739 suffers tire damage while landing at O'Hare airport - ABC7 Chicago",
-        "description": "The Federal Aviation Administration is investigating after two airplanes suffered tire damage in incidents that happened hours apart at Chicago O'Hare International Airport Monday.",
-        "url": "https://abc7chicago.com/post/emergency-response-tarmac-ohare-airport-fire-trucks-police-cars-seen-around-american-airlines-plane-live/19693730/",
-        "urlToImage": "https://cdn.abcotvs.com/dip/images/19693699_081726-wls-chopper-ohare-response-img.png?w=1600",
-        "publishedAt": "2026-08-18T02:42:04Z",
-        "content": "CHICAGO (WLS) -- The Federal Aviation Administration is investigating after two airplanes suffered tire damage in incidents that happened hours apart at Chicago O'Hare International Airport Monday.\r\n\u2026 [+1232 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Landon Mion",
-        "title": "Nearly 1M Chrysler, Jeep, Dodge and Ram vehicles recalled over camera glitch - Fox Business",
-        "description": "Stellantis is recalling nearly one million Chrysler, Jeep, Dodge and Ram vehicles worldwide over radio software that may disable rearview cameras.",
-        "url": "https://www.foxbusiness.com/economy/nearly-1m-chrysler-jeep-dodge-ram-vehicles-recalled-over-camera-glitch",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/chryslaer-one-million-car-recall.png?ve=1&tl=1",
-        "publishedAt": "2026-08-18T02:03:00Z",
-        "content": "Chrysler parent Stellantis\u00a0announced on Monday that nearly one million vehicles\u00a0 worldwide are being recalled over radio software that may\u00a0prevent\u00a0rearview cameras from displaying images properly.\r\nA\u2026 [+2067 chars]"
+        "author": "David J. Lynch",
+        "title": "The bond market is sounding an alarm. Here\u2019s what it means. - The Washington Post",
+        "description": "Long-term Treasury yields rose to their highest point since 2007, creating another headwind for the economy and lifting borrowing costs for consumers and businesses.",
+        "url": "https://www.washingtonpost.com/business/2026/08/19/bond-market-quake-is-bad-news-governments-businesses-consumers/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K6HJVZRLEIVDN4YTC523FRT4DA_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-08-19T12:35:21Z",
+        "content": "The cost for the U.S. government to borrow money hit its highest level since 2007 on Tuesday, the latest in a worrisome series of developments that have rattled global markets and American consumers \u2026 [+5 chars]"
     },
     {
         "source": {
@@ -200,24 +18,193 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "The Web of Hidden Deals That Snared the Dodgers Owner in a Federal Probe - WSJ",
+        "title": "Stock Market Today: Global Bonds Stabilize After Selloff, Dow Futures Muted \u2014 Live Updates - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/finance/walter-dodgers-lakers-investigation-3e114ef9",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026",
         "urlToImage": null,
-        "publishedAt": "2026-08-18T01:00:00Z",
+        "publishedAt": "2026-08-19T11:37:00Z",
         "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "Investopedia"
+            "name": "Yahoo Entertainment"
         },
-        "author": "Daniel Liberto",
-        "title": "Gen X Retirement Savings: Typical Balances, Gaps, and Why Many Fall Short of Benchmarks - Investopedia",
-        "description": "Gen X was the first generation pushed toward do-it-yourself retirement. Federal data now shows how much many have saved\u2014and why the numbers are troubling.",
-        "url": "https://www.investopedia.com/gen-x-retirement-savings-how-much-they-ve-saved-and-why-many-haven-t-met-benchma-12036511",
-        "urlToImage": "https://www.investopedia.com/thmb/9WAV46N-6UQg3Axs9Xeoorl-kNw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2269627855-af05a860673044b494d7bb1c3f07e45c.jpg",
-        "publishedAt": "2026-08-18T00:28:01Z",
-        "content": "<ul><li>About 4 in 10 Gen X households have no retirement savings, according to federal data.</li><li>Gen X households with retirement accounts have a median balance of $100,000well below many common\u2026 [+5114 chars]"
+        "author": "Brian Sozzi",
+        "title": "Target delivers earnings beat, CEO 'encouraged' by turnaround traction - Yahoo Finance",
+        "description": "Target has moved quickly to rewrite its merchandising wrongs to improve traffic to its stores and online.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/target-delivers-earnings-beat-ceo-encouraged-by-turnaround-traction-103412473.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/030CB03D635A024037B204BD150B87B15F89FEE2342D130946F976543508A33F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F2a148977-9c73-422f-9ea5-1946644a1ec4",
+        "publishedAt": "2026-08-19T10:34:12Z",
+        "content": "After chopping prices and overhauling its merchandise department, retailer Target (TGT) did its part for the second straight quarter to signal that its worst days in 2024 and 2025 are in the rearview\u2026 [+4087 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Laya Neelakandan",
+        "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending - CNBC",
+        "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
+        "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348686-1786561289622-gettyimages-2246741946-LOWES_EARNS.jpeg?v=1786561309&w=1920&h=1080",
+        "publishedAt": "2026-08-19T10:27:16Z",
+        "content": "Lowe's on Wednesday reported mixed quarterly results as the home improvement retailer said it saw \"pressure\" in spending on projects.\r\nThough the company did not cut its full-year guidance, it update\u2026 [+1970 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Mithil Aggarwal",
+        "title": "China\u2019s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom - NBC News",
+        "description": "Unitree, China\u2019s humanoid robotics firm, saw its shares soar 460% on its Shanghai stock market debut on Wednesday, as investors rally behind homegrown beneficiaries of the A.I. boom.",
+        "url": "https://www.nbcnews.com/world/asia/unitree-china-robot-maker-stock-market-ai-humanoids-tech-trump-rcna593278",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260819-unitree-3-rs-e73211.jpg",
+        "publishedAt": "2026-08-19T09:54:09Z",
+        "content": "HONG KONG The robotics firm behind Chinas famously backflipping humanoids leapt to a remarkable stock market debut on Wednesday, with Unitrees shares closing up 460% as investors rally behind homegro\u2026 [+3973 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investing.com"
+        },
+        "author": "Roushni Nair",
+        "title": "Asian stocks slump as chip selloff deepens; KOSPI plunges 5% - Investing.com",
+        "description": "Asian stocks slump as chip selloff deepens; KOSPI plunges 5%",
+        "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slump-as-chip-selloff-deepens-kospi-plunges-5-4866415",
+        "urlToImage": "https://content-media.investing.com/news/LYNXMPEB310J3_L.jpg",
+        "publishedAt": "2026-08-19T04:09:03Z",
+        "content": "Investing.com -- Asian stocks slumped on Wednesday as a renewed semiconductor selloff hit South Korea and Japan, while elevated bond yields and persistent Middle East tensions kept investors cautious\u2026 [+3667 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": null,
+        "title": "Futures: After Painful AI Losses, Indexes Near Key Test - Investor's Business Daily",
+        "description": "The rally has erased some recent gains. AI, chip stocks had flashed buy signals.",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/08/stock-coins-pulled-adobe.jpg",
+        "publishedAt": "2026-08-19T03:09:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Profarmer.com"
+        },
+        "author": null,
+        "title": "Day 2 recap: Crop Tour finds both Indiana and Nebraska lagging last year's corn yields, pod counts - Pro Farmer",
+        "description": "Check out the highlights from the second day of the Pro Farmer Crop Tour.",
+        "url": "https://www.profarmer.com/news/live/live-coverage-pro-farmer-crop-tour-rolls-indiana-nebraska",
+        "urlToImage": "https://assets.farmjournal.com/dims4/default/24648bf/2147483647/strip/true/crop/1200x675+0+69/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F05%2F7f%2F4e097be046c6a5cce6eb8e492bd0%2Fcrop-tour-2026-live-blog-day-2.jpg",
+        "publishedAt": "2026-08-19T01:41:18Z",
+        "content": "Preliminary Route Report with Lane Akre, eastern Tour leader\r\nWhat counties (with state and district) have you sampled from?\r\nIndiana: Hancock, Shelby, Johnson, Putnam\r\nCorn yield range:68 to 246 bu.\u2026 [+2779 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Jonathan Vanian",
+        "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages - CNBC",
+        "description": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
+        "url": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108283652-1785343065824-108283652-17745520112026-03-26t190623z_1890999401_rc2ickaaf3hs_rtrmadp_0_usa-congress.jpg?v=1785343074&w=1920&h=1080",
+        "publishedAt": "2026-08-19T01:34:00Z",
+        "content": "Following the first day of arguments in a high-stakes child safety case against Meta, California Attorney General Rob Bonta said Tuesday that the trial centers around \"civil penalties, restitution an\u2026 [+4337 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Space.com"
+        },
+        "author": "Mike Wall",
+        "title": "Touchdown! Private Chinese rocket aces landing on 2nd-ever flight - Space",
+        "description": "\"This mission marks China's first-ever successful recovery attempt of the first stage of an orbital-class launch vehicle using landing legs, and China's first successful booster recovery on land.\"",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/b3TbWLSVpCuC9ANjWAvB6X-2560-80.jpg",
+        "publishedAt": "2026-08-19T01:32:27Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Semianalysis.com"
+        },
+        "author": "Myron Xie, Bryan Shan, Wega Chu, Jordan Nanos, Dylan Patel",
+        "title": "Cerebras's Next Generation CS-4: Fast Just Got Faster - SemiAnalysis",
+        "description": "Double the Performance with Double the Power",
+        "url": "https://newsletter.semianalysis.com/p/cerebrass-next-generation-cs-4-fast",
+        "urlToImage": "https://substackcdn.com/image/fetch/$s_!eBTS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90818ad0-ee2b-4245-b3ef-7e2875e97add_1672x941.png",
+        "publishedAt": "2026-08-19T01:32:08Z",
+        "content": "Cerebras revealed CS-4 this week, with more details to come at Hot Chips. CS-4 is their fourth-generation rack built around the same third generation 5nm wafer-scale engine: WSE-3. CS-4 doubles the p\u2026 [+12614 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Stepheny Price",
+        "title": "American Airlines makes major cabin upgrade as it battles for premium passengers - Fox Business",
+        "description": "American Airlines is installing 4K seatback screens, Bluetooth connectivity, and USB-C charging across more than 800 narrowbody aircraft starting in 2028.",
+        "url": "https://www.foxbusiness.com/fox-news-travel/american-airlines-makes-major-cabin-upgrade-battles-premium-passengers",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/0/0/american-airlines-miami-international-airport.jpg?ve=1&tl=1",
+        "publishedAt": "2026-08-19T00:09:00Z",
+        "content": "American Airlines passengers could soon notice some big changes when they settle into their seats, as the carrier rolls out a major overhaul of the onboard experience.\r\nThe company said Tuesday that \u2026 [+4639 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TheStreet"
+        },
+        "author": "thestreet.com",
+        "title": "Bank of America doubles down on Nvidia stock despite big risk - thestreet.com",
+        "description": null,
+        "url": "https://www.thestreet.com/investing/bank-of-america-doubles-down-on-nvidia-stock-despite-big-risk",
+        "urlToImage": null,
+        "publishedAt": "2026-08-18T23:47:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Exclusive | OpenAI\u2019s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
+        "urlToImage": null,
+        "publishedAt": "2026-08-18T23:47:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "nj.com"
+        },
+        "author": "NJ.com",
+        "title": "\u2018You sold us out!\u2019 N.J. town approves next phase of massive AI data center as residents erupt - NJ.com",
+        "description": null,
+        "url": "https://www.nj.com/business/2026/08/you-sold-us-out-nj-town-approves-next-phase-of-massive-ai-data-center-as-residents-erupt.html",
+        "urlToImage": null,
+        "publishedAt": "2026-08-18T23:10:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Andre Janse Van Vuuren, Levin Stamm",
+        "title": "Stocks and Bonds Find Respite After Days of Strain: Markets Wrap - Bloomberg.com",
+        "description": "Stocks and bonds rose after the US government announced it\u2019s stepping in to support the longer-dated end of the Treasury market.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiGQLG06yrXA/v0/1200x675.png",
+        "publishedAt": "2026-08-18T22:11:07Z",
+        "content": "Stocks and bonds rose after the US government announced its stepping in to support the longer-dated end of the Treasury market.\r\nS&amp;P 500 futures climbed 0.5%. The yield on 30-year US bonds fell n\u2026 [+167 chars]"
     }
 ]
