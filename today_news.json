@@ -4,26 +4,130 @@
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "David J. Lynch",
-        "title": "The bond market is sounding an alarm. Here\u2019s what it means. - The Washington Post",
-        "description": "Long-term Treasury yields rose to their highest point since 2007, creating another headwind for the economy and lifting borrowing costs for consumers and businesses.",
-        "url": "https://www.washingtonpost.com/business/2026/08/19/bond-market-quake-is-bad-news-governments-businesses-consumers/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K6HJVZRLEIVDN4YTC523FRT4DA_size-normalized.jpg&w=1440",
-        "publishedAt": "2026-08-19T12:35:21Z",
-        "content": "The cost for the U.S. government to borrow money hit its highest level since 2007 on Tuesday, the latest in a worrisome series of developments that have rattled global markets and American consumers \u2026 [+5 chars]"
+        "author": "Shira Ovide",
+        "title": "A new force is increasing inequality in America - The Washington Post",
+        "description": "Evidence is mounting that artificial intelligence is helping the richest people and cities pull further ahead.",
+        "url": "https://www.washingtonpost.com/technology/2026/08/20/ai-is-increasing-inequality-economists-hedge-fund-leaders-warn/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/K6TEE5D3SFCSHATYDTANEGS6ZM.jpg&w=1440",
+        "publishedAt": "2026-08-20T13:31:56Z",
+        "content": "Sam Altman, the chief executive who unleashed ChatGPT on the world, has called artificial intelligence an equalizing force that will collectively lift us all up.\r\nBut evidence is piling up that the A\u2026 [+94 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Hayley Cuccinello",
+        "title": "How wealthy families can prepare for aging parents and avoid a succession crisis - CNBC",
+        "description": "Relatively few wealthy families are addressing the question of when an aging parent should give up control, advisors and lawyers told CNBC.",
+        "url": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108351727-1787161530549-gettyimages-2241189729-josef16377.jpeg?v=1787165102&w=1920&h=1080",
+        "publishedAt": "2026-08-20T12:30:01Z",
+        "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer.\u00a0Sign up\u00a0to receive future editions, straight\u2026 [+7903 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Diana Olick",
+        "title": "Where commercial real estate demand is the highest, according to new data - CNBC",
+        "description": "The National Association of Realtors has released a new index that uses factors in local economies to indicate future demand.",
+        "url": "https://www.cnbc.com/2026/08/20/commercial-real-estate-demand-nar-data.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350482-1786985814009-gettyimages-1638383444-1437786942.jpeg?v=1786985933&w=1920&h=1080",
+        "publishedAt": "2026-08-20T12:15:01Z",
+        "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v\u2026 [+3180 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Reuters",
+        "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial - NBC News",
+        "description": "A former engineering director at Meta Platforms testified on Wednesday that \u200bCEO Mark Zuckerberg fostered a culture that treated child safety as secondary to growth and engagement on Facebook and Instagram.",
+        "url": "https://www.nbcnews.com/tech/social-media/zuckerberg-encouraged-growth-child-safety-ex-meta-executive-testifies-rcna593509",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260325-mark-zuckerberg-ew-1132a-99401a.jpg",
+        "publishedAt": "2026-08-20T12:02:24Z",
+        "content": "OAKLAND, California (Reuters) A former engineering director at Meta Platforms testified on Wednesday that CEO Mark Zuckerberg fostered a culture that treated child safety as secondary to growth and e\u2026 [+4564 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Brittney Melton",
+        "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns - NPR",
+        "description": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts.",
+        "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x4622+0+428/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F92%2Fee19df0942b7a4ee2437245b9e3f%2Fgettyimages-2290607514.jpg",
+        "publishedAt": "2026-08-20T11:30:18Z",
+        "content": "Good morning. You're reading the Up First newsletter.\u00a0Subscribe\u00a0here to get it delivered to your inbox, and\u00a0listen\u00a0to the Up First podcast for all the news you need to start your day.\r\nToday's top st\u2026 [+5144 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "CJ Haddad, Katie Tarasov",
+        "title": "How Micron's $50 billion Boise buildout is reshaping its hometown - CNBC",
+        "description": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
+        "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349367-1786649251374-drone_1024.png?v=1786649334&w=1920&h=1080",
+        "publishedAt": "2026-08-20T11:00:01Z",
+        "content": "Dave Petso has been a wealth manager in Boise, Idaho since the 1980s. His business has survived multiple recessions, the bursting of the dot-com bubble and the 2008 financial crisis.\r\nFor most of Pet\u2026 [+15472 chars]"
+    },
+    {
+        "source": {
+            "id": "the-hill",
+            "name": "The Hill"
+        },
+        "author": "Julia Manchester, Max Rego",
+        "title": "Bond markets rattle economy, forcing controversial buyback \u2018Band-Aid\u2019 - The Hill",
+        "description": "The U.S. bond market is raising alarm bells for the economy, forcing the Trump administration to take emergency measures to ease the immediate impact on American pocketbooks.\u00a0 Long-term borrowing costs hit their highest levels across the world on Tuesday, wit\u2026",
+        "url": "https://thehill.com/business/6040178-bond-market-yields-trump-emergency/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/08/Bond-Market_081926_AP_Yuki-Iwamura.jpg?w=1280",
+        "publishedAt": "2026-08-20T10:00:00Z",
+        "content": "Skip to content\r\nThe U.S. bond market is raising alarm bells for the economy, forcing the Trump administration to take emergency measures to ease the immediate impact on American pocketbooks.\u00a0\r\nLong-\u2026 [+6766 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Siladitya Ray",
+        "title": "Bitcoin Soars Above $70,000 After Trump Urges Passage Of Clarity Act - Forbes",
+        "description": "Bitcoin inched towards the $70,000 mark for the first time since early June as Trump pushed Congress to pass the stalled CLARITY Act.",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/08/20/bitcoin-soars-above-70000-after-trump-calls-for-passage-of-clarity-act-at-white-house-crypto-event/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a86aa463989b7db2f5e872c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-08-20T09:52:00Z",
+        "content": "Bitcoin led a rally in major cryptocurrencies and inched back above $71,000 late on Wednesday after President Donald Trump hosted top crypto industry executives and called on Congress to pass the sta\u2026 [+3043 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Harvest price hike hits business with 1500% increase in bills - BBC",
+        "description": "Richard Haldenby says his average monthly bill for Harvest had risen from $130 (\u00a395.50) to $2,110.",
+        "url": "https://www.bbc.com/news/articles/clyq011414eo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b9f/live/adebd4a0-9c70-11f1-8efc-bf1ca073197a.jpg",
+        "publishedAt": "2026-08-20T09:44:04Z",
+        "content": "Haldenby, whose business consists of up to 15 staff in the UK at any one time, with sister companies also in the US and Australia, said he was \"in shock\" when he received an email detailing the price\u2026 [+8 chars]"
     },
     {
         "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
-        "author": "WSJ",
-        "title": "Stock Market Today: Global Bonds Stabilize After Selloff, Dow Futures Muted \u2014 Live Updates - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026",
-        "urlToImage": null,
-        "publishedAt": "2026-08-19T11:37:00Z",
-        "content": null
+        "author": "Richard Rubin, WSJ Staff, Julia Amann, Joe Wallace, Carol Ryan, David Uberti, Bob Tita, Alexander Osipovich, James Mackintosh",
+        "title": "Stock Market Today: Bond Market Steady After Treasury Intervention, Nasdaq Futures Tick Up \u2014 Live Updates - WSJ",
+        "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026",
+        "urlToImage": "https://images.wsj.net/im-925349/social",
+        "publishedAt": "2026-08-20T09:31:00Z",
+        "content": "The effects of Scott Bessent's intervention in bond markets are proving short-lived: Yields are on the rise again.\r\nThe Treasury secretary's move to ratchet up bond repurchases had temporarily cooled\u2026 [+687 chars]"
     },
     {
         "source": {
@@ -31,64 +135,77 @@
             "name": "Yahoo Entertainment"
         },
         "author": "Brian Sozzi",
-        "title": "Target delivers earnings beat, CEO 'encouraged' by turnaround traction - Yahoo Finance",
-        "description": "Target has moved quickly to rewrite its merchandising wrongs to improve traffic to its stores and online.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/target-delivers-earnings-beat-ceo-encouraged-by-turnaround-traction-103412473.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/030CB03D635A024037B204BD150B87B15F89FEE2342D130946F976543508A33F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F2a148977-9c73-422f-9ea5-1946644a1ec4",
-        "publishedAt": "2026-08-19T10:34:12Z",
-        "content": "After chopping prices and overhauling its merchandise department, retailer Target (TGT) did its part for the second straight quarter to signal that its worst days in 2024 and 2025 are in the rearview\u2026 [+4087 chars]"
+        "title": "After Moderna stock surge of 177% on cancer drug breakthrough, here's what Wall Street thinks happens next - Yahoo Finance",
+        "description": "Wall Street weighs in on a big day for Moderna.",
+        "url": "https://finance.yahoo.com/healthcare/article/after-moderna-stock-surge-of-177-on-cancer-drug-breakthrough-heres-what-wall-street-thinks-happens-next-091040601.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/2B87DFC591AC867C7027247A455FE37762C87754C460154C9F98B5872CCE76CF/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F8c4fcac2-12aa-45ec-9ff1-9f68404aace8_78ffcd3d64df47a3444e04767ebf5fdfe32429bc403802979178eabd0fe0e468.jpg",
+        "publishedAt": "2026-08-20T09:10:40Z",
+        "content": "It's the day after one of the surprise healthcare stories of 2026.\r\nModerna (MRNA) shares fell 12% in premarket trading on Thursday after a stunning 177% gain yesterday on news that the biotech and p\u2026 [+3137 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Chan Ho-him",
+        "title": "Chinese court sentences Evergrande founder to life in prison for fraud - AP News",
+        "description": "A Chinese court has sentenced Hui Ka Yan, founder of property developer Evergrande, to life in prison. The court in the southern city of Shenzhen also fined Evergrande Group and Evergrande Real Estate group a total of $2.35 billion. Evergrande collapsed with \u2026",
+        "url": "https://apnews.com/article/china-evergrande-founder-real-estate-fraud-5573868904b3ced0c5c9b0314c56ae5a",
+        "urlToImage": "https://dims.apnews.com/dims4/default/e00d961/2147483647/strip/true/crop/6498x4330+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd5%2F18%2Fe4d519e5b1b3e74a3708049207a3%2F80106e9ce9a54eea9d54e192b7661a72",
+        "publishedAt": "2026-08-20T09:02:00Z",
+        "content": "HONG KONG (AP) Chinese property developer Hui Ka Yan, founder of the Evergrande real estate group, has been sentenced to life in prison and the companies were fined a total of more than $2 billion, a\u2026 [+3760 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Laya Neelakandan",
-        "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending - CNBC",
-        "description": "Lowe's reported mixed quarterly results as the retailer said it continued to see pressure in home improvement spending.",
-        "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348686-1786561289622-gettyimages-2246741946-LOWES_EARNS.jpeg?v=1786561309&w=1920&h=1080",
-        "publishedAt": "2026-08-19T10:27:16Z",
-        "content": "Lowe's on Wednesday reported mixed quarterly results as the home improvement retailer said it saw \"pressure\" in spending on projects.\r\nThough the company did not cut its full-year guidance, it update\u2026 [+1970 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Mithil Aggarwal",
-        "title": "China\u2019s backflipping robots leap to blockbuster stock market debut in latest sign of AI boom - NBC News",
-        "description": "Unitree, China\u2019s humanoid robotics firm, saw its shares soar 460% on its Shanghai stock market debut on Wednesday, as investors rally behind homegrown beneficiaries of the A.I. boom.",
-        "url": "https://www.nbcnews.com/world/asia/unitree-china-robot-maker-stock-market-ai-humanoids-tech-trump-rcna593278",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260819-unitree-3-rs-e73211.jpg",
-        "publishedAt": "2026-08-19T09:54:09Z",
-        "content": "HONG KONG The robotics firm behind Chinas famously backflipping humanoids leapt to a remarkable stock market debut on Wednesday, with Unitrees shares closing up 460% as investors rally behind homegro\u2026 [+3973 chars]"
+        "author": "Anniek Bao, Jenni Reid, Jenny Lee",
+        "title": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says - CNBC",
+        "description": "Unitree founder Wang Xingxing says humanoid robots could take up to 10 years to reach a breakthrough comparable to ChatGPT.",
+        "url": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108351911-1787192068528-gettyimages-2287247880-vcg111655844102.jpeg?v=1787192124&w=1920&h=1080",
+        "publishedAt": "2026-08-20T08:21:59Z",
+        "content": "XI'AN, CHINA - JULY 22: Wang Xingxing, founder of Unitree Robotics, speaks at the opening ceremony of the 2026 World Internet Conference Digital Silk Road Development Forum on July 22, 2026 in Xi'an,\u2026 [+4257 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Investing.com"
+            "name": "CNBC"
         },
-        "author": "Roushni Nair",
-        "title": "Asian stocks slump as chip selloff deepens; KOSPI plunges 5% - Investing.com",
-        "description": "Asian stocks slump as chip selloff deepens; KOSPI plunges 5%",
-        "url": "https://www.investing.com/news/stock-market-news/asian-stocks-slump-as-chip-selloff-deepens-kospi-plunges-5-4866415",
-        "urlToImage": "https://content-media.investing.com/news/LYNXMPEB310J3_L.jpg",
-        "publishedAt": "2026-08-19T04:09:03Z",
-        "content": "Investing.com -- Asian stocks slumped on Wednesday as a renewed semiconductor selloff hit South Korea and Japan, while elevated bond yields and persistent Middle East tensions kept investors cautious\u2026 [+3667 chars]"
+        "author": "Justina Lee, Joanna Ossinger",
+        "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act - CNBC",
+        "description": "Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.",
+        "url": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108268514-1771860022958-gettyimages-2259655540-raa-bitcoinc260206_npQ9g.jpeg?v=1771860130&w=1920&h=1080",
+        "publishedAt": "2026-08-20T05:29:50Z",
+        "content": "Bitcoin, ether and other cryptocurrencies surged after U.S. President Donald Trump urged Congress to pass a bill expected to boost the sector. \r\nBitcoin was last seen trading around 5.2% higher at $7\u2026 [+2469 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Investor's Business Daily"
+            "name": "CNBC"
         },
-        "author": null,
-        "title": "Futures: After Painful AI Losses, Indexes Near Key Test - Investor's Business Daily",
-        "description": "The rally has erased some recent gains. AI, chip stocks had flashed buy signals.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-credo-ai-stocks-target-earnings/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/08/stock-coins-pulled-adobe.jpg",
-        "publishedAt": "2026-08-19T03:09:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+        "author": "Justina Lee",
+        "title": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback - CNBC",
+        "description": "Shares of SK Hynix surged over 12% in Seoul after the company announced a massive stock buyback.",
+        "url": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333300-1783682679207-gettyimages-2272044514-SK_Hynix.jpeg?v=1783682695&w=1920&h=1080",
+        "publishedAt": "2026-08-20T03:30:00Z",
+        "content": "Shares of SK Hynix surged over 12% in Seoul on Thursday after the company announced a massive stock buyback. \r\nThe company said it is accelerating its 40 trillion won ($28.7 billion) share repurchase\u2026 [+1299 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Motor1 "
+        },
+        "author": "Jeff Perez",
+        "title": "2027 Genesis GV90 Debuts As A Flagship SUV With Coach Doors - Motor1.com",
+        "description": "The 2027 Genesis GV90 is the brand's new flagship SUV, complete with three rows of seats and a coach door option.",
+        "url": "https://www.motor1.com/news/805518/2027-genesis-gv90-horsepower-price-details/",
+        "urlToImage": "https://cdn.motor1.com/images/mgl/koK3RP/s1/2027-genesis-gv90-exterior.jpg",
+        "publishedAt": "2026-08-20T03:00:00Z",
+        "content": "Genesis is going big. The luxury automaker has officially unveiled the new GV90, its first full-size, three-row SUV and the largest model in the brand's lineup. Based on the Neolun concept that debut\u2026 [+6168 chars]"
     },
     {
         "source": {
@@ -96,115 +213,11 @@
             "name": "Profarmer.com"
         },
         "author": null,
-        "title": "Day 2 recap: Crop Tour finds both Indiana and Nebraska lagging last year's corn yields, pod counts - Pro Farmer",
-        "description": "Check out the highlights from the second day of the Pro Farmer Crop Tour.",
-        "url": "https://www.profarmer.com/news/live/live-coverage-pro-farmer-crop-tour-rolls-indiana-nebraska",
-        "urlToImage": "https://assets.farmjournal.com/dims4/default/24648bf/2147483647/strip/true/crop/1200x675+0+69/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F05%2F7f%2F4e097be046c6a5cce6eb8e492bd0%2Fcrop-tour-2026-live-blog-day-2.jpg",
-        "publishedAt": "2026-08-19T01:41:18Z",
-        "content": "Preliminary Route Report with Lane Akre, eastern Tour leader\r\nWhat counties (with state and district) have you sampled from?\r\nIndiana: Hancock, Shelby, Johnson, Putnam\r\nCorn yield range:68 to 246 bu.\u2026 [+2779 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Jonathan Vanian",
-        "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages - CNBC",
-        "description": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
-        "url": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108283652-1785343065824-108283652-17745520112026-03-26t190623z_1890999401_rc2ickaaf3hs_rtrmadp_0_usa-congress.jpg?v=1785343074&w=1920&h=1080",
-        "publishedAt": "2026-08-19T01:34:00Z",
-        "content": "Following the first day of arguments in a high-stakes child safety case against Meta, California Attorney General Rob Bonta said Tuesday that the trial centers around \"civil penalties, restitution an\u2026 [+4337 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Space.com"
-        },
-        "author": "Mike Wall",
-        "title": "Touchdown! Private Chinese rocket aces landing on 2nd-ever flight - Space",
-        "description": "\"This mission marks China's first-ever successful recovery attempt of the first stage of an orbital-class launch vehicle using landing legs, and China's first successful booster recovery on land.\"",
-        "url": "https://www.space.com/space-exploration/launches-spacecraft/touchdown-private-chinese-rocket-aces-landing-on-2nd-ever-flight",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/b3TbWLSVpCuC9ANjWAvB6X-2560-80.jpg",
-        "publishedAt": "2026-08-19T01:32:27Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Semianalysis.com"
-        },
-        "author": "Myron Xie, Bryan Shan, Wega Chu, Jordan Nanos, Dylan Patel",
-        "title": "Cerebras's Next Generation CS-4: Fast Just Got Faster - SemiAnalysis",
-        "description": "Double the Performance with Double the Power",
-        "url": "https://newsletter.semianalysis.com/p/cerebrass-next-generation-cs-4-fast",
-        "urlToImage": "https://substackcdn.com/image/fetch/$s_!eBTS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90818ad0-ee2b-4245-b3ef-7e2875e97add_1672x941.png",
-        "publishedAt": "2026-08-19T01:32:08Z",
-        "content": "Cerebras revealed CS-4 this week, with more details to come at Hot Chips. CS-4 is their fourth-generation rack built around the same third generation 5nm wafer-scale engine: WSE-3. CS-4 doubles the p\u2026 [+12614 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Stepheny Price",
-        "title": "American Airlines makes major cabin upgrade as it battles for premium passengers - Fox Business",
-        "description": "American Airlines is installing 4K seatback screens, Bluetooth connectivity, and USB-C charging across more than 800 narrowbody aircraft starting in 2028.",
-        "url": "https://www.foxbusiness.com/fox-news-travel/american-airlines-makes-major-cabin-upgrade-battles-premium-passengers",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/0/0/american-airlines-miami-international-airport.jpg?ve=1&tl=1",
-        "publishedAt": "2026-08-19T00:09:00Z",
-        "content": "American Airlines passengers could soon notice some big changes when they settle into their seats, as the carrier rolls out a major overhaul of the onboard experience.\r\nThe company said Tuesday that \u2026 [+4639 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TheStreet"
-        },
-        "author": "thestreet.com",
-        "title": "Bank of America doubles down on Nvidia stock despite big risk - thestreet.com",
-        "description": null,
-        "url": "https://www.thestreet.com/investing/bank-of-america-doubles-down-on-nvidia-stock-despite-big-risk",
-        "urlToImage": null,
-        "publishedAt": "2026-08-18T23:47:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Exclusive | OpenAI\u2019s Second-Quarter Sales Show Tepid Growth Compared With Anthropic - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
-        "urlToImage": null,
-        "publishedAt": "2026-08-18T23:47:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "nj.com"
-        },
-        "author": "NJ.com",
-        "title": "\u2018You sold us out!\u2019 N.J. town approves next phase of massive AI data center as residents erupt - NJ.com",
-        "description": null,
-        "url": "https://www.nj.com/business/2026/08/you-sold-us-out-nj-town-approves-next-phase-of-massive-ai-data-center-as-residents-erupt.html",
-        "urlToImage": null,
-        "publishedAt": "2026-08-18T23:10:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Andre Janse Van Vuuren, Levin Stamm",
-        "title": "Stocks and Bonds Find Respite After Days of Strain: Markets Wrap - Bloomberg.com",
-        "description": "Stocks and bonds rose after the US government announced it\u2019s stepping in to support the longer-dated end of the Treasury market.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiGQLG06yrXA/v0/1200x675.png",
-        "publishedAt": "2026-08-18T22:11:07Z",
-        "content": "Stocks and bonds rose after the US government announced its stepping in to support the longer-dated end of the Treasury market.\r\nS&amp;P 500 futures climbed 0.5%. The yield on 30-year US bonds fell n\u2026 [+167 chars]"
+        "title": "Day 3 recap: Pro Farmer Crop Tour turns spotlight on Illinois and western Iowa - Pro Farmer",
+        "description": "Illinois corn yield come in 7.7% below last year's Tour, with soybean pod counts down 3.3%. Western Iowa corn yields and pod counts also come in below 2025.",
+        "url": "https://www.profarmer.com/news/live/live-coverage-pro-farmer-crop-tour-turns-spotlight-illinois-and-western-iowa",
+        "urlToImage": "https://assets.farmjournal.com/dims4/default/3c7ee48/2147483647/strip/true/crop/1200x675+0+63/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F3b%2F10%2F2aceb7844690b385f3ee5fe140e0%2Fcrop-tour-2026-live-blog-day-3.jpg",
+        "publishedAt": "2026-08-20T01:26:28Z",
+        "content": "Preliminary Route Report with Lane Akre, eastern Tour leader\r\nWhat counties (with state and district) have you sampled from?\r\nILLINOIS La Salle, Putnam, Marshall, Bureau, Stark, Knox, Henry, Mercer, \u2026 [+2979 chars]"
     }
 ]
