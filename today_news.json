@@ -1,159 +1,42 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Laya Neelakandan",
-        "title": "Why some of America's biggest brands are losing ground in China - CNBC",
-        "description": "Nike, Starbucks and GM have lost ground in China as domestic rivals, geopolitics and changing consumer preferences reshape the market.",
-        "url": "https://www.cnbc.com/2026/08/21/us-brands-china-competition.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108225358-1763036722236-gettyimages-2244585430-AFP_833D7WD.jpeg?v=1787310624&w=1920&h=1080",
-        "publishedAt": "2026-08-21T11:30:02Z",
-        "content": "China was once one of the most attractive and fastest-growing markets for many American brands.\r\nWith its population of more than 1.4 billion people and massive opportunities for businesses, companie\u2026 [+10342 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Sawdah Bhaimiya",
-        "title": "No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know - CNBC",
-        "description": "\"These trials are often compared to the Big Tobacco lawsuits of the 90s, and the outcome will likely be analogous as well,\" one analyst told CNBC.",
-        "url": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108352586-1787302499508-gettyimages-2256247005-237a2895-migliorato-nr.jpeg?v=1787302554&w=1920&h=1080",
-        "publishedAt": "2026-08-21T11:00:01Z",
-        "content": "This report is from this week's The Tech Download newsletter. Like what you see? You can subscribe\u00a0here.\r\nMeta says it faces a trillion-dollar penalty and damage to its advertising model. But the tri\u2026 [+3542 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WMUR Manchester"
-        },
-        "author": "Susie Webb",
-        "title": "US national debt tops $40 trillion: These charts offer more context - WMUR",
-        "description": "The U.S. had about $36.2 trillion in debt when President Donald Trump assumed office in January 2025. From then to now, the national debt has grown by 10.6%.",
-        "url": "https://www.wmur.com/article/us-national-debt-in-four-charts/73487070",
-        "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/bb9cc42d-c518-4377-a97f-86a84dd9f19b.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-        "publishedAt": "2026-08-21T10:59:00Z",
-        "content": "The U.S. national debt has now surpassed the $40 trillion benchmark, new data from the Treasury Department shows. \r\nThe four charts below give context to the nation's debt issues.\r\nA wider look at ho\u2026 [+1921 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Diana Olick",
-        "title": "New York unseats San Francisco as the top market for tech talent, CBRE reports - CNBC",
-        "description": "AI-related roles now account for nearly one-third of all tech-talent job listings in the U.S., per the new CBRE report.",
-        "url": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107357607-1705001713838-gettyimages-1918187350-AFP_34EL3PC.jpeg?v=1787242260&w=1920&h=1080",
-        "publishedAt": "2026-08-21T10:00:02Z",
-        "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v\u2026 [+3325 chars]"
+        "author": "David J. Lynch, Steve Thompson",
+        "title": "As debt surpasses $40 trillion, the bill for Washington spending comes due - The Washington Post",
+        "description": "Decades of free spending have run up a $40 trillion national debt. But this week's bond market sell-off suggests Washington may soon be compelled to make some long-deferred, and politically unpalatable, choices that will leave few Americans unscathed.",
+        "url": "https://www.washingtonpost.com/business/2026/08/22/debt-surpasses-40-trillion-bill-washington-spending-comes-due/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/UYACPWTC75CECUJLFYMNVLH4CU.jpg&w=1440",
+        "publishedAt": "2026-08-22T11:32:26Z",
+        "content": "Year after year, the federal government has spent more than it collected in taxes. Each annual shortfall increased the national debt, slowly at first and then by leaps, defying warnings of an inevita\u2026 [+13 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Fox Business"
         },
-        "author": "Kristen Altus",
-        "title": "The unexpected reason New Jersey real estate is outperforming the rest of the country - Fox Business",
-        "description": "New Jersey's \"metroburbs,\" coastal towns like Asbury Park, and rising home prices are drawing national attention as the state ranks No. 2 to live in.",
-        "url": "https://www.foxbusiness.com/real-estate/unexpected-reason-new-jersey-real-estate-outperforming-rest-country",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/new-jersey-asbury-park-oceanview.jpg?ve=1&tl=1",
-        "publishedAt": "2026-08-21T10:00:00Z",
-        "content": "For decades, outsiders joked about New Jersey being little more than a turnpike connecting New York and Philadelphia.\r\nBut with the Garden State recently named the second-best state to live in Americ\u2026 [+7419 chars]"
+        "author": "Kiera McDonald, Amanda Macias",
+        "title": "The simple fixes conservatives say could make life cheaper for Americans - Fox Business",
+        "description": "Advancing American Freedom says government zoning rules and energy regulations are why Americans can't afford homes, and offers 10 policy fixes.",
+        "url": "https://www.foxbusiness.com/politics/simple-fixes-conservatives-say-could-make-life-cheaper-americans",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/grocery-shop-costco-va.jpg?ve=1&tl=1",
+        "publishedAt": "2026-08-22T10:18:00Z",
+        "content": "As Americans continue to feel the squeeze from high housing, food and energy costs, affordability has emerged as a defining issue ahead of November\u2019s midterm elections, with both parties under pressu\u2026 [+3505 chars]"
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": "usa-today",
+            "name": "USA Today"
         },
-        "author": "WSJ",
-        "title": "\u2018Ghost Job\u2019 Ads Are Getting So Bad That Lawmakers Want to Ban Them - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
-        "urlToImage": null,
-        "publishedAt": "2026-08-21T09:30:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Ryan Dezember",
-        "title": "Trump Wants to Revive Keystone XL. The Industry Has a Different Plan. - WSJ",
-        "description": "Three proposed pipelines would serve the same function\u2014delivering heavy oil from western Canada to Gulf Coast refineries\u2014without the hot-button name",
-        "url": "https://www.wsj.com/business/energy-oil/trump-wants-to-revive-keystone-xl-the-industry-has-a-different-plan-5f7e775b",
-        "urlToImage": "https://images.wsj.net/im-84762937/social",
-        "publishedAt": "2026-08-21T02:00:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Evelyn Cheng",
-        "title": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better - CNBC",
-        "description": "Humanoid robots still struggle to perform as efficiently as humans in most labor scenarios.",
-        "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108352476-1787269803395-IMG_2461_2.jpeg?v=1787270825&w=1920&h=1080",
-        "publishedAt": "2026-08-21T01:56:00Z",
-        "content": "Chinese consumer electronics company Xiaomi showed off its humanoid robot in Beijing at the World Humanoid Conference in August 2026.\r\nBEIJING The big challenge for humanoid robots is still getting t\u2026 [+2200 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Justina Lee, Fred Imbert",
-        "title": "Stock futures are little changed after a steep sell-off sparked by a move back higher in Treasury yields: Live updates - CNBC",
-        "description": "The Dow ended Thursday's session down 700 points, marking its worst day since July 29.",
-        "url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350946-1787062383421-gettyimages-2291006888-mms16054_lcaoxzmq.jpeg?v=1787062440&w=1920&h=1080",
-        "publishedAt": "2026-08-21T01:37:00Z",
-        "content": "Stock futures were about flat on early Friday, following a sharp pullback on Wall Street that put the major averages on pace for weekly declines.\r\nS&amp;P 500 futures traded around flat, while Nasdaq\u2026 [+1536 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Profarmer.com"
-        },
-        "author": null,
-        "title": "Live Coverage: Pro Farmer Crop Tour sweeps across Iowa and Minnesota - Pro Farmer",
-        "description": "Results from Minnesota and Iowa conclude an eye-opening, field-level look at corn and soybean crops across seven states.",
-        "url": "https://www.profarmer.com/news/live/live-coverage-pro-farmer-crop-tour-sweeps-across-iowa-and-minnesota",
-        "urlToImage": "https://assets.farmjournal.com/dims4/default/7b42fa3/2147483647/strip/true/crop/1200x675+0+86/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2F66%2Ff5%2F23833a2c4a5ea93c829cc431b849%2Fcrop-tour-2026-live-blog-day-4.jpg",
-        "publishedAt": "2026-08-21T01:23:35Z",
-        "content": "Scouts find a more variable crop than expected in Minnesota.\r\nPreliminary Route Report with Chip Flory, western Tour leader\r\nWhat counties (with state and district) have you sampled from?\r\nMINNESOTA:\u2026 [+2729 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "David J. Lynch, Steve Thompson",
-        "title": "What\u2019s behind the bond market roller coaster? - The Washington Post",
-        "description": "The bond market was already on edge. President Donald Trump\u2019s economic policies have not helped.",
-        "url": "https://www.washingtonpost.com/business/2026/08/20/whats-behind-bond-market-roller-coaster/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/AU5MZOJ3U6DVRVN3V2WWAODWKA.JPG&w=1440",
-        "publishedAt": "2026-08-21T00:04:29Z",
-        "content": "On Thursday, the bond market shrugged off Treasury Secretary Scott Bessents unusual effort to head off rising government borrowing costs. In early trading, the 30-year bond yield rose to 5.27 percent\u2026 [+130 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Lim Hui Jie",
-        "title": "Japan headline inflation rate hits highest this year as energy prices bite - CNBC",
-        "description": "Core inflation \u2014 which strips out prices of fresh food but includes energy \u2014 was in line with expectations, coming in at 1.8%.",
-        "url": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108243411-1766041547599-gettyimages-2230572480-AFP_72797T3.jpeg?v=1766041568&w=1920&h=1080",
-        "publishedAt": "2026-08-20T23:47:52Z",
-        "content": "Japan's headline inflation rate hit 1.9% in July, the highest level this year, as energy costs increase amid the Iran war.\r\nCore inflation which strips out prices of fresh food but includes energy wa\u2026 [+1821 chars]"
+        "author": "Christopher Cann, Clayton Park, Erick Trevino",
+        "title": "\u2060Their finances were tough. Then came 'insane' back-to-school costs - USA Today",
+        "description": "Rising back-to-school prices are forcing families nationwide to hunt for deals or buy cheap alternatives as they prepare the new school year.",
+        "url": "https://www.usatoday.com/story/money/personal-finance/2026/08/22/school-supply-costs-surge/91367012007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/23/PBRE/91022698007-back-to-school-blast-off-7.jpg?crop=6450,3629,x0,y194&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2026-08-22T10:02:00Z",
+        "content": "Brandi McGrath usually buys quality, long-lasting school supplies for her 9-year-old son and his teachers. But sharp increases in the cost of folders, pencils and other products have forced her to cu\u2026 [+8682 chars]"
     },
     {
         "source": {
@@ -161,76 +44,206 @@
             "name": "BBC News"
         },
         "author": null,
-        "title": "Millennials are struggling to buy a home - but is it actually getting easier? - BBC",
-        "description": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner.",
-        "url": "https://www.bbc.com/news/articles/cgewlld498xo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a4a7/live/1acdc570-9cb6-11f1-b109-879e35c24276.png",
-        "publishedAt": "2026-08-20T23:10:58Z",
-        "content": "Our analysis shows that the cost of raw materials like timber, steel, plasterboard, concrete and insulation rose in line with general inflation from the 1990s until the Covid-19 pandemic, when they b\u2026 [+22 chars]"
+        "title": "Laptop catches fire on US flight, pilot reports - BBC",
+        "description": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
+        "url": "https://www.bbc.com/news/articles/ce979zpjj85o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c85e/live/8f3dc3c0-9e09-11f1-95e0-53a570c83624.jpg",
+        "publishedAt": "2026-08-22T09:45:29Z",
+        "content": "The Federal Aviation Administration (FAA) warns that lithium batteries, including laptop batteries, are capable of overheating \"as a result of various factors, including if the battery is damaged, ov\u2026 [+62 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "CoinDesk"
+        },
+        "author": "Shaurya Malwa",
+        "title": "Bitcoin surged 25% from $64,000 to $78,500 after a Treasury tweak. Here\u2019s why - CoinDesk",
+        "description": "Treasury buybacks are not QE, analysts said, but the move helped pull long-term yields off 19-year highs and triggered a record short squeeze in a market already leaning too bearish.",
+        "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/67b45979a1b02d081d74dd1cb768215b598664d5-4858x3239.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+        "publishedAt": "2026-08-22T05:05:13Z",
+        "content": "The scale of bitcoin's rally suggests bonds were only the trigger, and that what mattered more was how traders were already betting.\r\n\"Crypto is giving the Treasury's intervention far more credit tha\u2026 [+1300 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Ashley Gold",
+        "title": "Scoop: DOJ, TikTok settle for $400 million in children's privacy suit - Axios",
+        "description": "The settlement ends a lawsuit filed by the Biden administration.",
+        "url": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
+        "urlToImage": "https://images.axios.com/KTrXJNkYR2q9ymU3CA2qGlqTtzw=/0x0:1920x1080/1366x768/2026/01/27/1769548127666.jpeg",
+        "publishedAt": "2026-08-22T03:59:26Z",
+        "content": "The Justice Department and TikTok, along with parent company ByteDance, have reached a $400 million settlement to resolve allegations of violating children's online privacy laws, per an announcement \u2026 [+2444 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Brie Stimson",
+        "title": "E. coli and salmonella outbreak linked to alfalfa sprouts sickens dozens across multiple states - Fox Business",
+        "description": "The CDC linkED alfalfa sprouts from Everything Sprouts to 55 illnesses across 15 states involving three E. coli strains and one salmonella strain.",
+        "url": "https://www.foxbusiness.com/lifestyle/e-coli-salmonella-outbreak-linked-alfalfa-sprouts-sickens-dozens-across-multiple-states",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/alfalfa-sprouts.jpg?ve=1&tl=1",
+        "publishedAt": "2026-08-22T01:39:00Z",
+        "content": "A food safety alert has been issued over an E. coli and salmonella outbreak that has sickened dozens of people across 15 states, most of whom reported eating alfalfa sprouts before they fell ill, acc\u2026 [+2630 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "HuffPost"
         },
         "author": null,
-        "title": "Founder who blamed $300mn fraud on head injury sentenced to prison - Financial Times",
-        "description": "Judge accepts injury contributed to Christine Hunsicker\u2019s crime as he sentences her to five years",
-        "url": "https://www.ft.com/content/dfa7c084-f997-4d76-82cb-6d45f543dc3c?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff21d594a-946d-4d74-af01-25e454b5b702.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-08-20T23:10:29Z",
-        "content": "Get 2 months free with an annual subscription at was $59.88now $49.\r\nAccess to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on\u2026 [+42 chars]"
+        "title": "Trump Sparks Mockery After Suggesting Baffling New Use For The Military - HuffPost",
+        "description": "\u201cIs the bond market also 2 weeks away from a nuclear weapon?\u201d one commenter wrote on X.",
+        "url": "https://www.huffpost.com/entry/trump-confusing-bond-market-comments_n_6a88cb94e4b021f20f88fa9e",
+        "urlToImage": "https://img.huffingtonpost.com/asset/6a88ea441700000c75d43523.jpeg?cache=IBAyUskbWK&ops=1200_630",
+        "publishedAt": "2026-08-22T01:11:12Z",
+        "content": "President Donald Trump offered a head-scratching answer when asked about increased volatility in the bond market, triggering waves of mockery from critics online. \r\nTrump, when asked by reporters, de\u2026 [+886 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "Deadline"
+        },
+        "author": "Dominic Patten",
+        "title": "Paramount, State AGs Set Settlement Talks On Antitrust Suit; Newsom Talks Merger - Deadline",
+        "description": "Paramount and the state attorneys general who filed an antitrust lawsuit and its proposed Warner Bros Discovery merger have set a date for settlement talks,",
+        "url": "http://deadline.com/2026/08/gavin-newsom-paramount-merger-settlement-talks-1237048002/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2026/03/Rob-Bonta-and-David-Ellison.jpg?w=1024",
+        "publishedAt": "2026-08-22T00:59:00Z",
+        "content": "(Updated with California Attorney General statement) After weeks of speculation about Gavin Newsom\u2018s true position on Paramount\u2018s $111 billion acquisition of Warner Bros Discovery and the antitrust s\u2026 [+5461 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Boeing Engineers, Technical Workers Reject Four-Year Contract Offer - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/boeing-engineers-technical-workers-reject-four-year-contract-offer-1a683686",
+        "urlToImage": null,
+        "publishedAt": "2026-08-21T23:23:29Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Aarian Marshall",
+        "title": "Tesla\u2019s Door Handles Lead to Its Biggest Recall Yet - WIRED",
+        "description": "A Chinese agency says the two recalls affecting some 3 million vehicles can mostly be fixed by over-the-air updates\u2014but they will also require physical warning stickers and camera-related updates.",
+        "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
+        "urlToImage": "https://media.wired.com/photos/6a88c764f06dc0383e8c9d25/191:100/w_1280,c_limit/GettyImages-964985876-resized.jpg",
+        "publishedAt": "2026-08-21T23:10:00Z",
+        "content": "Government regulators have spent the last year asking serious questions about Teslas electronic, retractable door handles, a cool-looking automotive design flourish that has since been imitated by pl\u2026 [+2748 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Sarah E. Needleman",
+        "title": "Disney will cut medical insurance for employees' spouses who can get coverage through their own jobs - Business Insider",
+        "description": "The new policy will only affect spouses who can get coverage through their own jobs.",
+        "url": "https://www.businessinsider.com/disney-spouse-healthcare-coverage-employee-benefits-2026-8#article",
+        "urlToImage": "https://i.insider.com/6a88a3838a99fa493d60efcb?width=1200&format=jpeg",
+        "publishedAt": "2026-08-21T21:52:00Z",
+        "content": "Disney is joining other big-name companies in curbing employee benefits, a move that comes as healthcare costs rise.\r\nStarting next year, the entertainment giant will no longer offer medical insuranc\u2026 [+2891 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Pras Subramanian",
+        "title": "SpaceX stock down for week following share unlock, big rocket news from China - Yahoo Finance",
+        "description": "SpaceX (SPCX) stock slid this week, falling back to its IPO price as another share unlock hit and new rocket-competition headlines hit the public float.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-down-for-week-following-share-unlock-big-rocket-news-from-china-143100875.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/FA054EED647D894CE8D0DAF28E9D01EC0D7EEAA33A501A440979788158AC5E77/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2Ff099d27a-a3c9-4024-87e2-bbb31bd2abfa",
+        "publishedAt": "2026-08-21T20:32:57Z",
+        "content": "SpaceX (SPCX) stock closed down for the week, falling back to its IPO price as another share unlock hit and new rocket-competition headlines hit the public float.\r\nSpaceX shares did rise on Friday, t\u2026 [+2851 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Profarmer.com"
+        },
+        "author": "Pro Farmer Editors",
+        "title": "Pro Farmer estimates 2026 U.S. corn crop at 15.344 billion bushels; soybeans at 4.572 billion bushels - Pro Farmer",
+        "description": "Average U.S. corn yield seen at 173.2 bu. per acre; soybeans at 53.3 bu. per acre",
+        "url": "https://www.profarmer.com/news/pro-farmer-estimates-2026-u-s-corn-crop-15-344-billion-bushels-soybeans-4-572-billion-bushels",
+        "urlToImage": "https://assets.farmjournal.com/dims4/default/944bcf5/2147483647/strip/true/crop/2500x1406+0+258/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-farm-journal.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fcc%2F64%2Fb0f03f894fd09044472437079753%2F2026ests.jpg",
+        "publishedAt": "2026-08-21T19:44:59Z",
+        "content": "The Pro Farmer national corn and soybean estimates draw on observations from thousands of fields across seven key Midwestern states over the course of our annual Crop Tour a four-day, boots-on-the-gr\u2026 [+1521 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Chloe Atkins",
+        "title": "Former Abercrombie & Fitch CEO Michael Jeffries competent to face sex trafficking trial, judge rules - NBC News",
+        "description": "Michael Jeffries, the former CEO of Abercrombie & Fitch who was charged with running an international sex trafficking scheme over several years while he ran the company, is mentally competent for trial, a federal judge ruled.",
+        "url": "https://www.nbcnews.com/news/us-news/former-abercrombie-fitch-ceo-michael-jeffries-competent-face-sex-traff-rcna593713",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260821-michael-jeffries-ew-314p-729ba0.jpg",
+        "publishedAt": "2026-08-21T19:32:24Z",
+        "content": "Michael Jeffries, the former CEO of Abercrombie &amp; Fitch who was charged with running an international sex trafficking scheme over several years while he ran the company, is mentally competent for\u2026 [+3197 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Scotsmanguide.com"
+        },
+        "author": "Eric Souza, Eric Souza, Ryan Kingsley",
+        "title": "Fannie Mae dismisses senior staff in another leadership purge - Scotsman Guide",
+        "description": "The staffing shake-up includes multifamily executives, economists and senior financial personnel",
+        "url": "https://www.scotsmanguide.com/news/fannie-mae-dismisses-senior-staff-in-another-leadership-purge/",
+        "urlToImage": "https://www.scotsmanguide.com/files/sites/2/2026/08/fannie-mae-purge.jpg",
+        "publishedAt": "2026-08-21T19:30:30Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "Joseph Adinolfi, Nora Redmond",
+        "title": "Stock Market on Aug. 21, 2026: Dow, S&P 500 and Nasdaq rebound, but finish week with a loss as rising bond yields rattle stocks - MarketWatch",
+        "description": "U.S. stocks rebounded after a rough stretch that saw rising bond yields put pressure on equities.",
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-long-dated-treasury-yields-flash-us-manufacturing-pmi",
+        "urlToImage": "https://images.mktw.net/im-51746529/social",
+        "publishedAt": "2026-08-21T19:25:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Jalopnik"
+        },
+        "author": "Justin Hughes",
+        "title": "California Passes Restrictive Replacement Tire Law In The Name Of Efficiency - Yahoo Autos",
+        "description": "The new regulations will significantly reduce the number of tire options available for Californians, and other states could follow suit soon after.",
+        "url": "https://www.jalopnik.com/2240366/regulators-pass-new-rules-for-efficient-california-tires/",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/e7f8358f9e1f8b61689662a3a1be67f3957b1295ec4ffb2fd758f92605c223aa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjalopnik_622%2Fb2e5f0ba011b324736ed441fc26f96bf.jpg",
+        "publishedAt": "2026-08-21T19:25:00Z",
+        "content": "Call it saving the planet or call it\u00a0government overreach. Either way, the California Energy Commission has voted unanimously to require most replacement tires sold in the state to have as low rollin\u2026 [+5980 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
         },
         "author": null,
-        "title": "What is Scott Bessent doing with the $32tn Treasury market \u2014 and will it work? - Financial Times",
-        "description": "US Treasury secretary has made a high-stakes bet he can beat back soaring borrowing costs",
-        "url": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa407c458-0ab6-4442-98fe-2d92e8c253f8.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-08-20T23:08:14Z",
-        "content": "Get 2 months free with an annual subscription at was $59.88now $49.\r\nAccess to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on\u2026 [+42 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TheStreet"
-        },
-        "author": "Moz Farooque",
-        "title": "Jim Cramer sees trouble brewing for stock market - thestreet.com",
-        "description": "One booming corner of Wall Street could pressure everything else.",
-        "url": "https://www.thestreet.com/investing/jim-cramer-ipo-stock-market-risk",
-        "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTUxNDg1/untitled.jpg?profile=share16-9",
-        "publishedAt": "2026-08-20T23:03:00Z",
-        "content": "Stocks are still having a relatively strong 2026, but the ride has been bumpy, particularly this summer, when the Nasdaq fell 10% from its peak to its low. The gyrations have gotten Jim Cramers atten\u2026 [+6445 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Abcnews.com"
-        },
-        "author": "MIKE STOBBE AP medical writer",
-        "title": "Alfalfa sprouts linked to food poisoning illnesses in Minnesota and Wisconsin - ABC News - Breaking News, Latest News and Videos",
-        "description": "Minnesota health officials are warning against eating certain alfalfa sprouts linked to a rare outbreak involving multiple bacteria",
-        "url": "https://abcnews.com/Business/wireStory/alfalfa-sprouts-linked-food-poisoning-illnesses-minnesota-wisconsin-135821184",
-        "urlToImage": "https://i.abcnewsfe.com/a/98ef02c0-f28d-4bf8-a83a-ae1515ee1c8b/wirestory_b7afbe4b0305a4f33a7839c7e987ba76_16x9.jpg?w=1600",
-        "publishedAt": "2026-08-20T22:54:08Z",
-        "content": "NEW YORK -- Minnesota health officials are warning consumers not to eat certain brands of alfalfa sprouts that have been tied to an unusual outbreak involving different disease-causing bacteria. \r\nOf\u2026 [+1833 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Julie Bort",
-        "title": "OpenAI is gaining on Anthropic with business users, new data indicates - TechCrunch",
-        "description": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-        "publishedAt": "2026-08-20T22:36:37Z",
-        "content": "Until both OpenAI and Anthropic get close enough to their planned IPOs to release their financials, we have to look to other sources for signs of how well their businesses are doing. One of those sou\u2026 [+2668 chars]"
+        "title": "Palantir Stock Clears Buy Zone But Could Offer Alternative Entry - Investor's Business Daily",
+        "description": "Palantir stock is trading just above a buy zone. Investors should be on the lookout as the stock clears a potential add-on entry.",
+        "url": "https://www.investors.com/stock-lists/ibd-big-cap-20/palantir-stock-clears-buy-zone-but-could-offer-alternative-entry/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/07/Stock-Palantir-drkbackground-01-shutt.jpg",
+        "publishedAt": "2026-08-21T19:16:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     }
 ]
