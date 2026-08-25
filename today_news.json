@@ -1,16 +1,120 @@
 [
     {
         "source": {
+            "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "Tomi Kilgore, Steve Goldstein, Barbara Kollmeyer, Nora Redmond",
+        "title": "Stock Market Today: Dow rises but S&P 500, Nasdaq open lower; Treasury yields dip with eyes on Bessent, Jackson Hole - MarketWatch",
+        "description": "Follow all the latest U.S. market action for Monday here.",
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-earnings-results-jackson-hole",
+        "urlToImage": "https://images.mktw.net/im-51746529/social",
+        "publishedAt": "2026-08-24T14:07:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "Joy Wiltermuth, Isabel Wang",
+        "title": "The Treasury\u2019s bond-market intervention isn\u2019t working. So what comes next? - MarketWatch",
+        "description": "\u2018It\u2019s fair to say that at some point \u2014 at some time \u2014 there will be a crisis,\u2019 says billionaire John Arnold, a former star Enron trader and the founder of philanthropy Arnold Ventures",
+        "url": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a",
+        "urlToImage": "https://images.mktw.net/im-97802719/social",
+        "publishedAt": "2026-08-24T13:02:00Z",
+        "content": "Market Snapshot\r\nIts fair to say that at some point at some time there will be a crisis, says billionaire John Arnold, a former star Enron trader and the founder of philanthropy Arnold Ventures\r\nUpda\u2026 [+434 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Daily Beast"
+        },
+        "author": "Leigh Kimmins",
+        "title": "Sleepless Trump, 80, Unravels in Deranged 1AM Posting Spree - The Daily Beast",
+        "description": "He posted eight times in a very late one-hour window.",
+        "url": "https://www.thedailybeast.com/sleepless-trump-80-unravels-in-deranged-1am-truth-social-posting-spree/",
+        "urlToImage": "https://www.thedailybeast.com/resizer/v2/XD77DLVEU5AO5N7PYA4QYE3F4M.png?smart=true&auth=bede43ac362199d6e9ad349a89289b53538517e2d0f9eea6c14f8db8ac7b854a&width=1200&height=630",
+        "publishedAt": "2026-08-24T12:45:00Z",
+        "content": "Donald Trump flooded his Truth Social account with deranged artificial intelligence slop and pro-MAGA messages when he should probably have been sleeping. \r\nTrump, 80, was fresh off a day at the Free\u2026 [+3864 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Rebecca Falconer",
+        "title": "How new cooling technologies could cut AC electricity demand - Axios",
+        "description": "Keeping buildings cool without relying solely on air conditioning will be critical for adapting to climate change.",
+        "url": "https://www.axios.com/2026/08/24/cooling-buildings-electricity-demand",
+        "urlToImage": "https://images.axios.com/HLtxUi1f3mywUEfQHGfWUVI3TP0=/1366x768/smart/2023/06/01/151913-1685632753164.jpg",
+        "publishedAt": "2026-08-24T12:30:06Z",
+        "content": "Between the lines: A July study finds that keeping buildings cool without relying solely on AC will be critical for adapting to climate change.\r\n<ul><li>AC is already nearly ubiquitous in the U.S., b\u2026 [+2980 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "FDA Approves Alzheimer\u2019s Blood Test Developed by Roche and Eli Lilly - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/health/healthcare/fda-approves-alzheimers-blood-test-developed-by-roche-and-eli-lilly-694451c0",
+        "urlToImage": null,
+        "publishedAt": "2026-08-24T12:23:34Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Brian Sozzi",
+        "title": "Nvidia earnings face a frustrating reality - Yahoo Finance",
+        "description": "Earnings day hasn't been kind to Nvidia.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-earnings-face-a-frustrating-reality-103234712.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/81DF29CEC4ABB0F6C3040DC7FC23C3F9E835099EB0DF1ABCC3E661CDDE5EDF2A/subgraphmysterio/resizefill_w1200_h785;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F775e5a92-fa98-4ce7-b1da-33869d4681fe",
+        "publishedAt": "2026-08-24T12:09:17Z",
+        "content": "When Nvidia (NVDA) reports its must-read earnings on Wednesday evening, it will confront this frustrating reality.\r\nStrong earnings reports haven't been too kind to Nvidia's stock of late.\r\nNvidia st\u2026 [+2338 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Dominic Chopping",
+        "title": "Eli Lilly Launches Foundayo Weight-Loss Pill in U.K. - WSJ",
+        "description": "The drug is initially available through private prescription",
+        "url": "https://www.wsj.com/health/pharma/eli-lilly-launches-foundayo-weight-loss-pill-in-u-k-442845f4",
+        "urlToImage": "https://images.wsj.net/im-62999056/social",
+        "publishedAt": "2026-08-24T11:57:36Z",
+        "content": "Eli Lilly has launched its Foundayo weight-loss pill in the U.K., making the country the first in Europe to offer the oral treatment.\r\nThe drug is available from Monday of this week, initially throug\u2026 [+287 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Steve Liesman",
+        "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said - CNBC",
+        "description": "Using the TGA would provide the Treasury with considerable firepower to influence long-term bond yields.",
+        "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108353222-1787573215408-108353222-1787573020246-gettyimages-2291295850-aw1a0172_qyygtuhv.jpeg?v=1787573226&w=1920&h=1080",
+        "publishedAt": "2026-08-24T11:34:25Z",
+        "content": "U.S. Secretary of the Treasury Scott Bessent speaks to members of the press outside the West Wing at the White House on Aug. 20, 2026 in Washington, DC.\r\nThe Treasury could use its near $1 trillion G\u2026 [+4476 chars]"
+    },
+    {
+        "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Marco Quiroz-Gutierrez",
-        "title": "The tax escape map: Billionaires are bolting for Florida from the West Coast and taking some $29 billion in tax revenue with them - Fortune",
-        "description": "Driven partly by proposed wealth taxes, some of America\u2019s richest people have poured hundreds of millions of dollars into waterfront Florida real estate.",
-        "url": "https://fortune.com/article/tax-escape-map-billionaires-bolting-for-florida-from-the-west-coast-taking-29-billion-in-tax-revenue-with-them/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2194358551.jpg?resize=1200,600",
-        "publishedAt": "2026-08-23T13:09:00Z",
-        "content": "The billionaire exodus from the West Coast to Florida is underway as the ultrawealthy seek refuge from wealth taxes in states like California and Washington.Google cofounders Larry Page (net worth $2\u2026 [+9679 chars]"
+        "author": "Eleanor Pringle",
+        "title": "Mark Cuban: Companies should choose between giving staff equity and higher corporate taxes - Fortune",
+        "description": "Shark Tank star Mark Cuban said companies should either give equity to staff pro rata, or pay higher corporate taxes.",
+        "url": "https://fortune.com/2026/08/24/mark-cuban-wealth-inequality-company-stock-equity-corporate-taxes/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2276439982_e8e684-e1787568776334.jpg?resize=1200,600",
+        "publishedAt": "2026-08-24T11:26:00Z",
+        "content": "For a man reportedly worth more than $10 billion, entrepreneur Mark Cuban spends a lot of time talking about wealth inequalityand how to distribute it more evenly. Cuban also awarded equity and cash \u2026 [+4035 chars]"
     },
     {
         "source": {
@@ -18,232 +122,141 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "How a Big Bet on Cancer Vaccines Brought Moderna Back from the Brink - WSJ",
+        "title": "Crocs\u2019s Plan to Turn Short-Term Pain Into Long-Term Gain - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-3d863ff3",
+        "url": "https://www.wsj.com/cfo-journal/crocss-plan-to-turn-short-term-pain-into-long-term-gain-830343ef",
         "urlToImage": null,
-        "publishedAt": "2026-08-23T13:01:33Z",
+        "publishedAt": "2026-08-24T11:11:00Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Laya Neelakandan",
+        "title": "UPS is investing $2 billion in international, healthcare and supply chain businesses - CNBC",
+        "description": "UPS told CNBC exclusively that the company is investing more than $2 billion into its international, healthcare and supply chain businesses.",
+        "url": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108296576-1776981838698-gettyimages-2267767857-pxl_120348993_ups01_03172026.jpeg?v=1776981923&w=1920&h=1080",
+        "publishedAt": "2026-08-24T11:00:01Z",
+        "content": "United Parcel Service is investing more than $2 billion into its business across its international, healthcare and supply chain solutions businesses, the company told CNBC exclusively on Monday.\r\nThe\u2026 [+2946 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Cnevpost.com"
+        },
+        "author": "Phate Zhang",
+        "title": "Xpeng Q2 revenue rises 8% as net loss nearly triples - CnEVPost",
+        "description": "Xpeng's second-quarter revenue reached 19.74 billion yuan, while its gross margin rose to 20.7%.",
+        "url": "https://cnevpost.com/2026/08/24/xpeng-q2-2026-earnings/",
+        "urlToImage": "https://cnevpost.com/wp-content/uploads/2026/08/2026082410454172.jpg",
+        "publishedAt": "2026-08-24T10:47:11Z",
+        "content": "An Xpeng Mona M03 electric sedan on display at the Beijing Auto Show in April 2026. Credit: CnEVPost\r\n<ul><li>Xpeng's second-quarter revenue reached 19.74 billion yuan, while its gross margin rose to\u2026 [+4368 chars]"
+    },
+    {
+        "source": {
+            "id": "mashable",
+            "name": "Mashable"
+        },
+        "author": "Chance Townsend",
+        "title": "OpenAI wants California to strengthen its newly passed AI safety law - Mashable",
+        "description": "OpenAI is calling on California lawmakers to expand the state's landmark frontier AI safety law, months after the company backed its passage..",
+        "url": "https://mashable.com/tech/openai-urges-stregthening-of-california-ai-safety-bill",
+        "urlToImage": "https://helios-i.mashable.com/imagery/articles/00yKNSMW5PclegTH1EHxspv/hero-image.fill.size_1200x675.v1787499554.jpg",
+        "publishedAt": "2026-08-24T10:00:52Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Variety"
+        },
+        "author": "Elsa Keslassy",
+        "title": "California Attorney General Cancels Paramount Settlement Talks Over $111 Billion Warner Bros. Discovery Deal, Says He\u2019ll Meet When They \u2018Stop Playing Games\u2019 - Variety",
+        "description": "California Attorney General Rob Bonta has canceled planned settlement talks with Paramount, accusing",
+        "url": "https://variety.com/2026/film/global/california-ag-bonta-cancels-paramount-settlement-talks-1236841379/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2026/07/FotoJet-2026-07-24T162810.442.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-08-24T09:32:00Z",
+        "content": "California Attorney General Rob Bonta has canceled planned settlement talks with Paramount over the state\u2019s lawsuit seeking to block David Ellison\u2018s proposed $111 billion acquisition of Warner Bros. \u2026 [+2344 chars]"
     },
     {
         "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
-        "author": "WSJ",
-        "title": "Exclusive | Walmart Keeps Pushing Into Fashion With New Clothing Brand - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/business/retail/walmart-keeps-pushing-into-fashion-with-new-clothing-brand-5b2f9046",
-        "urlToImage": null,
-        "publishedAt": "2026-08-23T13:00:00Z",
-        "content": null
+        "author": "Caitlin McCabe, WSJ Staff, Deborah Acosta",
+        "title": "Stock Market Today: Oil Drops Ahead of Bessent Iran Presser, Tech Stocks Under Pressure \u2014 Live Updates - WSJ",
+        "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on oil prices, the Dow, S&P 500 and Nasdaq.",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026",
+        "urlToImage": "https://images.wsj.net/im-34062673/social",
+        "publishedAt": "2026-08-24T09:32:00Z",
+        "content": "A retreat in oil prices is offering relief to bond yields as investors await details on Washingtons stepped-up economic pressure campaign against Iran.\r\nTreasury Secretary Scott Bessent is expected t\u2026 [+785 chars]"
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Greg Ritchie, Michael MacKenzie",
-        "title": "Bessent Has No Easy Fix for What\u2019s Really Driving Bond Yields Up - Bloomberg.com",
-        "description": "Treasury Secretary Scott Bessent came to office blasting his predecessor for trying to re-engineer the world\u2019s largest bond market. This week he took a stab at it himself.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-23/bessent-has-no-easy-fix-for-what-s-really-driving-bond-yields-up",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqJpxCf1C.u4/v0/1200x800.jpg",
-        "publishedAt": "2026-08-23T13:00:00Z",
-        "content": "Treasury Secretary Scott Bessent came to office blasting his predecessor for trying to re-engineer the worlds largest bond market. This week he took a stab at it himself.\r\nBy buying back a swath of l\u2026 [+308 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Leslie Josephs",
-        "title": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI - CNBC",
-        "description": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
-        "url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108282297-1774370354680-gettyimages-2267710515-AFP_A4JX7G8.jpeg?v=1776879619&w=1920&h=1080",
-        "publishedAt": "2026-08-23T12:00:01Z",
-        "content": "United Airlines CEO Scott Kirby speaks during a media event showcasing the airline's new premium \"Elevated\" aircraft interior at Los Angeles International Airport, March 24, 2026.\r\nNEWARK, New Jersey\u2026 [+8708 chars]"
+        "author": "Telis Demos",
+        "title": "How Trump\u2019s Crypto Push Is Linked to Bessent\u2019s Treasury Moves - WSJ",
+        "description": "Stablecoins could drive demand for Treasury bills",
+        "url": "https://www.wsj.com/finance/currencies/how-trumps-crypto-push-is-linked-to-bessents-treasury-moves-809defdc",
+        "urlToImage": "https://images.wsj.net/im-85314678/social",
+        "publishedAt": "2026-08-24T09:30:00Z",
+        "content": "Treasury Secretary Scott Bessents mission to tame the bond market could get help from another Trump administration push: crypto legislation.\r\nLast week, the U.S. Treasury announced larger buybacks of\u2026 [+397 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Leslie Josephs",
-        "title": "United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago - CNBC",
-        "description": "United Airlines wanted to put lie-flat premium seats on its Max 10 planes once they were certified, but that has been delayed by years.",
-        "url": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350326-1786973662775-gettyimages-2284942155-AFP_B9W49E4.jpeg?v=1786973690&w=1920&h=1080",
-        "publishedAt": "2026-08-23T12:00:01Z",
-        "content": "In August 2018, the then-president and now CEO of United Airlines Scott Kirby told a room of reporters at an aviation conference in Denver about the airline's big plans for the new Boeing 737 Max 10:\u2026 [+1958 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Hugh Son",
-        "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill - CNBC",
-        "description": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
-        "url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350603-1786995898579-Scharf_Fraser.jpg?v=1786995981&w=1920&h=1080",
-        "publishedAt": "2026-08-23T12:00:01Z",
-        "content": "Charles Scharf, chief executive officer of Wells Fargo &amp; Co., and Jane Fraser, chief executive officer of Citigroup Inc.\r\nWalk the halls of any major banking conference or listen in on a quarterl\u2026 [+7343 chars]"
+        "author": "Jenni Reid",
+        "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war - CNBC",
+        "description": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
+        "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108107100-1740500995436-gettyimages-1077347442-RoMdoNo-3527.jpeg?v=1740501104&w=1920&h=1080",
+        "publishedAt": "2026-08-24T09:11:23Z",
+        "content": "The Canadian dollar fell on Monday morning after trade talks between Ottawa and Washington fell apart, leaving both sides facing higher prices on a wide array of imported goods. \r\nThe U.S. on Saturda\u2026 [+2882 chars]"
     },
     {
         "source": {
             "id": "usa-today",
             "name": "USA Today"
         },
-        "author": "Medora Lee",
-        "title": "Prenups cover more than just marriage and divorce these days - USA Today",
-        "description": "Prenups are becoming mainstream, but experts say they should also address estate planning for death and illness.",
-        "url": "https://www.usatoday.com/story/money/personal-finance/2026/08/23/prenups-death-incapacity-divorce-coverage/91404977007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/21/USAT/91405119007-20250829-t-051755-z-1427936325-mt-1-usatoday-26951557-rtrmadp-3-modelandinfluencerashleyalexissandherfiancbrodie.JPG?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp",
-        "publishedAt": "2026-08-23T11:55:00Z",
-        "content": "Prenups are \"in,\" and one reason may be because they aren't just about marriage and divorce anymore.\r\nPrenups, once a little taboo like most money discussions were, are now common. More than half (53\u2026 [+5214 chars]"
+        "author": "Fernando Cervantes Jr.",
+        "title": "Social Security checks go out August 26. Will you get paid? - USA Today",
+        "description": "Millions of Social Security recipients will get payments August 26. Here's who qualifies and when future checks are scheduled.",
+        "url": "https://www.usatoday.com/story/money/2026/08/24/social-security-payment-august-26/91393450007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/20/USAT/91393468007-getty-images-2265601407-2.jpg?crop=2120,1193,x0,y220&width=2120&height=1193&format=pjpg&auto=webp",
+        "publishedAt": "2026-08-24T09:05:00Z",
+        "content": "The third and final wave of Social Security payments for August is scheduled to be distributed this week, following a normal schedule.\r\nSocial Security benefits paid mostly to recipients who are olde\u2026 [+2627 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Madison Mills",
+        "title": "Scoop: Anthropic asks about mission versus money in candidate interviews - Axios",
+        "description": "Anthropic CEO Dario Amodei is worried employees are coming to the AI lab for the wrong reasons.",
+        "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
+        "urlToImage": "https://images.axios.com/a4Z59PoLPgjZ5ZHEVrXnxxLzrmQ=/0x0:1920x1080/1366x768/2026/02/19/1771538400592.jpeg",
+        "publishedAt": "2026-08-24T09:03:10Z",
+        "content": "What they're saying: Anthropiccandidates all go through a culture interview,conducted by an employee who is nominated for the task.\r\n<ul><li>One applicant who spoke to Axios on the condition of anony\u2026 [+3264 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "Gizmodo.com"
         },
-        "author": "Daniel Howley",
-        "title": "Nvidia's Q2 earnings to test resurgent AI trade - Yahoo Finance",
-        "description": "Nvidia will report its Q2 earnings after the bell on Aug. 26.",
-        "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/A555BA0398626D55BA4ED7C7538CDB597E5C3CFE51FBD8C131AB61085A052F2F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-08%2F11735c30-91bf-11f1-b7f2-8ded4782cfdd",
-        "publishedAt": "2026-08-23T11:25:02Z",
-        "content": "It's nearly here. The moment Wall Street waits for every quarter since the AI trade kicked off: Nvidia's (NVDA) second quarter earnings.\r\nYes, while its Big Tech peers reported their results nearly a\u2026 [+2469 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Jared Blikre",
-        "title": "Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day - Yahoo Finance",
-        "description": "Bitcoin had its best week in more than three years \u2014 Scott Bessent helped light the match.",
-        "url": "https://finance.yahoo.com/markets/crypto/article/scott-bessent-just-kicked-the-bitcoin-debasement-trade-into-another-gear-chart-of-the-day-110841942.html",
-        "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-        "publishedAt": "2026-08-23T11:08:41Z",
-        "content": "Bitcoin (BTC-USD) had its best week in more than three yearsas stocks fell. Scott Bessent helped light the match.\r\nThe cryptocurrency surged roughly 23% this week, blowing through a months-long tradi\u2026 [+3089 chars]"
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": null,
-        "title": "Hormuz crisis hides a deeper oil threat that could outlast the war - Fox News",
-        "description": "Art Berman warns that 8 million barrels shut in near the Strait of Hormuz may never fully recover, even after a ceasefire reopens the waterway.",
-        "url": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/irgc-navy-strait-hormuz-exercise.jpg",
-        "publishedAt": "2026-08-23T10:00:56Z",
-        "content": "As global attention remains fixed on tankers moving through the Strait of Hormuz, a petroleum geologist is warning that the more consequential energy story may be unfolding thousands of feet undergro\u2026 [+7012 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "Oil major Eni bets on nuclear fusion becoming its \u2018next refinery\u2019 - Financial Times",
-        "description": "Italian group widening investments in technology that promises much but is yet to be commercially proven",
-        "url": "https://www.ft.com/content/e6a069b6-69f8-4a21-9873-3cc0736d27e2?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F88fc8e97-c44f-462a-88f8-16ceb6552754.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-08-23T10:00:08Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Jake Conley",
-        "title": "Nvidia earnings and Jackson Hole: What to watch this week - Yahoo Finance",
-        "description": "Nvidia earnings headline a busy week with an all-important inflation reading",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/A555BA0398626D55BA4ED7C7538CDB597E5C3CFE51FBD8C131AB61085A052F2F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-08%2F11735c30-91bf-11f1-b7f2-8ded4782cfdd",
-        "publishedAt": "2026-08-23T10:00:00Z",
-        "content": "After a dizzying week centered on mixed retail earnings, rising bond yields, and a surprise intervention from the Treasury Department, investors step into another action-packed five-day stretch. The \u2026 [+9459 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "Alibaba announces $10.2bn share placement as Chinese companies expand AI investment - Financial Times",
-        "description": "Equity issuance follows a strong reception for its latest Qwen 3.8-Max model",
-        "url": "https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faf815431-5326-459b-ac9c-912f314e9779.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-08-23T08:33:27Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Julie Carr Smyth",
-        "title": "Buc-ee\u2019s chain draws outcry in Ohio for launching fight over a mini mart\u2019s beaver logo - AP News",
-        "description": "Gas station giant Buc-ee\u2019s has sparked a backlash in Ohio over one of its frequent trademark infringement lawsuits. Texas-based chain Buc-ee\u2019s Ltd. says in its lawsuit that the logo for Beaver\u2019s Mini Mart in the city of Beavercreek too closely resembles the g\u2026",
-        "url": "https://apnews.com/article/bucees-ohio-trademark-lawsuit-beaver-mini-mart-7aceb65a23ffdf0514df67fbe3cc6b91",
-        "urlToImage": "https://dims.apnews.com/dims4/default/10f3fe4/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F69%2Fb1%2F3177061bca2bf124ae8319520122%2F8fc27d59aa544486975d23ca92e61f6f",
-        "publishedAt": "2026-08-23T05:00:00Z",
-        "content": "BEAVERCREEK, Ohio (AP) A lip-licking alligator, a smiling moose and a hat-wearing bear are among the many cartoon animals to have found themselves in the crosshairs of Buc-ees, the popular Texas conv\u2026 [+5182 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Martha Bellisle",
-        "title": "Officials warn wildland firefighters about the risks of using a supplement for smoke exposure - AP News",
-        "description": "Fire and medical officials have issued warnings about a supplement offered to Western wildland firefighters who have been exposed to toxic chemicals. Glutathione was given to some firefighters during California wildfires last year and again this month in Wash\u2026",
-        "url": "https://apnews.com/article/wildfire-toxic-smoke-firefighters-glutathione-supplement-244221cc2e2e539ba06d18a60d5f586c",
-        "urlToImage": "https://dims.apnews.com/dims4/default/36c7e81/2147483647/strip/true/crop/4686x3122+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6c%2Fbd%2Fe245c9c6862ce23480b7866f3c58%2Ff24c51d7ebdf4a42a96bcfbc8e6ac91e",
-        "publishedAt": "2026-08-23T04:01:00Z",
-        "content": "SEATTLE (AP) Fire and medical officials have issued warnings about a supplement offered to Western wildland firefighters who have been exposed to toxic chemicals while battling some of the countrys b\u2026 [+5445 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Trump Discloses 1,000 Stock Trades in June - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/finance/investing/trump-discloses-1-000-stock-trades-in-june-2e5b0773",
-        "urlToImage": null,
-        "publishedAt": "2026-08-23T00:41:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Sangmi Cha",
-        "title": "Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout - Bloomberg.com",
-        "description": "A historic stock selloff has driven South Korea\u2019s retail investors toward complex structured products as the risk-loving cohort continues to look for ways to boost returns.",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-23/korean-traders-chase-40-coupons-as-risk-appetite-survives-rout",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izg5.wfcqF1M/v0/1200x800.jpg",
-        "publishedAt": "2026-08-23T00:00:00Z",
-        "content": "A historic stock selloff has driven South Koreas retail investors toward complex structured products as the risk-loving cohort continues to look for ways to boost returns.\r\nEquity-linked securities d\u2026 [+210 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TMZ"
-        },
-        "author": "TMZ Staff",
-        "title": "Dunkin' Donuts Viral Foot Washing Incident Under Investigation - TMZ",
-        "description": "America runs on Dunkin' Donuts ... but customers of one particular store may want to run somewhere else to buy coffee -- because an employee was caught washing their feet in the sink.",
-        "url": "https://www.tmz.com/2026/08/22/dunkin-donuts-investigated-over-foot-washing-employee/",
-        "urlToImage": "https://imagez.tmz.com/image/d7/16by9/2026/08/22/d76662a02a9c428883391434adbc9388_xl.jpg",
-        "publishedAt": "2026-08-22T22:41:45Z",
-        "content": "America runs on Dunkin' Donuts ... but customers of one particular store may want to run somewhere else to buy coffee -- because an employee was caught washing their feet in the sink.\r\nHere's the dea\u2026 [+1056 chars]"
+        "author": "Mike Pearl",
+        "title": "Hugging Face Reportedly Wants to Be Acquired for About $13 Billion - Gizmodo",
+        "description": "Hugging face emoji? More like money-mouth face emoji.",
+        "url": "https://gizmodo.com/hugging-face-reportedly-wants-to-be-acquired-for-about-13-billion-2000802026",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/08/hugging-face-1200x675.jpg",
+        "publishedAt": "2026-08-24T09:00:57Z",
+        "content": "The AI resource repository Hugging Face is a little like GitHub for AI, except a recent news eventan OpenAI model autonomously attacking itmade it famous among people who arent developers. Now, accor\u2026 [+1203 chars]"
     }
 ]
