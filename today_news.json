@@ -4,220 +4,246 @@
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
-        "author": "WSJ",
-        "title": "Stock Market Today: Bitcoin Extends Rally, Crossing Above $80,000 - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-25-2026",
-        "urlToImage": null,
-        "publishedAt": "2026-08-25T12:14:00Z",
+        "author": "David Uberti, WSJ Staff, Heather Gillers, Asa Fitch, Robbie Whelan, Hannah Erin Lang, Shradha Dinesh, Krystal Hur, Peter Loftus, Colin Kellaher, Joe Wallace, Jack Pitcher, Meghan Bobrowsky, Matt Grossman, Caitlin McCabe, Jeanne Whalen, Heard Editors",
+        "title": "Nvidia Earnings Live: Investors Brace for AI Chip Giant's Q2 Results - WSJ",
+        "description": "Follow along live as WSJ reporters dive into Nvidia's latest earnings report, due out after markets close. Will the AI boom continue? Get news, analysis and the latest updates here.",
+        "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026",
+        "urlToImage": "https://images.wsj.net/im-925349/social",
+        "publishedAt": "2026-08-26T20:13:00Z",
+        "content": "Nvidia shares edged lower in off-hours trading after the chip giant posted another quarter of record earnings.\r\nWhile the results beat Wall Street expectations for the 15th consecutive quarter, inves\u2026 [+1254 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Jordan Novet",
+        "title": "Salesforce stock jumps 14% on AI growth and Anthropic investment gain - CNBC",
+        "description": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
+        "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107421990-1717081675706-gettyimages-1934266964-AA_18012024_1494484.jpeg?v=1787776139&w=1920&h=1080",
+        "publishedAt": "2026-08-26T20:07:31Z",
+        "content": "Salesforce shares soared 14% in extended trading on Wednesday after the cloud software vendor reported results and issued guidance that surpassed Wall Street projections.\r\nHere's how the company did \u2026 [+2379 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Tim Fernholz",
+        "title": "How do we explain OpenAI\u2019s executive exodus? - TechCrunch",
+        "description": "Was Greg Brockman the right executive all along?",
+        "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+        "publishedAt": "2026-08-26T19:34:04Z",
+        "content": "OpenAI is the original frontier lab. Its latest publicly released model, GPT-5.6, is one of the most capable and efficient on the market. Its desktop app for agentic coding and workplace tasks has se\u2026 [+4091 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ashley Capoot",
+        "title": "OpenAI releases sweeping report on Hugging Face AI agent hack - CNBC",
+        "description": "The 37-page report walks through the actions that OpenAI's models took during a series of evaluations prior to and during the Hugging Face breach.",
+        "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349720-1786712811754-gettyimages-2287521404-ALTMAN_CAPITOL.jpeg?v=1787088846&w=1920&h=1080",
+        "publishedAt": "2026-08-26T19:00:01Z",
+        "content": "OpenAI published a technical report on Wednesday detailing how its artificial intelligence models successfully breached Hugging Face last month, an incident that rattled researchers and executives ac\u2026 [+3309 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Taylor Herzlich",
+        "title": "Forget Florida \u2014 Baby Boomers flocking to Eastern seaboard state for low taxes, sandy beaches - New York Post",
+        "description": "It\u2019s no secret that retirees often move for warmer weather, cheaper living and a slower way of life \u2013 but now many are skipping Florida for another state with booming beach towns.",
+        "url": "https://nypost.com/2026/08/26/business/forget-florida-baby-boomers-flock-to-delaware-for-low-taxes-sandy-beaches/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138569768.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-08-26T18:43:00Z",
+        "content": "Its no secret that retirees like to fly south for warmer weather, cheaper living and a slower way of life but now many are skipping Florida for booming beach towns in southern Delaware.\r\nMore than 40\u2026 [+4593 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Boston Globe"
+        },
+        "author": null,
+        "title": "Meet the new owners of Union Oyster House: A Texas casino family on a buying spree - The Boston Globe",
+        "description": "One of America\u2019s oldest restaurants is about to get a powerful new owner. Here's what to know about the Fertitta family.",
+        "url": "https://www.bostonglobe.com/2026/08/26/business/union-oyster-house-sale-fertitta/",
+        "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/TBOPRRRAP73EKIGWRIDNGFZ43M.jpg?auth=bb585bf811e781b16ca44ec68fd1c21f8a7f7ee2f92412d653368e23aa2954f1&width=1440",
+        "publishedAt": "2026-08-26T18:20:30Z",
+        "content": "This is a family acquisition. Tilman is not involved, Katelyn Roche Gosslee, a family representative, told the Globe on Wednesday.\r\nIn a statement, Milano called the Fertitta family a highly respecte\u2026 [+5311 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Sean Conlon, Lee Ying Shan, Ananya Chetia",
+        "title": "S&P 500 is little changed after PCE report shows sticky inflation; Nvidia earnings on deck: Live updates - CNBC",
+        "description": "The S&P 500 was relatively unchanged after the latest personal consumption expenditures price index reading revealed that inflation remains elevated.",
+        "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108350416-1786980367682-NYSE_Traders-OB-Photo-20260817-CC-37.jpg?v=1786980440&w=1920&h=1080",
+        "publishedAt": "2026-08-26T17:50:03Z",
+        "content": "Bitcoin's rally could have more room to run after clearing a key technical level, according to Fairlead Strategies managing partner, Katie Stockton.\r\nBitcoin has climbed more than 25% since Stockton \u2026 [+1119 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Meta agrees to pay up to $18bn to settle claims its platforms harm children - BBC",
+        "description": "The Facebook and Instagram owner, which denies wrongdoing, says the agreement builds on its \"longstanding efforts to empower parents and support teens\".",
+        "url": "https://www.bbc.com/news/live/cy5v0vrlp4xt",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa99/live/0953ce70-a157-11f1-92f3-2381193e5eb4.jpg",
+        "publishedAt": "2026-08-26T16:32:51Z",
+        "content": "Rachel FlynnLive reporter\r\nImage caption, Instagram chief Adam Mosseri leaving the courthouse on Tuesday\r\nIt's still early in the morning in California, where Meta has agreed to pay up to $18bn (\u00a313.\u2026 [+1358 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "Joy Wiltermuth, Joseph Adinolfi, Jamie Chisholm, Nora Redmond",
+        "title": "Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia earnings - MarketWatch",
+        "description": "Stocks trader lower Wednesday as investors prepare for Nvidia's second-quarter earnings results.",
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-earnings-results-inflation-data-crowdstrike-salesforce",
+        "urlToImage": "https://images.mktw.net/im-25740750/social",
+        "publishedAt": "2026-08-26T16:16:00Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Newser"
+        },
+        "author": "Polly Davis Doig",
+        "title": "Forbes Has $6M Egg on Its Face - Newser",
+        "description": "Independent review is launched after longtime rankings partner made undisclosed payment to top editor",
+        "url": "https://www.newser.com/story/395303/forbes-halts-rankings-after-partner-paid-editor-secret-6m.html",
+        "urlToImage": "https://cdn.newser.com/image/1707709-12-20260826112833.jpeg",
+        "publishedAt": "2026-08-26T16:14:00Z",
+        "content": "Forbes is putting a lucrative corner of its business on ice as it digs out from a $6 million conflict-of-interest mess involving its former top editor. As the New York Times reports, the magazine and\u2026 [+388 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Steve Kopack",
+        "title": "Oil prices tumble amid renewed optimism over the Strait of Hormuz - NBC News",
+        "description": "Oil prices tumbled for the third straight day, as a flurry of headlines from the Middle East sparked renewed optimism in global energy markets.",
+        "url": "https://www.nbcnews.com/business/energy/oil-prices-inflation-trump-strait-hormuz-rcna594477",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260730-strait-of-hormuz-rs-fbe127.jpg",
+        "publishedAt": "2026-08-26T15:22:07Z",
+        "content": "Oil prices tumbled Wednesday for the third straight day, as a flurry of headlines from the Middle East sparked renewed optimism in global markets.\r\nAs of early Wednesday morning, U.S. crude oil had f\u2026 [+4504 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Jessica Guynn",
+        "title": "Shopping malls are charging for prime parking. It's not going well - USA Today",
+        "description": "Scoring a great parking spot at the shopping mall used to take luck or determination. Now it takes a credit card. And shoppers are not thrilled.",
+        "url": "https://www.usatoday.com/story/money/retail/2026/08/26/why-shopping-malls-are-charging-you-for-premium-parking/91450581007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/25/USAT/91459891007-20201127-t-193903-z-957299819-mt-1-usatoday-15239179-rtrmadp-3-theparkinglotatgovernorssquaremallonfriday.JPG?crop=5183,2916,x0,y539&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2026-08-26T15:08:00Z",
+        "content": "Scoring a great parking spot used to take luck or determination. Now it takes a credit card.\r\nShopping malls across the country are roping off parking spaces closest to main entrances and food courts\u2026 [+7874 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Yahoo Finance",
-        "title": "Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions' - Yahoo Finance",
-        "description": "The second quarter earnings season is nearly complete, with Nvidia\u2019s (NVDA) Q2 results on Wednesday serving as a keystone to a remarkably strong stretch of c...",
-        "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/7919DE666E7F09031E63E1148E2CAC7866FCB686FB2A4B6EE12DF8F28D165927/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-11%2F29a1e410-bc4b-11f0-b7df-b2bb0f2c0b4e",
-        "publishedAt": "2026-08-25T11:53:14Z",
-        "content": "The second quarter earnings season is nearly complete, with Nvidia's (NVDA) Q2 results on Wednesday serving as a keystone to a remarkably strong stretch of corporate reports.\r\nAccording to FactSet da\u2026 [+529 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Leslie Josephs",
-        "title": "United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today - CNBC",
-        "description": "United is betting big on premium, international travel with a host of new routes.",
-        "url": "https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108351507-1787145751977-gettyimages-2290225109-_mg_9951.jpeg?v=1787607602&w=1920&h=1080",
-        "publishedAt": "2026-08-25T11:00:01Z",
-        "content": "United Airlines said Tuesday it's planning to add a host of new international destinations next year that span Ljubljana, Slovenia, to Okinawa, Japan, continuing its so-far profitable bet that consum\u2026 [+3854 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "Vito Emanuel",
-        "title": "How the AIDS crisis helped create a multibillion-dollar death-speculation market : Planet Money - NPR",
-        "description": "Investors will buy your life insurance policy today \u2014 and collect the payout when you die.",
-        "url": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1264x711+0+267/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2Fc9%2F3aeb62c84cae887a9d153b9eab93%2Fd585c7f1-a3b0-4f29-877a-7f0af94c3c00.jpeg",
-        "publishedAt": "2026-08-25T10:30:00Z",
-        "content": "Listeners of our August 14 Planet Money\r\n episode may recognize some of today's newsletter. We got such a response, and so many questions, we wanted to go a little deeper with this follow up.\u00a0\r\nFrank\u2026 [+14385 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Elaine Kurtenbach",
-        "title": "World shares mostly gain and oil prices slip as the US raises pressure on Iran - AP News",
-        "description": "Shares are mostly higher in Europe and Asia after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week. U.S. futures climbed, while oil prices fell after U.S. Treasury Secretary Scott Bessent announced fresh sancti\u2026",
-        "url": "https://apnews.com/article/stocks-markets-futures-nvidia-bonds-oil-f17fc8cfc61f40114eb7246701b4695d",
-        "urlToImage": "https://dims.apnews.com/dims4/default/b09d74a/2147483647/strip/true/crop/7230x4818+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4f%2Ffa%2F86c66e24dc34ea765dcc39442eea%2F471758a480ae4f78aefe52239d74294a",
-        "publishedAt": "2026-08-25T09:14:00Z",
-        "content": "BANGKOK (AP) Shares were mostly higher Tuesday in Europe and Asia after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week. \r\nOil prices fell back after\u2026 [+3782 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Hugh Langley, Stephen Council",
-        "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike - Business Insider",
-        "description": "Anthropic staff were told they should not come to the AI company's San Francisco offices on Monday and Tuesday in case a security strike took place.",
-        "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8#article",
-        "urlToImage": "https://i.insider.com/6a8c5ba74569a4ec219f9773?width=1200&format=jpeg",
-        "publishedAt": "2026-08-25T09:11:00Z",
-        "content": "Anthropic told staff in its San Francisco offices to start this week working from home because of a possible strike by its offices' security workers. The union representing those workers said that wa\u2026 [+1916 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Seeking Alpha"
-        },
-        "author": "Niloofer Shaikh",
-        "title": "Biggest stock movers Tuesday: BE, INTC, and more - Seeking Alpha",
-        "description": "Stock futures edge higher as Nvidia earnings and key inflation data loom.",
-        "url": "https://seekingalpha.com/news/4636475-biggest-stock-movers-tuesday-be-intc-and-more",
-        "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2159126735/image_2159126735.jpg?io=getty-c-w630",
-        "publishedAt": "2026-08-25T09:01:26Z",
-        "content": "Stock futures edged higher early Tuesday as investors turned their focus to a high-stakes week featuring quarterly earnings from AI darling Nvidia (NVDA) and critical inflation data.\r\nHere are some o\u2026 [+32 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Sarah Whitten",
-        "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing - CNBC",
-        "description": "Lego CEO Niels Christiansen told CNBC the company is seeing strong sales at both ends of the pricing spectrum.",
-        "url": "https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107026626-1646692316120-gettyimages-1239005670-UK_LEGO.jpeg?v=1787604437&w=1920&h=1080",
-        "publishedAt": "2026-08-25T07:00:01Z",
-        "content": "Lego revenue is on a tear. \r\nThe brickmaker posted a 21% revenue bump for the first half of the year, boosted once again by its now-stalwart lines like botanical bouquets, Formula 1 race cars and col\u2026 [+2492 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "Nvidia employee charged with smuggling advanced chips into China - Financial Times",
-        "description": "Prosecutors identify Taiwan-based manager as \u2018central figure\u2019 in scheme involving US semiconductor maker\u2019s AI servers",
-        "url": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8f0279c3-41b3-4589-aea9-b88699828924.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-08-25T05:31:11Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Justina Lee, Tanaya Macheel",
-        "title": "Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates - CNBC",
-        "description": "Investors turned cautious ahead of Nvidia's earnings and a closely watched inflation report. Both are due later this week.",
-        "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108353329-1787582499135-gettyimages-2291320611-AFP_C6DP8QP.jpeg?v=1787582612&w=1920&h=1080",
-        "publishedAt": "2026-08-25T03:15:00Z",
-        "content": "U.S. equity futures were little changed early Tuesday after the S&amp;P 500 posted a losing session as investors turned cautious ahead of Nvidia's earnings and a key inflation report due later this w\u2026 [+2466 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Points Guy"
-        },
-        "author": "David Slotnick",
-        "title": "JetBlue opens new Boston BlueHouse lounge - The Points Guy",
-        "description": "JetBlue unveiled its new Boston Logan International Airport (BOS) lounge, featuring locally inspired food, cocktails, coffee and spaces. See what it's like inside.",
-        "url": "https://thepointsguy.com/news/jetblue-boston-lounge-bluehouse/",
-        "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/08/JetBlue-BlueHouse-Boston-7-1.jpg",
-        "publishedAt": "2026-08-25T02:04:40Z",
-        "content": "It's a Blue day in Boston.\r\nJetBlue unveiled its brand-new BlueHouse lounge at Boston Logan International Airport (BOS) on Monday, a major step as the airline works to rebuild itself as a carrier wit\u2026 [+7273 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KCRA Sacramento"
-        },
-        "author": "Daniel Macht",
-        "title": "Gavin Newsom\u2019s Fair Oaks home listed for sale for $7.5 million - KCRA",
-        "description": "Want to live like a California governor? Gov. Gavin Newsom and first partner Jennifer Siebel Newsom\u2019s gated estate on Tobia Way in Fair Oaks hit the market for $7.5 million, according to a listing with Sotheby\u2019s International Realty.",
-        "url": "https://www.kcra.com/article/gavin-newsom-fair-oaks-home-listed-for-sale/73514402",
-        "urlToImage": "https://kubrick.htvapps.com/vidthumb/1e2ea8dd-c8b8-49ea-9bc2-239decf97a8e/thumb_1920x1080.0000001.jpg?crop=1xw%3A1xh%3Bcenter%2Ctop&resize=1200%3A*",
-        "publishedAt": "2026-08-25T01:52:00Z",
-        "content": "Want to live like a California governor?\r\nGov. Gavin Newsom and first partner Jennifer Siebel Newsoms gated estate on Tobia Way in Fair Oaks hit the market for $7.5 million, according to a listing wi\u2026 [+1806 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KCRA Sacramento"
-        },
-        "author": "Jonathan Ayestas, Kate Ourada, Karson Wells",
-        "title": "Shooting involving at least one officer after disturbance at Lodi McDonald's, police say - KCRA",
-        "description": "A shooting involving at least one officer took place at a Lodi McDonald's on Monday morning, officials said.",
-        "url": "https://www.kcra.com/article/lodi-police-activity-church-street-lodi-avenue/73512893",
-        "urlToImage": "https://kubrick.htvapps.com/vidthumb/f8e703b7-4c1a-437d-bcb6-765c5ae8c3a0/137961bf-6c29-4340-bf64-24f5749c50cf.jpg?crop=0.798xw%3A0.797xh%3B0%2C0&resize=1200%3A*",
-        "publishedAt": "2026-08-25T00:51:00Z",
-        "content": "LODI, Calif.A shooting involving at least one officer took place at a Lodi McDonald's on Monday morning, injuring a suspect, officials said. \r\nThe Lodi Police Department said officers around 9:30 a.m\u2026 [+2864 chars]"
+        "author": "Brian Sozzi",
+        "title": "Why Anthropic's $30 trillion sales pitch ahead of its IPO could make sense - Yahoo Finance",
+        "description": "Are we looking at a big year-end for the IPO market?",
+        "url": "https://finance.yahoo.com/markets/article/why-anthropics-30-trillion-sales-pitch-ahead-of-its-ipo-could-make-sense-145413337.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/8ccf7a11b640eb8a1b583bd13ce9e8fa63ab32de44ba2fbc4fa4363950aa3d7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fd43f54b1-1e0a-4e41-83c8-0f4a177ece61",
+        "publishedAt": "2026-08-26T14:54:13Z",
+        "content": "This year has already delivered one of the most extraordinary IPO periods in recent years. SpaceX (SPCX), Cerebras (CBRS), and Jersey Mike's (JMKE) have been some of the buzzier names to debut in pub\u2026 [+2788 chars]"
     },
     {
         "source": {
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Lucas Ropek",
-        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC - TechCrunch",
-        "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-        "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
-        "publishedAt": "2026-08-25T00:23:12Z",
-        "content": "Situational Awareness, the AI focused hedge fund that was Wall Street\u2019s fleeting obsession, is having a very bad month.\r\nThe company, led by twentysomething OpenAI alum Leopold Aschenbrenner, went al\u2026 [+1073 chars]"
+        "author": "Russell Brandom",
+        "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI - TechCrunch",
+        "description": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+        "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_k.jpg?resize=1200,800",
+        "publishedAt": "2026-08-26T14:37:01Z",
+        "content": "Bill Gates posted a long essay to his Gates Notes site today, showing just how much the Microsoft co-founder has been thinking about the social impacts of AI.\r\nGates is mostly in the Responsible AI c\u2026 [+2239 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "fox8.com"
+            "name": "Investor's Business Daily"
         },
-        "author": "Laura Morrison",
-        "title": "Social Security recipients need to remember this important date - FOX 8 News",
-        "description": "As millions of Americans continue to feel the sting of high grocery and fuel prices, retirees \u2014 and those who rely on\u00a0Social Security \u2014 are particularly vulnerable. But more money could be on the way soon.",
-        "url": "https://fox8.com/news/social-security-recipients-need-to-remember-this-date/",
-        "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2026/07/GettyImages-2191581726-e1778629250171_9745da.jpg?w=1280",
-        "publishedAt": "2026-08-24T23:41:29Z",
-        "content": "CLEVELAND (WJW) As millions of Americans continue to feel the sting of high grocery and fuel prices, retirees and those who rely on\u00a0Social Security are particularly vulnerable. But more money could b\u2026 [+2934 chars]"
+        "author": null,
+        "title": "SpaceX Plans $100 Bil Starbase In Louisiana; 'End Of An Era; In Florida - Investor's Business Daily",
+        "description": "SpaceX announces plans to build $100 billion Starbase launch complex in Louisiana. Falcon 9 conducts last Florida Starlink mission.",
+        "url": "https://www.investors.com/news/spacex-starbase-louisiana-100-billion-starship-launches-falcon-9-spacex-stock/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/Stock-SpaceX-starship2-shut.jpg",
+        "publishedAt": "2026-08-26T14:37:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lillian Rizzo",
+        "title": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next - CNBC",
+        "description": "Paramount Skydance's acquisition of Warner Bros. Discovery is stalled due to an antitrust lawsuit, leaving WBD in limbo during a pivotal moment for media.",
+        "url": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108334336-1783975362519-gettyimages-2285923979-dji_20260713093855_0155_d_lbcei8zc.jpeg?v=1783975391&w=1920&h=1080",
+        "publishedAt": "2026-08-26T14:31:47Z",
+        "content": "An aerial view of the Warner Bros. Studio lot on July 13, 2026 in Burbank, California. \r\nWarner Bros. Discovery is feeling whiplash.\r\nIt was only last summer that the company said it would split itse\u2026 [+8867 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Fox Business"
         },
-        "author": "Bonny Chu",
-        "title": "Buc-ee\u2019s CEO signals expansion shift away from blue states that \u2018don\u2019t appreciate\u2019 chain - Fox Business",
-        "description": "Buc-ee\u2019s co-founder Arch \u201cBeaver\" Aplin III said the travel center is finding a stronger fit in conservative, business-friendly communities.",
-        "url": "https://www.foxbusiness.com/retail/buc-ees-ceo-signals-expansion-shift-away-blue-states-dont-appreciate-chain",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/arch-aplin.jpg?ve=1&tl=1",
-        "publishedAt": "2026-08-24T23:10:00Z",
-        "content": "Buc-ee\u2019s CEO suggested recently that the Texas-based travel center chain may be done looking into blue districts, saying some communities do not appreciate what the company brings while conservative \u2026 [+4006 chars]"
+        "author": "Taylor Penley",
+        "title": "Burger King tackles soaring beef costs without squeezing customers - Fox Business",
+        "description": "Burger King reclaimed its No. 2 burger chain spot from Wendy's with 8.5% same-store sales growth and revamped chicken nuggets roll out Sept. 1.",
+        "url": "https://www.foxbusiness.com/media/burger-king-tackles-soaring-beef-costs-without-squeezing-customers",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/burger-king-food-thumbnail.jpg?ve=1&tl=1",
+        "publishedAt": "2026-08-26T14:02:55Z",
+        "content": "One of the country\u2019s largest fast-food chains has reclaimed its \"throne\" as the nation\u2019s No. 2 burger chain, with Burger King betting that better food without higher prices can keep cost-strained cus\u2026 [+3141 chars]"
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": "politico",
+            "name": "Politico"
         },
-        "author": "Connie Loizos",
-        "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B - TechCrunch",
-        "description": "We all knew it was coming. The expected valuation may surprise, though.",
-        "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-        "publishedAt": "2026-08-24T23:05:44Z",
-        "content": "Oura, the smart ring maker, with offices in San Francisco and Finland, is reportedly planning to raise up to $3 billion as soon as next month in a U.S. IPO that values the more than 900-person compan\u2026 [+2686 chars]"
+        "author": "Maggie Miller, John Sakellariadis",
+        "title": "White House to unveil program to protect water systems against hackers - Politico",
+        "description": "The new program follows a cascade of cyberattacks across at least a dozen states that many experts suspect are linked to Iran.",
+        "url": "https://www.politico.com/news/2026/08/26/white-house-program-private-companies-water-hacks-01050315",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F74%2F33%2F194c0dc540a59225eedec02febea%2Fcybersecurity-water-77940.jpg",
+        "publishedAt": "2026-08-26T14:00:00Z",
+        "content": "Spokespeople for Texas Cyber Command, the state agency that leads cyber defense and incident response efforts, did not immediately respond to a request for comment on whether the agency is involved i\u2026 [+2140 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Paul Wiseman",
+        "title": "US economy expanded at sluggish 1.5% pace in second quarter, on par with earlier estimate - AP News",
+        "description": "The U.S. economy grew at a sluggish 1.5% pace from April through June. But consumer spending stayed strong. The Commerce Department reported Wednesday that growth in gross domestic product \u2014 the nation\u2019s output of a goods and services \u2014 decelerated from a 2.1\u2026",
+        "url": "https://apnews.com/article/economic-growth-inflation-trump-trade-b6c975fb2624044ca7e537909cffb05e",
+        "urlToImage": "https://dims.apnews.com/dims4/default/bbbd426/2147483647/strip/true/crop/3428x2284+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd7%2Ff5%2Fa24c8cbea75e7ff753f2d2a45bca%2F77ef0e7d3e6349b8a1cd8af4c832aeba",
+        "publishedAt": "2026-08-26T13:58:00Z",
+        "content": "WASHINGTON (AP) The U.S. economy grew at a sluggish 1.5% pace from April through June. But consumer spending stayed strong.\r\nGrowth in gross domestic product the nations output of a goods and service\u2026 [+2585 chars]"
     }
 ]
