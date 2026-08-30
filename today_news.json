@@ -4,182 +4,169 @@
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Lena H. Sun",
-        "title": "Cyclospora lettuce outbreak now tied to 20 states - The Washington Post",
-        "description": "The best-by dates for these recalled products have passed, and the lettuce should no longer be available in stores or restaurants, or available for purchase.",
-        "url": "https://www.washingtonpost.com/health/2026/08/28/cyclospora-lettuce-outbreak-now-tied-20-states/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/U4N53JE7ZBEJKU3PJCBTP4SVVY.JPG&w=1440",
-        "publishedAt": "2026-08-28T14:17:28Z",
-        "content": "The Centers for Disease Control and Prevention added Georgia, Tennessee and Texas to the multistate cyclospora outbreak tied to iceberg lettuce from Taylor Farms de Mexico, expanding the outbreak to \u2026 [+9 chars]"
+        "author": "Joyce Sohyun Lee, Amy Brittain, Federica Cocco",
+        "title": "Trump lauded low prices at Freedom Fuel. A supplier says some gas wasn\u2019t paid for. - The Washington Post",
+        "description": "Mansfield Oil Company of Gainesville claimed in a federal lawsuit this month that it was never paid for more than a million gallons of fuel from a terminal in Pennsylvania between late May and early July \u2014 nearly $4 million worth.",
+        "url": "https://www.washingtonpost.com/investigations/2026/08/29/trump-lauded-low-prices-freedom-fuel-supplier-says-some-gas-wasnt-paid/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ZDPKPWP5F3UJ52GDPYDSRQYOEI.jpg&w=1440",
+        "publishedAt": "2026-08-29T14:35:51Z",
+        "content": "A chain of gas stations that lowered prices last month in response to President Donald Trumps call for cheaper fuel sparked a mystery over how it was able to sell at such a discount.\r\nA new lawsuit o\u2026 [+147 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Tech investor mocks Vance\u2019s call to hire Americans as 'DEI', gets blasted by Trump officials in H-1B firestorm - Fox News",
+        "description": "Y Combinator investor Ankit Gupta mocked JD Vance's call to prioritize hiring Americans over H-1B visas, sparking backlash from the Trump administration.",
+        "url": "https://www.foxnews.com/media/tech-investor-mocks-vance-call-hire-americans-dei-gets-blasted-trump-officials-h1b-firestorm",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/jd-vance-wisconsin.jpg",
+        "publishedAt": "2026-08-29T14:21:09Z",
+        "content": "Ankit Gupta, a general partner at the influential Silicon Valley startup accelerator Y Combinator, drew criticism from Trump administration officials after mocking Vice President JD Vances call to pr\u2026 [+7311 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Jeff Cox",
-        "title": "Fed Chairman Warsh expresses concern about inflation advocates for 'quieter' central bank: Watch live - CNBC",
-        "description": "He used the speech to outline his philosophy on policymaking while carefully sidestepping any signals",
-        "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108341946-1785351069874-gettyimages-2287525768-AFP_C3HN8F6.jpeg?v=1785351598&w=1920&h=1080",
-        "publishedAt": "2026-08-28T14:00:06Z",
-        "content": "Federal Reserve Chairman Kevin Warsh expressed concern Friday about elevated inflation while hinting that interest rates could need to move higher if more progress isn't made on easing price pressure\u2026 [+5264 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Japan Spent Record $98.7 Billion to Prop Up Yen in Past Month - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/finance/currencies/japan-spent-record-98-7-billion-to-prop-up-yen-in-past-month-ddb03c64",
-        "urlToImage": null,
-        "publishedAt": "2026-08-28T13:50:00Z",
-        "content": null
+        "author": "Kamaron McNair, Juhohn Lee",
+        "title": "We're in the midst of an 'Imax awakening,' CEO says. How the company makes millions - CNBC",
+        "description": "Christopher Nolan's \"The Odyssey\" has movie and history buffs flocking to theaters this summer. That's been great news for Imax.",
+        "url": "https://www.cnbc.com/2026/08/29/imax-revenue-odyssey-box-office.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/103100235-GettyImages-462799944.jpg?v=1667936217&w=1920&h=1080",
+        "publishedAt": "2026-08-29T14:00:01Z",
+        "content": "Moviegoers flocked to theaters this summer to see Christopher Nolan's film adaptation of \"The Odyssey.\" And for many fans, it wasn't enough just to see the movie; they had to see it in Imax.\r\nThe mov\u2026 [+6229 chars]"
     },
     {
         "source": {
             "id": "axios",
             "name": "Axios"
         },
-        "author": "Emily Peck, Erin Davis",
-        "title": "Here are the top-growing jobs in the country - Axios",
-        "description": "Explosive growth in health care and social assistance comes courtesy of an aging population that needs more care.",
-        "url": "https://www.axios.com/2026/08/28/job-growth-aging-health-care",
-        "urlToImage": "https://images.axios.com/aRxFEp8GH32z0mqejowIMRllk1c=/0x0:1344x756/1366x768/2026/08/27/1787853677760.png",
-        "publishedAt": "2026-08-28T10:42:03Z",
-        "content": "The big picture: Over the next 10 years, BLS projects that the U.S. economy will add 5.9 million jobs. Total employment would increase to 176.2 million, growing 3.5%.\r\n<ul><li>That's a lot slower tha\u2026 [+1336 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Eleanor Pringle",
-        "title": "'I'm in favor of taxes,' says Nvidia's Jensen Huang\u2014but he doesn't agree with Bill Gates on his plan to slow an AI fallout - Fortune",
-        "description": "Nvidia CEO Jensen Huang says he sees a different path for AI compared to Microsoft co-founder Bill Gates.",
-        "url": "https://fortune.com/2026/08/28/jensen-huang-bill-gates-ai-tax-wealth-society-jobs/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2288035031-e1787911789223.jpg?resize=1200,600",
-        "publishedAt": "2026-08-28T10:23:00Z",
-        "content": "Nvidia CEO Jensen Huang is open to ideas about how to share the massive wealth being generated by the AI boom. Hes created billionaires on his executive team, personally ensures his staff are competi\u2026 [+3274 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "China is a Threat to Biotech\u2019s Massive Bull Run - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/finance/stocks/china-is-a-threat-to-biotechs-massive-bull-run-d6a8e314",
-        "urlToImage": null,
-        "publishedAt": "2026-08-28T10:11:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Seeking Alpha"
-        },
-        "author": "Steven Cress",
-        "title": "4 Beaten-Down Stocks With Average 134% EPS Growth Ready To Rally - Seeking Alpha",
-        "description": "The summer\u2019s risk-off tone has led investors to overlook strong fundamentals. SA Quant identifies 4 beaten-down stocks that could benefit in H2 2026. See more.",
-        "url": "https://seekingalpha.com/article/4941018-4-beaten-down-stocks-with-average-134-percent-eps-growth-ready-to-rally",
-        "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2264698965/image_2264698965.jpg?io=getty-c-w1536",
-        "publishedAt": "2026-08-28T10:00:00Z",
-        "content": "Analysts Disclosure: I/we have a beneficial long position in the shares of CIEN, SNDK, STRL, SEZL either through stock ownership, options, or other derivatives. I wrote this article myself, and it ex\u2026 [+1024 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "South Korea\u2019s \u2018AI for All\u2019 Push Gives Free Access to Every Citizen - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/tech/ai/south-koreas-ai-for-all-push-gives-free-access-to-every-citizen-451f6b2c",
-        "urlToImage": null,
-        "publishedAt": "2026-08-28T09:08:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "Stephan Bisaha",
-        "title": "Businesses are getting tariff refunds. Why aren't consumers getting their cut? - NPR",
-        "description": "A slew of American companies are getting billions of dollars back in tariff refunds after a Supreme Court ruling. Many consumers, though, may never get anything back.",
-        "url": "https://www.npr.org/2026/08/28/nx-s1-5946782/businesses-getting-tariff-refunds-why-arent-consumers-getting-their-cut",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+151/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2F5f%2F2a7d8dcd4d59b4aea5bdd99e8159%2Fap18099691861150.jpg",
-        "publishedAt": "2026-08-28T09:00:00Z",
-        "content": "Last year, Sandra Alonso needed a new powered wheelchair to get around her city of Tampa, Fla., after wearing out her old one.\r\nSo she ordered the same model because she knew she could easily fold it\u2026 [+4787 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Hassan Ali Kanu",
-        "title": "Musk\u2019s AI company sues its users as victim lawsuits over Grok deepfakes mount - Politico",
-        "description": "As alleged victims sue the company over AI-generated child sexual abuse material, xAI takes the legal fight to its own users.",
-        "url": "https://www.politico.com/news/2026/08/28/elon-musk-xai-lawsuits-grok-deepfakes-01053817",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F60%2Fab%2F7a7bed4b46e3a0580578f33bc309%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2193208237",
-        "publishedAt": "2026-08-28T09:00:00Z",
-        "content": "xAI has not said why its turning to litigation in certain cases or how it decides when to do so. The company did not respond to POLITICOs requests for comment.\r\nAbout two weeks before suing Bloodwort\u2026 [+1899 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Nicholas McEntyre",
-        "title": "Five Long Island \u2018mole people\u2019 seen crawling into manhole \u2014 week after headlamp-wearing trio emerged in NYC - New York Post",
-        "description": "The summer of sewer diving keeps on going.",
-        "url": "https://nypost.com/2026/08/28/us-news/long-island-mole-people-seen-crawling-into-manhole-week-after-headlamp-wearing-trio-emerged-in-nyc/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/138743468.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-08-28T08:39:00Z",
-        "content": "The summer of sewer diving keeps on going.\r\nFive \u201cmole people\u201d dove down a manhole into the Long Island drainage system in an overnight run Thursday just one week after a seemingly separate trio emer\u2026 [+2906 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Rachel Roubein",
-        "title": "FDA just approved updated covid shots. Here\u2019s what to know as cases edge upward. - The Washington Post",
-        "description": "Questions remain over formal federal recommendations for which Americans should get a vaccine, which could complicate availability of the shots in a handful of states. The spread of the virus remains low.",
-        "url": "https://www.washingtonpost.com/health/2026/08/27/fda-just-approved-updated-covid-shots-heres-what-know-cases-rise/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/J6QCGYERJII6XKW4V54HAGRQZI.jpg&w=1440",
-        "publishedAt": "2026-08-28T04:25:45Z",
-        "content": "The Food and Drug Administration on Thursday green-lit updated coronavirus vaccines for higher-risk Americans, such as older adults and people with at least one underlying health condition, vaccine m\u2026 [+22 chars]"
+        "author": "Zachary Basu",
+        "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation - Axios",
+        "description": "The episode already ranks among the most consequential shocks in the history of AI.",
+        "url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
+        "urlToImage": "https://images.axios.com/mNScNTPMeKr71VQRh4c0jYwce0E=/0x0:1280x720/1366x768/2026/08/28/1787953450490.jpg",
+        "publishedAt": "2026-08-29T13:12:21Z",
+        "content": "The big picture: OpenAI has already slowed frontier development as it races to harden its safeguards, and this week helped rally the industry behind an open letter sounding the alarm over AI-powered \u2026 [+3849 chars]"
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Ryan Gould, Paige Smith",
-        "title": "Advent, Stripe Consortium Is Said to Drop Pursuit of PayPal - Bloomberg",
-        "description": "A consortium of buyout firm Advent and payment processor Stripe has decided to abandon its pursuit of fintech pioneer PayPal Holdings Inc., a potential deal that would have ranked as one of the biggest-ever leveraged buyouts, according to people familiar with\u2026",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixgsEgluqOek/v1/1200x800.jpg",
-        "publishedAt": "2026-08-28T01:32:00Z",
-        "content": "A consortium of buyout firm Advent and payment processor Stripe has decided to abandon its pursuit of fintech pioneer PayPal Holdings Inc., a potential deal that would have ranked as one of the bigge\u2026 [+317 chars]"
+        "author": "Norah Rami, Matthew Griffin",
+        "title": "Trump Backlash Adds New Risks to the Stocks the Government Owns - Bloomberg.com",
+        "description": "Traders have made a bundle over the past year following President Donald Trump as the US government pursues an unprecedented strategy of taking ownership stakes in publicly traded companies.",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-29/trump-backlash-adds-new-risks-to-the-stocks-the-government-owns",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icPkPWKcXyAw/v0/1200x806.jpg",
+        "publishedAt": "2026-08-29T13:00:00Z",
+        "content": "Traders have made a bundle over the past year following President Donald Trump as the US government pursues an unprecedented strategy of taking ownership stakes in publicly traded companies. \r\nBut wi\u2026 [+364 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Russell Brandom",
+        "title": "Nvidia\u2019s AI advantage is moving beyond the GPU - TechCrunch",
+        "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+        "publishedAt": "2026-08-29T13:00:00Z",
+        "content": "Before this week, the dominant story about Nvidia went something like this: For the first few years of the AI boom, Nvidia was the only source for state-of-the-art GPUs, which became immensely profit\u2026 [+4135 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "MarketWatch"
+            "name": "Financial Times"
         },
-        "author": "William Gavin",
-        "title": "SpaceX\u2019s $100 billion spaceport plan has investors asking where all the money is coming from - MarketWatch",
-        "description": "The company will need to raise a lot of debt in order to fund its ambitions, according to an analyst",
-        "url": "https://www.marketwatch.com/story/spacexs-100-billion-spaceport-plan-has-investors-asking-where-all-the-money-is-coming-from-7395bc51",
-        "urlToImage": "https://images.mktw.net/im-00103195/social",
-        "publishedAt": "2026-08-28T00:02:00Z",
-        "content": "SpaceXs plan to develop a sprawling spaceport in Louisiana is reviving questions around how the company will get the cash it needs to fuel its ambitions.\r\nThrough 2035, the company plans to \r\nspend $\u2026 [+388 chars]"
+        "author": null,
+        "title": "Warsh puts Fed on collision course with Trump ahead of midterms - Financial Times",
+        "description": "US central bank chair\u2019s Jackson Hole hint that rates may rise runs counter to the reduction in borrowing costs the US president desires",
+        "url": "https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4fbd7e3c-b838-4da5-9dd5-ee28e50c4235.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-08-29T12:57:12Z",
+        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Shira Ovide",
+        "title": "The Fed confronts a powerful new economic force - The Washington Post",
+        "description": "In meetings on how to steer the nation\u2019s financial path, central bank officials regularly debate the effect of artificial intelligence on the economy, a Post analysis found.",
+        "url": "https://www.washingtonpost.com/technology/2026/08/29/federal-reserve-officials-are-debating-ais-effect-economy-jobs/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EINATBONGQHDZZ3IXZKKSY5OU4_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-08-29T12:32:41Z",
+        "content": "Federal Reserve Chair Kevin Warsh promised to bust inflation in his first major speech since his nomination by President Donald Trump, but he also lavished attention on a new focus for the Fed: artif\u2026 [+18 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Michael Wayland",
+        "title": "Goodyear burning rubber and cash as turnaround plan continues - CNBC",
+        "description": "The tire maker has an ongoing turnaround plan as the company tries to restructure its business, refinance and pay down years of debt.",
+        "url": "https://www.cnbc.com/2026/08/29/goodyear-turnaround-cash-debt.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108354746-1787772909822-Goodyear_CEO_Mark_Stewart.png?v=1787838205&w=1920&h=1080",
+        "publishedAt": "2026-08-29T12:00:01Z",
+        "content": "The exterior of Goodyear's \"Motor City Garage\" concept retail store inside one of the tire manufacturer's Detroit tire shops.\r\nDETROIT Goodyear Tire &amp; Rubber CEO Mark Stewart sits in the vehicle \u2026 [+8039 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": null,
+        "title": "Microsoft, Palantir Lead Five Stocks Near Buy Points In Hot Sector - Investor's Business Daily",
+        "description": "Microsoft stock just cleared another buy point.",
+        "url": "https://www.investors.com/news/microsoft-palantir-stocks-near-buy-points-software/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/04/Stock-Microsoft-SurfacePro-company.jpg",
+        "publishedAt": "2026-08-29T11:55:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Daniel Howley",
+        "title": "Everything you need to know about new Apple CEO John Ternus - Yahoo Finance",
+        "description": "John Ternus will become Apple's next CEO on Sept. 1. Here's what you need to know about him.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/everything-you-need-to-know-about-new-apple-ceo-john-ternus-000314834.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/4653ceceaf9b4c5503e13630c975923710ad3eb08a3289d6e4b33fd9a35b61e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fb42416c0-a423-11f0-979b-b9994ea8fc95_da6a758536de3237736621c5719c00a77693e9f62782a66d277e4ae02d8f4e99.com%2Fcreatr-uploaded-images%2F2025-10%2Fb42416c0-a423-11f0-979b-b9994ea8fc95",
+        "publishedAt": "2026-08-29T11:51:10Z",
+        "content": "Apple's (AAPL) Tim Cook is stepping down from his role as CEO, handing over the reins of the $4 trillion company to senior vice president of hardware engineering John Ternus.\r\nRumors have been swirli\u2026 [+2635 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Josephine Walker",
+        "title": "China is secretly fueling America's data center rage - Axios",
+        "description": "Polling shows that the opposition is already widespread.",
+        "url": "https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots",
+        "urlToImage": "https://images.axios.com/e1zdGpU093Me_gZ2R0FRxyBXDeU=/1366x768/smart/2021/10/11/184405-1633977845020.jpg",
+        "publishedAt": "2026-08-29T10:38:27Z",
+        "content": "Driving the news: The X Safety team probed suspected Chinese accounts involved in influence operations and identified 200,000 accounts, including 200 accounts \"posting in a manner that could manipula\u2026 [+3623 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Maddy Varner",
+        "title": "Security News This Week: The Cybersecurity Apocalypse Is Coming in \u2018Months,\u2019 AI Giants Warn - WIRED",
+        "description": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you\u2019ll never guess what \u201cMrChildPorn\u201d was arrested for.",
+        "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+        "urlToImage": "https://media.wired.com/photos/6a921e363b3f20c2f80986f3/191:100/w_1280,c_limit/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg",
+        "publishedAt": "2026-08-29T10:30:00Z",
+        "content": "You may have noticed that Flock Safetys automatic license plate reader camerasand the cops who misuse themare getting a lot of coverage lately. This week, WIRED found a particularly wild case: A cop \u2026 [+4578 chars]"
     },
     {
         "source": {
@@ -187,37 +174,76 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Mamdani Turns to Team of CEO Advisers After Clashes With New York Business Elite - WSJ",
+        "title": "Dan Neil Tames a Heavyweight Adventure Bike - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/us-news/mamdani-turns-to-team-of-ceo-advisers-after-clashes-with-new-york-business-elite-8eaa9485",
+        "url": "https://www.wsj.com/lifestyle/cars/2026-ducati-multistrada-v4-rally-review-ef5b6a1e",
         "urlToImage": null,
-        "publishedAt": "2026-08-27T23:57:00Z",
+        "publishedAt": "2026-08-29T09:30:00Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Daniel de Vise\u0301",
+        "title": "What's the real retirement age in America? Here are 4 guesses - USA Today",
+        "description": "Americans used to think of 65 as the expected retirement age. But those days are gone, and today's retirement math is increasingly fuzzy.",
+        "url": "https://www.usatoday.com/story/money/personal-finance/2026/08/29/retirement-age-in-america-social-security-medicare/91406670007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/02/USAT/89439821007-retirement-3.JPG?crop=4593,2584,x0,y238&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2026-08-29T09:10:12Z",
+        "content": "Americans\u00a0might\u00a0be\u00a0understandably confused about when, exactly, they are expected to retire.\u00a0\r\nWe can claim Social Security at 62, Medicare at 65. But\u00a0the full retirement age\u00a0for Social Security\u00a0is 6\u2026 [+6004 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jordan Blum",
+        "title": "Offshore nuclear barges could power ports and data centers\u2014starting with California, where nuclear is banned - Fortune",
+        "description": "Offshore nuclear power could potentially power everything from ports and data centers to merchant cargo ships and military fleets.",
+        "url": "https://fortune.com/2026/08/29/offshore-nuclear-barges-power-ports-data-centers-california-banned/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-960023646.jpg?resize=1200,600",
+        "publishedAt": "2026-08-29T07:12:00Z",
+        "content": "As the U.S. paves the way for a nuclear renaissance to power the AI data center boom, the next frontier is building small nuclear reactors offshore to power coastal facilities and merchant ships.Stra\u2026 [+6878 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Lloyd Lee",
+        "title": "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts - Business Insider",
+        "description": "OpenAI said it doesn't trust SpaceX to comply with its terms of service, citing past conduct by xAI, another of Elon Musk's companies.",
+        "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8#article",
+        "urlToImage": "https://i.insider.com/6a92569a45e6f385a516a903?width=1200&format=jpeg",
+        "publishedAt": "2026-08-29T03:41:42Z",
+        "content": "OpenAI said it's ending its contract with Cursor, a coding startup recently acquired by SpaceX, because it doesn't trust an Elon Musk-owned company to comply with its terms of service.\r\nThe company s\u2026 [+2642 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Kasey Caminiti",
+        "title": "12 deals I recommend buying first at REI's epic Labor Day sale - USA Today",
+        "description": "REI's Labor Day sale is live with savings on camping gear, hiking shoes, backpacks, travel accessories and outdoor apparel. Here's what to shop.",
+        "url": "https://www.usatoday.com/story/shopping/deals/labor-day/2026/08/28/best-rei-outdoor-labor-day-deals/91504933007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/28/USAT/91507983007-designer-3.png?crop=1534,865,x0,y28&width=1534&height=865&format=pjpg&auto=webp",
+        "publishedAt": "2026-08-29T00:24:00Z",
+        "content": "REI's Labor Day sale is one of the best outdoor gear events of the season\r\nREI's Labor Day sale is officially live, and some of the biggest discounts aren't on random clearance items you'll never use\u2026 [+7878 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Abcnews.com"
+            "name": "fox8.com"
         },
-        "author": "ABC News - Breaking News, Latest News and Videos",
-        "title": "FAA looking to fire LaGuardia air traffic controllers after deadly March collision: Sources - ABC News - Breaking News, Latest News and Videos",
-        "description": null,
-        "url": "https://abcnews.com/US/faa-fire-laguardia-air-traffic-controllers-after-deadly/story?id\\\\u003d136014958",
-        "urlToImage": null,
-        "publishedAt": "2026-08-27T23:48:50Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "newsweek",
-            "name": "Newsweek"
-        },
-        "author": "Anna Commander",
-        "title": "Frozen Buffalo Chicken Recall: Highest Risk Warning Over Food Safety - Newsweek",
-        "description": "Numerous recalls have been issued this year due to potential damage, foodborne illness, and undeclared food allergens.",
-        "url": "https://www.newsweek.com/frozen-buffalo-chicken-recall-highest-risk-warning-over-food-safety-12377611",
-        "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/08/AP22011807816401.jpg?w=1200&crop=1",
-        "publishedAt": "2026-08-27T22:59:00Z",
-        "content": "Shanghai Ravioli Corporation is recalling approximately 24,900 pounds of frozen Buffalo chicken products after federal officials discovered they were produced without the benefit of inspection, the U\u2026 [+3240 chars]"
+        "author": "Jack Shea",
+        "title": "New phishing scam targeting MyChart patients: What to look out for - FOX 8 News",
+        "description": "Consumer watchdog groups are issuing a warning about a new phishing scam targeting patients on MyChart, the online portal used by many hospitals and health care providers.",
+        "url": "https://fox8.com/news/new-phishing-scam-targeting-mychart-patients-what-to-look-out-for/",
+        "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2026/08/mychart-scammers.jpg?w=1280",
+        "publishedAt": "2026-08-29T00:20:05Z",
+        "content": "CLEVELAND (WJW) \u2013 Consumer watchdog groups are issuing a warning about a new phishing scam targeting patients on MyChart, the online portal used by many hospitals and health care providers. \r\nInvesti\u2026 [+2439 chars]"
     }
 ]
