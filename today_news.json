@@ -1,16 +1,159 @@
 [
     {
         "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Trump Wants Big Oil to Build More Refineries. That\u2019s a Tough Sell. - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/energy-oil/trump-wants-big-oil-to-build-more-refineries-thats-a-tough-sell-54666292",
+        "urlToImage": null,
+        "publishedAt": "2026-09-03T14:17:31Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Brody Ford",
+        "title": "Snowflake Jumps on Revenue Outlook, Uptake of AI Assistant - Bloomberg.com",
+        "description": "Snowflake Inc. shares jumped by the most in three months after the company raised its outlook for annual sales, topping analysts\u2019 estimates, and touted rapid adoption of its AI-assisted coding tool.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-02/snowflake-jumps-on-revenue-outlook-uptake-of-ai-assistant",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwXvVdGrtHNQ/v0/1200x800.jpg",
+        "publishedAt": "2026-09-03T13:35:35Z",
+        "content": "Snowflake Inc. shares jumped by the most in three months after the company raised its outlook for annual sales, topping analysts estimates, and touted rapid adoption of its AI-assisted coding tool.\r\n\u2026 [+301 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Andrea Sachs",
+        "title": "One-star reviews of airports: \u2018Feels like psychological torture\u2019 - The Washington Post",
+        "description": "Travelers vent about confusing layouts, surly staff, paltry dining choices and rodents.",
+        "url": "https://www.washingtonpost.com/travel/2026/09/03/one-star-reviews-airports-feels-like-psychological-torture/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/UV7SBI5N3FBQDJ2JNYSCASRV5U.jpg&w=1440",
+        "publishedAt": "2026-09-03T13:32:56Z",
+        "content": "At some airports, we cant get away fast enough.\r\nThough essentially transportation hubs, airports have more responsibilities than simply flying passengers in and out like cargo. They need to provide \u2026 [+292 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Federal Reserve\u2019s Chris Waller \u2018inclined\u2019 to keep interest rates on hold - Financial Times",
+        "description": "Markets have been betting on a rise following Kevin Warsh\u2019s Jackson Hole speech",
+        "url": "https://www.ft.com/content/0a332e3c-e596-4f64-976a-d7746f91a9a9?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F82227c70-4f76-45d6-9055-a8179d39c70f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-09-03T12:30:23Z",
+        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ari Levy",
+        "title": "Hugging Face approached Nvidia\u2019s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC - CNBC",
+        "description": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\"",
+        "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108343877-1785771031007-gettyimages-1663179404-AI_CEOs_555_091323.jpeg?v=1785771160&w=1920&h=1080",
+        "publishedAt": "2026-09-03T12:04:26Z",
+        "content": "Nvidia has officially agreed to buy open-source artificial intelligence platform Hugging Face for $12.9 billion, as the chipmaker moves beyond hardware and further up the AI stack. \r\nWith the deal, w\u2026 [+2451 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Hayley Cuccinello",
+        "title": "Billionaire family offices back healthcare and biotech startups in August - CNBC",
+        "description": "The personal investment firms of titans like Stanley Druckenmiller are backing innovations in gene editing, drug discovery and more.",
+        "url": "https://www.cnbc.com/2026/09/03/family-offices-health-care-biotech-startups-august.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107125734-1664374231928-107125734-c_IMG_7443.jpg?v=1715879655&w=1920&h=1080",
+        "publishedAt": "2026-09-03T12:00:01Z",
+        "content": "Stanley Druckenmiller at CNBC's Delivering Alpha on Sept. 28, 2022.\r\nA version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-wort\u2026 [+2186 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Mike Winters",
+        "title": "How much money Americans in their 30s and 40s have in their 401(k)s\u2014see how you stack up - CNBC",
+        "description": "Here's how financial pros say you can tell if you're on track to retire, and how to catch up if you've fallen behind.",
+        "url": "https://www.cnbc.com/2026/09/03/how-much-money-americans-in-their-30s-and-40s-have-in-their-401ks.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108358039-1788379222792-gettyimages-2169995651-workai00_05_46_16still007-enhanced-sr.jpeg?v=1788379318&w=1920&h=1080",
+        "publishedAt": "2026-09-03T12:00:01Z",
+        "content": "Boosted by a strong stock market, the average 401(k) balance jumped 10.5% from March through June the biggest quarterly increase since 2020, according to new data from Fidelity.\r\nHeres how much Fidel\u2026 [+4329 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Fox Business"
         },
-        "author": "Arabella Bennett",
-        "title": "Lowe's CEO says skilled trades can offer six-figure careers without 4-year degree - foxbusiness.com",
-        "description": "Lowe's CEO Marvin Ellison unveils a coalition with NVIDIA, Bank of America and GM aiming to create one million skilled trades jobs by 2035.",
-        "url": "https://www.foxbusiness.com/media/lowes-ceo-says-skilled-trades-offer-siz-figure-careers-without-4-year-degree",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/usa-lowes-worker.png?ve=1&tl=1",
-        "publishedAt": "2026-09-02T15:38:00Z",
-        "content": "As employers across the country look for skilled workers, the Lowe's Foundation is backing a new effort aimed at creating more pathways into high-paying skilled trades careers that do not require a t\u2026 [+2664 chars]"
+        "author": "Eric Revell",
+        "title": "Southwest to open first-ever airport lounges in premium push - foxbusiness.com",
+        "description": "Southwest Airlines will open its first airport lounges in late 2027, partnering with Chase Sapphire Reserve's lounge network for dining and amenities.",
+        "url": "https://www.foxbusiness.com/lifestyle/southwest-open-first-ever-airport-lounges-premium-push",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/Southwest-passengers.jpg?ve=1&tl=1",
+        "publishedAt": "2026-09-03T11:45:00Z",
+        "content": "Southwest Airlines on Wednesday unveiled plans to debut its first-ever network of airport lounges, with work underway on the first lounges due to open in late 2027.\r\nThe airline announced that four S\u2026 [+2720 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Joe Stonor, Joe Wallace",
+        "title": "Netherlands Moves Gold From New York to London, Citing Geopolitical Unrest - WSJ",
+        "description": "The Dutch central bank said shifting the 78 metric tons of gold, worth $11 billion, would improve its ability to trade the metal in a pinch",
+        "url": "https://www.wsj.com/economy/central-banking/netherlands-moves-gold-from-new-york-to-london-citing-geopolitical-unrest-7a095eb8",
+        "urlToImage": "https://images.wsj.net/im-36449864/social",
+        "publishedAt": "2026-09-03T11:43:55Z",
+        "content": "The Dutch central bank shifted the location of 78 metric tons of gold, worth $11 billion at todays prices, from vaults benefotath the streets of Manhattan to \r\nLondon, saying it would improve the abi\u2026 [+469 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Pras Subramanian",
+        "title": "Tesla's Cybercab event is tonight. Here's what the industry \u2014 and Wall Street \u2014 expects - finance.yahoo.com",
+        "description": "Tesla will take the wraps off its production Cybercab purpose-built robotaxi in Austin later today, marking a potential turning point for the company's self-...",
+        "url": "https://finance.yahoo.com/markets/article/teslas-cybercab-event-is-tonight-heres-what-the-industry--and-wall-street--expects-110000729.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/d6b3724388bc272e0ba6d2db2adff1d0b006f7ad4421163ecec48e1e8d92bc09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2F99969810-0dae-11f1-b5fe-fca021d7665c",
+        "publishedAt": "2026-09-03T11:00:00Z",
+        "content": "Tesla will take the wraps off its production Cybercab purpose-built robotaxi in Austin later today, marking a potential turning point for the company's self-driving ambitions.\r\nTesla's Cybercab is a \u2026 [+5005 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Emily Peck",
+        "title": "Markets can't ignore the war anymore - Axios",
+        "description": "Energy prices are rising again.",
+        "url": "https://www.axios.com/2026/09/03/oil-bonds-stocks-iran",
+        "urlToImage": "https://images.axios.com/M8Qnj2NR6N4WWys6VtbXvJa1Bso=/0x0:1920x1080/1366x768/2026/04/07/1775585646791.jpeg",
+        "publishedAt": "2026-09-03T09:29:13Z",
+        "content": "The big picture: Higher energy prices are showing up across the economy, driving up costs for companies, regular people and even governments around the world that are now facing higher borrowing rate\u2026 [+3241 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fratellowatches.com"
+        },
+        "author": "Nacho Conde Garz\u00f3n",
+        "title": "Gallet Returns For Its 200th Anniversary With Four New Watch Collections - Fratello Watches",
+        "description": "\u2713 Gallet is back, celebrating its 200th anniversary with a relaunch comprised of four different collections \u2713 Read all about them here! \u2713",
+        "url": "https://www.fratellowatches.com/gallet-returns-for-its-200th-anniversary-with-four-new-watch-collections/",
+        "urlToImage": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Gallet-Relaunch-30.jpg",
+        "publishedAt": "2026-09-03T08:58:04Z",
+        "content": "Gallet is returning to the watch industry in 2026, exactly 200 years after its founding in La Chaux-de-Fonds. The historic Swiss name returns as a sibling brand to Breitling, which will manufacture t\u2026 [+11212 chars]"
     },
     {
         "source": {
@@ -18,232 +161,102 @@
             "name": "Barron's"
         },
         "author": "Adam Levine",
-        "title": "Why Palo Alto Stock Is Getting Crushed After a Huge Earnings Beat - Barron's",
-        "description": "Adjusted earnings per share were $1.02, up from 95 cents last year, ahead of Wall Street projections of 98 cents.",
-        "url": "https://www.barrons.com/articles/palo-alto-networks-q4-earnings-ai-demand-stock-dip-577cbe9d",
-        "urlToImage": "https://images.barrons.com/im-43674870/social",
-        "publishedAt": "2026-09-02T15:15:00Z",
-        "content": "Cybersecurity firmPalo Alto Networksreported strong fourth-quarter earnings results on Tuesday afternoonbut the results werent good enough for the high-flying stock.\r\nCopyright \u00a92026Dow Jones &amp; C\u2026 [+65 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Michael Wayland",
-        "title": "Ford continues ramping up pickup truck production as sales fall 10.3% in August - CNBC",
-        "description": "Ford reported its eighth consecutive month of year-over-year U.S. new vehicle sales declines in August.",
-        "url": "https://www.cnbc.com/2026/09/02/ford-sales-f-150-production.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108306590-1778705168667-gettyimages-2256139835-imgl6299_rolgkcn9.jpeg?v=1778705294&w=1920&h=1080",
-        "publishedAt": "2026-09-02T14:39:21Z",
-        "content": "DETROIT Ford Motor is increasing production of its crucial F-Series trucks after fires at an aluminum supplier severely impacted output over the past year.\r\nThe automaker confirmed Wednesday to CNBC \u2026 [+3188 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "George Glover, Mariapaula Gonzalez",
-        "title": "Dell, Credo, Palo Alto, MongoDB, Uber, GitLab, and More Stocks That Explain Today\u2019s Market - Barron's",
-        "description": "Dell\u2019s second-quarter earnings top expectations thanks to the AI boom, but Palo Alto Networks tumbles as investors take profits.",
-        "url": "https://www.barrons.com/articles/stock-movers-4fed2750",
-        "urlToImage": "https://images.barrons.com/im-62732244/social",
-        "publishedAt": "2026-09-02T14:28:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Range Rover launches first fully electric model - BBC",
-        "description": "The vehicle is being built at JLR's manufacturing plant in Solihull, in the West Midlands.",
-        "url": "https://www.bbc.com/news/articles/clyk5016mpyo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg",
-        "publishedAt": "2026-09-02T14:23:01Z",
-        "content": "The company said the launch was being supported by new battery and electric drive unit production lines, as well as training about 9,000 employees in Solihull for electrification and a further 1,500 \u2026 [+31 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "One Mile at a Time"
-        },
-        "author": "Ben Schlappig",
-        "title": "American Airlines Eliminating \"Premium\" First Class: Exact Timeline Revealed - One Mile at a Time",
-        "description": "American Airlines will end \"premium\" first class on the 777-300ER (Nov 2026) and A321T (March 2027), as new business class seats take over.",
-        "url": "https://onemileatatime.com/news/american-airlines-eliminating-first-class/",
-        "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2019/12/American-777-First-Class-4.jpg",
-        "publishedAt": "2026-09-02T13:59:48Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Joe Stonor",
-        "title": "Oil Hovers Close to $95 as Middle East Conflict Further Pressures Bonds - WSJ",
-        "description": "Treasury yields hit fresh highs before pulling back in the European afternoon",
-        "url": "https://www.wsj.com/finance/investing/oil-hovers-close-to-95-as-middle-east-conflict-further-pressures-bonds-877d8321",
-        "urlToImage": "https://images.wsj.net/im-58118151/social",
-        "publishedAt": "2026-09-02T13:27:29Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Matthew Kazin",
-        "title": "Private sector added 38,000 jobs in August, below expectations, ADP says - foxbusiness.com",
-        "description": "The figure reported on Wednesday is below economists\u2019 estimates of an increase of 48,000 jobs. The prior month's reading was revised higher to 46,000.",
-        "url": "https://www.foxbusiness.com/economy/private-sector-added-38000-jobs-august-below-expectations-adp-says",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/10/0/0/job-seekers-job-fair.jpg?ve=1&tl=1",
-        "publishedAt": "2026-09-02T12:56:00Z",
-        "content": "Companies in the private sector added 38,000 jobs in August, payroll processing firm ADP said in its latest report on Wednesday.\r\nThe figure is below economists\u2019 estimates of a gain of 48,000 jobs an\u2026 [+2191 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Alex Bitter",
-        "title": "Uber is laying off 10% of its staff as it seeks to cut management layers - Business Insider",
-        "description": "Uber announces 10% corporate layoffs, impacting 3,300 staff, as it cuts management roles amid tech sector restructuring.",
-        "url": "https://www.businessinsider.com/uber-layoffs-corporate-workforce-restructuring-memo-2026-9#article",
-        "urlToImage": "https://i.insider.com/6a9815b63c906e69480d53d2?width=1200&format=jpeg",
-        "publishedAt": "2026-09-02T12:43:29Z",
-        "content": "Uber is laying off 10% of its corporate staff, joining other tech firms in cutting management layers.\r\nThe ride-hailing company's move will eliminate roughly 3,300 positions, the company said on Wedn\u2026 [+7611 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Barron's",
-        "title": "Broadcom Earnings Today: Stock Looks for a Reset with Third-Quarter Results - Barron's",
-        "description": null,
+        "title": "Broadcom Earnings Today: Outlook Shows Surging AI Chip Sales - Barron's",
+        "description": "Broadcom stock was falling, after it reported it grew its revenue by 86% in the latest quarter.",
         "url": "https://www.barrons.com/articles/broadcom-earnings-todya-stock-price-13672771",
-        "urlToImage": null,
-        "publishedAt": "2026-09-02T12:40:00Z",
-        "content": null
+        "urlToImage": "https://images.barrons.com/im-98039672/social",
+        "publishedAt": "2026-09-03T08:16:00Z",
+        "content": "Chip makerBroadcomreported solid third-quarter results on Wednesday afternoon. The stock was wavering in response, despite the companys surging AI chip business.\r\nCopyright \u00a92026Dow Jones &amp; Compa\u2026 [+61 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Newser"
-        },
-        "author": "Arden Dier",
-        "title": "Nestle Nabs $1B for Vitamin, Supplement Brands - Newser",
-        "description": "Sale includes Nature's Bounty as company refocuses on premium supplements",
-        "url": "https://www.newser.com/story/395722/nestle-offloads-vitamins-business-in-1b-deal.html",
-        "urlToImage": "https://cdn.newser.com/image/1709144-12-20260902075303.jpeg",
-        "publishedAt": "2026-09-02T12:23:00Z",
-        "content": "Nestle is slimming down its supplement shelf, and it's cashing a $1 billion check to do it. The Swiss food giant said Tuesday it will sell seven mainstream vitamin and supplement brands\u2014Nature's Boun\u2026 [+852 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
+            "name": "Financial Times"
         },
         "author": null,
-        "title": "Trump Declares Bulk Power 'Emergency'; These Energy Storage Players Benefit - Investor's Business Daily",
-        "description": "Energy storage stocks Tesla and Fluence may get a Trump boost as he bans some inverters, BESS, and transformers from China.",
-        "url": "https://www.investors.com/news/energy-storage-stocks-trump-bulk-power-china-tesla-stock-fluence-stock/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/09/Stock-Tesla-Megapack-company.jpg",
-        "publishedAt": "2026-09-02T12:22:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+        "title": "Gold\u2019s run isn\u2019t yet done - Financial Times",
+        "description": "Fiscal burdens, sovereign buying and positive bond-equity correlation continue to support the precious metal",
+        "url": "https://www.ft.com/content/589bc3d6-998e-48a9-b863-050fe1044f45",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F00a4322e-f064-45d7-ba17-499c88f58eb7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-09-03T04:00:29Z",
+        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
         "source": {
             "id": null,
-            "name": "Investor's Business Daily"
+            "name": "Thefp.com"
         },
-        "author": null,
-        "title": "Stock Market Today: Dow Seesaws Ahead Of Jobs Data; AI Name Credo Dives On Earnings Report (Live Coverage) - Investor's Business Daily",
-        "description": "Stock Market Today: The Dow Jones index rises Tuesday after surprise jobs data. AI stock Credo plunges on earnings.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-ai-stock-credo-earnings/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2021/11/Stock-Dell-xpsdesktop-01-company.jpg",
-        "publishedAt": "2026-09-02T12:12:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+        "author": "John-Clark Levin",
+        "title": "The Threat of AI Takeover Is Real - The Free Press",
+        "description": "On Monday, Tyler Cowen argued that widespread alarm over an AI cyberattack was overblown. John-Clark Levin dearly wishes he were right, but his work as an AI futures researcher forces him to conclude the very opposite.",
+        "url": "https://www.thefp.com/p/threat-ai-tyler-cowen-hugging-face",
+        "urlToImage": "https://substackcdn.com/image/fetch/$s_!jGc8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0828cf6-f76a-4e51-9299-1c8c5d27b20e_1019x1024.jpeg",
+        "publishedAt": "2026-09-03T01:37:39Z",
+        "content": "Over the past six weeks, ominous whispers have been leaking from the San Francisco bubble into mainstream news about an event whose name seems ripped from the table of contents of a sci-fi magazine: \u2026 [+1430 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "SFGate"
         },
-        "author": "Davis Giangiulio",
-        "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now - CNBC",
-        "description": "In an appearance on CNBC's \"Squawk Box,\" Greg Abel said that yields in the country are still relatively low.",
-        "url": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108301070-1777731498671-GregAbel6.jpg?v=1777731549&w=1920&h=1080",
-        "publishedAt": "2026-09-02T11:09:15Z",
-        "content": "Berkshire Hathaway's CEO Greg Abel said that rising yields in Japan isn't impacting the major trading houses in the country the holding company has stakes in.\u00a0\r\nIn an appearance on CNBC's \"Squawk Box\u2026 [+1974 chars]"
+        "author": "Olivia Harden",
+        "title": "Tech layoffs climb as Uber sacks thousands of employees - SFGATE",
+        "description": "Uber laid off 10% of its global workforce on Wednesday, adding to the compounding number of tech layoffs in 2026.",
+        "url": "https://www.sfgate.com/tech/article/uber-layoffs-22415310.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/67/17/56/31259574/3/rawImage.jpg",
+        "publishedAt": "2026-09-03T00:36:12Z",
+        "content": "The Uber logo is seen at company headquarters in San Francisco on Oct. 15, 2019.\r\nNurPhoto via Getty Images\r\nThe\u00a0latest wave of tech layoffs has washed up at San Francisco-headquartered Uber. CEO Dar\u2026 [+2025 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Food & Wine"
+            "name": "Investing.com"
         },
-        "author": "https://www.facebook.com/foodandwine",
-        "title": "This Beer Is No. 1 in More States Than Any Other \u2014 and It\u2019s Not Bud Light - Food & Wine",
-        "description": "What is the most popular beer in America? A new report using Google Trends data ranks the most-searched beers nationwide and in every state. See where Michelob Ultra, Bud Light, Stella Artois, Budweiser, and Guinness rank, plus which states favor hometown bee\u2026",
-        "url": "https://www.foodandwine.com/most-popular-beer-in-america-according-to-google-search-data-12071118",
-        "urlToImage": "https://www.foodandwine.com/thmb/kU0c5RrDsFs1qW6Nk5UTtqqyCY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/No1-Beer-in-America-New-Report-FT-DGTL0926-a1b1e952d9724b78a2b05e1f7257b4af.jpg",
-        "publishedAt": "2026-09-02T11:01:00Z",
-        "content": "Americans may have plenty of regional beer loyalties, but one light lager attracts more attention nationwide than any other.\r\nAccording to a new analysis of Google search data by Innerbody, Michelob \u2026 [+5210 chars]"
+        "author": "Anuron Mitra",
+        "title": "S&P 500, Dow futures tick up as oil prices and Treasury yields continue to let up - Investing.com",
+        "description": "Wall Street opens higher as oil prices and Treasury yields continue to let up",
+        "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-amid-iran-rate-caution-broadcom-dips-after-earnings-4886896",
+        "urlToImage": "https://content-media.investing.com/news/LYNXMPEM5L0YH_1200_L.jpg",
+        "publishedAt": "2026-09-03T00:19:41Z",
+        "content": "Investing.com -- U.S. stocks climbed at the open on Thursday, amid a slight rise in oil prices and an extended reversal in a bond rout. Investors parsed contrasting post-earnings reactions to Broadco\u2026 [+2922 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Gizmodo.com"
         },
-        "author": "Diana Olick",
-        "title": "Demand for riskier mortgages rises along with interest rates - CNBC",
-        "description": "Mortgage rates continue to rise, pushing some buyers to riskier, adjustable-rate loans in order to find savings. Rates are at the highest level since June 2025.",
-        "url": "https://www.cnbc.com/2026/09/02/demand-for-riskier-mortgages-rises-along-with-interest-rates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108317064-1780605175336-gettyimages-2279864274-dji_20260604142340_0375_d_gyu4md8n.jpeg?v=1788302446&w=1920&h=1080",
-        "publishedAt": "2026-09-02T11:00:01Z",
-        "content": "Mortgage rates continue to move higher and that has demand for home loans stuck in place. It also, however, has more borrowers opting for riskier loans that offer lower rates.\r\nTotal mortgage applica\u2026 [+1754 chars]"
+        "author": "Kyle Torpey",
+        "title": "Identity Verification Is Broken. The 153 Million Driver\u2019s Licenses Now for Sale Are Proof - Gizmodo",
+        "description": "A massive trove of driver\u2019s license scans allegedly stolen from an identity verification company shows the danger of creating honey pots of our most sensitive documents for malicious actors to exploit.",
+        "url": "https://gizmodo.com/identity-verification-is-broken-the-153-million-drivers-licenses-now-for-sale-are-proof-2000806437",
+        "urlToImage": "https://gizmodo.com/app/uploads/2026/09/id-scan-1200x675.jpg",
+        "publishedAt": "2026-09-02T23:48:27Z",
+        "content": "A dark web identity theft service is offering more than 153 million U.S. and Canadian drivers license scans for sale, and the FBI is investigating where the data came from. The apparent breach is a p\u2026 [+6980 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Andrew J. Hawkins",
+        "title": "Uber beats Waymo as first to launch robotaxis in London - The Verge",
+        "description": "Uber beat Waymo to launching robotaxis in London. The ridehail company is working with UK startup Wayve to bring cars powered by AI, cameras, and radar to the foggy streets of England\u2019s capital.",
+        "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-09-02T23:00:00Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe cars have no lidar and no geofence, but still will have human safety drivers for the initial launch.\r\nThe cars have no lidar and no geofence, but still will \u2026 [+5305 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "New York Post"
         },
-        "author": "Jenni Reid, Mike Sheen",
-        "title": "Bank of Canada mulls Trump tariff shock as it holds interest rates - CNBC",
-        "description": "The U.S.-Canada trade dispute and the descent into a retaliatory tariff blitz complicated the job for the Bank of Canada in its Wednesday decision.",
-        "url": "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108355819-1787935047563-108355819-1787932538588-_05A6269.jpg?v=1787935061&w=1920&h=1080",
-        "publishedAt": "2026-09-02T10:29:51Z",
-        "content": "The Bank of Canada has held interest rates, amid the prospect of weaker growth and higher inflation, thanks to the retaliatory tariff blitz that followed the collapse of U.S. trade negotiations.\r\nThe\u2026 [+2670 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Sam Sutton, Michael Stratford",
-        "title": "Bessent sees growth in bond yield surge. Voters see pain. - Politico",
-        "description": "The rise in debt yields threatens to stoke Americans\u2018 anger by pushing up rates even more on mortgages and consumer loans.",
-        "url": "https://www.politico.com/news/2026/09/02/bessent-g20-trump-economy-bond-selloff-01060964",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F65%2F50%2F7c26ba44454e813f1abac189ef5d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2278651175",
-        "publishedAt": "2026-09-02T09:00:00Z",
-        "content": "Zervos said he does not see the rise in yields as primarily a warning about the debt. I think that story is blown overboard, he said, arguing that stronger nominal economic growth could stabilize the\u2026 [+2252 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Jenni Reid",
-        "title": "Global bond rout gathers pace as inflation fears mount - CNBC",
-        "description": "Borrowing costs continue to extend multi-decade highs as nerves over inflation, higher rates and high debt remain at the fore.",
-        "url": "https://www.cnbc.com/2026/09/02/global-bond-yields-inflation-rates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108357530-1788336213318-gettyimages-2292379390-US_STOCKS.jpeg?v=1788336221&w=1920&h=1080",
-        "publishedAt": "2026-09-02T08:39:12Z",
-        "content": "Equity markets have also entered risk-off mode, with the major U.S. indices falling for three straight sessions and European and Asian markets also in the red. That follows strong gains this year, wi\u2026 [+939 chars]"
+        "author": "Titus Wu",
+        "title": "Marin County finance bros charged over massive $100M Ponzi scheme - New York Post",
+        "description": "Two Marin County men were indicted Tuesday on federal charges of wire fraud conspiracy in an alleged Ponzi scheme.",
+        "url": "https://nypost.com/2026/09/02/us-news/bay-area-executives-indicted-in-alleged-103m-ponzi-scheme/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-8siy3zyz4-1788398585395.jpg?quality=75&strip=all&1788384289&w=1200",
+        "publishedAt": "2026-09-02T22:52:00Z",
+        "content": "A pair of financiers in Marin County were indicted Tuesday on charges of wire fraud in an alleged $100 million-plus Ponzi scheme that promised investors \u201chighly attractive\u201d returns from mortgage loan\u2026 [+3722 chars]"
     }
 ]
