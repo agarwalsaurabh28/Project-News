@@ -1,262 +1,210 @@
 [
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "WSJ",
-        "title": "Trump Wants Big Oil to Build More Refineries. That\u2019s a Tough Sell. - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/business/energy-oil/trump-wants-big-oil-to-build-more-refineries-thats-a-tough-sell-54666292",
-        "urlToImage": null,
-        "publishedAt": "2026-09-03T14:17:31Z",
-        "content": null
+        "author": "Robert Frank",
+        "title": "Inside Wealth: Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds - CNBC",
+        "description": "Wealthy travelers are moving their typical summer getaways to autumn.",
+        "url": "https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108357725-1788357115618-gettyimages-2267357536-20250830_20250830__bot3584.jpeg?v=1788357175&w=1920&h=1080",
+        "publishedAt": "2026-09-04T14:10:22Z",
+        "content": "The cliffside village of Atrani at sunset along the Amalfi Coast, Campania, southern Italy.\r\nFall is the new peak season for luxury travel, as the wealthy continue to shift their holidays to Septembe\u2026 [+3565 chars]"
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Brody Ford",
-        "title": "Snowflake Jumps on Revenue Outlook, Uptake of AI Assistant - Bloomberg.com",
-        "description": "Snowflake Inc. shares jumped by the most in three months after the company raised its outlook for annual sales, topping analysts\u2019 estimates, and touted rapid adoption of its AI-assisted coding tool.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-02/snowflake-jumps-on-revenue-outlook-uptake-of-ai-assistant",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwXvVdGrtHNQ/v0/1200x800.jpg",
-        "publishedAt": "2026-09-03T13:35:35Z",
-        "content": "Snowflake Inc. shares jumped by the most in three months after the company raised its outlook for annual sales, topping analysts estimates, and touted rapid adoption of its AI-assisted coding tool.\r\n\u2026 [+301 chars]"
+        "author": "Kevin Breuninger",
+        "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses - CNBC",
+        "description": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
+        "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108358334-1788438809826-108358334-1788438750534-gettyimages-2292709675-AFP_C77R332.jpg?v=1788438819&w=1920&h=1080",
+        "publishedAt": "2026-09-04T13:56:57Z",
+        "content": "President Donald Trump on Friday demanded that the Federal Reserve slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.\r\nTrump issued the sw\u2026 [+2783 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "Emily Bary",
+        "title": "Adobe just announced its next CEO. Here\u2019s why its stock is dropping. - MarketWatch",
+        "description": "Incoming CEO Anil Chakravarthy is a company veteran. But another longtime business head will be departing Adobe, potentially foreshadowing further turnover in leadership.",
+        "url": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a",
+        "urlToImage": "https://images.mktw.net/im-38050642/social",
+        "publishedAt": "2026-09-04T13:42:00Z",
+        "content": "Adobe chose a corporate insider as its next leader, but not the one that many investors were anticipating, according to an analyst. \r\nThe maker of design software announced late Thursday that Anil Ch\u2026 [+339 chars]"
     },
     {
         "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Andrea Sachs",
-        "title": "One-star reviews of airports: \u2018Feels like psychological torture\u2019 - The Washington Post",
-        "description": "Travelers vent about confusing layouts, surly staff, paltry dining choices and rodents.",
-        "url": "https://www.washingtonpost.com/travel/2026/09/03/one-star-reviews-airports-feels-like-psychological-torture/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/UV7SBI5N3FBQDJ2JNYSCASRV5U.jpg&w=1440",
-        "publishedAt": "2026-09-03T13:32:56Z",
-        "content": "At some airports, we cant get away fast enough.\r\nThough essentially transportation hubs, airports have more responsibilities than simply flying passengers in and out like cargo. They need to provide \u2026 [+292 chars]"
+        "author": "Julie Z. Weil",
+        "title": "The wrong people are paying off their mortgages - The Washington Post",
+        "description": "People with low interest rates should be holding on to their mortgages. Instead, they're accelerating their payments.",
+        "url": "https://www.washingtonpost.com/business/2026/09/03/more-than-1-4-people-with-low-mortgage-rates-are-making-mistake-paying-them-off-too-quickly/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6CMAVCR6QMI6ZPLP3I3W6RZQJY.jpg&w=1440",
+        "publishedAt": "2026-09-04T13:31:53Z",
+        "content": "Almost 1 in every 4 homeowners is paying off their mortgage at a rate faster than theyre required to but the people who would benefit the most from this strategy are the ones least likely doing it.\r\n\u2026 [+173 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "Abcnews.com"
         },
-        "author": null,
-        "title": "Federal Reserve\u2019s Chris Waller \u2018inclined\u2019 to keep interest rates on hold - Financial Times",
-        "description": "Markets have been betting on a rise following Kevin Warsh\u2019s Jackson Hole speech",
-        "url": "https://www.ft.com/content/0a332e3c-e596-4f64-976a-d7746f91a9a9?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F82227c70-4f76-45d6-9055-a8179d39c70f.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-09-03T12:30:23Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        "author": "ABC News - Breaking News, Latest News and Videos",
+        "title": "Hiring blew past expectations in August, jobs report shows - ABC News - Breaking News, Latest News and Videos",
+        "description": null,
+        "url": "https://abcnews.com/Business/jobs-report-show-hiring-bounced-back-unexpected-job/story?id\\\\u003d136168560",
+        "urlToImage": null,
+        "publishedAt": "2026-09-04T13:00:36Z",
+        "content": null
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Ari Levy",
-        "title": "Hugging Face approached Nvidia\u2019s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC - CNBC",
-        "description": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\"",
-        "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108343877-1785771031007-gettyimages-1663179404-AI_CEOs_555_091323.jpeg?v=1785771160&w=1920&h=1080",
-        "publishedAt": "2026-09-03T12:04:26Z",
-        "content": "Nvidia has officially agreed to buy open-source artificial intelligence platform Hugging Face for $12.9 billion, as the chipmaker moves beyond hardware and further up the AI stack. \r\nWith the deal, w\u2026 [+2451 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Hayley Cuccinello",
-        "title": "Billionaire family offices back healthcare and biotech startups in August - CNBC",
-        "description": "The personal investment firms of titans like Stanley Druckenmiller are backing innovations in gene editing, drug discovery and more.",
-        "url": "https://www.cnbc.com/2026/09/03/family-offices-health-care-biotech-startups-august.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107125734-1664374231928-107125734-c_IMG_7443.jpg?v=1715879655&w=1920&h=1080",
-        "publishedAt": "2026-09-03T12:00:01Z",
-        "content": "Stanley Druckenmiller at CNBC's Delivering Alpha on Sept. 28, 2022.\r\nA version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-wort\u2026 [+2186 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Mike Winters",
-        "title": "How much money Americans in their 30s and 40s have in their 401(k)s\u2014see how you stack up - CNBC",
-        "description": "Here's how financial pros say you can tell if you're on track to retire, and how to catch up if you've fallen behind.",
-        "url": "https://www.cnbc.com/2026/09/03/how-much-money-americans-in-their-30s-and-40s-have-in-their-401ks.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108358039-1788379222792-gettyimages-2169995651-workai00_05_46_16still007-enhanced-sr.jpeg?v=1788379318&w=1920&h=1080",
-        "publishedAt": "2026-09-03T12:00:01Z",
-        "content": "Boosted by a strong stock market, the average 401(k) balance jumped 10.5% from March through June the biggest quarterly increase since 2020, according to new data from Fidelity.\r\nHeres how much Fidel\u2026 [+4329 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Eric Revell",
-        "title": "Southwest to open first-ever airport lounges in premium push - foxbusiness.com",
-        "description": "Southwest Airlines will open its first airport lounges in late 2027, partnering with Chase Sapphire Reserve's lounge network for dining and amenities.",
-        "url": "https://www.foxbusiness.com/lifestyle/southwest-open-first-ever-airport-lounges-premium-push",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/Southwest-passengers.jpg?ve=1&tl=1",
-        "publishedAt": "2026-09-03T11:45:00Z",
-        "content": "Southwest Airlines on Wednesday unveiled plans to debut its first-ever network of airport lounges, with work underway on the first lounges due to open in late 2027.\r\nThe airline announced that four S\u2026 [+2720 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Joe Stonor, Joe Wallace",
-        "title": "Netherlands Moves Gold From New York to London, Citing Geopolitical Unrest - WSJ",
-        "description": "The Dutch central bank said shifting the 78 metric tons of gold, worth $11 billion, would improve its ability to trade the metal in a pinch",
-        "url": "https://www.wsj.com/economy/central-banking/netherlands-moves-gold-from-new-york-to-london-citing-geopolitical-unrest-7a095eb8",
-        "urlToImage": "https://images.wsj.net/im-36449864/social",
-        "publishedAt": "2026-09-03T11:43:55Z",
-        "content": "The Dutch central bank shifted the location of 78 metric tons of gold, worth $11 billion at todays prices, from vaults benefotath the streets of Manhattan to \r\nLondon, saying it would improve the abi\u2026 [+469 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Pras Subramanian",
-        "title": "Tesla's Cybercab event is tonight. Here's what the industry \u2014 and Wall Street \u2014 expects - finance.yahoo.com",
-        "description": "Tesla will take the wraps off its production Cybercab purpose-built robotaxi in Austin later today, marking a potential turning point for the company's self-...",
-        "url": "https://finance.yahoo.com/markets/article/teslas-cybercab-event-is-tonight-heres-what-the-industry--and-wall-street--expects-110000729.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/d6b3724388bc272e0ba6d2db2adff1d0b006f7ad4421163ecec48e1e8d92bc09/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2F99969810-0dae-11f1-b5fe-fca021d7665c",
-        "publishedAt": "2026-09-03T11:00:00Z",
-        "content": "Tesla will take the wraps off its production Cybercab purpose-built robotaxi in Austin later today, marking a potential turning point for the company's self-driving ambitions.\r\nTesla's Cybercab is a \u2026 [+5005 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Emily Peck",
-        "title": "Markets can't ignore the war anymore - Axios",
-        "description": "Energy prices are rising again.",
-        "url": "https://www.axios.com/2026/09/03/oil-bonds-stocks-iran",
-        "urlToImage": "https://images.axios.com/M8Qnj2NR6N4WWys6VtbXvJa1Bso=/0x0:1920x1080/1366x768/2026/04/07/1775585646791.jpeg",
-        "publishedAt": "2026-09-03T09:29:13Z",
-        "content": "The big picture: Higher energy prices are showing up across the economy, driving up costs for companies, regular people and even governments around the world that are now facing higher borrowing rate\u2026 [+3241 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fratellowatches.com"
-        },
-        "author": "Nacho Conde Garz\u00f3n",
-        "title": "Gallet Returns For Its 200th Anniversary With Four New Watch Collections - Fratello Watches",
-        "description": "\u2713 Gallet is back, celebrating its 200th anniversary with a relaunch comprised of four different collections \u2713 Read all about them here! \u2713",
-        "url": "https://www.fratellowatches.com/gallet-returns-for-its-200th-anniversary-with-four-new-watch-collections/",
-        "urlToImage": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/08/Gallet-Relaunch-30.jpg",
-        "publishedAt": "2026-09-03T08:58:04Z",
-        "content": "Gallet is returning to the watch industry in 2026, exactly 200 years after its founding in La Chaux-de-Fonds. The historic Swiss name returns as a sibling brand to Breitling, which will manufacture t\u2026 [+11212 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Adam Levine",
-        "title": "Broadcom Earnings Today: Outlook Shows Surging AI Chip Sales - Barron's",
-        "description": "Broadcom stock was falling, after it reported it grew its revenue by 86% in the latest quarter.",
-        "url": "https://www.barrons.com/articles/broadcom-earnings-todya-stock-price-13672771",
-        "urlToImage": "https://images.barrons.com/im-98039672/social",
-        "publishedAt": "2026-09-03T08:16:00Z",
-        "content": "Chip makerBroadcomreported solid third-quarter results on Wednesday afternoon. The stock was wavering in response, despite the companys surging AI chip business.\r\nCopyright \u00a92026Dow Jones &amp; Compa\u2026 [+61 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "Gold\u2019s run isn\u2019t yet done - Financial Times",
-        "description": "Fiscal burdens, sovereign buying and positive bond-equity correlation continue to support the precious metal",
-        "url": "https://www.ft.com/content/589bc3d6-998e-48a9-b863-050fe1044f45",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F00a4322e-f064-45d7-ba17-499c88f58eb7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-09-03T04:00:29Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Thefp.com"
-        },
-        "author": "John-Clark Levin",
-        "title": "The Threat of AI Takeover Is Real - The Free Press",
-        "description": "On Monday, Tyler Cowen argued that widespread alarm over an AI cyberattack was overblown. John-Clark Levin dearly wishes he were right, but his work as an AI futures researcher forces him to conclude the very opposite.",
-        "url": "https://www.thefp.com/p/threat-ai-tyler-cowen-hugging-face",
-        "urlToImage": "https://substackcdn.com/image/fetch/$s_!jGc8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0828cf6-f76a-4e51-9299-1c8c5d27b20e_1019x1024.jpeg",
-        "publishedAt": "2026-09-03T01:37:39Z",
-        "content": "Over the past six weeks, ominous whispers have been leaking from the San Francisco bubble into mainstream news about an event whose name seems ripped from the table of contents of a sci-fi magazine: \u2026 [+1430 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SFGate"
-        },
-        "author": "Olivia Harden",
-        "title": "Tech layoffs climb as Uber sacks thousands of employees - SFGATE",
-        "description": "Uber laid off 10% of its global workforce on Wednesday, adding to the compounding number of tech layoffs in 2026.",
-        "url": "https://www.sfgate.com/tech/article/uber-layoffs-22415310.php",
-        "urlToImage": "https://s.hdnux.com/photos/01/67/17/56/31259574/3/rawImage.jpg",
-        "publishedAt": "2026-09-03T00:36:12Z",
-        "content": "The Uber logo is seen at company headquarters in San Francisco on Oct. 15, 2019.\r\nNurPhoto via Getty Images\r\nThe\u00a0latest wave of tech layoffs has washed up at San Francisco-headquartered Uber. CEO Dar\u2026 [+2025 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investing.com"
-        },
-        "author": "Anuron Mitra",
-        "title": "S&P 500, Dow futures tick up as oil prices and Treasury yields continue to let up - Investing.com",
-        "description": "Wall Street opens higher as oil prices and Treasury yields continue to let up",
-        "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-amid-iran-rate-caution-broadcom-dips-after-earnings-4886896",
-        "urlToImage": "https://content-media.investing.com/news/LYNXMPEM5L0YH_1200_L.jpg",
-        "publishedAt": "2026-09-03T00:19:41Z",
-        "content": "Investing.com -- U.S. stocks climbed at the open on Thursday, amid a slight rise in oil prices and an extended reversal in a bond rout. Investors parsed contrasting post-earnings reactions to Broadco\u2026 [+2922 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gizmodo.com"
-        },
-        "author": "Kyle Torpey",
-        "title": "Identity Verification Is Broken. The 153 Million Driver\u2019s Licenses Now for Sale Are Proof - Gizmodo",
-        "description": "A massive trove of driver\u2019s license scans allegedly stolen from an identity verification company shows the danger of creating honey pots of our most sensitive documents for malicious actors to exploit.",
-        "url": "https://gizmodo.com/identity-verification-is-broken-the-153-million-drivers-licenses-now-for-sale-are-proof-2000806437",
-        "urlToImage": "https://gizmodo.com/app/uploads/2026/09/id-scan-1200x675.jpg",
-        "publishedAt": "2026-09-02T23:48:27Z",
-        "content": "A dark web identity theft service is offering more than 153 million U.S. and Canadian drivers license scans for sale, and the FBI is investigating where the data came from. The apparent breach is a p\u2026 [+6980 chars]"
+        "author": "Wyatte Grantham-Philips",
+        "title": "US diesel prices hit a record high of $5.85 on average as the Iran war disrupts the flow of fuel - AP News",
+        "description": "Diesel has hit a new record price in the U.S., soaring to an average of $5.85 a gallon for the first time ever. The record comes as the six-month war with Iran disrupts the world\u2019s flow of fuel. Because diesel is used for many freight and delivery networks, h\u2026",
+        "url": "https://apnews.com/article/gas-diesel-prices-us-iran-war-ebd01b9773365ee40550dcfd7d3ebf87",
+        "urlToImage": "https://dims.apnews.com/dims4/default/1bb067a/2147483647/strip/true/crop/4536x3022+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2Ffd%2F988cfa4d29eaf28f15ffecde97bb%2Fd647e7324bc249028c27966f6eacbbdd",
+        "publishedAt": "2026-09-04T12:22:00Z",
+        "content": "CHICAGO (AP) Diesel hit a new record price in the U.S. on Friday, soaring to an average of $5.85 a gallon for the first time ever as the six-month war with Iran disrupts the worlds flow of fuel.\r\nBec\u2026 [+7087 chars]"
     },
     {
         "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
-        "author": "Andrew J. Hawkins",
-        "title": "Uber beats Waymo as first to launch robotaxis in London - The Verge",
-        "description": "Uber beat Waymo to launching robotaxis in London. The ridehail company is working with UK startup Wayve to bring cars powered by AI, cameras, and radar to the foggy streets of England\u2019s capital.",
-        "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-09-02T23:00:00Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe cars have no lidar and no geofence, but still will have human safety drivers for the initial launch.\r\nThe cars have no lidar and no geofence, but still will \u2026 [+5305 chars]"
+        "author": "Robert Hart",
+        "title": "Sam Altman apologizes for \u2018messy\u2019 GPT-6 Astra rollout that\u2019s locked out paying users - The Verge",
+        "description": "OpenAI hasn\u2019t provided a clear timeline for when subscribers will get access to the long-hyped Astra.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&strip=all&crop=0%2C12.219817290162%2C100%2C75.560365419677&w=1200",
+        "publishedAt": "2026-09-04T10:41:48Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI hasnt provided a clear timeline for when subscribers will get access to the long-hyped Astra.\r\nOpenAI hasnt provided a clear timeline for when subscribers\u2026 [+3849 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Viral bakery's missing cinnamon rolls spark $3,100 theft accusation and Border Patrol plot twist - Fox News",
+        "description": "A viral cinnamon rolls theft accusation took a shocking turn when police revealed the Uber driver was arrested by U.S. Border Patrol during a delivery run.",
+        "url": "https://www.foxnews.com/food-drink/viral-bakerys-missing-cinnamon-rolls-spark-3100-theft-accusation-border-patrol-plot-twist",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/cinnamon-roll-in-hand.jpg",
+        "publishedAt": "2026-09-04T10:00:50Z",
+        "content": "What began as a case of hundreds of missing cinnamon rolls and an alleged $3,100 theft took an unexpected turn when police determined the delivery driver hadn't stolen them at all: He had been arrest\u2026 [+3318 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Caitlin Owens",
+        "title": "Large employers drop health benefits as costs rise - Axios",
+        "description": "It's a sign that year-after-year spikes in medical costs have real consequences.",
+        "url": "https://www.axios.com/2026/09/04/employer-health-insurance-benefit-cut-costs",
+        "urlToImage": "https://images.axios.com/YbjhgnydI7-1pHhJid-l7Bpa3rw=/0x0:1920x1080/1366x768/2026/09/02/1788380044968.jpg",
+        "publishedAt": "2026-09-04T09:32:27Z",
+        "content": "Driving the news: Disney recently made headlines by deciding to drop health coverage for working spouses with access to their own coverage next year. A Disney spokesperson said the adjustments are be\u2026 [+3338 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Aimee  Picchi",
+        "title": "Sturdy stock market mints a record number of 401(k) millionaires - CBS News",
+        "description": "The number of millionaire 401(k) accounts at Fidelity reached a record 769,000 in the second quarter.",
+        "url": "https://www.cbsnews.com/news/401k-millionaires-record-fidelity-retirement-savings/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/29/c877ef69-6084-4932-89c7-212bb0b2857b/thumbnail/1200x630/5a5c45d5807747823da3d42fb303933d/gettyimages-2277260046.jpg",
+        "publishedAt": "2026-09-04T09:00:12Z",
+        "content": "America's ranks of retirement fund millionaires are surging, with the number of 401(k) accounts managed by Fidelity Investments holding at least $1 million surging to a record 769,000 in the second q\u2026 [+3793 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "New York Post"
+            "name": "CNBC"
         },
-        "author": "Titus Wu",
-        "title": "Marin County finance bros charged over massive $100M Ponzi scheme - New York Post",
-        "description": "Two Marin County men were indicted Tuesday on federal charges of wire fraud conspiracy in an alleged Ponzi scheme.",
-        "url": "https://nypost.com/2026/09/02/us-news/bay-area-executives-indicted-in-alleged-103m-ponzi-scheme/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-8siy3zyz4-1788398585395.jpg?quality=75&strip=all&1788384289&w=1200",
-        "publishedAt": "2026-09-02T22:52:00Z",
-        "content": "A pair of financiers in Marin County were indicted Tuesday on charges of wire fraud in an alleged $100 million-plus Ponzi scheme that promised investors \u201chighly attractive\u201d returns from mortgage loan\u2026 [+3722 chars]"
+        "author": "Sawdah Bhaimiya",
+        "title": "Volkswagen jumps 5% on plans to cut 50,000 jobs amid tariffs, China competition - CNBC",
+        "description": "Volkswagen shares jumped on Friday after it announced plans to slash a further 50,000 jobs as part of its transformation plan.",
+        "url": "https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333235-1783672992314-gettyimages-2284739900-20090101260709-99-13697.jpeg?v=1783673027&w=1920&h=1080",
+        "publishedAt": "2026-09-04T08:49:09Z",
+        "content": "Volkswagen employees are taking part in an information and protest event organized by IG Metall in front of the VW plant in Zwickau.\r\nVolkswagen shares jumped on Friday after it announced plans to sl\u2026 [+4043 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Eatingwell.com"
+        },
+        "author": "https://www.facebook.com/EatingWell/",
+        "title": "Brooks, Le Creuset and More of Our Favorite Brands Are Up to 80% Off at Amazon This Labor Day - EatingWell",
+        "description": "We\u2019ve gathered the 50 best Amazon Labor Day sales to shop this weekend. Shop Brooks, Le Creuset, Ninja, New Balance, Our Place and more for up to 80% off.",
+        "url": "https://www.eatingwell.com/amazon-labor-day-sales-2026-12061189",
+        "urlToImage": "https://www.eatingwell.com/thmb/UOX7u5jqC2lwgv1oob-MvBwp0fw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ewl-amazon-prod-tout-91e948ccd3734c478c59c5b02757160b.jpg",
+        "publishedAt": "2026-09-04T07:00:00Z",
+        "content": "Its hard to believe it, but were already at the turn of the season. Labor Day marks the tail end of summer, and with it comes a whole slew of sales to celebrate. Amazon is included in the pack, and i\u2026 [+7128 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Landon Mion",
+        "title": "Popular squishy toys recalled over potentially deadly water bead hazard - Fox Business",
+        "description": "More than 15,000 popular squeeze toys containing water beads face recalls as federal regulators warned of choking and death hazards for children.",
+        "url": "https://www.foxbusiness.com/economy/popular-squishy-toys-recalled-over-potentially-deadly-water-bead-hazard",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/squishy-toy-recall-alert-warning.png?ve=1&tl=1",
+        "publishedAt": "2026-09-04T04:57:00Z",
+        "content": "More than 15,000 popular children\u2019s squeeze toys have been recalled over serious injury hazards linked to the beads they contain, according to federal regulators.\r\nTwo recalls have been issued \u2014 one \u2026 [+3074 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Anthropic\u2019s IPO set to test external trust with power over board - Financial Times",
+        "description": "Public-market scrutiny will intensify pressure on the Claude maker\u2019s unusual attempt to balance profit and purpose",
+        "url": "https://www.ft.com/content/9536c7b9-c600-48ec-8fe2-453b0ca187e9?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5abd076-1407-4c39-b42e-5d46b85a1eb7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-09-04T04:01:28Z",
+        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PCMag.com"
+        },
+        "author": "Michael Kan",
+        "title": "Company Tied to Breach of 153M Driver's Licenses Hit With Multiple Lawsuits - PCMag",
+        "description": "The driver's license data popped up on the dark web via a site called Nexus and was allegedly stolen from IDScan.net. Consumers who believe they were affected are now suing.",
+        "url": "https://www.pcmag.com/news/company-tied-to-breach-of-153m-drivers-licenses-hit-with-multiple-lawsuits",
+        "urlToImage": "https://i.pcmag.com/imagery/articles/00SbPOAtYYU0QC6lob9LjaL-1.fit_lim.size_1200x630.v1788443220.jpg",
+        "publishedAt": "2026-09-04T02:53:47Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Bonny Chu",
+        "title": "Costco quietly pulls popular member perk seemingly without warning: 'Real bummer for the deals' - Fox Business",
+        "description": "Costco members can no longer access the retailer\u2019s Costco Next storefronts, which featured discounted camping gear, home goods, electronics, bicycles and even caskets.",
+        "url": "https://www.foxbusiness.com/retail/costco-quietly-pulls-popular-member-perk-seemingly-without-warning-real-bummer-deals",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/08/0/0/Costco-1.jpg?ve=1&tl=1",
+        "publishedAt": "2026-09-03T23:35:00Z",
+        "content": "Costco Next, an online marketplace Costco members often regarded as one of the retailer\u2019s most coveted hidden perks, has quietly disappeared from the company\u2019s website.\u00a0\r\nThe service gave members up \u2026 [+3011 chars]"
     }
 ]
