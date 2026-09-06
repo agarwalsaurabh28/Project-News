@@ -1,94 +1,250 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Robert Frank",
-        "title": "Inside Wealth: Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds - CNBC",
-        "description": "Wealthy travelers are moving their typical summer getaways to autumn.",
-        "url": "https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108357725-1788357115618-gettyimages-2267357536-20250830_20250830__bot3584.jpeg?v=1788357175&w=1920&h=1080",
-        "publishedAt": "2026-09-04T14:10:22Z",
-        "content": "The cliffside village of Atrani at sunset along the Amalfi Coast, Campania, southern Italy.\r\nFall is the new peak season for luxury travel, as the wealthy continue to shift their holidays to Septembe\u2026 [+3565 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kevin Breuninger",
-        "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses - CNBC",
-        "description": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
-        "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108358334-1788438809826-108358334-1788438750534-gettyimages-2292709675-AFP_C77R332.jpg?v=1788438819&w=1920&h=1080",
-        "publishedAt": "2026-09-04T13:56:57Z",
-        "content": "President Donald Trump on Friday demanded that the Federal Reserve slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.\r\nTrump issued the sw\u2026 [+2783 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MarketWatch"
-        },
-        "author": "Emily Bary",
-        "title": "Adobe just announced its next CEO. Here\u2019s why its stock is dropping. - MarketWatch",
-        "description": "Incoming CEO Anil Chakravarthy is a company veteran. But another longtime business head will be departing Adobe, potentially foreshadowing further turnover in leadership.",
-        "url": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a",
-        "urlToImage": "https://images.mktw.net/im-38050642/social",
-        "publishedAt": "2026-09-04T13:42:00Z",
-        "content": "Adobe chose a corporate insider as its next leader, but not the one that many investors were anticipating, according to an analyst. \r\nThe maker of design software announced late Thursday that Anil Ch\u2026 [+339 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Julie Z. Weil",
-        "title": "The wrong people are paying off their mortgages - The Washington Post",
-        "description": "People with low interest rates should be holding on to their mortgages. Instead, they're accelerating their payments.",
-        "url": "https://www.washingtonpost.com/business/2026/09/03/more-than-1-4-people-with-low-mortgage-rates-are-making-mistake-paying-them-off-too-quickly/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6CMAVCR6QMI6ZPLP3I3W6RZQJY.jpg&w=1440",
-        "publishedAt": "2026-09-04T13:31:53Z",
-        "content": "Almost 1 in every 4 homeowners is paying off their mortgage at a rate faster than theyre required to but the people who would benefit the most from this strategy are the ones least likely doing it.\r\n\u2026 [+173 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Abcnews.com"
-        },
-        "author": "ABC News - Breaking News, Latest News and Videos",
-        "title": "Hiring blew past expectations in August, jobs report shows - ABC News - Breaking News, Latest News and Videos",
-        "description": null,
-        "url": "https://abcnews.com/Business/jobs-report-show-hiring-bounced-back-unexpected-job/story?id\\\\u003d136168560",
-        "urlToImage": null,
-        "publishedAt": "2026-09-04T13:00:36Z",
+        "author": "Alexandra Wexler",
+        "title": "Diamond Mines Are Closing and South Africans Have Few Alternatives - WSJ",
+        "description": "Demand for engagement rings gave thousands of South Africans steady work at De Beers. Now, weak sales and lab-grown stones are taking it away.",
+        "url": "https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf",
+        "urlToImage": "https://images.wsj.net/im-11000877/social",
+        "publishedAt": "2026-09-05T15:35:24Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Carrie McCabe",
+        "title": "Amazon Labor Day sales worth adding to your cart: Deals from Apple, Hanes, Dyson and more are up to 70% off - Yahoo",
+        "description": "These major Labor Day deals on top brands are tough to pass up \u2014 we found big savings on fall style must-haves, smart TVs, vacuums, kitchenware and more.",
+        "url": "https://shopping.yahoo.com/deals/breaking-news/article/amazon-labor-day-sales-worth-adding-to-your-cart-deals-from-apple-hanes-dyson-and-more-are-up-to-70-off-163307915.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/432d4871e3fa286a94868782b3a4f1e672e3a23a5c1cb0003553f5bf717cf724/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fhangtag-tentpole-badge-template_9543.png",
+        "publishedAt": "2026-09-05T15:13:40Z",
+        "content": "Call me old-fashioned, but I kinda miss when Halloween candy hit shelves in late September those devilishly delicious pumpkin-shaped peanut butter cups always felt like the true start of fall. We're \u2026 [+30621 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Shayna Jacobs, NBC New York",
+        "title": "Man duct-taped to plane seat after hurling slurs and attacking other passenger, witness says - NBC News",
+        "description": "A passenger aboard a Newark, New Jersey-bound American Airlines flight was duct-taped to his seat on Thursday and later arrested after allegedly hurling racial slurs at staff and fighting with another man. The passenger was \u201cthrashing around\u201d in his seat as t\u2026",
+        "url": "https://www.nbcnews.com/news/us-news/man-duct-taped-airline-seat-hurling-racist-slurs-rcna596231",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260622-american-airlines-mn-0825-85249e.jpg",
+        "publishedAt": "2026-09-05T15:02:53Z",
+        "content": "A passenger aboard a Newark, New Jersey-bound American Airlines flight was duct-taped to his seat on Thursday and later arrested after allegedly hurling racial slurs at staff and fighting with anothe\u2026 [+2042 chars]"
     },
     {
         "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
-        "author": "Wyatte Grantham-Philips",
-        "title": "US diesel prices hit a record high of $5.85 on average as the Iran war disrupts the flow of fuel - AP News",
-        "description": "Diesel has hit a new record price in the U.S., soaring to an average of $5.85 a gallon for the first time ever. The record comes as the six-month war with Iran disrupts the world\u2019s flow of fuel. Because diesel is used for many freight and delivery networks, h\u2026",
-        "url": "https://apnews.com/article/gas-diesel-prices-us-iran-war-ebd01b9773365ee40550dcfd7d3ebf87",
-        "urlToImage": "https://dims.apnews.com/dims4/default/1bb067a/2147483647/strip/true/crop/4536x3022+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2Ffd%2F988cfa4d29eaf28f15ffecde97bb%2Fd647e7324bc249028c27966f6eacbbdd",
-        "publishedAt": "2026-09-04T12:22:00Z",
-        "content": "CHICAGO (AP) Diesel hit a new record price in the U.S. on Friday, soaring to an average of $5.85 a gallon for the first time ever as the six-month war with Iran disrupts the worlds flow of fuel.\r\nBec\u2026 [+7087 chars]"
+        "author": "Josh Boak",
+        "title": "Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him - apnews.com",
+        "description": "President Donald Trump has been promising an economic boom, but Friday's positive jobs report left him frustrated. He vented about inflation and interest rates, blaming financial markets, the Federal Reserve, and trade partners. Trump dismissed the idea that \u2026",
+        "url": "https://apnews.com/article/trump-affordability-economy-inflation-jobs-tariffs-midterms-2c0c0495d4931d3724e0144285cfa010",
+        "urlToImage": "https://dims.apnews.com/dims4/default/d7dce16/2147483647/strip/true/crop/4548x3030+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F38%2F66%2Fa3dcfbc08e542281de8848521a24%2F8b8a158ab54640ad85927db7605b7458",
+        "publishedAt": "2026-09-05T14:11:00Z",
+        "content": "WASHINGTON (AP) President Donald Trump has spent 20 months promising that America was on the cusp of an economic boom. But Fridays surprisingly positive jobs report ultimately provoked frustration fr\u2026 [+6299 chars]"
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": null,
+            "name": "Fox Business"
         },
-        "author": "Robert Hart",
-        "title": "Sam Altman apologizes for \u2018messy\u2019 GPT-6 Astra rollout that\u2019s locked out paying users - The Verge",
-        "description": "OpenAI hasn\u2019t provided a clear timeline for when subscribers will get access to the long-hyped Astra.",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285138968.jpg?quality=90&strip=all&crop=0%2C12.219817290162%2C100%2C75.560365419677&w=1200",
-        "publishedAt": "2026-09-04T10:41:48Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI hasnt provided a clear timeline for when subscribers will get access to the long-hyped Astra.\r\nOpenAI hasnt provided a clear timeline for when subscribers\u2026 [+3849 chars]"
+        "author": "Brittany Miller",
+        "title": "Checkers & Rally\u2019s CEO says Americans\u2019 demand for fast-food value is 'intensifying' - Fox Business",
+        "description": "Checkers & Rally\u2019s CEO Chris Tebben says consumers continue to prioritize affordable fast-food meals as inflation and higher everyday expenses shape dining decisions",
+        "url": "https://www.foxbusiness.com/lifestyle/checkers-rallys-ceo-says-americans-demand-fast-food-value-intensifying",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/checkers-and-rallys-menu-board.jpg?ve=1&tl=1",
+        "publishedAt": "2026-09-05T14:00:00Z",
+        "content": "Checkers &amp; Rally\u2019s is leaning into value as Americans remain squeezed by higher everyday expenses, with the fast-food chain\u2019s CEO saying consumers\u2019 demand for affordability has intensified over t\u2026 [+6260 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Pippa Stevens",
+        "title": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom - CNBC",
+        "description": "Power demand in the U.S. is rising. Fervo Energy bets that its project in Utah will prove that enhanced geothermal can be part of the power mix going forward.",
+        "url": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359049-1788538398356-Google_Geothermal_Energy-23332020667147-AP.jpg?v=1788561812&w=1920&h=1080",
+        "publishedAt": "2026-09-05T12:20:42Z",
+        "content": "A drill rig stands at a Fervo Energy geothermal site under construction near Milford, Utah, Nov. 26, 2023.\r\nMILFORD, Utah Deep in the Utah desert, down miles of gravel roads and hours from a major ci\u2026 [+8479 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Michael Wayland",
+        "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry - CNBC",
+        "description": "General Motors and Ford are looking for new potential growth areas, including by seeking military contracts and getting into energy storage businesses.",
+        "url": "https://www.cnbc.com/2026/09/05/gm-ford-defense-energy.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106813597-1608308977473-GMD-ISV-01.jfif?v=1788473733&w=1920&h=1080",
+        "publishedAt": "2026-09-05T12:00:01Z",
+        "content": "The GM Defense Infantry Squad Vehicle was engineered to meet U.S. military specifications. It is based on the automaker's off-road Chevrolet Colorado ZR2 midsize truck architecture.\r\nDETROIT General \u2026 [+7909 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Greg Iacurci",
+        "title": "With HSAs, employers are turning to the 401(k) playbook - CNBC",
+        "description": "More employers are automatically enrolling workers into health savings accounts and paying contributions like a \"match.\"",
+        "url": "https://www.cnbc.com/2026/09/05/hsa-401k-plan-retirement-automatic-enrollment.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359089-1788541843490-gettyimages-2256671887-gettyoffice_nov2025_00483.jpeg?v=1788541856&w=1920&h=1080",
+        "publishedAt": "2026-09-05T12:00:01Z",
+        "content": "Employers are increasingly turning to the 401(k) playbook to boost their workers' uptake of health savings accounts.\r\nHSAs are tax-advantaged accounts that carry powerful financial benefits relative \u2026 [+4427 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Eric Revell",
+        "title": "Why college athletes should 'live like college students' despite six-figure NIL deals - Fox Business",
+        "description": "College football athletes earning NIL and revenue sharing income face new financial challenges. A wealth advisor explains tax planning, saving strategies and building smart habits.",
+        "url": "https://www.foxbusiness.com/sports/why-college-athletes-should-live-like-college-students-despite-six-figure-nil-deals",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/ohio-state-michigan-2025.jpg?ve=1&tl=1",
+        "publishedAt": "2026-09-05T12:00:00Z",
+        "content": "College football season is kicking off and some young athletes taking the field around the country will be seeing an influx of income from name, image and likeness (NIL) and revenue sharing deals, wh\u2026 [+5844 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Motley Fool"
+        },
+        "author": "Jennifer Saibil, The Motley Fool",
+        "title": "If a Market Crash Is Coming, Here's the 1 Thing You Should Do, According to Warren Buffett - Yahoo Finance",
+        "description": "It pays to listen to one of the world's best investors.",
+        "url": "https://www.fool.com/investing/2026/09/05/if-a-market-crash-is-coming-heres-the-1-thing-you/",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/89da4b16ae96c09c264b3f0675b843124b849da65e1c79a41547776b6d9c6cbc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Ffa56c854e7ed09dec84b7d99d9b3c20f.jpg",
+        "publishedAt": "2026-09-05T11:02:00Z",
+        "content": "The short answer to the question of whether a market crash is coming is yes. It's a trick question and answer, of course, because there's bound to be a market crash at some point, but no one can tell\u2026 [+4332 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gothamist"
+        },
+        "author": "https://gothamist.com/staff/ramsey-khalifeh",
+        "title": "MTA worker killed by D train near Yankee Stadium in the Bronx - Gothamist",
+        "description": "Moet McCullum is the second construction flagger killed in the subways in three years.",
+        "url": "https://gothamist.com/news/mta-worker-killed-by-d-train-near-yankee-stadium-in-the-bronx",
+        "urlToImage": "https://api-prod.gothamist.com/images/359024/fill-1200x650|format-webp|webpquality-85/",
+        "publishedAt": "2026-09-05T11:00:00Z",
+        "content": "An MTA construction flagger with only 11 months on the job was killed by a passing D train Thursday night, officials said.\r\nThe death of Moet McCullum, 41, marks the second deadly incident involving \u2026 [+1902 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Newser"
+        },
+        "author": "John Johnson",
+        "title": "These Jobs Are Expected to Grow Over 10 Years - Newser",
+        "description": "Labor Department has good news for nurse practitioners, bad news for word processors",
+        "url": "https://www.newser.com/story/395662/these-jobs-are-expected-to-grow-over-10-years.html",
+        "urlToImage": "https://cdn.newser.com/image/1708928-12-20260905061102.jpeg",
+        "publishedAt": "2026-09-05T10:30:00Z",
+        "content": "The Labor Department's latest 10-year jobs forecast has a clear loser: word processors and typists. And a clear winner: nurse practitioners. The agency's report attempts to factor in how AI and other\u2026 [+181 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "News Quiz for September 5, 2026 - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/media/news-quiz-for-september-5-2026-fa84dae0",
+        "urlToImage": null,
+        "publishedAt": "2026-09-05T10:00:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Jalopnik"
+        },
+        "author": "Shane O' Donoghue",
+        "title": "Ford Fathom Will Be More Than Just An F-150 Lightning Do-Over - Jalopnik",
+        "description": "The Lightning was based on the F-150's body-on-frame construction, while the Fathom was designed from the ground up as an EV made of three large parts.",
+        "url": "https://www.jalopnik.com/2249353/ford-fathom-different-from-f-150-lightning/",
+        "urlToImage": "https://www.jalopnik.com/img/gallery/heres-how-the-ford-fathom-differs-from-the-f-150-lightning/l-intro-1788351849.jpg",
+        "publishedAt": "2026-09-05T09:25:00Z",
+        "content": "They're both electric trucks made by Ford in the U.S., but that's one of the few things the new Ford Fathom and retired Ford F-150 Lightning\u00a0have in common. The Fathom is not a direct replacement for\u2026 [+1354 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TheStreet"
+        },
+        "author": "thestreet.com",
+        "title": "Jim Cramer has a blunt message for Amazon stock investors - thestreet.com",
+        "description": null,
+        "url": "https://www.thestreet.com/investing/stocks/jim-cramer-has-a-blunt-message-for-amazon-stock-investors",
+        "urlToImage": null,
+        "publishedAt": "2026-09-05T08:03:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Internet"
+        },
+        "author": "The Hacker News",
+        "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel - The Hacker News",
+        "description": "Autonomous agents identifying as OpenAI systems used a German wiki to coordinate a timed web task and share a sandbox bypass.",
+        "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+        "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBL2gQMKgajDATkCjnHyMtUkVhK5mcTQ2ebqcXngB6oZ71uiJ3skI9P4zikK1s5PCH4nhPG7ZyFHHWC13OVF2KRr_pIQ2U7zFITnNc3Qc_Am3bv0E1AzL9UVmrJ9vUJzZalktYIxWGlc-d5zYdicOJexMDWQ-4NIKinC_AksG1Mepn7QmFGWC1x52gVpw/s1600/agents-openai.jpg",
+        "publishedAt": "2026-09-05T07:55:00Z",
+        "content": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026,\u2026 [+7437 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Reuters",
+        "title": "Anthropic IPO launch shifts toward mid-October: Reuters - cnbc.com",
+        "description": "The artificial intelligence company had been expected to make its IPO prospectus public as early as next week, two sources told Reuters.",
+        "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108349281-1786641532006-gettyimages-2283765417-AI_MODELS.jpeg?v=1786641567&w=1920&h=1080",
+        "publishedAt": "2026-09-05T07:48:53Z",
+        "content": "Anthropic is expected to begin marketing its initial public offering in mid-October at the earliest and complete the\u00a0listing\u00a0days before the U.S. midterm\u00a0elections\u00a0in November, people familiar with t\u2026 [+1874 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Why are European countries moving their gold out of North America? - bbc.com",
+        "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+        "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/69ed/live/1f74ae20-a870-11f1-bbad-43eaf67b94b6.jpg",
+        "publishedAt": "2026-09-05T01:42:09Z",
+        "content": "Cavatoni, of the World Gold Council, said one standard approach to move gold stocks was to sell the commodity in one place and buy it in another. \"Let's say I want my gold in New York and I have it i\u2026 [+169 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "FierceBiotech"
+        },
+        "author": "Darren Incorvaia",
+        "title": "Novartis Lp(a) drug fails to lower cardiovascular risk in closely watched ph. 3 trial - Fierce Biotech",
+        "description": "Novartis\u2019 Ionis-partnered drug designed to lower levels of Lp(a), a known cardiovascular risk factor,",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-lpa-drug-fails-lower-cardiovascular-risk-closely-watched-ph-3-trial",
+        "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1857625643%20%281%29.jpg?VersionId=6WshGu2Q5wf_gXM7N7YACQ94DZIcfKeH",
+        "publishedAt": "2026-09-05T01:18:50Z",
+        "content": null
     },
     {
         "source": {
@@ -96,115 +252,11 @@
             "name": "Fox News"
         },
         "author": null,
-        "title": "Viral bakery's missing cinnamon rolls spark $3,100 theft accusation and Border Patrol plot twist - Fox News",
-        "description": "A viral cinnamon rolls theft accusation took a shocking turn when police revealed the Uber driver was arrested by U.S. Border Patrol during a delivery run.",
-        "url": "https://www.foxnews.com/food-drink/viral-bakerys-missing-cinnamon-rolls-spark-3100-theft-accusation-border-patrol-plot-twist",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/cinnamon-roll-in-hand.jpg",
-        "publishedAt": "2026-09-04T10:00:50Z",
-        "content": "What began as a case of hundreds of missing cinnamon rolls and an alleged $3,100 theft took an unexpected turn when police determined the delivery driver hadn't stolen them at all: He had been arrest\u2026 [+3318 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Caitlin Owens",
-        "title": "Large employers drop health benefits as costs rise - Axios",
-        "description": "It's a sign that year-after-year spikes in medical costs have real consequences.",
-        "url": "https://www.axios.com/2026/09/04/employer-health-insurance-benefit-cut-costs",
-        "urlToImage": "https://images.axios.com/YbjhgnydI7-1pHhJid-l7Bpa3rw=/0x0:1920x1080/1366x768/2026/09/02/1788380044968.jpg",
-        "publishedAt": "2026-09-04T09:32:27Z",
-        "content": "Driving the news: Disney recently made headlines by deciding to drop health coverage for working spouses with access to their own coverage next year. A Disney spokesperson said the adjustments are be\u2026 [+3338 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Aimee  Picchi",
-        "title": "Sturdy stock market mints a record number of 401(k) millionaires - CBS News",
-        "description": "The number of millionaire 401(k) accounts at Fidelity reached a record 769,000 in the second quarter.",
-        "url": "https://www.cbsnews.com/news/401k-millionaires-record-fidelity-retirement-savings/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/29/c877ef69-6084-4932-89c7-212bb0b2857b/thumbnail/1200x630/5a5c45d5807747823da3d42fb303933d/gettyimages-2277260046.jpg",
-        "publishedAt": "2026-09-04T09:00:12Z",
-        "content": "America's ranks of retirement fund millionaires are surging, with the number of 401(k) accounts managed by Fidelity Investments holding at least $1 million surging to a record 769,000 in the second q\u2026 [+3793 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Sawdah Bhaimiya",
-        "title": "Volkswagen jumps 5% on plans to cut 50,000 jobs amid tariffs, China competition - CNBC",
-        "description": "Volkswagen shares jumped on Friday after it announced plans to slash a further 50,000 jobs as part of its transformation plan.",
-        "url": "https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333235-1783672992314-gettyimages-2284739900-20090101260709-99-13697.jpeg?v=1783673027&w=1920&h=1080",
-        "publishedAt": "2026-09-04T08:49:09Z",
-        "content": "Volkswagen employees are taking part in an information and protest event organized by IG Metall in front of the VW plant in Zwickau.\r\nVolkswagen shares jumped on Friday after it announced plans to sl\u2026 [+4043 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Eatingwell.com"
-        },
-        "author": "https://www.facebook.com/EatingWell/",
-        "title": "Brooks, Le Creuset and More of Our Favorite Brands Are Up to 80% Off at Amazon This Labor Day - EatingWell",
-        "description": "We\u2019ve gathered the 50 best Amazon Labor Day sales to shop this weekend. Shop Brooks, Le Creuset, Ninja, New Balance, Our Place and more for up to 80% off.",
-        "url": "https://www.eatingwell.com/amazon-labor-day-sales-2026-12061189",
-        "urlToImage": "https://www.eatingwell.com/thmb/UOX7u5jqC2lwgv1oob-MvBwp0fw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ewl-amazon-prod-tout-91e948ccd3734c478c59c5b02757160b.jpg",
-        "publishedAt": "2026-09-04T07:00:00Z",
-        "content": "Its hard to believe it, but were already at the turn of the season. Labor Day marks the tail end of summer, and with it comes a whole slew of sales to celebrate. Amazon is included in the pack, and i\u2026 [+7128 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Landon Mion",
-        "title": "Popular squishy toys recalled over potentially deadly water bead hazard - Fox Business",
-        "description": "More than 15,000 popular squeeze toys containing water beads face recalls as federal regulators warned of choking and death hazards for children.",
-        "url": "https://www.foxbusiness.com/economy/popular-squishy-toys-recalled-over-potentially-deadly-water-bead-hazard",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/squishy-toy-recall-alert-warning.png?ve=1&tl=1",
-        "publishedAt": "2026-09-04T04:57:00Z",
-        "content": "More than 15,000 popular children\u2019s squeeze toys have been recalled over serious injury hazards linked to the beads they contain, according to federal regulators.\r\nTwo recalls have been issued \u2014 one \u2026 [+3074 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "Anthropic\u2019s IPO set to test external trust with power over board - Financial Times",
-        "description": "Public-market scrutiny will intensify pressure on the Claude maker\u2019s unusual attempt to balance profit and purpose",
-        "url": "https://www.ft.com/content/9536c7b9-c600-48ec-8fe2-453b0ca187e9?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5abd076-1407-4c39-b42e-5d46b85a1eb7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-09-04T04:01:28Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "PCMag.com"
-        },
-        "author": "Michael Kan",
-        "title": "Company Tied to Breach of 153M Driver's Licenses Hit With Multiple Lawsuits - PCMag",
-        "description": "The driver's license data popped up on the dark web via a site called Nexus and was allegedly stolen from IDScan.net. Consumers who believe they were affected are now suing.",
-        "url": "https://www.pcmag.com/news/company-tied-to-breach-of-153m-drivers-licenses-hit-with-multiple-lawsuits",
-        "urlToImage": "https://i.pcmag.com/imagery/articles/00SbPOAtYYU0QC6lob9LjaL-1.fit_lim.size_1200x630.v1788443220.jpg",
-        "publishedAt": "2026-09-04T02:53:47Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Bonny Chu",
-        "title": "Costco quietly pulls popular member perk seemingly without warning: 'Real bummer for the deals' - Fox Business",
-        "description": "Costco members can no longer access the retailer\u2019s Costco Next storefronts, which featured discounted camping gear, home goods, electronics, bicycles and even caskets.",
-        "url": "https://www.foxbusiness.com/retail/costco-quietly-pulls-popular-member-perk-seemingly-without-warning-real-bummer-deals",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/08/0/0/Costco-1.jpg?ve=1&tl=1",
-        "publishedAt": "2026-09-03T23:35:00Z",
-        "content": "Costco Next, an online marketplace Costco members often regarded as one of the retailer\u2019s most coveted hidden perks, has quietly disappeared from the company\u2019s website.\u00a0\r\nThe service gave members up \u2026 [+3011 chars]"
+        "title": "DOJ ordered to freeze antitrust work with Canada as trade tensions intensify - Fox News",
+        "description": "The Justice Department's antitrust division was directed to pause all cooperation with Canada amid the escalating U.S.-Canada trade war, according to a report.",
+        "url": "https://www.foxnews.com/politics/doj-ordered-freeze-antitrust-work-canada-trade-tensions-intensify",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/mark-carney-donald-trump-oval-office.jpg",
+        "publishedAt": "2026-09-05T01:09:14Z",
+        "content": "The U.S. Justice Department's antitrust division was directed earlier this week to pause all work with the Canadian government as the trade dispute between the neighboring nations intensifies, accord\u2026 [+2178 chars]"
     }
 ]
