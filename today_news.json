@@ -2,80 +2,106 @@
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "MarketWatch"
         },
-        "author": "Carrie McCabe",
-        "title": "Amazon Labor Day sale 2026: Can't-miss deals from Apple, Hanes, Dyson and more are up to 70% off - Yahoo",
-        "description": "These major Labor Day deals on top brands are tough to pass up \u2014 we found big savings on fall style must-haves, smart TVs, vacuums, kitchenware and more.",
-        "url": "https://shopping.yahoo.com/deals/breaking-news/article/amazon-labor-day-sale-2026-cant-miss-deals-from-apple-hanes-dyson-and-more-are-up-to-70-off-163307915.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/432d4871e3fa286a94868782b3a4f1e672e3a23a5c1cb0003553f5bf717cf724/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fhangtag-tentpole-badge-template_9543.png",
-        "publishedAt": "2026-09-07T14:20:54Z",
-        "content": "If your Labor Day sales tabs are starting to get a little overwhelming well, welcome to the club! Amazon is packed with markdowns for the holiday, but the trick is figuring out which ones are actuall\u2026 [+30146 chars]"
+        "author": "Tomi Kilgore, Joy Wiltermuth, Steve Goldstein, Jamie Chisholm, Nora Redmond",
+        "title": "Stock Market Today: Dow off 475 points, S&P 500 lower as Brent crude edges toward $100 a barrel; Amgen falls, Nasdaq higher after Labor Day - MarketWatch",
+        "description": "Stocks are lower Tuesday as tensions between Washington and Tehran worsen.",
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-war-in-iran-escalates-steady-start",
+        "urlToImage": "https://images.mktw.net/im-51746529/social",
+        "publishedAt": "2026-09-08T13:45:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ari Levy",
+        "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon - CNBC",
+        "description": "Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom.",
+        "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
+        "publishedAt": "2026-09-08T13:09:52Z",
+        "content": "Qualcomm shares rose 4% on Tuesday after the company announced a data center infrastructure partnership with Amazon Web Services, a major win as the chipmaker tries to take on Nvidia in the artificia\u2026 [+3112 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Diana Olick",
+        "title": "Here\u2019s where rental demand is heading and what it means for future home sales - CNBC",
+        "description": "As U.S. rent prices rise, more tenants are relocating to cheaper markets, according to a new report by Zillow.",
+        "url": "https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108358689-1788469880413-gettyimages-2206674974-dji_0367-1copy.jpeg?v=1788469941&w=1920&h=1080",
+        "publishedAt": "2026-09-08T12:55:12Z",
+        "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v\u2026 [+3219 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Fox Business"
         },
-        "author": "Eric Revell",
-        "title": "The 10 fastest-growing jobs in America over the next decade - Fox Business",
-        "description": "The Bureau of Labor Statistics projects nurse practitioners as the fastest-growing job through 2035, with 41% growth amid rising healthcare demand.",
-        "url": "https://www.foxbusiness.com/economy/10-fastest-growing-jobs-america-over-next-decade",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/06/0/0/Solar-installs-2a.jpg?ve=1&tl=1",
-        "publishedAt": "2026-09-07T14:00:00Z",
-        "content": "The Bureau of Labor Statistics (BLS) recently released a report projecting how the U.S. workforce will grow from 2025 to 2035 and what professions will see the largest increases in jobs as the econom\u2026 [+3126 chars]"
+        "author": "Alex Nitzberg",
+        "title": "GOP senator pushes back as Trump threatens to block Bombardier jets in Canada trade fight - Fox Business",
+        "description": "After President Donald Trump targeted Bombardier in a social media post, Republican Sen. Jerry Moran highlighted the positive impact the Canadian jet maker has in Kansas.",
+        "url": "https://www.foxbusiness.com/politics/gop-senator-pushes-back-trump-threatens-block-bombardier-jets-canada-trade-fight",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/sen-jerry-moran-president-trump-split.jpg?ve=1&tl=1",
+        "publishedAt": "2026-09-08T12:51:00Z",
+        "content": "Sen. Jerry Moran, R-Kan., on Monday highlighted Canadian jet manufacturer Bombardier's positive impact in Kansas after President Donald Trump took aim at the company.\r\n\"The presence of Bombardier in \u2026 [+3912 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "WKYC.com"
         },
-        "author": "By Shadia Nasralla",
-        "title": "Oil prices hold near six-week highs on US-Iran attacks - Yahoo Finance",
-        "description": "By Shadia Nasralla LONDON, Sept 7 (Reuters) - Oil prices were near six-week highs on Monday, creeping closer to $100 a barrel, as tit-for-tat strikes between...",
-        "url": "https://finance.yahoo.com/energy/articles/oil-extends-gains-us-iran-001532615.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/2107891f48f930d7ed70fe1c459e99190f62e282d83e97233a570755de54e229/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F385899e07195d49cda1933f40649a0e1.jpg",
-        "publishedAt": "2026-09-07T13:43:21Z",
-        "content": "By Shadia Nasralla\r\nLONDON, Sept 7 (Reuters) - Oil prices were near six-week highs on Monday, creeping closer to $100 a barrel, as tit-for-tat strikes between the U.S. and Iran on vessels sailing in \u2026 [+2683 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Katrina Northrop",
-        "title": "Chinese Company Draws Fire for Laying Off 100 Grads a Month After Hiring Them - WSJ",
-        "description": "Authorities rebuke auto-parts maker, a supplier to Western brands, as young people face bleak job market",
-        "url": "https://www.wsj.com/world/china/chinese-company-draws-fire-for-laying-off-100-grads-a-month-after-hiring-them-8a85d785",
-        "urlToImage": "https://images.wsj.net/im-40118497/social",
-        "publishedAt": "2026-09-07T13:24:00Z",
+        "author": "WKYC",
+        "title": "Six Flags announces they\u2019ve acquired the ArieForce One roller coaster, but a big mystery about the ride\u2019s future remains: Where is it going? - WKYC",
+        "description": null,
+        "url": "https://www.wkyc.com/article/news/national/six-flags-announcement-arieforce-one-roller-coaster-acquired-new-park-fun-spot-atlanta/95-c4f34ddf-b2f9-4dfd-9edb-6f822c5f9652",
+        "urlToImage": null,
+        "publishedAt": "2026-09-08T11:30:00Z",
         "content": null
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Associated Press",
-        "title": "Federal investigators probe Amazon cargo jet\u2019s fiery runway crash that killed 5 in Miami - AP News",
-        "description": "Experts say federal investigators will likely consider whether an Amazon cargo jet that barreled off a runway and crashed into several vehicles in Miami touched down too late. The fiery crash killed five people and injured five more. The aircraft overran the \u2026",
-        "url": "https://apnews.com/article/cargo-plane-crash-miami-airport-amazon-prime-d5118998e880f380a3fd8786e35fd9bb",
-        "urlToImage": "https://dims.apnews.com/dims4/default/fc72dc4/2147483647/strip/true/crop/5764x3841+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F38%2F4a85f89656b51d34d06773929c91%2F9a6bc10414b541eda6866b3bea94d94f",
-        "publishedAt": "2026-09-07T12:37:00Z",
-        "content": "MIAMI (AP) Federal investigators examining why an Amazon cargo jet barreled off a runway at Miami International Airport and into vehicles, killing at least five people, are likely to focus on a cruci\u2026 [+4842 chars]"
+        "author": "Robert Ferris",
+        "title": "The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against - CNBC",
+        "description": "The Department of Energy has given grants to small battery tech companies. But the U.S. has a few years to do what took China decades.",
+        "url": "https://www.cnbc.com/2026/09/08/heres-where-the-us-is-behind-china-on-battery-technology.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108312842-1779916097001-gettyimages-2275065586-cfoto-chinaeve260511_npITq.jpeg?v=1779917032&w=1920&h=1080",
+        "publishedAt": "2026-09-08T11:00:01Z",
+        "content": "The Trump administration has been trying to build up the U.S. battery supply chain and reduce its reliance on China. But the funding it has set aside for the effort is small compared with what would \u2026 [+6337 chars]"
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
+            "id": null,
+            "name": "Abcnews.com"
         },
-        "author": "The Associated Press",
-        "title": "The poorest in the U.S. can\u2019t find housing even as low-income units sit empty - NBC News",
-        "description": "Mathew Davis, who lives in a homeless shelter in Austin, Texas, would love an apartment of his own.",
-        "url": "https://www.nbcnews.com/news/us-news/poorest-us-cant-find-housing-even-low-income-units-sit-empty-rcna596446",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260907-affordable-housing-mb-1302-43b376.jpg",
-        "publishedAt": "2026-09-07T12:27:57Z",
-        "content": "PORTLAND, Ore. Mathew Davis, who lives in a homeless shelter in Austin, Texas, would love an apartment of his own. But with the little money he makes donating blood plasma, even a $450-a-month tiny h\u2026 [+7180 chars]"
+        "author": "CHAN HO-HIM Associated Press, MARI YAMAGUCHI Associated Press",
+        "title": "Japan protests as China slaps new measures against its exports of a key chipmaking material - ABC News - Breaking News, Latest News and Videos",
+        "description": "Japan has protested Chinese controls that will limit its exports of a key chemical used to make computer chips",
+        "url": "https://abcnews.com/Technology/wireStory/japan-protests-china-slaps-new-measures-exports-key-136266889",
+        "urlToImage": "https://i.abcnewsfe.com/a/8cb375ac-f313-405f-b359-686bec35e468/wirestory_ea58c95c47481c5c822a3a544e6b68cc_16x9.jpg?w=1600",
+        "publishedAt": "2026-09-08T10:38:59Z",
+        "content": "BANGKOK -- Japan has protested against Chinese controls that will limit its exports of a key chemical used to make computer chips, saying Tuesday that Tokyo is studying the potential impact on Japane\u2026 [+1572 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Paddy Hirsch",
+        "title": "Has the economy gone C-shaped? : Planet Money - NPR",
+        "description": "A K means the rich and poor are pulling apart. A C supposedly means they're coming back together. We hear the case for both. Which letter you see may depend on what you choose to pay attention to.",
+        "url": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6250x3516+0+326/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fef%2F5e064a58423fa7e0f946d6cc9ed3%2Fgettyimages-1362847684.jpg",
+        "publishedAt": "2026-09-08T10:30:00Z",
+        "content": "Today's economy is brought to you by the letter K! Or is it C? Or well, it depends on who you talk to about how the rich and poor are doing these days.\r\nYou've probably heard about \"the K-shaped econ\u2026 [+6410 chars]"
     },
     {
         "source": {
@@ -83,142 +109,51 @@
             "name": "BBC News"
         },
         "author": null,
-        "title": "OpenAI chief scientist warns no one is prepared for consequences of AI - BBC",
-        "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
-        "url": "https://www.bbc.com/news/articles/cwyzrrd0kp7o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg",
-        "publishedAt": "2026-09-07T12:22:07Z",
-        "content": "\"Instead of better AI guardrails, regulations, or assurance to keep people safe, they propose developing internal AI agents to research these problems,\" said Professor Gina Neff, head of the Minderoo\u2026 [+67 chars]"
+        "title": "Five killed in Miami plane crash landing were in two vehicles, investigators say - BBC",
+        "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
+        "url": "https://www.bbc.com/news/articles/ce8e32n8epeo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg",
+        "publishedAt": "2026-09-08T09:31:26Z",
+        "content": "Investigators will examine the flight history, crew experience and training, radar data, and aircraft performance. Separate teams will look at the plane's systems and engines, while a meteorologist w\u2026 [+56 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Fox Business"
+            "name": "SpaceNews"
         },
-        "author": "Bradford Betz",
-        "title": "Jaguar Land Rover opens voluntary redundancy program in $2.3B cost-cutting drive - Fox Business",
-        "description": "Jaguar Land Rover is offering voluntary redundancy packages to white-collar staff to slash $2.3 billion in costs amid tariffs and stiff competition.",
-        "url": "https://www.foxbusiness.com/economy/jaguar-land-rover-voluntary-redundancy-cost-cutting",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/jaguar-land-rover.jpg?ve=1&tl=1",
-        "publishedAt": "2026-09-07T12:09:00Z",
-        "content": "British carmaker Jaguar Land Rover (JLR) has opened a voluntary redundancy program for salaried and management staff as part of a sweeping multibillion, cost-cutting campaign.\u00a0\r\nThe Tata Motors-owned\u2026 [+2577 chars]"
+        "author": "Jeff Foust",
+        "title": "Stoke Space raises $1 billion and unveils larger launch vehicle - SpaceNews",
+        "description": "Stoke Space Technologies, which is nearing the first flight of a fully reusable launch vehicle, has raised $1 billion to work on a larger rocket.",
+        "url": "https://spacenews.com/stoke-space-raises-1-billion-and-unveils-larger-launch-vehicle/",
+        "urlToImage": "https://spacenews.com/wp-content/uploads/2026/09/Stage2.jpg",
+        "publishedAt": "2026-09-08T09:00:00Z",
+        "content": "Register now to read3 free articles this month.\r\nYou\u2019ll also receive our weekly Editor\u2019s Choice, SpaceNews This Week and Opinions newsletters. Opt-out at any time.\r\nSign in to an existing account"
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "FierceBiotech"
         },
-        "author": null,
-        "title": "Deutsche Bank settles \u20ac152mn lawsuit with former executive - Financial Times",
-        "description": "Dario Schiraldi was one of six bankers convicted \u2014 and later acquitted \u2014 over trades linked to Monte dei Paschi di Siena",
-        "url": "https://www.ft.com/content/eb18eb97-8e68-4d9d-b77c-0b0dedd47c59?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6cf74a08-a99a-4339-95e4-acc5382735c0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-09-07T12:01:53Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        "author": "Nick Paul Taylor",
+        "title": "Novartis stock slides as centerpiece of $12B Avidity buyout flunks \u2018crucial\u2019 phase 3 test - Fierce Biotech",
+        "description": "The phase 3 Harbor trial of Novartis\u2019 del-desiran has",
+        "url": "https://www.fiercebiotech.com/biotech/novartis-centerpiece-12b-avidity-buyout-flunks-crucial-phase-3-test",
+        "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/Novartis_2.jpg?VersionId=NAIc72cpvz1.DbP60WZ1g6u7sgvZQng.",
+        "publishedAt": "2026-09-08T07:34:00Z",
+        "content": null
     },
     {
         "source": {
-            "id": "the-jerusalem-post",
-            "name": "The Jerusalem Post"
+            "id": "newsweek",
+            "name": "Newsweek"
         },
-        "author": "ANNA AHRONHEIM",
-        "title": "Rafael, Aurelius to build Iron Dome components at former Volkswagen plant in Germany's Lower Saxony - jpost.com",
-        "description": "While the Iron Dome\u2019s Tamir interceptor itself will not be manufactured there, military vehicles, launchers, generators, and other equipment will be",
-        "url": "https://www.jpost.com/defense-and-tech/article-907805",
-        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720349",
-        "publishedAt": "2026-09-07T12:01:15Z",
-        "content": "The German state of Lower Saxony, Rafael Advanced Defense Systems and Aurelius Capital have signed a letter of intent to purchase Volkswagens Osnabr\u00fcck plant, allowing the Israeli defense company to \u2026 [+5749 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Michael Kunzelman",
-        "title": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft - AP News",
-        "description": "A 22-year-old man from Singapore is expected to plead guilty this week in Washington to orchestrating one of the largest cryptocurrency thefts in U.S. history, duping a stranger out of bitcoin worth over $240 million. Malone Lam's conviction would be a major \u2026",
-        "url": "https://apnews.com/article/cryptocurrency-scam-malone-lam-guilty-3d40f81fd3ba0b5e28d6b962ca6b343d",
-        "urlToImage": "https://dims.apnews.com/dims4/default/9924766/2147483647/strip/true/crop/5712x3806+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6f%2Fbd%2Fb7c80a0d6545e758d580bfc13db1%2F6b4ac281214144138df5b5d4b4adcfd7",
-        "publishedAt": "2026-09-07T11:53:00Z",
-        "content": "WASHINGTON (AP) They pulled off one of the largest cryptocurrency thefts in U.S. history, duping a stranger out of bitcoin worth over $240 million. They tried to hide their digital fingerprints, carr\u2026 [+7576 chars]"
-    },
-    {
-        "source": {
-            "id": "msnbc",
-            "name": "MS Now"
-        },
-        "author": "Emily Steinberger",
-        "title": "We drove across the country twice, and kept the receipts. Here\u2019s what it cost. - MS NOW",
-        "description": "A California-to-New York road trip cost these sisters $578.99 in 2023. Three years and a Middle East war later, they made their way back.",
-        "url": "https://www.ms.now/news/we-drove-across-the-country-twice-and-kept-the-receipts-heres-what-it-cost",
-        "urlToImage": "https://www.ms.now/wp-content/uploads/2026/09/260903-road-trip-roadtrip-cross-country-america-250-gas-prices-oil-iran-war-middle-east-us-usa-united-states-map-route-es.webp?crop=0px,37px,1600px,840px&w=1200&h=630",
-        "publishedAt": "2026-09-07T11:50:10Z",
-        "content": "When my sister and I drove her car from the San Francisco Bay Area to her college in upstate New York in 2023, we kept track of our mileage and our gas costs: $578.99. We figured it would be fun to c\u2026 [+5600 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "Yen surges to 6-month high as traders stay alert for signs of intervention - Financial Times",
-        "description": "Japanese currency touches \u00a5154.04 per dollar, including steep a rise in London morning",
-        "url": "https://www.ft.com/content/d86643d2-c98c-4e19-b066-c97b50819b7e?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1a8dbc9b-7b15-401a-a854-38a2db8be6bc.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-09-07T11:45:02Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Sawdah Bhaimiya",
-        "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in AI posting spree - CNBC",
-        "description": "U.S. President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday",
-        "url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108357942-1788371823130-gettyimages-2292633736-AFP_C7797D6.jpeg?v=1788371880&w=1920&h=1080",
-        "publishedAt": "2026-09-07T11:06:20Z",
-        "content": "US President Donald Trump speaks during a meeting with travel industry executives in the Oval Office of the White House in Washington, DC, on Sept. 2, 2026. \r\nPresident Donald Trump posted a stream o\u2026 [+3934 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Supercarblondie.com"
-        },
-        "author": "Alessandro Renesis",
-        "title": "The gap between the monthly cost of charging a Tesla Cybertruck vs filling a Chevy Colorado in the US is mind-blowing - supercarblondie.com",
-        "description": "In theory, charging a Tesla Cybertruck should be cheaper than filling up the gas tank of a Chevy Colorado, but the situation is actually a bit more complicated",
-        "url": "https://supercarblondie.com/tesla-cybertruck-chevy-colorado-cost-comparison/",
-        "urlToImage": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Most-people-would-assume-that-charging-a-Tesla-Cybertruck-has-to-be-significantly-cheaper-than-filling-up-the-tank-of-a-Chevy-Colorado-lead.webp",
-        "publishedAt": "2026-09-07T10:29:00Z",
-        "content": "Most people would assume that charging a Tesla Cybertruck has to be significantly cheaper than filling up the tank of a Chevy Colorado.\r\nThe debate between EVs and gas cars will probably never end, p\u2026 [+2296 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Todd C. Frankel",
-        "title": "Ding! Ding! Ding! The long, strange fight over your car\u2019s seat-belt chime. - The Washington Post",
-        "description": "The reminders can annoy, but they also save lives. So why have regulators taken years to tighten rules for new vehicles?",
-        "url": "https://www.washingtonpost.com/transportation/2026/09/07/seat-belt-chimes-are-meant-save-lives-some-people-still-resent-them/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FHSMRVVAAZ3ZLKZ2ZGAS4VLFSY.jpg&w=1440",
-        "publishedAt": "2026-09-07T10:03:03Z",
-        "content": "David Kidd is an expert in something that some people hate and others tend to just tolerate: Seat-belt warning systems the ding ding ding chimes and flashing dashboard lights that serve as reminders \u2026 [+12 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CoinDesk"
-        },
-        "author": "Omkar Godbole",
-        "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys' - coindesk.com",
-        "description": "Liquid Network, a settlement layer used by exchanges, halted all transactions after losing $320 million worth of bitcoin in a security exploit.",
-        "url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?auto=format&q=75",
-        "publishedAt": "2026-09-07T10:01:06Z",
-        "content": "The sidechain halted new transactions and warned that wallets would be disrupted while federation members work to restore service. The episode matters because Liquid was built to solve a practical pr\u2026 [+1113 chars]"
+        "author": "Shane Croucher",
+        "title": "Donald Trump\u2019s Oil Price Promise Was Just Struck by Houthis Defying Hegseth - Newsweek",
+        "description": "Trump says victory over Iran will bring cheap gas fast, right as Houthi strikes expose a harder path to an oil peace dividend.",
+        "url": "https://www.newsweek.com/trump-oil-prices-houthis-saudi-arabia-iran-war-hormuz-12413915",
+        "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/09/AP26237597950541.jpg?w=1200&crop=1",
+        "publishedAt": "2026-09-08T07:15:00Z",
+        "content": "President Donald Trump tied victory over Iran to rapidly falling oil and gasoline prices Monday nightjust as renewed Houthi attacks on Saudi Arabia exposed how military success could still leave the \u2026 [+5544 chars]"
     },
     {
         "source": {
@@ -226,37 +161,37 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "There\u2019s a Legal Fight Brewing at Oktoberfest - WSJ",
+        "title": "China\u2019s Trade Surplus Widens as Export Growth Accelerates - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/world/europe/oktoberfest-germany-munich-september-brewers-cc02930c",
+        "url": "https://www.wsj.com/economy/trade/chinas-trade-surplus-widens-as-export-growth-accelerates-f4418eda",
         "urlToImage": null,
-        "publishedAt": "2026-09-07T09:30:00Z",
+        "publishedAt": "2026-09-08T05:23:00Z",
         "content": null
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Ben Shimkus",
-        "title": "Automakers are betting on a different kind of electric car. Meet the EREV. - Business Insider",
-        "description": "Automakers are betting that EVs with gas generators can succeed where plug-in hybrids largely fell short.",
-        "url": "https://www.businessinsider.com/electric-vehicles-erevs-dodge-hyundai-scout-2026-9#article",
-        "urlToImage": "https://i.insider.com/6a988ed4b56943d508c4adb4?width=1200&format=jpeg",
-        "publishedAt": "2026-09-07T09:27:00Z",
-        "content": "The next popular EV might come with a gas engine.\r\nSeveral car brands, including Hyundai, Genesis, Ram, Jeep, Ford, and Volkswagen-backed Scout Motors, have announced plans to build extended-range el\u2026 [+5163 chars]"
+        "author": "Elsa Ohlen",
+        "title": "Cholesterol drug setback casts doubt over multibillion-dollar race - cnbc.com",
+        "description": "Novartis\u2019 failure raises the stakes for Amgen and Eli Lilly in the race to turn lower Lp(a) levels into fewer heart attacks and strokes.",
+        "url": "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297645-1777300177064-108297645-1777300126332-gettyimages-1902456631-20231205_225708-4595.jpg?v=1777314002&w=1920&h=1080",
+        "publishedAt": "2026-09-08T05:00:01Z",
+        "content": "Blood sample for a lipoprotein(a) test.\r\nNovartis' failure in a closely watched cardiovascular trial has raised questions about one of the pharmaceutical industry's biggest drug races and rival treat\u2026 [+5055 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Motor1 "
+            "name": "Stocktwits.com"
         },
-        "author": "Alberto Carmone",
-        "title": "Audi A2 E-Tron Debuts As A Small EV With Seriously Big Range - Motor1.com",
-        "description": "The A2 returns as a fully electric hatchback with up to 401 miles of WLTP range, unconventional styling, and a starting price of \u20ac38,350 in Germany.",
-        "url": "https://www.motor1.com/news/807207/audi-a2-e-tron-debuts-401-mile-range/",
-        "urlToImage": "https://cdn.motor1.com/images/mgl/mMz7Vq/s1/audi-a2-e-tron-2026.jpg",
-        "publishedAt": "2026-09-07T09:08:00Z",
-        "content": "More than 20 years after the original disappeared from the lineup, the Audi A2 is back. The historic nameplate is returning to Ingolstadt in the form of the A2 E-Tron, an all-electric model that aims\u2026 [+6282 chars]"
+        "author": "Yuvraj Malik",
+        "title": "ORCL Stock Rallies Into Earnings Week: OpenAI GPT-6 Astra Buzz, Morgan Stanley\u2019s Big Target Give Bulls A Boost - Yahoo Finance",
+        "description": "Oracle shares extend a three-day rally as OpenAI\u2019s GPT-6 Astra boosts optimism around its AI cloud opportunity.",
+        "url": "https://stocktwits.com/news-articles/markets/equity/orcl-stock-rallies-into-earnings-week-open-ai-gpt-6-astra-buzz-morgan-stanley-s-big-target-give-bulls-a-boost/cZt3SZbRJxA",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/83bac1f0877f45fdf3290932947f0ba9e419e1b2787e78275d06334d3c00c43f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F1a6b668d7ce773ebf4dd8987d0d24e84",
+        "publishedAt": "2026-09-08T03:11:00Z",
+        "content": "<ul><li>Morgan Stanley raised its Oracle price target to $210, implying about 30% upside, while keeping a Neutral rating.\r\n</li><li>Investors await Oracle's Sept. 10 earnings, with cloud growth and A\u2026 [+3604 chars]"
     }
 ]
