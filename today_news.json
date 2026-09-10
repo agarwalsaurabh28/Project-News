@@ -2,28 +2,119 @@
     {
         "source": {
             "id": null,
-            "name": "MarketWatch"
+            "name": "Investor's Business Daily"
         },
-        "author": "Tomi Kilgore, Joy Wiltermuth, Steve Goldstein, Jamie Chisholm, Nora Redmond",
-        "title": "Stock Market Today: Dow off 475 points, S&P 500 lower as Brent crude edges toward $100 a barrel; Amgen falls, Nasdaq higher after Labor Day - MarketWatch",
-        "description": "Stocks are lower Tuesday as tensions between Washington and Tehran worsen.",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-oil-prices-war-in-iran-escalates-steady-start",
-        "urlToImage": "https://images.mktw.net/im-51746529/social",
-        "publishedAt": "2026-09-08T13:45:00Z",
-        "content": null
+        "author": null,
+        "title": "Stock Market Today: Dow Slumps 400 Points As Oil Surges; Shell Jumps Past Entry (Live Coverage) - Investor's Business Daily",
+        "description": "Stock Market Today: The Dow Jones index drops Wednesday on rising oil prices. Apple stock falls ahead of the iPhone event.",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2022/10/Stock-offshoreoilproduction-01-adobe.jpg",
+        "publishedAt": "2026-09-09T15:32:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Ari Levy",
-        "title": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon - CNBC",
-        "description": "Qualcomm is trying to move into the data center business, where Nvidia has been the dominant player in the AI boom.",
-        "url": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108326381-17823291542026-06-01t081353z_1354062065_rc2uklao7le0_rtrmadp_0_computex-qualcomm.jpeg?v=1782329228&w=1920&h=1080",
-        "publishedAt": "2026-09-08T13:09:52Z",
-        "content": "Qualcomm shares rose 4% on Tuesday after the company announced a data center infrastructure partnership with Amazon Web Services, a major win as the chipmaker tries to take on Nvidia in the artificia\u2026 [+3112 chars]"
+        "author": "Jeff Cox",
+        "title": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level - CNBC",
+        "description": "The much-anticipated announcement triples the normal buyback operation and follows an announcement  from Treasury Secretary Scott Bessent.",
+        "url": "https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108356369-1788183022484-gettyimages-2233913598-kd205923_mxbxztip.jpeg?v=1788183085&w=1920&h=1080",
+        "publishedAt": "2026-09-09T15:03:58Z",
+        "content": "The Treasury Department on Wednesday said it will buy back up to $6 billion of government debt in an operation aimed at keeping bond markets functioning.\r\nThe much-anticipated announcement triples th\u2026 [+4236 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Rebecca Bellan",
+        "title": "\u2018Gambling with our lives\u2019: Anthropic researcher quits, warns against self-improving AI - TechCrunch",
+        "description": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+        "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2063425288.jpg?resize=1200,818",
+        "publishedAt": "2026-09-09T15:02:47Z",
+        "content": "An Anthropic researcher has resigned over fears that unrestrained development of self-improving AI models will end up killing us all. \r\nJacob Coxon, a researcher who said in a social media post Tuesd\u2026 [+6001 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Aaron Cooper, Pete Muntean",
+        "title": "Amazon plane\u2019s black box reveals strange sequence of events just before cargo jet skidded off runway, killing 5 - CNN",
+        "description": "New details from a flight data recorder raise questions about what happened in the cockpit as the plane careened off a runway at Miami International Airport.",
+        "url": "https://www.cnn.com/2026/09/09/us/amazon-cargo-plane-crash-data",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26251586589574.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-09-09T14:31:42Z",
+        "content": "New information from the flight data recorder onboard the crashed Amazon Air Boeing 767-300 paints a detailed picture and raises questions about what happened in the cockpit as the plane careened off\u2026 [+6080 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Ines Ferr\u00e9",
+        "title": "Meta stock surges with Wall Street bullish on new AI agent - Yahoo Finance",
+        "description": "Meta stock rallied more than 5% on Wednesday.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/meta-stock-surges-with-wall-street-bullish-on-new-ai-agent-140959204.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/805af3b4a17bc050450dac86e0841df43e1a776567ad1e9030687ff570ef33b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8931724f-437f-4be1-90fc-9fd0c0f8462e",
+        "publishedAt": "2026-09-09T14:09:59Z",
+        "content": "What happened: Meta (META) stock rallied more than 5% on Wednesday.\r\nWhat's behind the move: Shares of the social media platform gained after the company debuted Muse, an AI assistant. Wall Street an\u2026 [+1709 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Al Root",
+        "title": "GE Aerospace Buys Turbine Maker in Blow to SpaceX. These Stocks Could Benefit. - Barron's",
+        "description": "GE Aerospace bought a casting company that could have fit nicely with SpaceX.",
+        "url": "https://www.barrons.com/articles/spacex-ge-aerospace-stock-turbine-50fa2dd1",
+        "urlToImage": "https://images.barrons.com/im-60621873/social",
+        "publishedAt": "2026-09-09T14:01:00Z",
+        "content": "Competition in the turbine blade manufacturing industry isheating up. This isnt the typical competition between makers, known as casters. Its a competition for the casting firms.\r\nCopyright \u00a92026Dow \u2026 [+78 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Scott Horsley",
+        "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy - NPR",
+        "description": "Will artificial intelligence nibble around the edges of the economy or upend it altogether? A new, interactive model from Anthropic lets people tests their assumptions.",
+        "url": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4822x2712+0+212/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2F0e%2Fddddeea34919b144bdcfa02b858c%2Fgettyimages-2285051730.jpg",
+        "publishedAt": "2026-09-09T13:34:48Z",
+        "content": "Will artificial intelligence light a fire under the U.S. economy in the coming years? That's been a big question in the field of economics, and now Anthropic the company behind the popular Claude AI \u2026 [+2715 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Medora Lee",
+        "title": "Money can cause family strife. That's why parents must talk about it - USA Today",
+        "description": "As trillions transfer to heirs, new research shows many families expect conflict over inheritance fairness.",
+        "url": "https://www.usatoday.com/story/money/personalfinance/lifestages/2026/09/09/fight-inheritance-parent-talks/91657188007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/08/USAT/91666008007-20181228-t-144723-z-942500176-mt-1-usatoday-11907289-rtrmadp-3-donnievansteenberghhelpsowencasefillouthis-1.JPG?crop=3007,1693,x0,y153&width=3007&height=1693&format=pjpg&auto=webp",
+        "publishedAt": "2026-09-09T12:15:00Z",
+        "content": "An estimated $124 trillion in assets will transfer from older generations to younger heirs over the next couple of decades, but that windfall may create a storm of problems, according to new research\u2026 [+5997 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Callum Keown",
+        "title": "Google Has a Cool $15 Billion Fix to the AI Energy Problem - Barron's",
+        "description": "Google announced a $15 billion investment in AI infrastructure in Finland, one of Europe's coldest countries.",
+        "url": "https://www.barrons.com/articles/google-stock-ai-energy-fix-31d9fe50",
+        "urlToImage": "https://images.barrons.com/im-88884466/social",
+        "publishedAt": "2026-09-09T12:13:00Z",
+        "content": "Google has found an interesting way to combat the sky-highenergy costsinvolved in data centersbuild them in an extremely cold country.\r\nCopyright \u00a92026Dow Jones &amp; Company, Inc. All Rights Reserve\u2026 [+34 chars]"
     },
     {
         "source": {
@@ -31,167 +122,115 @@
             "name": "CNBC"
         },
         "author": "Diana Olick",
-        "title": "Here\u2019s where rental demand is heading and what it means for future home sales - CNBC",
-        "description": "As U.S. rent prices rise, more tenants are relocating to cheaper markets, according to a new report by Zillow.",
-        "url": "https://www.cnbc.com/2026/09/08/rental-demand-home-sales-zillow-report.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108358689-1788469880413-gettyimages-2206674974-dji_0367-1copy.jpeg?v=1788469941&w=1920&h=1080",
-        "publishedAt": "2026-09-08T12:55:12Z",
-        "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v\u2026 [+3219 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Alex Nitzberg",
-        "title": "GOP senator pushes back as Trump threatens to block Bombardier jets in Canada trade fight - Fox Business",
-        "description": "After President Donald Trump targeted Bombardier in a social media post, Republican Sen. Jerry Moran highlighted the positive impact the Canadian jet maker has in Kansas.",
-        "url": "https://www.foxbusiness.com/politics/gop-senator-pushes-back-trump-threatens-block-bombardier-jets-canada-trade-fight",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/sen-jerry-moran-president-trump-split.jpg?ve=1&tl=1",
-        "publishedAt": "2026-09-08T12:51:00Z",
-        "content": "Sen. Jerry Moran, R-Kan., on Monday highlighted Canadian jet manufacturer Bombardier's positive impact in Kansas after President Donald Trump took aim at the company.\r\n\"The presence of Bombardier in \u2026 [+3912 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WKYC.com"
-        },
-        "author": "WKYC",
-        "title": "Six Flags announces they\u2019ve acquired the ArieForce One roller coaster, but a big mystery about the ride\u2019s future remains: Where is it going? - WKYC",
-        "description": null,
-        "url": "https://www.wkyc.com/article/news/national/six-flags-announcement-arieforce-one-roller-coaster-acquired-new-park-fun-spot-atlanta/95-c4f34ddf-b2f9-4dfd-9edb-6f822c5f9652",
-        "urlToImage": null,
-        "publishedAt": "2026-09-08T11:30:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Robert Ferris",
-        "title": "The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against - CNBC",
-        "description": "The Department of Energy has given grants to small battery tech companies. But the U.S. has a few years to do what took China decades.",
-        "url": "https://www.cnbc.com/2026/09/08/heres-where-the-us-is-behind-china-on-battery-technology.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108312842-1779916097001-gettyimages-2275065586-cfoto-chinaeve260511_npITq.jpeg?v=1779917032&w=1920&h=1080",
-        "publishedAt": "2026-09-08T11:00:01Z",
-        "content": "The Trump administration has been trying to build up the U.S. battery supply chain and reduce its reliance on China. But the funding it has set aside for the effort is small compared with what would \u2026 [+6337 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Abcnews.com"
-        },
-        "author": "CHAN HO-HIM Associated Press, MARI YAMAGUCHI Associated Press",
-        "title": "Japan protests as China slaps new measures against its exports of a key chipmaking material - ABC News - Breaking News, Latest News and Videos",
-        "description": "Japan has protested Chinese controls that will limit its exports of a key chemical used to make computer chips",
-        "url": "https://abcnews.com/Technology/wireStory/japan-protests-china-slaps-new-measures-exports-key-136266889",
-        "urlToImage": "https://i.abcnewsfe.com/a/8cb375ac-f313-405f-b359-686bec35e468/wirestory_ea58c95c47481c5c822a3a544e6b68cc_16x9.jpg?w=1600",
-        "publishedAt": "2026-09-08T10:38:59Z",
-        "content": "BANGKOK -- Japan has protested against Chinese controls that will limit its exports of a key chemical used to make computer chips, saying Tuesday that Tokyo is studying the potential impact on Japane\u2026 [+1572 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "Paddy Hirsch",
-        "title": "Has the economy gone C-shaped? : Planet Money - NPR",
-        "description": "A K means the rich and poor are pulling apart. A C supposedly means they're coming back together. We hear the case for both. Which letter you see may depend on what you choose to pay attention to.",
-        "url": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6250x3516+0+326/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fef%2F5e064a58423fa7e0f946d6cc9ed3%2Fgettyimages-1362847684.jpg",
-        "publishedAt": "2026-09-08T10:30:00Z",
-        "content": "Today's economy is brought to you by the letter K! Or is it C? Or well, it depends on who you talk to about how the rich and poor are doing these days.\r\nYou've probably heard about \"the K-shaped econ\u2026 [+6410 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Five killed in Miami plane crash landing were in two vehicles, investigators say - BBC",
-        "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-        "url": "https://www.bbc.com/news/articles/ce8e32n8epeo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c84c/live/fc526aa0-ab02-11f1-93bd-5b304745dac3.jpg",
-        "publishedAt": "2026-09-08T09:31:26Z",
-        "content": "Investigators will examine the flight history, crew experience and training, radar data, and aircraft performance. Separate teams will look at the plane's systems and engines, while a meteorologist w\u2026 [+56 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SpaceNews"
-        },
-        "author": "Jeff Foust",
-        "title": "Stoke Space raises $1 billion and unveils larger launch vehicle - SpaceNews",
-        "description": "Stoke Space Technologies, which is nearing the first flight of a fully reusable launch vehicle, has raised $1 billion to work on a larger rocket.",
-        "url": "https://spacenews.com/stoke-space-raises-1-billion-and-unveils-larger-launch-vehicle/",
-        "urlToImage": "https://spacenews.com/wp-content/uploads/2026/09/Stage2.jpg",
-        "publishedAt": "2026-09-08T09:00:00Z",
-        "content": "Register now to read3 free articles this month.\r\nYou\u2019ll also receive our weekly Editor\u2019s Choice, SpaceNews This Week and Opinions newsletters. Opt-out at any time.\r\nSign in to an existing account"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "FierceBiotech"
-        },
-        "author": "Nick Paul Taylor",
-        "title": "Novartis stock slides as centerpiece of $12B Avidity buyout flunks \u2018crucial\u2019 phase 3 test - Fierce Biotech",
-        "description": "The phase 3 Harbor trial of Novartis\u2019 del-desiran has",
-        "url": "https://www.fiercebiotech.com/biotech/novartis-centerpiece-12b-avidity-buyout-flunks-crucial-phase-3-test",
-        "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/Novartis_2.jpg?VersionId=NAIc72cpvz1.DbP60WZ1g6u7sgvZQng.",
-        "publishedAt": "2026-09-08T07:34:00Z",
-        "content": null
+        "title": "Demand for riskier mortgages rises again, along with interest rates - CNBC",
+        "description": "Mortgage rates continue to climb, so more borrowers are turning to adjustable rate mortgages, which offer lower interest rates comparatively.",
+        "url": "https://www.cnbc.com/2026/09/09/demand-for-riskier-mortgages-rises-again-along-with-interest-rates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108351241-1787091269608-gettyimages-2288493560-US_HOUSING.jpeg?v=1787091309&w=1920&h=1080",
+        "publishedAt": "2026-09-09T11:00:02Z",
+        "content": "Mortgage rates moved up again last week, prompting more borrowers to search for savings. They found that in riskier, adjustable-rate mortgages, or ARMs. \r\nDemand for those loans made up 8.5% of all m\u2026 [+1926 chars]"
     },
     {
         "source": {
             "id": "newsweek",
             "name": "Newsweek"
         },
-        "author": "Shane Croucher",
-        "title": "Donald Trump\u2019s Oil Price Promise Was Just Struck by Houthis Defying Hegseth - Newsweek",
-        "description": "Trump says victory over Iran will bring cheap gas fast, right as Houthi strikes expose a harder path to an oil peace dividend.",
-        "url": "https://www.newsweek.com/trump-oil-prices-houthis-saudi-arabia-iran-war-hormuz-12413915",
-        "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/09/AP26237597950541.jpg?w=1200&crop=1",
-        "publishedAt": "2026-09-08T07:15:00Z",
-        "content": "President Donald Trump tied victory over Iran to rapidly falling oil and gasoline prices Monday nightjust as renewed Houthi attacks on Saudi Arabia exposed how military success could still leave the \u2026 [+5544 chars]"
+        "author": "Megan Cartwright",
+        "title": "Cream Cheese recalled after listeria detected by FDA - yahoo.com",
+        "description": "Made Fresh Salads Inc. has recalled cream cheese and deli salads after FDA tests found listeria contamination.",
+        "url": "https://www.newsweek.com/cream-cheese-recall-fda-listeria-concerns-12419494",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/2bb08b791be27fca2d90bbf2180d3e4facda1efdc202b38af041919715d44c54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2Ff7bc129d20741bbc7c84d4f83b26cf84.png",
+        "publishedAt": "2026-09-09T10:46:41Z",
+        "content": "Made Fresh Salads Inc., based in Bay Shore, New York, has recalled all of its ready-to-eat deli-style salads and cream cheese products after environmental testing by the U.S. Food and Drug Administra\u2026 [+4066 chars]"
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "WSJ",
-        "title": "China\u2019s Trade Surplus Widens as Export Growth Accelerates - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/economy/trade/chinas-trade-surplus-widens-as-export-growth-accelerates-f4418eda",
-        "urlToImage": null,
-        "publishedAt": "2026-09-08T05:23:00Z",
-        "content": null
+        "author": "David Ingram",
+        "title": "Tesla Cybercab draws concern from Texas fire department over lack of steering wheel - NBC News",
+        "description": "Firefighters were trained to move the robotaxi with its touchscreen. One captain who took the training says it\u2019s \u201cnot the silver bullet\u201d and wants federal standards.",
+        "url": "https://www.nbcnews.com/tech/tech-news/tesla-cybercab-no-steering-wheel-worries-austin-firefighters-rcna596658",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260908-austin-Tesla-Cybercab-ew-244p-f25801.jpg",
+        "publishedAt": "2026-09-09T10:00:40Z",
+        "content": "The fire department in Austin, Texas, said Tuesday that it has concerns that Teslas new Cybercab could block city streets because the unusual self-driving car doesnt have a steering wheel or other tr\u2026 [+79 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Elsa Ohlen",
-        "title": "Cholesterol drug setback casts doubt over multibillion-dollar race - cnbc.com",
-        "description": "Novartis\u2019 failure raises the stakes for Amgen and Eli Lilly in the race to turn lower Lp(a) levels into fewer heart attacks and strokes.",
-        "url": "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297645-1777300177064-108297645-1777300126332-gettyimages-1902456631-20231205_225708-4595.jpg?v=1777314002&w=1920&h=1080",
-        "publishedAt": "2026-09-08T05:00:01Z",
-        "content": "Blood sample for a lipoprotein(a) test.\r\nNovartis' failure in a closely watched cardiovascular trial has raised questions about one of the pharmaceutical industry's biggest drug races and rival treat\u2026 [+5055 chars]"
+        "author": "Samantha Subin",
+        "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth - CNBC",
+        "description": "Founded in 2024, Covenant is speeding up lower-cost missile manufacturing for the U.S. military.",
+        "url": "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108360395-1788958326899-docs_a555b6d1-e963-4ac1-afeb-eb82babbab7b_riviera_images_1.jpg?v=1788958414&w=1920&h=1080",
+        "publishedAt": "2026-09-09T10:00:01Z",
+        "content": "Defense tech startup Covenant on Wednesday announced the opening of a 105,000-square-foot factory in Dallas to accelerate lower-cost missile manufacturing for the U.S. military.\r\nThe startup, which i\u2026 [+2598 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Stocktwits.com"
+            "name": "BBC News"
         },
-        "author": "Yuvraj Malik",
-        "title": "ORCL Stock Rallies Into Earnings Week: OpenAI GPT-6 Astra Buzz, Morgan Stanley\u2019s Big Target Give Bulls A Boost - Yahoo Finance",
-        "description": "Oracle shares extend a three-day rally as OpenAI\u2019s GPT-6 Astra boosts optimism around its AI cloud opportunity.",
-        "url": "https://stocktwits.com/news-articles/markets/equity/orcl-stock-rallies-into-earnings-week-open-ai-gpt-6-astra-buzz-morgan-stanley-s-big-target-give-bulls-a-boost/cZt3SZbRJxA",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/83bac1f0877f45fdf3290932947f0ba9e419e1b2787e78275d06334d3c00c43f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F1a6b668d7ce773ebf4dd8987d0d24e84",
-        "publishedAt": "2026-09-08T03:11:00Z",
-        "content": "<ul><li>Morgan Stanley raised its Oracle price target to $210, implying about 30% upside, while keeping a Neutral rating.\r\n</li><li>Investors await Oracle's Sept. 10 earnings, with cloud growth and A\u2026 [+3604 chars]"
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Flight disruption live: More flights delayed as air traffic control boss apologies for disruption - BBC",
+        "description": "More than 2,000 flights have been affected over two days, aviation analytics firm Cirium says, with images showing people asleep on floors.",
+        "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76e2/live/6a4d1660-ac64-11f1-b1d1-571ed4d7ff2c.jpg",
+        "publishedAt": "2026-09-09T09:31:24Z",
+        "content": "Image caption, David Lloyd, his wife and their friend Jacqui were returning from holiday in Estonia and Finland\r\nWe've been hearing from you - some of the hundreds of thousands of people thought to h\u2026 [+1351 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": null,
+        "title": "Chime Financial Signals Breakout On Strong Guidance, Key Acquisition - Investor's Business Daily",
+        "description": "The fintech will buy nationally chartered bank Stride for $600 million.",
+        "url": "https://www.investors.com/news/chime-financial-stocks-jumps-fintech-guidance-stride-takeover/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2021/11/TECH1-chime-112621-shutter.jpg",
+        "publishedAt": "2026-09-09T09:10:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Katrina Bishop",
+        "title": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours - CNBC",
+        "description": "OpenAI says 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours, but one mathematician has challenged the claim.",
+        "url": "https://www.cnbc.com/2026/09/09/openai-navier-stokes-math-problem-solved.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108360206-1788935108315-gettyimages-2271060387-boivin-notitle260416_npYv5.jpeg?v=1788935125&w=1920&h=1080",
+        "publishedAt": "2026-09-09T08:34:55Z",
+        "content": "The OpenAI logo is displayed on a smartphone screen.\r\nOpenAI says it solved the 90-year-old NavierStokes mathematics problem in 88 hours, using 10,000 agents and a new artificial intelligence model. \u2026 [+3401 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "\u2018I am the house now\u2019: Bessent warns currency traders not to bet against yen - Financial Times",
+        "description": "Comments follow July\u2019s rare joint intervention with Tokyo to support Japanese currency",
+        "url": "https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc732668d-197b-4a28-83ec-669439eea7b4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-09-09T08:26:37Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Eva Roytburg",
+        "title": "AGI is here, Nvidia CEO Jensen Huang has declared. Here\u2019s why the market doesn\u2019t care - Fortune",
+        "description": "If AI were really about to unleash the explosive growth its boosters predict, economists say it should show up somewhere surprising: real interest rates.",
+        "url": "https://fortune.com/2026/09/09/markets-agi-nvidia-singularity-wall-street/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2212776462-e1788903138688.jpg?resize=1200,600",
+        "publishedAt": "2026-09-09T07:00:00Z",
+        "content": "AGI, the technology once imagined to both destroy and enrich human civilization, has arrived, Nvidia chief Jensen Huang declared over the weekend.OpenAIs newest model, Astra (stars in Latin), has ach\u2026 [+5914 chars]"
     }
 ]
