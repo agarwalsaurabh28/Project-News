@@ -2,15 +2,41 @@
     {
         "source": {
             "id": null,
-            "name": "Investor's Business Daily"
+            "name": "BBC News"
         },
         "author": null,
-        "title": "Stock Market Today: Dow Slumps 400 Points As Oil Surges; Shell Jumps Past Entry (Live Coverage) - Investor's Business Daily",
-        "description": "Stock Market Today: The Dow Jones index drops Wednesday on rising oil prices. Apple stock falls ahead of the iPhone event.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2022/10/Stock-offshoreoilproduction-01-adobe.jpg",
-        "publishedAt": "2026-09-09T15:32:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate - BBC",
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "url": "https://www.bbc.com/news/articles/c5y48rz2nddo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f162/live/08923520-ad29-11f1-980e-4fc6f1211def.jpg",
+        "publishedAt": "2026-09-10T15:56:33Z",
+        "content": "With the conflict between the US and Iran in the Gulf intensifying in recent days, the cost of both crude oil and gas has been rising sharply. Brent crude went back above $100 a barrel on Wednesday a\u2026 [+25 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Emma Roth",
+        "title": "Meta\u2019s Muse AI works and creeps me out - The Verge",
+        "description": "Meta just debuted its personal AI assistant Muse. While Muse delivers on its promise of performing tasks in the background, it\u2019s hard to use the tool without thinking about its connection to Meta.",
+        "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/muse-ai-window.png?quality=90&strip=all&crop=0%2C11.012266054978%2C100%2C77.975467890045&w=1200",
+        "publishedAt": "2026-09-10T15:00:00Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nMuse rattled off very specific interests linked to my Instagram account.\r\nMuse rattled off very specific interests linked to my Instagram account.\r\nby\r\nEmma Roth\u2026 [+6599 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Andrew Solender, Maria Curi",
+        "title": "Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach - Axios",
+        "description": "\"The American people deserve to know the details of what went on,\" wrote Sen. Josh Hawley.",
+        "url": "https://www.axios.com/2026/09/10/openai-hugging-face-senate-investigation-hawley",
+        "urlToImage": "https://images.axios.com/PZXgBBeSNy0xd-pBUZ-cf7ZJB1g=/0x35:4000x2285/1366x768/2026/09/10/1789045087907.jpg",
+        "publishedAt": "2026-09-10T14:59:58Z",
+        "content": "<ul><li>\"As you may know, in the public domain, more AI experts are warning about the existential risks of AI,\" Sen. Josh Hawley (R-Mo.) wrote in a letter to OpenAI CEO Sam Altman first obtained by A\u2026 [+1635 chars]"
     },
     {
         "source": {
@@ -18,219 +44,206 @@
             "name": "CNBC"
         },
         "author": "Jeff Cox",
-        "title": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level - CNBC",
-        "description": "The much-anticipated announcement triples the normal buyback operation and follows an announcement  from Treasury Secretary Scott Bessent.",
-        "url": "https://www.cnbc.com/2026/09/09/treasury-department-to-buy-back-6-billion-in-longer-term-debt-triple-the-normal-level.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108356369-1788183022484-gettyimages-2233913598-kd205923_mxbxztip.jpeg?v=1788183085&w=1920&h=1080",
-        "publishedAt": "2026-09-09T15:03:58Z",
-        "content": "The Treasury Department on Wednesday said it will buy back up to $6 billion of government debt in an operation aimed at keeping bond markets functioning.\r\nThe much-anticipated announcement triples th\u2026 [+4236 chars]"
+        "title": "The likelihood of a Fed interest rate hike next week just got a lot higher - CNBC",
+        "description": "Traders pushed chances for a rate increase to 70% in morning action.",
+        "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359924-1788889959959-gettyimages-2293096739-US-NEW_YORK-DIESEL_PRICE-RECORD_HIGH.jpeg?v=1788890033&w=1920&h=1080",
+        "publishedAt": "2026-09-10T14:34:55Z",
+        "content": "A swell of unfriendly factors for inflation likely will push the Federal Reserve to an interest rate hike next week and there's possibly another before the end of the year, judging by market pricing \u2026 [+3333 chars]"
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": null,
+            "name": "Semianalysis.com"
         },
-        "author": "Rebecca Bellan",
-        "title": "\u2018Gambling with our lives\u2019: Anthropic researcher quits, warns against self-improving AI - TechCrunch",
-        "description": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-        "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2063425288.jpg?resize=1200,818",
-        "publishedAt": "2026-09-09T15:02:47Z",
-        "content": "An Anthropic researcher has resigned over fears that unrestrained development of self-improving AI models will end up killing us all. \r\nJacob Coxon, a researcher who said in a social media post Tuesd\u2026 [+6001 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Aaron Cooper, Pete Muntean",
-        "title": "Amazon plane\u2019s black box reveals strange sequence of events just before cargo jet skidded off runway, killing 5 - CNN",
-        "description": "New details from a flight data recorder raise questions about what happened in the cockpit as the plane careened off a runway at Miami International Airport.",
-        "url": "https://www.cnn.com/2026/09/09/us/amazon-cargo-plane-crash-data",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26251586589574.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-09-09T14:31:42Z",
-        "content": "New information from the flight data recorder onboard the crashed Amazon Air Boeing 767-300 paints a detailed picture and raises questions about what happened in the cockpit as the plane careened off\u2026 [+6080 chars]"
+        "author": "Ellie Holbrook, Robert Boswall, Jeremie Eliahou Ontiveros, Nicolas Bontigui, Dylan Patel",
+        "title": "What is So Hard About Behind-The-Meter Power For Datacenters? Part 1 - SemiAnalysis",
+        "description": "Dumb Science Experiments vs. Money Printing Machines",
+        "url": "https://newsletter.semianalysis.com/p/what-is-so-hard-about-behind-the",
+        "urlToImage": "https://substackcdn.com/image/fetch/$s_!xp5B!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fe650d6-cdda-4d26-a83d-1e793cf406c0_1672x941.png",
+        "publishedAt": "2026-09-10T14:28:20Z",
+        "content": "Last year we were the first to call out Onsite Gas Generation as the primary method adopted by AI Labs and Hyperscalers to solve power constraints. Our positive view was far from being consensus: beh\u2026 [+48959 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Ines Ferr\u00e9",
-        "title": "Meta stock surges with Wall Street bullish on new AI agent - Yahoo Finance",
-        "description": "Meta stock rallied more than 5% on Wednesday.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/meta-stock-surges-with-wall-street-bullish-on-new-ai-agent-140959204.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/805af3b4a17bc050450dac86e0841df43e1a776567ad1e9030687ff570ef33b6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F8931724f-437f-4be1-90fc-9fd0c0f8462e",
-        "publishedAt": "2026-09-09T14:09:59Z",
-        "content": "What happened: Meta (META) stock rallied more than 5% on Wednesday.\r\nWhat's behind the move: Shares of the social media platform gained after the company debuted Muse, an AI assistant. Wall Street an\u2026 [+1709 chars]"
+        "author": "Claire Boston",
+        "title": "Home sales dropped last month as mortgage rates reached highest level in over a year - Yahoo Finance",
+        "description": "Home sales dropped 2% in August as mortgage rates continued to rise.",
+        "url": "https://finance.yahoo.com/real-estate/article/home-sales-dropped-last-month-as-mortgage-rates-reached-highest-level-in-over-a-year-141755601.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/eaa5e9eeab70874738851d753c4844b44ee9ef6953e33ffe8e9226c044be8500/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fac5f1501-4e5d-4350-afb9-f9e6cebaebfc",
+        "publishedAt": "2026-09-10T14:17:55Z",
+        "content": "Home sales declined in August as mortgage rates hit their highest levels in over a year, discouraging prospective buyers.\u00a0\r\nExisting home sales dropped 2% last month from July to a seasonally adjuste\u2026 [+1778 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Barron's"
+            "name": "Forbes"
         },
-        "author": "Al Root",
-        "title": "GE Aerospace Buys Turbine Maker in Blow to SpaceX. These Stocks Could Benefit. - Barron's",
-        "description": "GE Aerospace bought a casting company that could have fit nicely with SpaceX.",
-        "url": "https://www.barrons.com/articles/spacex-ge-aerospace-stock-turbine-50fa2dd1",
-        "urlToImage": "https://images.barrons.com/im-60621873/social",
-        "publishedAt": "2026-09-09T14:01:00Z",
-        "content": "Competition in the turbine blade manufacturing industry isheating up. This isnt the typical competition between makers, known as casters. Its a competition for the casting firms.\r\nCopyright \u00a92026Dow \u2026 [+78 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "Scott Horsley",
-        "title": "A new Anthropic model seeks to test how AI could impact the U.S. economy - NPR",
-        "description": "Will artificial intelligence nibble around the edges of the economy or upend it altogether? A new, interactive model from Anthropic lets people tests their assumptions.",
-        "url": "https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4822x2712+0+212/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7d%2F0e%2Fddddeea34919b144bdcfa02b858c%2Fgettyimages-2285051730.jpg",
-        "publishedAt": "2026-09-09T13:34:48Z",
-        "content": "Will artificial intelligence light a fire under the U.S. economy in the coming years? That's been a big question in the field of economics, and now Anthropic the company behind the popular Claude AI \u2026 [+2715 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Medora Lee",
-        "title": "Money can cause family strife. That's why parents must talk about it - USA Today",
-        "description": "As trillions transfer to heirs, new research shows many families expect conflict over inheritance fairness.",
-        "url": "https://www.usatoday.com/story/money/personalfinance/lifestages/2026/09/09/fight-inheritance-parent-talks/91657188007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/08/USAT/91666008007-20181228-t-144723-z-942500176-mt-1-usatoday-11907289-rtrmadp-3-donnievansteenberghhelpsowencasefillouthis-1.JPG?crop=3007,1693,x0,y153&width=3007&height=1693&format=pjpg&auto=webp",
-        "publishedAt": "2026-09-09T12:15:00Z",
-        "content": "An estimated $124 trillion in assets will transfer from older generations to younger heirs over the next couple of decades, but that windfall may create a storm of problems, according to new research\u2026 [+5997 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Callum Keown",
-        "title": "Google Has a Cool $15 Billion Fix to the AI Energy Problem - Barron's",
-        "description": "Google announced a $15 billion investment in AI infrastructure in Finland, one of Europe's coldest countries.",
-        "url": "https://www.barrons.com/articles/google-stock-ai-energy-fix-31d9fe50",
-        "urlToImage": "https://images.barrons.com/im-88884466/social",
-        "publishedAt": "2026-09-09T12:13:00Z",
-        "content": "Google has found an interesting way to combat the sky-highenergy costsinvolved in data centersbuild them in an extremely cold country.\r\nCopyright \u00a92026Dow Jones &amp; Company, Inc. All Rights Reserve\u2026 [+34 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Diana Olick",
-        "title": "Demand for riskier mortgages rises again, along with interest rates - CNBC",
-        "description": "Mortgage rates continue to climb, so more borrowers are turning to adjustable rate mortgages, which offer lower interest rates comparatively.",
-        "url": "https://www.cnbc.com/2026/09/09/demand-for-riskier-mortgages-rises-again-along-with-interest-rates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108351241-1787091269608-gettyimages-2288493560-US_HOUSING.jpeg?v=1787091309&w=1920&h=1080",
-        "publishedAt": "2026-09-09T11:00:02Z",
-        "content": "Mortgage rates moved up again last week, prompting more borrowers to search for savings. They found that in riskier, adjustable-rate mortgages, or ARMs. \r\nDemand for those loans made up 8.5% of all m\u2026 [+1926 chars]"
-    },
-    {
-        "source": {
-            "id": "newsweek",
-            "name": "Newsweek"
-        },
-        "author": "Megan Cartwright",
-        "title": "Cream Cheese recalled after listeria detected by FDA - yahoo.com",
-        "description": "Made Fresh Salads Inc. has recalled cream cheese and deli salads after FDA tests found listeria contamination.",
-        "url": "https://www.newsweek.com/cream-cheese-recall-fda-listeria-concerns-12419494",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/2bb08b791be27fca2d90bbf2180d3e4facda1efdc202b38af041919715d44c54/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2Ff7bc129d20741bbc7c84d4f83b26cf84.png",
-        "publishedAt": "2026-09-09T10:46:41Z",
-        "content": "Made Fresh Salads Inc., based in Bay Shore, New York, has recalled all of its ready-to-eat deli-style salads and cream cheese products after environmental testing by the U.S. Food and Drug Administra\u2026 [+4066 chars]"
+        "author": "Forbes",
+        "title": "Forbes\u2019 Top 25 Public Colleges For 2027 - Forbes",
+        "description": null,
+        "url": "https://www.forbes.com/sites/janetnovack/2026/09/10/forbes-top-25-public-colleges/",
+        "urlToImage": null,
+        "publishedAt": "2026-09-10T14:14:52Z",
+        "content": null
     },
     {
         "source": {
             "id": "nbc-news",
             "name": "NBC News"
         },
-        "author": "David Ingram",
-        "title": "Tesla Cybercab draws concern from Texas fire department over lack of steering wheel - NBC News",
-        "description": "Firefighters were trained to move the robotaxi with its touchscreen. One captain who took the training says it\u2019s \u201cnot the silver bullet\u201d and wants federal standards.",
-        "url": "https://www.nbcnews.com/tech/tech-news/tesla-cybercab-no-steering-wheel-worries-austin-firefighters-rcna596658",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260908-austin-Tesla-Cybercab-ew-244p-f25801.jpg",
-        "publishedAt": "2026-09-09T10:00:40Z",
-        "content": "The fire department in Austin, Texas, said Tuesday that it has concerns that Teslas new Cybercab could block city streets because the unusual self-driving car doesnt have a steering wheel or other tr\u2026 [+79 chars]"
+        "author": "Steve Kopack",
+        "title": "U.S. crude oil hits $100 for the first time since May - NBC News",
+        "description": "The price of oil surged again, with Brent crude surpassing $105 per barrel for the first time since May as markets brace for a long U.S. war with Iran.",
+        "url": "https://www.nbcnews.com/business/energy/us-crude-oil-iran-trump-hormuz-rcna596997",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260910-hormuz-mn-0840-6bdbf3.jpg",
+        "publishedAt": "2026-09-10T14:01:12Z",
+        "content": "But rising yields may also be attributable to a pledge by Trump on Wednesday night to give a $5,000 rebate to all U.S. adults if Republicans retain the House and Senate in November. While details of \u2026 [+3189 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Marketing Dive"
+        },
+        "author": "Peter Adams",
+        "title": "Amazon pilots ad services in ChatGPT: What marketers need to know - Marketing Dive",
+        "description": "The managed service offering, which is in a U.S. pilot and available via Amazon DSP, comes as ChatGPT Ads recently hit a revenue milestone.",
+        "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+        "urlToImage": "https://imgproxy.divecdn.com/sNSSbOl7odBxgD0RyDDvlQcBNCvOvOXgQw9d5sAI8Ck/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3MzE5NzE0LmpwZw==.webp",
+        "publishedAt": "2026-09-10T13:11:18Z",
+        "content": "Dive Brief:\r\n<ul><li>Amazon advertisers will be able to extend their campaigns into conversational experiences on ChatGPT as part of a new partnership between the e-commerce giant and the chatbots de\u2026 [+3981 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WPBF West Palm Beach"
+        },
+        "author": "John Perik",
+        "title": "Witness says Miami plane crash pilot told him, 'My career is over' after deadly runway overrun - WPBF",
+        "description": "Seconds before the Miami crash, investigators say the plane\u2019s throttles were at full power, and no speed brakes or thrust reversers were deployed.",
+        "url": "https://www.wpbf.com/article/amazon-cargo-plane-crash-miami-witness/73666768",
+        "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/41edf093-de1d-4ebc-b3ab-de9504a063d6.jpg?crop=0.826xw%3A1.00xh%3B0.0488xw%2C0&resize=1200%3A*",
+        "publishedAt": "2026-09-10T12:49:00Z",
+        "content": "MIAMIThe NTSB believes the pilots of an Amazon cargo plane involved in Sunday's deadly crash at Miami International Airport considered aborting the landing moments before the disaster. \r\nThe crash ki\u2026 [+1610 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Anahad O\u2019Connor",
+        "title": "Column | The truth about how much protein your body can absorb in one meal - The Washington Post",
+        "description": "Conventional wisdom says you can use only 30 grams of protein at once. Scientists say that\u2019s a myth.",
+        "url": "https://www.washingtonpost.com/wellness/2026/09/10/truth-about-how-much-protein-your-body-can-absorb-one-meal/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OVWUGKFWFHIF2AXVYPVL7OOJEU.jpg&w=1440",
+        "publishedAt": "2026-09-10T12:40:41Z",
+        "content": "Is there a limit to how much protein your body can use from one meal? The answer may surprise you.\r\nProtein is a vital nutrient. It makes up our muscles, organs and skin cells. Our bodies can make so\u2026 [+307 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Samantha Subin",
-        "title": "Andreessen- and Thiel-backed defense startup opens U.S. missile factory as it exits stealth - CNBC",
-        "description": "Founded in 2024, Covenant is speeding up lower-cost missile manufacturing for the U.S. military.",
-        "url": "https://www.cnbc.com/2026/09/09/defense-tech-covenant-anthem-missile.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108360395-1788958326899-docs_a555b6d1-e963-4ac1-afeb-eb82babbab7b_riviera_images_1.jpg?v=1788958414&w=1920&h=1080",
-        "publishedAt": "2026-09-09T10:00:01Z",
-        "content": "Defense tech startup Covenant on Wednesday announced the opening of a 105,000-square-foot factory in Dallas to accelerate lower-cost missile manufacturing for the U.S. military.\r\nThe startup, which i\u2026 [+2598 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Flight disruption live: More flights delayed as air traffic control boss apologies for disruption - BBC",
-        "description": "More than 2,000 flights have been affected over two days, aviation analytics firm Cirium says, with images showing people asleep on floors.",
-        "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76e2/live/6a4d1660-ac64-11f1-b1d1-571ed4d7ff2c.jpg",
-        "publishedAt": "2026-09-09T09:31:24Z",
-        "content": "Image caption, David Lloyd, his wife and their friend Jacqui were returning from holiday in Estonia and Finland\r\nWe've been hearing from you - some of the hundreds of thousands of people thought to h\u2026 [+1351 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Chime Financial Signals Breakout On Strong Guidance, Key Acquisition - Investor's Business Daily",
-        "description": "The fintech will buy nationally chartered bank Stride for $600 million.",
-        "url": "https://www.investors.com/news/chime-financial-stocks-jumps-fintech-guidance-stride-takeover/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2021/11/TECH1-chime-112621-shutter.jpg",
-        "publishedAt": "2026-09-09T09:10:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+        "author": "Jeff Cox",
+        "title": "Wholesale prices rose 0.4% in August, as expected - CNBC",
+        "description": "The producer price index was expected to rise 0.4% in August, according to the Dow Jones consensus forecast.",
+        "url": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359250-1788556763771-gettyimages-2293564592-6k7a0759_ru7r5yzd.jpeg?v=1788556808&w=1920&h=1080",
+        "publishedAt": "2026-09-10T12:31:29Z",
+        "content": "U.S. wholesale prices rose in August, according to a report Thursday that could play a key role in the Federal Reserve's upcoming interest rate decision.\r\nThe producer price index, a measure of final\u2026 [+3042 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Katrina Bishop",
-        "title": "OpenAI claims to have solved the 90-year-old Navier-Stokes math problem in 88 hours - CNBC",
-        "description": "OpenAI says 10,000 of its agents solved the 90-year-old Navier-Stokes problem in 88 hours, but one mathematician has challenged the claim.",
-        "url": "https://www.cnbc.com/2026/09/09/openai-navier-stokes-math-problem-solved.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108360206-1788935108315-gettyimages-2271060387-boivin-notitle260416_npYv5.jpeg?v=1788935125&w=1920&h=1080",
-        "publishedAt": "2026-09-09T08:34:55Z",
-        "content": "The OpenAI logo is displayed on a smartphone screen.\r\nOpenAI says it solved the 90-year-old NavierStokes mathematics problem in 88 hours, using 10,000 agents and a new artificial intelligence model. \u2026 [+3401 chars]"
+        "author": "Julia Spina",
+        "title": "Oracle options are doing something curious heading into earnings - CNBC",
+        "description": "If ever there were a stock that captured the hopes and fear of the AI trade, it's Oracle.",
+        "url": "https://www.cnbc.com/2026/09/10/oracle-options-are-doing-something-curious-heading-into-earnings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348677-1786560865437-gettyimages-2289704306-US_STOCKS.jpeg?v=1786560938&w=1920&h=1080",
+        "publishedAt": "2026-09-10T12:20:51Z",
+        "content": "If ever there were a stock that captured the hopes and fear of the AI trade, it's Oracle. \r\nShares have fallen 17% year to date and have lost over half their value from their 52-week highs. Still, op\u2026 [+4251 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Financial Times"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": null,
-        "title": "\u2018I am the house now\u2019: Bessent warns currency traders not to bet against yen - Financial Times",
-        "description": "Comments follow July\u2019s rare joint intervention with Tokyo to support Japanese currency",
-        "url": "https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc732668d-197b-4a28-83ec-669439eea7b4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-09-09T08:26:37Z",
+        "author": "Grant Smith",
+        "title": "Saudis Tell OPEC That Output Slumped Again to Lowest Since 1990 - Bloomberg.com",
+        "description": "Saudi Arabia reported to OPEC that its crude oil production plunged again last month, hitting the lowest since 1990 as renewed hostilities between the US and Iran squeezed the kingdom\u2019s export routes.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-10/saudis-tell-opec-that-output-slumped-again-to-lowest-since-1990",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9iE.aytIuGM/v0/1200x800.jpg",
+        "publishedAt": "2026-09-10T12:00:00Z",
+        "content": "Saudi Arabia reported to OPEC that its crude oil production plunged again last month, hitting the lowest since 1990 as renewed hostilities between the US and Iran squeezed the kingdoms export routes.\u2026 [+351 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Alexandra Skores",
+        "title": "When passenger jets became missiles, they investigated. They\u2019re remembering it 25 years later - CNN",
+        "description": "Crumbs of a vanilla ice cream sandwich covered Michael McCormick\u2019s 6-year-old son\u2019s mouth as the two sat on the edge of the fountain between the North and South towers of the World Trade Center.",
+        "url": "https://www.cnn.com/2026/09/10/us/25-years-after-911-aviation",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/usatsi-11221326-20260909181822975.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-09-10T11:49:59Z",
+        "content": "Crumbs of a vanilla ice cream sandwich covered Michael McCormicks 6-year-old sons mouth as the two sat on the edge of the fountain between the North and South towers of the World Trade Center.\r\nMcCor\u2026 [+23208 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Stock Market Today: Dow Futures Gain; Bond Yields and Oil Edge Higher \u2014 Live Updates - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026",
+        "urlToImage": null,
+        "publishedAt": "2026-09-10T11:49:00Z",
         "content": null
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Eva Roytburg",
-        "title": "AGI is here, Nvidia CEO Jensen Huang has declared. Here\u2019s why the market doesn\u2019t care - Fortune",
-        "description": "If AI were really about to unleash the explosive growth its boosters predict, economists say it should show up somewhere surprising: real interest rates.",
-        "url": "https://fortune.com/2026/09/09/markets-agi-nvidia-singularity-wall-street/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2212776462-e1788903138688.jpg?resize=1200,600",
-        "publishedAt": "2026-09-09T07:00:00Z",
-        "content": "AGI, the technology once imagined to both destroy and enrich human civilization, has arrived, Nvidia chief Jensen Huang declared over the weekend.OpenAIs newest model, Astra (stars in Latin), has ach\u2026 [+5914 chars]"
+        "author": "Matt Phillips",
+        "title": "Bessent fails to shock and awe the bond market - Axios",
+        "description": "Scott Bessent doesn't have a bazooka, and investors know it.",
+        "url": "https://www.axios.com/2026/09/10/bessent-bonds-buyback-treasury",
+        "urlToImage": "https://images.axios.com/XAHmfaQ3vrNEbJRiZs7Y6j-gG54=/0x0:1344x756/1366x768/2026/09/09/1788991060933.png",
+        "publishedAt": "2026-09-10T11:15:47Z",
+        "content": "Driving the news: The Treasury announced on Wednesday that it would buy back $6 billion triple what it initially planned in long-term bonds per operation this quarter, with one of those operations se\u2026 [+3213 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TheStreet"
+        },
+        "author": "thestreet.com",
+        "title": "Jim Cramer has strong message for Nvidia, Broadcom investors - thestreet.com",
+        "description": null,
+        "url": "https://www.thestreet.com/investing/stocks/jim-cramer-nvidia-broadcom-stocks-benefit-from-openai-gpt6-astra",
+        "urlToImage": null,
+        "publishedAt": "2026-09-10T11:07:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Robert Hart",
+        "title": "Mathematicians want proof OpenAI didn\u2019t use their work - The Verge",
+        "description": "Another mathematician accused the company of \u2018dishonesty\u2019 after several big breakthroughs.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236544323.jpg?quality=90&strip=all&crop=0%2C10.54557577814%2C100%2C78.90884844372&w=1200",
+        "publishedAt": "2026-09-10T11:00:57Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nAnother mathematician accused the company of dishonesty after several big breakthroughs. \r\nAnother mathematician accused the company of dishonesty after several \u2026 [+6043 chars]"
     }
 ]
