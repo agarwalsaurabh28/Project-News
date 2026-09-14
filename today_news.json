@@ -1,249 +1,236 @@
 [
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": null,
+            "name": "Fox Business"
         },
-        "author": "WSJ",
-        "title": "Urinals, Skinny-Dipping Pools and Other Wild Home Buyers Must-Haves - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/real-estate/luxury-homes/uncommon-home-features-671656f6",
-        "urlToImage": null,
-        "publishedAt": "2026-09-12T14:00:00Z",
-        "content": null
+        "author": "Anders Hagstrom",
+        "title": "Irish golf fans chant 'USA' after Trump announces end of tariffs on Irish whiskey - Fox Business",
+        "description": "Irish golf fans chanted \"U-S-A\" after President Donald Trump announced an end to U.S. tariffs on Irish whiskey at the Irish Open on Sunday.",
+        "url": "https://www.foxbusiness.com/politics/irish-golf-fans-chant-usa-after-trump-announces-end-tariffs-irish-whiskey",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/donald-trump-irish-whiskey-tariffs.jpg?ve=1&tl=1",
+        "publishedAt": "2026-09-13T17:53:17Z",
+        "content": "Fans at the Irish Open cheered President Donald Trump after he announced the end of U.S. tariffs on Irish whiskey on Sunday.\r\nTrump made the announcement while speaking at the award ceremony for the \u2026 [+2664 chars]"
     },
     {
         "source": {
             "id": "usa-today",
             "name": "USA Today"
         },
-        "author": "Mike Snider",
-        "title": "After closures, Denny's bets on a comeback - USA Today",
-        "description": "Denny's, which became privately held in a $620 million deal earlier this year, is cooking up a rebuilding recipe with a new menu and renovations.",
-        "url": "https://www.usatoday.com/story/money/2026/09/12/dennys-restaurants-new-menu-renovations/91691788007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/11/USAT/91718462007-getty-images-2199677281.jpg?crop=5407,3042,x0,y292&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-09-12T13:19:00Z",
-        "content": "Denny's wants to serve customers a new menu and a new narrative.\r\nAn all-too-familiar development made the news earlier this week when a franchisee closed five Denny's restaurants in Minnesota and Wi\u2026 [+7031 chars]"
+        "author": "Daniel de Vise\u0301",
+        "title": "Retirees spent their lives saving. Now they're afraid to spend - USA Today",
+        "description": "Americans spend their entire career saving for retirement. For many retirees, the transition to spending that money is difficult.",
+        "url": "https://www.usatoday.com/story/money/personal-finance/2026/09/13/retirees-reluctant-spend-savings/91695541007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/10/USAT/91695768007-retirement-6.JPG?crop=4714,2652,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2026-09-13T17:23:00Z",
+        "content": "American workers are told to spend their entire career saving for retirement, building a nest egg that they dare not touch.\u00a0\r\nWhen that career ends, retirees are expected to break the\u00a0nest egg and be\u2026 [+4306 chars]"
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Allie Canal, Savannah Sellers",
-        "title": "How L.L.Bean embraces its old-school roots: Brick-and-mortar stores, print catalogs, no AI - NBC News",
-        "description": "L.L.Bean is embracing its rugged roots in Freeport, Maine, shunning AI and adding more brick-and-mortar stores.",
-        "url": "https://www.nbcnews.com/business/ceo-interviews/llbean-maine-roots-catalog-ai-stores-rcna596849",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260911-ll-bean-business-in-america-4-ew-220p-6cf2b8.jpg",
-        "publishedAt": "2026-09-12T13:11:01Z",
-        "content": "L.L.Beans origin story grew from the ground up literally.\r\nThe company, which sells everything from clothing and footwear to tote bags and home goods, was first established in 1912 after its namesake\u2026 [+3663 chars]"
+        "author": "Miriam Waldvogel",
+        "title": "He was close to a huge math breakthrough. Then he got scooped by AI. - The Washington Post",
+        "description": "A New York University professor questions whether AI agents that solved one of the most complex problems in theoretical mathematics were fed on his work.",
+        "url": "https://www.washingtonpost.com/technology/2026/09/13/he-was-close-1-million-breakthrough-then-openai-swooped/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PL226ELYAXZN6IKGSAYXZL6S5Q.jpg&w=1440",
+        "publishedAt": "2026-09-13T17:00:00Z",
+        "content": "Tristan Buckmaster thought he was on the verge ofthe most important discovery of his mathematical career when he heard that ChatGPT maker OpenAI was interested in the same problem and had launched an\u2026 [+32 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Female passenger undresses on American Airlines flight, engages in 'indecent acts,' crew reports - foxnews.com",
+        "description": "A female passenger on American Airlines Flight 1779 reportedly undressed and performed indecent acts mid-flight, prompting law enforcement at Miami.",
+        "url": "https://www.foxnews.com/us/female-passenger-undresses-american-airlines-flight-engages-indecent-acts-crew-reports",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/american-airlines-miami-international-airport.jpg",
+        "publishedAt": "2026-09-13T16:00:53Z",
+        "content": "Law enforcement officers met an American Airlines flight upon its arrival at Miami International Airport late Friday night following reports of a female passenger undressing and behaving indecently m\u2026 [+1738 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "TheStreet"
         },
-        "author": "Deena Zaidi",
-        "title": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks - CNBC",
-        "description": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
-        "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359327-1788699994908-gettyimages-1410770965-_dsc0885.jpeg?v=1788700077&w=1920&h=1080",
-        "publishedAt": "2026-09-12T12:49:15Z",
-        "content": "Americans face a renewed squeeze on their paychecks as inflation once again rises faster than wage growth, putting further pressure on consumer wallets.\r\n\"A substantial number of Americans are worse \u2026 [+3430 chars]"
+        "author": "thestreet.com",
+        "title": "Vanguard, Fidelity name the smarter alternative to selling stock - thestreet.com",
+        "description": null,
+        "url": "https://www.thestreet.com/investing/vanguard-fidelity-donate-repurchase-ai-stock-capital-gains",
+        "urlToImage": null,
+        "publishedAt": "2026-09-13T15:47:00Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "fox5sandiego.com"
         },
-        "author": "Spencer Kimball",
-        "title": "Oil's roundtrip back to $100. Why China could determine what happens next - CNBC",
-        "description": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.",
-        "url": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108284017-1774615135525-gettyimages-2268007114-AFP_A4VU6NZ.jpeg?v=1774615226&w=1920&h=1080",
-        "publishedAt": "2026-09-12T12:40:05Z",
-        "content": "China will play a pivotal role in deciding whether oil prices sustain this week's rally and potentially test wartime highs.\r\nThe U.S. crude oil price on Thursday topped $102 per barrel for its highes\u2026 [+3613 chars]"
+        "author": "Amber Coakley",
+        "title": "14-year-old killed in Pacific beach e-bike crash involving Tesla - fox5sandiego.com",
+        "description": "A 14-year-old boy riding an e-bike was killed Saturday night in Pacific Beach after being struck by a Tesla at an intersection.",
+        "url": "https://fox5sandiego.com/traffic/pacific-beach-ebike-fatality/",
+        "urlToImage": "https://fox5sandiego.com/wp-content/uploads/sites/15/2026/09/GettyImages-2033885973.jpg?w=1280",
+        "publishedAt": "2026-09-13T15:21:17Z",
+        "content": "SAN DIEGO (FOX 5/KUSI) A 14-year-old boy riding an e-bike was killed Saturday night after he was struck by a Tesla in Pacific Beach, authorities said.\r\n<ul><li>The FOX 5/KUSI video above provides dri\u2026 [+771 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Inc."
+        },
+        "author": "inc.com",
+        "title": "T.J. Maxx Is Closing Stores: Updated List of Doomed Locations for 2026 - inc.com",
+        "description": null,
+        "url": "https://www.inc.com/amaya-nichole/tj-maxx-is-closing-stores-updated-list-doomed-locations-2026/91404174",
+        "urlToImage": null,
+        "publishedAt": "2026-09-13T14:56:52Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Ines Ferr\u00e9",
-        "title": "Why stocks haven't tanked despite higher bond yields: Chart of the Day - finance.yahoo.com",
-        "description": "Rising long-dated bond yields haven't dented the stock market that much. The reason may have to do with why yields have been rising.",
-        "url": "https://finance.yahoo.com/news/why-stocks-havent-tanked-despite-higher-bond-yields-chart-of-the-day-123346395.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/972d5faba45b44f3b21622eb78103c8bfff61fc5fe85ce596a9e3fda85f48590/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F91bd5574-a8f7-4997-898c-29fb0354bb0e",
-        "publishedAt": "2026-09-12T12:33:46Z",
-        "content": "With the S&amp;P 500 (^GSPC) roughly 2% away from its all-time closing high, investors may be wondering why rising bond yields haven't dealt a heavier blow to stocks and if the rally from the first e\u2026 [+2577 chars]"
+        "author": "Myriam LEMETAYER and Asad HASHIM",
+        "title": "'This is the test': All eyes on US Fed to tackle high inflation - Yahoo Finance",
+        "description": "The US Federal Reserve goes into a key rate-setting meeting this week with markets expecting policymakers to pull the trigger on a rate hike to tackle persis...",
+        "url": "https://finance.yahoo.com/economy/policy/articles/test-eyes-us-fed-tackle-015023624.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/ef1921ab3375a080140a782ba0d0413ad96a8d4ca8e14084dc233697489fc223/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F82de0b522b6581518e6b136f7fea65f3.jpg",
+        "publishedAt": "2026-09-13T14:52:35Z",
+        "content": "Federal Reserve Chairman Kevin Warsh faces his first real test since taking office in showing how he will address rising inflation at the upcoming Fed meeting amid pressure from President Donald Trum\u2026 [+4564 chars]"
     },
     {
         "source": {
-            "id": "the-hill",
-            "name": "The Hill"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Sarah Davis",
-        "title": "Trump says he would allow Chinese automakers to build cars in US - thehill.com",
-        "description": "President Trump said Friday he would permit Chinese automakers to move manufacturing to the U.S. over the protest of American automakers.\u00a0 \u201cIf China wanted to come in and open a plant to build their cars here, I\u2019d be OK with it,\u201d the president told Fox News\u2019s\u2026",
-        "url": "https://thehill.com/homenews/administration/6085912-trump-permits-chinese-automakers-us-manufacturing/",
-        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/08/trump_donald_jinping_xi_AP26237824291014-1.jpg?w=1280",
-        "publishedAt": "2026-09-12T12:01:00Z",
-        "content": "Skip to content\r\nPresident Trump said Friday he would permit Chinese automakers to move manufacturing to the U.S. over the protest of American automakers.\u00a0\r\n\u201cIf China wanted to come in and open a pla\u2026 [+1871 chars]"
+        "author": "Jennifer A Dlouhy, Skylar Woodhouse",
+        "title": "Trump Pushes Fed to Lower Rates Despite Pressure to Raise Them - Bloomberg.com",
+        "description": "President Donald Trump reiterated that the US should have the lowest interest rates in the world even as his handpicked chair for the Federal Reserve, Kevin Warsh, faces renewed pressure to raise borrowing costs.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-pushes-fed-to-lower-rates-despite-pressure-to-raise-them",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGRdKXW5EAI0/v1/1200x833.jpg",
+        "publishedAt": "2026-09-13T13:45:52Z",
+        "content": "President Donald Trump reiterated that the US should have the lowest interest rates in the world even as his handpicked chair for the Federal Reserve, Kevin Warsh, faces renewed pressure to raise bor\u2026 [+231 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Michael Wayland",
-        "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties - CNBC",
-        "description": "Most battery cells currently rely on raw materials from China. GM is seeking to establish domestic supply chains both for EVs and energy storage.",
-        "url": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108361876-1789141454960-Kelty.jpg?v=1789157448&w=1920&h=1080",
-        "publishedAt": "2026-09-12T12:00:01Z",
-        "content": "Kurt Kelty, GM's vice president of battery and sustainability, speaks June 9, 2026, during the automaker's \"Empower\" event in which it announced the development of sodium-ion batteries for energy sto\u2026 [+5629 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Nathan Bomey",
-        "title": "Record diesel prices stoke food inflation, transportation costs - Axios",
-        "description": "The record price of diesel threatens to stoke inflation at a time when consumers are already price-sensitive.",
-        "url": "https://www.axios.com/2026/09/11/diesel-fuel-prices-food-transportation",
-        "urlToImage": "https://images.axios.com/NH3FByQi7M-61Hi067icXOdfihk=/1366x768/smart/2024/01/30/205014-1706647814643.jpg",
-        "publishedAt": "2026-09-12T11:25:46Z",
-        "content": "Driving the news: The national average price of a gallon of diesel topped $6 for the first time ever, AAA said Friday, Axios' Ben Berkowitz reports.\r\n<ul><li>That's up 60% from a year earlier.</li></\u2026 [+2151 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Andrew Behar",
-        "title": "A flawed system and one man\u2019s hubris cost Meta shareholders $17 billion - fortune.com",
-        "description": "Meta's settlement may seem large, but it may be just the tip of the iceberg. The plaintiffs' own models put the damages in the trillions.",
-        "url": "https://fortune.com/2026/09/12/zuckerberg-meta-17-billion-settlement-hubris-flawed-system/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2268011935-e1789149679353.jpg?resize=1200,600",
-        "publishedAt": "2026-09-12T11:00:00Z",
-        "content": "Meta has agreed to pay up to $17.1 billion to settle claims by 47 states and thousands of families making the case that Facebook and Instagram were engineered to addict children.\u00a0\u00a0\u00a0While the settleme\u2026 [+4882 chars]"
+        "author": "Lorie Konish",
+        "title": "Taxing high earners to help fund Social Security gains bipartisan attention \u2014 what it could mean for benefits - CNBC",
+        "description": "With Social Security due to reach a funding shortfall in six years, more lawmakers are opening up to the idea of taxing high earners to help fund the program.",
+        "url": "https://www.cnbc.com/2026/09/13/social-security-payroll-tax-cap.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333390-1783692632728-gettyimages-2285436358-1r1_9476-2_ed7hhywz.jpeg?v=1789161794&w=1920&h=1080",
+        "publishedAt": "2026-09-13T13:30:01Z",
+        "content": "People walk with umbrellas outside of the U.S. Capitol on July 9, 2026.\r\nAs Social Security faces a funding shortfall, some lawmakers have renewed calls to raise taxes on high earners to help shore u\u2026 [+7121 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "CNBC"
         },
-        "author": null,
-        "title": "Canada seeks $1tn from investors looking for a haven from Donald Trump - Financial Times",
-        "description": "Prime Minister Mark Carney hosts a summit to put money behind his plan to decouple from an increasingly hostile US",
-        "url": "https://www.ft.com/content/4dc6710b-7911-44c6-b57a-2fb47b6b04ed?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F06520e1d-f610-45fe-a2fd-c95950ab0dc5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-09-12T10:00:05Z",
-        "content": "Get 2 months free with an annual subscription at was $59.88now $49. Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on \u2026 [+91 chars]"
+        "author": "Kevin Williams",
+        "title": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock - CNBC",
+        "description": "The U.S.-Iran war has caused oil prices to surge and added to freight stress from tariffs, but no shipping trade has boomed quite like crude oil tanker futures.",
+        "url": "https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108354962-1787810582819-gettyimages-2291320726-koutsokostas-notitle260824_npYkV.jpeg?v=1787810594&w=1920&h=1080",
+        "publishedAt": "2026-09-13T13:26:44Z",
+        "content": "The crude oil tanker Giannis unloads its cargo of Middle Eastern crude at the Motor Oil terminal in Agioi Theodoroi, near Corinth, Greece, on August 24, 2026, following its departure from the United \u2026 [+10169 chars]"
     },
     {
         "source": {
-            "id": "wired",
-            "name": "Wired"
+            "id": null,
+            "name": "TheStreet"
         },
-        "author": "Isabella Ward",
-        "title": "\u2018I\u2019m Really Terrified\u2019: A Mathematician Grapples With AI\u2019s Recent Breakthroughs - WIRED",
-        "description": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life\u2019s work.",
-        "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
-        "urlToImage": "https://media.wired.com/photos/6aa416744de88ba2f8bc1a31/191:100/w_1280,c_limit/Math-OpenAI-Steven.jpg",
-        "publishedAt": "2026-09-12T10:00:00Z",
-        "content": "Mathematician and author Steven Strogatz starts to cry when he talks about the artificial-intelligence-driven breakthroughs in his field over the past week.\r\nThe science is thrilling, the Cornell Uni\u2026 [+3284 chars]"
+        "author": "thestreet.com",
+        "title": "49-year-old clothing chain closing stores as its shoppers shrink - thestreet.com",
+        "description": null,
+        "url": "https://www.thestreet.com/retail/49-year-old-mens-clothing-chain-destination-xl-closing-more-stores",
+        "urlToImage": null,
+        "publishedAt": "2026-09-13T13:15:57Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Forbes",
+        "title": "Why Do Men Grow Beards? An Evolutionary Biologist Explains - Forbes",
+        "description": null,
+        "url": "https://www.forbes.com/sites/scotttravers/2026/09/13/why-do-men-grow-beards-an-evolutionary-biologist-explains/",
+        "urlToImage": null,
+        "publishedAt": "2026-09-13T13:00:00Z",
+        "content": null
     },
     {
         "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Kashmira Gander",
-        "title": "I'm a French CEO in NYC. I say 'no' to 80% of emails, take two-hour lunches, and don't compare myself to others. - Business Insider",
-        "description": "Julie Chapon is the CEO and cofounder of Yuka, an app that scores food and cosmetics according to their ingredients. Here's a day in her life.",
-        "url": "https://www.businessinsider.com/yuka-app-ceo-routine-saying-long-lunch-cycle-to-work-2026-9#article",
-        "urlToImage": "https://i.insider.com/6aa42447ec15fe2d3cf16466?width=1200&format=jpeg",
-        "publishedAt": "2026-09-12T09:05:15Z",
-        "content": "This as-told-to essay is based on a conversation with Julie Chapon, the 39-year-old CEO and cofounder of Yuka, who is based in New York. The app rates food and cosmetics based on their ingredients an\u2026 [+7075 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Medora Lee",
-        "title": "Major companies to cut back on 2027 health benefits in blow to workers - USA Today",
-        "description": "Disney and Starbucks are among firms cutting health benefits for 2027 as medical costs continue to soar. This trend may mean you'll pay more.",
-        "url": "https://www.usatoday.com/story/money/personal-finance/healthcare/2026/09/12/health-benefit-cuts-disney-starbucks-2027/91671778007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/09/USAT/91673900007-20260806-t-164838-z-1977986487-mt-1-usatoday-29527636-rtrmadp-3-erynnpetersenleftfounderofthetechplatformemmeand.JPG?crop=2099,1181,x0,y0&width=2099&height=1181&format=pjpg&auto=webp",
-        "publishedAt": "2026-09-12T09:04:00Z",
-        "content": "Health benefits are a top factor in whether Americans take or stay in a job, yet in a span of a few weeks, a handful of large employers reportedly are planning cutbacks or changes that can make that \u2026 [+6184 chars]"
+        "author": "Alesandra Dubin",
+        "title": "My First Cruise Surprised Me. There Were a Lot of Pros, and 1 Big Con. - Business Insider",
+        "description": "I'm a seasoned traveler, but hadn't been on a cruise until this summer. I realized I had misconceptions about cruising, but was right about one thing.",
+        "url": "https://www.businessinsider.com/first-luxury-cruise-surprised-me-pros-cons-2026-9#article",
+        "urlToImage": "https://i.insider.com/6aa2db86ec15fe2d3cf15cd7?width=1200&format=jpeg",
+        "publishedAt": "2026-09-13T12:34:00Z",
+        "content": "For all the things I loved about cruising, one of my original reservations did bear out.\r\nI usually think of travel as a way to experience a place and its culture. I like wandering neighborhoods, eat\u2026 [+958 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "NPR"
+            "name": "Futurism"
         },
-        "author": "Joel Rose",
-        "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon - NPR",
-        "description": "The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon. Former pilots were sounding alarms even before Sunday's accident.",
-        "url": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3900x2194+0+203/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F64%2Fb519610746019db99585eaf914de%2Fgettyimages-2293432294.jpg",
-        "publishedAt": "2026-09-12T09:00:00Z",
-        "content": "In the moments before an Amazon cargo plane crashed at Miami International Airport on Sunday, automatic warning signals were blaring in the cockpit. One pilot warned the other that the plane was comi\u2026 [+7646 chars]"
+        "author": "Frank Landymore",
+        "title": "Bizarre New Websites Are Designed Specifically to Spark Dopamine in Your Brain - futurism.com",
+        "description": "A wave of \"dopamine sites\" are designed to spark the pleasure centers in your lizard brain by simulating shopping and ordering food.",
+        "url": "https://futurism.com/future-society/bizarre-websites-dopamine-brain",
+        "urlToImage": "https://futurism.com/wp-content/uploads/2026/09/bizarre-websites-dopamine-brain.jpg?quality=85&w=1200",
+        "publishedAt": "2026-09-13T12:02:00Z",
+        "content": "Can\u2019t-miss innovations from the bleeding edge of science and tech\r\nAs far as completely pointless ways to kill time on your phone, this is certainly one of the weirdest on record.\r\nBehold the all-new\u2026 [+3047 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Fox Business"
+            "name": "CNBC"
         },
-        "author": "Landon Mion",
-        "title": "More than 2 million sour candy bottles recalled over potentially deadly choking hazard - Fox Business",
-        "description": "Ricky Joy Sour Crush rolling liquid candy bottles face a recall over a choking hazard as federal regulators warned the rolling ball can detach.",
-        "url": "https://www.foxbusiness.com/lifestyle/more-than-2-million-sour-candy-bottles-recalled-over-potentially-deadly-choking-hazard",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/recalled-candy-choking-hazard.png?ve=1&tl=1",
-        "publishedAt": "2026-09-12T07:34:00Z",
-        "content": "About 2.3 million sour candy bottles are facing a recall over a choking hazard that could lead to serious injury or death, according to federal regulators.\r\nThe recall was initiated for Ricky Joy Sou\u2026 [+2074 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Phil Wahba",
-        "title": "Lululemon\u2019s new CEO inherits a mess that looks like the one she left at Nike - Fortune",
-        "description": "She faces an uphill climb in recapturing the magic that once made the leggings-maker a cultural phenomenon.",
-        "url": "https://fortune.com/2026/09/12/lululemon-new-ceo-heidi-oneill-leggings-sales-decline-nike-mess/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Heidi_ONeill_Headshot_d49558.jpg?resize=1200,600",
-        "publishedAt": "2026-09-12T07:00:00Z",
-        "content": "When Lululemon Athletica announced in April that former Nike senior executive Heidi ONeill was becoming its new CEO this month, the athleisure pioneer was already struggling. Its core North American \u2026 [+5529 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Avery Lotz",
-        "title": "CDC declares cyclospora outbreak over - Axios",
-        "description": "Tthe Food and Drug Administration says its investigation remains ongoing.",
-        "url": "https://www.axios.com/2026/09/11/cdc-declares-cyclospora-outbreak-over",
-        "urlToImage": "https://images.axios.com/n1quVHabXoKMP_L9sr_mwq7zGcg=/0x0:1920x1080/1366x768/2026/07/20/1784578814777.jpeg",
-        "publishedAt": "2026-09-12T04:41:38Z",
-        "content": "Driving the news: \"This outbreak has ended. The number of recent infections linked to the outbreak has significantly declined,\" the CDC said in a Friday update, noting the \"contaminated lettuce linke\u2026 [+1591 chars]"
+        "author": "TipRanks.com Staff",
+        "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns - CNBC",
+        "description": "The ratings of these experts are backed by in-depth research of a company's financials, and thorough analysis of the factors affecting business performance.",
+        "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107269194-16890220982023-07-10t204419z_1104202321_rc2j02a7debe_rtrmadp_0_global-lng-sempra.jpeg?v=1702929119&w=1920&h=1080",
+        "publishedAt": "2026-09-13T11:53:35Z",
+        "content": "The Sempra Energy headquarters is pictured in downtown San Diego, California, on May 17, 2018.\r\nDividend-paying stocks can enhance portfolio returns by providing a steady income stream to investors a\u2026 [+5281 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Fox Business"
         },
-        "author": "Landon Mion",
-        "title": "Hunter Biden lashes out after $LAPTOP meme coin collapse - Fox Business",
-        "description": "Former first son Hunter Biden erupted online after his $LAPTOP meme coin collapsed, blaming a \"f--k up\" that left four out of five investors with losses.",
-        "url": "https://www.foxbusiness.com/politics/hunter-biden-lashes-out-after-laptop-meme-coin-collapse",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/hunter-biden-meme-coin-collapse.png?ve=1&tl=1",
-        "publishedAt": "2026-09-12T01:54:00Z",
-        "content": "Former first son Hunter Biden lashed out online after his $LAPTOP meme coin collapsed, blaming a \"f--k up\" that left four out of five investors with losses, while one mystery trader came away with ne\u2026 [+3825 chars]"
+        "author": "Stephen Sorace",
+        "title": "Airline passengers rocked by turbulence during descent: 'We started to plummet' - Fox Business",
+        "description": "A Turkish Airlines flight diverted after severe turbulence forced three landing attempts at Tunis-Carthage International Airport in a storm.",
+        "url": "https://www.foxbusiness.com/lifestyle/airline-passengers-rocked-turbulence-during-descent-we-started-plummet",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/turkish-airlines-passenger-turbulence.jpg?ve=1&tl=1",
+        "publishedAt": "2026-09-13T11:41:52Z",
+        "content": "Passengers screamed in terror as severe turbulence rocked a Turkish Airlines flight during its descent into Tunisia, with one traveler saying the plane \"started to plummet\" after repeated attempts to\u2026 [+1805 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Forbes",
+        "title": "Shock Leak Reveals An 'Extraordinary' Fed Earthquake Could Be About To Hit The Bitcoin Price - Forbes",
+        "description": null,
+        "url": "https://www.forbes.com/sites/digital-assets/2026/09/13/bitcoin-is-suddenly-braced-for-an-extraordinary-fed-earthquake/",
+        "urlToImage": null,
+        "publishedAt": "2026-09-13T11:30:57Z",
+        "content": null
     }
 ]
