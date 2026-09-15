@@ -1,236 +1,197 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Fox Business"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Anders Hagstrom",
-        "title": "Irish golf fans chant 'USA' after Trump announces end of tariffs on Irish whiskey - Fox Business",
-        "description": "Irish golf fans chanted \"U-S-A\" after President Donald Trump announced an end to U.S. tariffs on Irish whiskey at the Irish Open on Sunday.",
-        "url": "https://www.foxbusiness.com/politics/irish-golf-fans-chant-usa-after-trump-announces-end-tariffs-irish-whiskey",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/donald-trump-irish-whiskey-tariffs.jpg?ve=1&tl=1",
-        "publishedAt": "2026-09-13T17:53:17Z",
-        "content": "Fans at the Irish Open cheered President Donald Trump after he announced the end of U.S. tariffs on Irish whiskey on Sunday.\r\nTrump made the announcement while speaking at the award ceremony for the \u2026 [+2664 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Daniel de Vise\u0301",
-        "title": "Retirees spent their lives saving. Now they're afraid to spend - USA Today",
-        "description": "Americans spend their entire career saving for retirement. For many retirees, the transition to spending that money is difficult.",
-        "url": "https://www.usatoday.com/story/money/personal-finance/2026/09/13/retirees-reluctant-spend-savings/91695541007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/10/USAT/91695768007-retirement-6.JPG?crop=4714,2652,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-09-13T17:23:00Z",
-        "content": "American workers are told to spend their entire career saving for retirement, building a nest egg that they dare not touch.\u00a0\r\nWhen that career ends, retirees are expected to break the\u00a0nest egg and be\u2026 [+4306 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Miriam Waldvogel",
-        "title": "He was close to a huge math breakthrough. Then he got scooped by AI. - The Washington Post",
-        "description": "A New York University professor questions whether AI agents that solved one of the most complex problems in theoretical mathematics were fed on his work.",
-        "url": "https://www.washingtonpost.com/technology/2026/09/13/he-was-close-1-million-breakthrough-then-openai-swooped/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PL226ELYAXZN6IKGSAYXZL6S5Q.jpg&w=1440",
-        "publishedAt": "2026-09-13T17:00:00Z",
-        "content": "Tristan Buckmaster thought he was on the verge ofthe most important discovery of his mathematical career when he heard that ChatGPT maker OpenAI was interested in the same problem and had launched an\u2026 [+32 chars]"
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": null,
-        "title": "Female passenger undresses on American Airlines flight, engages in 'indecent acts,' crew reports - foxnews.com",
-        "description": "A female passenger on American Airlines Flight 1779 reportedly undressed and performed indecent acts mid-flight, prompting law enforcement at Miami.",
-        "url": "https://www.foxnews.com/us/female-passenger-undresses-american-airlines-flight-engages-indecent-acts-crew-reports",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/american-airlines-miami-international-airport.jpg",
-        "publishedAt": "2026-09-13T16:00:53Z",
-        "content": "Law enforcement officers met an American Airlines flight upon its arrival at Miami International Airport late Friday night following reports of a female passenger undressing and behaving indecently m\u2026 [+1738 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TheStreet"
-        },
-        "author": "thestreet.com",
-        "title": "Vanguard, Fidelity name the smarter alternative to selling stock - thestreet.com",
-        "description": null,
-        "url": "https://www.thestreet.com/investing/vanguard-fidelity-donate-repurchase-ai-stock-capital-gains",
-        "urlToImage": null,
-        "publishedAt": "2026-09-13T15:47:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "fox5sandiego.com"
-        },
-        "author": "Amber Coakley",
-        "title": "14-year-old killed in Pacific beach e-bike crash involving Tesla - fox5sandiego.com",
-        "description": "A 14-year-old boy riding an e-bike was killed Saturday night in Pacific Beach after being struck by a Tesla at an intersection.",
-        "url": "https://fox5sandiego.com/traffic/pacific-beach-ebike-fatality/",
-        "urlToImage": "https://fox5sandiego.com/wp-content/uploads/sites/15/2026/09/GettyImages-2033885973.jpg?w=1280",
-        "publishedAt": "2026-09-13T15:21:17Z",
-        "content": "SAN DIEGO (FOX 5/KUSI) A 14-year-old boy riding an e-bike was killed Saturday night after he was struck by a Tesla in Pacific Beach, authorities said.\r\n<ul><li>The FOX 5/KUSI video above provides dri\u2026 [+771 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Inc."
-        },
-        "author": "inc.com",
-        "title": "T.J. Maxx Is Closing Stores: Updated List of Doomed Locations for 2026 - inc.com",
-        "description": null,
-        "url": "https://www.inc.com/amaya-nichole/tj-maxx-is-closing-stores-updated-list-doomed-locations-2026/91404174",
-        "urlToImage": null,
-        "publishedAt": "2026-09-13T14:56:52Z",
-        "content": null
+        "author": "E. Eduardo Castillo, Chan Ho-him",
+        "title": "China bristles at Anthropic CEO\u2019s \u2018fearmongering\u2019 about its AI development - AP News",
+        "description": "China\u2019s Ministry of Foreign Affairs bristled at the Anthropic CEO\u2019s call for the U.S. to curb China\u2019s artificial intelligence capabilities as part of a wider argument for a global slowdown on AI development. Dario Amodei warned in a lengthy essay over the wee\u2026",
+        "url": "https://apnews.com/article/china-anthropic-ai-us-amodei-3da458d2c078da3e60900728d59f1ae8",
+        "urlToImage": "https://dims.apnews.com/dims4/default/c6a218b/2147483647/strip/true/crop/6626x4415+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F50%2F0d%2F533541a6c95c58aad11c130d9eda%2F2245d4841e514f3baeb96cbf891120f3",
+        "publishedAt": "2026-09-14T16:30:00Z",
+        "content": "BEIJING (AP) Chinas Ministry of Foreign Affairs on Monday bristled at the Anthropic CEOs call for the U.S. to curb Chinas artificial intelligence capabilities as part of a wider argument for a global\u2026 [+4543 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Myriam LEMETAYER and Asad HASHIM",
-        "title": "'This is the test': All eyes on US Fed to tackle high inflation - Yahoo Finance",
-        "description": "The US Federal Reserve goes into a key rate-setting meeting this week with markets expecting policymakers to pull the trigger on a rate hike to tackle persis...",
-        "url": "https://finance.yahoo.com/economy/policy/articles/test-eyes-us-fed-tackle-015023624.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/ef1921ab3375a080140a782ba0d0413ad96a8d4ca8e14084dc233697489fc223/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F82de0b522b6581518e6b136f7fea65f3.jpg",
-        "publishedAt": "2026-09-13T14:52:35Z",
-        "content": "Federal Reserve Chairman Kevin Warsh faces his first real test since taking office in showing how he will address rising inflation at the upcoming Fed meeting amid pressure from President Donald Trum\u2026 [+4564 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Jennifer A Dlouhy, Skylar Woodhouse",
-        "title": "Trump Pushes Fed to Lower Rates Despite Pressure to Raise Them - Bloomberg.com",
-        "description": "President Donald Trump reiterated that the US should have the lowest interest rates in the world even as his handpicked chair for the Federal Reserve, Kevin Warsh, faces renewed pressure to raise borrowing costs.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-pushes-fed-to-lower-rates-despite-pressure-to-raise-them",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGRdKXW5EAI0/v1/1200x833.jpg",
-        "publishedAt": "2026-09-13T13:45:52Z",
-        "content": "President Donald Trump reiterated that the US should have the lowest interest rates in the world even as his handpicked chair for the Federal Reserve, Kevin Warsh, faces renewed pressure to raise bor\u2026 [+231 chars]"
+        "author": "Grace O'Donnell",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as Anthropic's AI warning spooks tech traders, 10-year yield hits 5% - Yahoo Finance",
+        "description": "The CEOs of Anthropic and OpenAI spooked markets, while investors monitored rising oil prices and an upcoming Fed rate decision.",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/064024e4c83a1b22dc517d5e0a58d0c36a4dce1621d31a65178d4aff86380f46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2Fd919dfb0-0dd6-11f1-9f19-3917ef6320b7",
+        "publishedAt": "2026-09-14T15:09:00Z",
+        "content": "President Trump lashed out at Dario Amodei in a social media post on Monday, lambasting the Anthropic CEO for what the president called a \"SICK conspiracy going on against AI and Data Centers.\"\r\n\"The\u2026 [+1596 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Yahoo Entertainment"
         },
-        "author": "Lorie Konish",
-        "title": "Taxing high earners to help fund Social Security gains bipartisan attention \u2014 what it could mean for benefits - CNBC",
-        "description": "With Social Security due to reach a funding shortfall in six years, more lawmakers are opening up to the idea of taxing high earners to help fund the program.",
-        "url": "https://www.cnbc.com/2026/09/13/social-security-payroll-tax-cap.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108333390-1783692632728-gettyimages-2285436358-1r1_9476-2_ed7hhywz.jpeg?v=1789161794&w=1920&h=1080",
-        "publishedAt": "2026-09-13T13:30:01Z",
-        "content": "People walk with umbrellas outside of the U.S. Capitol on July 9, 2026.\r\nAs Social Security faces a funding shortfall, some lawmakers have renewed calls to raise taxes on high earners to help shore u\u2026 [+7121 chars]"
+        "author": "By Scott DiSavino",
+        "title": "Oil prices soar over 4% to 16-week high after Saudi strikes - Yahoo Finance",
+        "description": "By Scott DiSavino NEW YORK, Sept 14 (Reuters) - Oil prices jumped over 4% to a 16-week high on Monday after new strikes on Saudi Arabian energy infrastructur...",
+        "url": "https://finance.yahoo.com/energy/articles/oil-prices-jump-more-3-224715375.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/fd8c4a01a6f86a321a2733c5199574f31ed329a016c225f18561152c71c5e9ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F652cb90a3ec4a73160b443b895911ef4.jpg",
+        "publishedAt": "2026-09-14T14:56:58Z",
+        "content": "By Scott DiSavino\r\nNEW YORK, Sept 14 (Reuters) - Oil prices jumped over 4% to a 16-week high on Monday after new strikes on Saudi Arabian energy infrastructure and attacks on ships in the Middle East\u2026 [+3504 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Herb Scribner",
+        "title": "Sam Altman reveals the 2 AI threats that scare him most - Axios",
+        "description": "\"There are two ways AI progress could go very badly and that we must avoid.\"",
+        "url": "https://www.axios.com/2026/09/14/openai-sam-altman-ai-threat-doom-doomerism",
+        "urlToImage": "https://images.axios.com/SEmVurmwcXiaHwZCJ0sBrYju1eE=/0x141:5307x3127/1366x768/2026/09/14/1789393146908.jpeg",
+        "publishedAt": "2026-09-14T14:48:34Z",
+        "content": "What he's saying: \"There are two ways AI progress could go very badly and that we must avoid,\" Altman said in an X post.\r\nThe first: Humans lose control of AI.\r\n<ul><li>\"This is unacceptable; we are \u2026 [+679 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Dan Primack",
+        "title": "Anthropic IPO won't be slowed by safety uproar - Axios",
+        "description": "A lot has changed in AI land since last week, but the IPO calendar isn't one of them.",
+        "url": "https://www.axios.com/2026/09/14/anthropic-ipo-safety-openai",
+        "urlToImage": "https://images.axios.com/pX3oK59ZTZjDh_q_Y-_naYzy2co=/0x0:1920x1080/1366x768/2026/09/14/1789395881244.jpg",
+        "publishedAt": "2026-09-14T14:19:24Z",
+        "content": "<ul><li>There have been social media suggestions that Anthropic might want to wait, due to new product liability and regulation questions.</li><li>Yet the Claude maker might actually view the past 48\u2026 [+1681 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Investor's Business Daily"
         },
-        "author": "Kevin Williams",
-        "title": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock - CNBC",
-        "description": "The U.S.-Iran war has caused oil prices to surge and added to freight stress from tariffs, but no shipping trade has boomed quite like crude oil tanker futures.",
-        "url": "https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108354962-1787810582819-gettyimages-2291320726-koutsokostas-notitle260824_npYkV.jpeg?v=1787810594&w=1920&h=1080",
-        "publishedAt": "2026-09-13T13:26:44Z",
-        "content": "The crude oil tanker Giannis unloads its cargo of Middle Eastern crude at the Motor Oil terminal in Agioi Theodoroi, near Corinth, Greece, on August 24, 2026, following its departure from the United \u2026 [+10169 chars]"
+        "author": null,
+        "title": "Elon Musk Plans New Tesla Roadster Unveiling In October; The Stock Slips - Investor's Business Daily",
+        "description": "Tesla CEO Elon Musk announced an event showcasing the new Tesla Roadster would be held on Oct. 1, according to a social media post.",
+        "url": "https://www.investors.com/news/tesla-roadster-elon-musk-cybercab-robotaxi/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2018/02/stock-tesla-roadster-07-company.jpg",
+        "publishedAt": "2026-09-14T13:36:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Sara Fischer",
+        "title": "Exclusive: Netflix, Amazon, YouTube launch new streaming coalition - Axios",
+        "description": "The alliance is led by TechNet, a trade group that represents Big Tech companies.",
+        "url": "https://www.axios.com/2026/09/14/netflix-amazon-youtube-streaming-coalition",
+        "urlToImage": "https://images.axios.com/x792h9IuqggqdDu9jhV9ApaoSKc=/1366x768/smart/2021/11/18/011338-1637198018276.jpg",
+        "publishedAt": "2026-09-14T13:26:45Z",
+        "content": "Zoom in: The Streaming Access and Choice Alliance launched Monday with Amazon, Netflix and YouTube as its founding corporate members. \r\n<ul><li>The alliance is led by TechNet, a trade group that repr\u2026 [+2326 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "TheStreet"
+            "name": "Autoguide.com"
         },
-        "author": "thestreet.com",
-        "title": "49-year-old clothing chain closing stores as its shoppers shrink - thestreet.com",
+        "author": "Colum Wood",
+        "title": "Even Used Cars Are Becoming Unaffordable - Autoguide.com",
+        "description": "",
+        "url": "https://www.autoguide.com/auto/even-used-cars-are-becoming-unaffordable-44638474",
+        "urlToImage": "https://cdn-fastly.autoguide.com/media/2026/09/11/15201/even-used-cars-are-becoming-unaffordable.jpg?size=1200x628",
+        "publishedAt": "2026-09-14T13:06:18Z",
+        "content": "If you have stepped onto a dealer lot or browsed online car listings recently, you already know the painful truth: affordable cars have virtually vanished.\r\nWhile expensive new vehicles have dominate\u2026 [+4067 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Mackenzie Tatananni",
+        "title": "Oracle Stock Drops on Surprising Larry Ellison Announcement - Barron's",
+        "description": "Oracle co-founder and Chief Technology Officer Larry Ellison cancels a plan to sell 50 million shares of company stock.",
+        "url": "https://www.barrons.com/articles/oracle-stock-larry-ellison-9ee8e9ff",
+        "urlToImage": "https://images.barrons.com/im-41730850/social",
+        "publishedAt": "2026-09-14T13:01:00Z",
+        "content": "Oracleshares declined Monday following a disclosure that co-founder and Chief Technology Officer Larry Ellison had canceled a pre-arranged plan to sell company shares.\r\nCopyright \u00a92026Dow Jones &amp;\u2026 [+67 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Information"
+        },
+        "author": "The Information",
+        "title": "Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use - The Information",
         "description": null,
-        "url": "https://www.thestreet.com/retail/49-year-old-mens-clothing-chain-destination-xl-closing-more-stores",
+        "url": "https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use",
         "urlToImage": null,
-        "publishedAt": "2026-09-13T13:15:57Z",
+        "publishedAt": "2026-09-14T13:00:00Z",
         "content": null
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Forbes",
-        "title": "Why Do Men Grow Beards? An Evolutionary Biologist Explains - Forbes",
-        "description": null,
-        "url": "https://www.forbes.com/sites/scotttravers/2026/09/13/why-do-men-grow-beards-an-evolutionary-biologist-explains/",
-        "urlToImage": null,
-        "publishedAt": "2026-09-13T13:00:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Alesandra Dubin",
-        "title": "My First Cruise Surprised Me. There Were a Lot of Pros, and 1 Big Con. - Business Insider",
-        "description": "I'm a seasoned traveler, but hadn't been on a cruise until this summer. I realized I had misconceptions about cruising, but was right about one thing.",
-        "url": "https://www.businessinsider.com/first-luxury-cruise-surprised-me-pros-cons-2026-9#article",
-        "urlToImage": "https://i.insider.com/6aa2db86ec15fe2d3cf15cd7?width=1200&format=jpeg",
-        "publishedAt": "2026-09-13T12:34:00Z",
-        "content": "For all the things I loved about cruising, one of my original reservations did bear out.\r\nI usually think of travel as a way to experience a place and its culture. I like wandering neighborhoods, eat\u2026 [+958 chars]"
+        "author": "Ben Binday",
+        "title": "Kansas workers push back against Trump\u2019s call to ban Canadian jet maker - The Washington Post",
+        "description": "Several Wichita-based Bombardier employees said the post felt to them as though the president was turning his back on American workers.",
+        "url": "https://www.washingtonpost.com/politics/2026/09/14/bombardier-workers-wichita-push-back-against-trumps-ban-threat/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/N56VRYFBZMJ6QOY2ON6DVKULOI.JPG&w=1440",
+        "publishedAt": "2026-09-14T12:03:59Z",
+        "content": "WICHITA Three days after President Donald Trump threatened to ban sales from Canadian jet manufacturer Bombardier in the United States, an employee walked out of its U.S. headquarters and looked arou\u2026 [+59 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Futurism"
+            "name": "Motley Fool"
         },
-        "author": "Frank Landymore",
-        "title": "Bizarre New Websites Are Designed Specifically to Spark Dopamine in Your Brain - futurism.com",
-        "description": "A wave of \"dopamine sites\" are designed to spark the pleasure centers in your lizard brain by simulating shopping and ordering food.",
-        "url": "https://futurism.com/future-society/bizarre-websites-dopamine-brain",
-        "urlToImage": "https://futurism.com/wp-content/uploads/2026/09/bizarre-websites-dopamine-brain.jpg?quality=85&w=1200",
-        "publishedAt": "2026-09-13T12:02:00Z",
-        "content": "Can\u2019t-miss innovations from the bleeding edge of science and tech\r\nAs far as completely pointless ways to kill time on your phone, this is certainly one of the weirdest on record.\r\nBehold the all-new\u2026 [+3047 chars]"
+        "author": "Keith Noonan",
+        "title": "Broadcom Just Named Its Next Customer to Pass Google: Anthropic. Here's Why That Matters More Than the Earnings Beat. - The Motley Fool",
+        "description": "The market didn't reward Broadcom's latest quarterly report with big stock gains, but the business's outlook remains promising.",
+        "url": "https://www.fool.com/investing/2026/09/14/broadcom-just-named-its-next-customer-to-pass-goog/",
+        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886238%2Fgettyimages-1482246510-copy.jpg&w=1200&op=resize",
+        "publishedAt": "2026-09-14T12:00:00Z",
+        "content": "After the market closed on Sept. 2, Broadcom(AVGO-4.30%) published results for the third quarter of its 2026 fiscal year, which ended May 2. The company reported non-GAAP (adjusted and not in accord \u2026 [+4144 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Newsnationnow.com"
         },
-        "author": "TipRanks.com Staff",
-        "title": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns - CNBC",
-        "description": "The ratings of these experts are backed by in-depth research of a company's financials, and thorough analysis of the factors affecting business performance.",
-        "url": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107269194-16890220982023-07-10t204419z_1104202321_rc2j02a7debe_rtrmadp_0_global-lng-sempra.jpeg?v=1702929119&w=1920&h=1080",
-        "publishedAt": "2026-09-13T11:53:35Z",
-        "content": "The Sempra Energy headquarters is pictured in downtown San Diego, California, on May 17, 2018.\r\nDividend-paying stocks can enhance portfolio returns by providing a steady income stream to investors a\u2026 [+5281 chars]"
+        "author": "Rob Taub",
+        "title": "Pilot negligence caused Amazon cargo plane crash: Survivor\u2019s lawyer - NewsNation",
+        "description": "\"This was a series of errors and a completely, completely preventable tragedy,\" Sebastian Torres' lawyer told NewsNation.",
+        "url": "https://www.newsnationnow.com/travel/amazon-cargo-plane-crash-lawsuit/",
+        "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/09/Untitled-June-29-2026-at-02.32.20-5-35.png?w=1280",
+        "publishedAt": "2026-09-14T11:32:13Z",
+        "content": "(NewsNation) The attorney for a survivor of last week\u2019s Amazon cargo plane crash believes the pilots\u2019 actions leading up to the disaster amounted to clear negligence. \r\nThe aircraft overran a runway \u2026 [+2048 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Fox Business"
+            "name": "Benzinga"
         },
-        "author": "Stephen Sorace",
-        "title": "Airline passengers rocked by turbulence during descent: 'We started to plummet' - Fox Business",
-        "description": "A Turkish Airlines flight diverted after severe turbulence forced three landing attempts at Tunis-Carthage International Airport in a storm.",
-        "url": "https://www.foxbusiness.com/lifestyle/airline-passengers-rocked-turbulence-during-descent-we-started-plummet",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/turkish-airlines-passenger-turbulence.jpg?ve=1&tl=1",
-        "publishedAt": "2026-09-13T11:41:52Z",
-        "content": "Passengers screamed in terror as severe turbulence rocked a Turkish Airlines flight during its descent into Tunisia, with one traveler saying the plane \"started to plummet\" after repeated attempts to\u2026 [+1805 chars]"
+        "author": "Anusuya Lahiri",
+        "title": "Why Is Micron Technology Stock Falling Monday? - benzinga.com",
+        "description": "Micron (MU) stock fell over 5% premarket as AI spending concerns hit memory stocks. Here is the technical breakdown and earnings outlook.",
+        "url": "https://www.benzinga.com/markets/tech/26/09/61760346/why-is-micron-technology-stock-falling-monday",
+        "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/14/Micron-MU-Logo-On-Smartphone-With-Semico.jpg",
+        "publishedAt": "2026-09-14T11:32:12Z",
+        "content": "Micron Technology Inc.(NASDAQ:MU) stock fell more than 5% in Mondays premarket session as a broader sell-off hit memory, storage and AI-linked stocks.\r\nNasdaq futures dropped 1.48%, while S&amp;P 500\u2026 [+3071 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Forbes"
+            "name": "BBC News"
         },
-        "author": "Forbes",
-        "title": "Shock Leak Reveals An 'Extraordinary' Fed Earthquake Could Be About To Hit The Bitcoin Price - Forbes",
-        "description": null,
-        "url": "https://www.forbes.com/sites/digital-assets/2026/09/13/bitcoin-is-suddenly-braced-for-an-extraordinary-fed-earthquake/",
-        "urlToImage": null,
-        "publishedAt": "2026-09-13T11:30:57Z",
-        "content": null
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Tech stocks fall after calls for AI development to slow down - BBC",
+        "description": "Industry bosses warn safeguards are needed to protect humanity - our AI experts answer your questions on the technology and its future.",
+        "url": "https://www.bbc.com/news/live/cm70d91rg7l4t",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7707/live/46a14fb0-b038-11f1-a540-61c3f7fc4e6c.jpg",
+        "publishedAt": "2026-09-14T10:58:07Z",
+        "content": "Image caption, Stephanie Hare, co-host of AI Decoded\r\nOur experts are now asked what guardrails and laws are in place to protect people from the risks of AI.\r\nThere are none, says Stephanie Hare. \r\nS\u2026 [+1117 chars]"
     }
 ]
