@@ -1,197 +1,249 @@
 [
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "E. Eduardo Castillo, Chan Ho-him",
-        "title": "China bristles at Anthropic CEO\u2019s \u2018fearmongering\u2019 about its AI development - AP News",
-        "description": "China\u2019s Ministry of Foreign Affairs bristled at the Anthropic CEO\u2019s call for the U.S. to curb China\u2019s artificial intelligence capabilities as part of a wider argument for a global slowdown on AI development. Dario Amodei warned in a lengthy essay over the wee\u2026",
-        "url": "https://apnews.com/article/china-anthropic-ai-us-amodei-3da458d2c078da3e60900728d59f1ae8",
-        "urlToImage": "https://dims.apnews.com/dims4/default/c6a218b/2147483647/strip/true/crop/6626x4415+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F50%2F0d%2F533541a6c95c58aad11c130d9eda%2F2245d4841e514f3baeb96cbf891120f3",
-        "publishedAt": "2026-09-14T16:30:00Z",
-        "content": "BEIJING (AP) Chinas Ministry of Foreign Affairs on Monday bristled at the Anthropic CEOs call for the U.S. to curb Chinas artificial intelligence capabilities as part of a wider argument for a global\u2026 [+4543 chars]"
+        "author": "Sean Conlon, Chloe Taylor, Lee Ying Shan, Ananya Chetia",
+        "title": "Dow falls 450 points as losses accelerate following a 19-year high in the 10-year Treasury yield: Live updates - CNBC",
+        "description": "The major averages closed lower on Monday as higher bond yields and oil prices kept the market under pressure.",
+        "url": "https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108362970-1789474957233-gettyimages-2295226870-mms19322_x37wnidm.jpeg?v=1789475061&w=1920&h=1080",
+        "publishedAt": "2026-09-15T16:17:07Z",
+        "content": "Stocks fell on Tuesday as traders looked ahead to the Federal Reserve's policy decision this week which could send ripples through the economy and as Treasury yields surged to multiyear highs.\r\nThe D\u2026 [+2605 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "CNBC"
         },
-        "author": "Grace O'Donnell",
-        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as Anthropic's AI warning spooks tech traders, 10-year yield hits 5% - Yahoo Finance",
-        "description": "The CEOs of Anthropic and OpenAI spooked markets, while investors monitored rising oil prices and an upcoming Fed rate decision.",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/064024e4c83a1b22dc517d5e0a58d0c36a4dce1621d31a65178d4aff86380f46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-02%2Fd919dfb0-0dd6-11f1-9f19-3917ef6320b7",
-        "publishedAt": "2026-09-14T15:09:00Z",
-        "content": "President Trump lashed out at Dario Amodei in a social media post on Monday, lambasting the Anthropic CEO for what the president called a \"SICK conspiracy going on against AI and Data Centers.\"\r\n\"The\u2026 [+1596 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "By Scott DiSavino",
-        "title": "Oil prices soar over 4% to 16-week high after Saudi strikes - Yahoo Finance",
-        "description": "By Scott DiSavino NEW YORK, Sept 14 (Reuters) - Oil prices jumped over 4% to a 16-week high on Monday after new strikes on Saudi Arabian energy infrastructur...",
-        "url": "https://finance.yahoo.com/energy/articles/oil-prices-jump-more-3-224715375.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/fd8c4a01a6f86a321a2733c5199574f31ed329a016c225f18561152c71c5e9ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F652cb90a3ec4a73160b443b895911ef4.jpg",
-        "publishedAt": "2026-09-14T14:56:58Z",
-        "content": "By Scott DiSavino\r\nNEW YORK, Sept 14 (Reuters) - Oil prices jumped over 4% to a 16-week high on Monday after new strikes on Saudi Arabian energy infrastructure and attacks on ships in the Middle East\u2026 [+3504 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Herb Scribner",
-        "title": "Sam Altman reveals the 2 AI threats that scare him most - Axios",
-        "description": "\"There are two ways AI progress could go very badly and that we must avoid.\"",
-        "url": "https://www.axios.com/2026/09/14/openai-sam-altman-ai-threat-doom-doomerism",
-        "urlToImage": "https://images.axios.com/SEmVurmwcXiaHwZCJ0sBrYju1eE=/0x141:5307x3127/1366x768/2026/09/14/1789393146908.jpeg",
-        "publishedAt": "2026-09-14T14:48:34Z",
-        "content": "What he's saying: \"There are two ways AI progress could go very badly and that we must avoid,\" Altman said in an X post.\r\nThe first: Humans lose control of AI.\r\n<ul><li>\"This is unacceptable; we are \u2026 [+679 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Dan Primack",
-        "title": "Anthropic IPO won't be slowed by safety uproar - Axios",
-        "description": "A lot has changed in AI land since last week, but the IPO calendar isn't one of them.",
-        "url": "https://www.axios.com/2026/09/14/anthropic-ipo-safety-openai",
-        "urlToImage": "https://images.axios.com/pX3oK59ZTZjDh_q_Y-_naYzy2co=/0x0:1920x1080/1366x768/2026/09/14/1789395881244.jpg",
-        "publishedAt": "2026-09-14T14:19:24Z",
-        "content": "<ul><li>There have been social media suggestions that Anthropic might want to wait, due to new product liability and regulation questions.</li><li>Yet the Claude maker might actually view the past 48\u2026 [+1681 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Elon Musk Plans New Tesla Roadster Unveiling In October; The Stock Slips - Investor's Business Daily",
-        "description": "Tesla CEO Elon Musk announced an event showcasing the new Tesla Roadster would be held on Oct. 1, according to a social media post.",
-        "url": "https://www.investors.com/news/tesla-roadster-elon-musk-cybercab-robotaxi/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2018/02/stock-tesla-roadster-07-company.jpg",
-        "publishedAt": "2026-09-14T13:36:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Sara Fischer",
-        "title": "Exclusive: Netflix, Amazon, YouTube launch new streaming coalition - Axios",
-        "description": "The alliance is led by TechNet, a trade group that represents Big Tech companies.",
-        "url": "https://www.axios.com/2026/09/14/netflix-amazon-youtube-streaming-coalition",
-        "urlToImage": "https://images.axios.com/x792h9IuqggqdDu9jhV9ApaoSKc=/1366x768/smart/2021/11/18/011338-1637198018276.jpg",
-        "publishedAt": "2026-09-14T13:26:45Z",
-        "content": "Zoom in: The Streaming Access and Choice Alliance launched Monday with Amazon, Netflix and YouTube as its founding corporate members. \r\n<ul><li>The alliance is led by TechNet, a trade group that repr\u2026 [+2326 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Autoguide.com"
-        },
-        "author": "Colum Wood",
-        "title": "Even Used Cars Are Becoming Unaffordable - Autoguide.com",
-        "description": "",
-        "url": "https://www.autoguide.com/auto/even-used-cars-are-becoming-unaffordable-44638474",
-        "urlToImage": "https://cdn-fastly.autoguide.com/media/2026/09/11/15201/even-used-cars-are-becoming-unaffordable.jpg?size=1200x628",
-        "publishedAt": "2026-09-14T13:06:18Z",
-        "content": "If you have stepped onto a dealer lot or browsed online car listings recently, you already know the painful truth: affordable cars have virtually vanished.\r\nWhile expensive new vehicles have dominate\u2026 [+4067 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Mackenzie Tatananni",
-        "title": "Oracle Stock Drops on Surprising Larry Ellison Announcement - Barron's",
-        "description": "Oracle co-founder and Chief Technology Officer Larry Ellison cancels a plan to sell 50 million shares of company stock.",
-        "url": "https://www.barrons.com/articles/oracle-stock-larry-ellison-9ee8e9ff",
-        "urlToImage": "https://images.barrons.com/im-41730850/social",
-        "publishedAt": "2026-09-14T13:01:00Z",
-        "content": "Oracleshares declined Monday following a disclosure that co-founder and Chief Technology Officer Larry Ellison had canceled a pre-arranged plan to sell company shares.\r\nCopyright \u00a92026Dow Jones &amp;\u2026 [+67 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Information"
-        },
-        "author": "The Information",
-        "title": "Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use - The Information",
-        "description": null,
-        "url": "https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use",
-        "urlToImage": null,
-        "publishedAt": "2026-09-14T13:00:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Ben Binday",
-        "title": "Kansas workers push back against Trump\u2019s call to ban Canadian jet maker - The Washington Post",
-        "description": "Several Wichita-based Bombardier employees said the post felt to them as though the president was turning his back on American workers.",
-        "url": "https://www.washingtonpost.com/politics/2026/09/14/bombardier-workers-wichita-push-back-against-trumps-ban-threat/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/N56VRYFBZMJ6QOY2ON6DVKULOI.JPG&w=1440",
-        "publishedAt": "2026-09-14T12:03:59Z",
-        "content": "WICHITA Three days after President Donald Trump threatened to ban sales from Canadian jet manufacturer Bombardier in the United States, an employee walked out of its U.S. headquarters and looked arou\u2026 [+59 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Motley Fool"
-        },
-        "author": "Keith Noonan",
-        "title": "Broadcom Just Named Its Next Customer to Pass Google: Anthropic. Here's Why That Matters More Than the Earnings Beat. - The Motley Fool",
-        "description": "The market didn't reward Broadcom's latest quarterly report with big stock gains, but the business's outlook remains promising.",
-        "url": "https://www.fool.com/investing/2026/09/14/broadcom-just-named-its-next-customer-to-pass-goog/",
-        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886238%2Fgettyimages-1482246510-copy.jpg&w=1200&op=resize",
-        "publishedAt": "2026-09-14T12:00:00Z",
-        "content": "After the market closed on Sept. 2, Broadcom(AVGO-4.30%) published results for the third quarter of its 2026 fiscal year, which ended May 2. The company reported non-GAAP (adjusted and not in accord \u2026 [+4144 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Newsnationnow.com"
-        },
-        "author": "Rob Taub",
-        "title": "Pilot negligence caused Amazon cargo plane crash: Survivor\u2019s lawyer - NewsNation",
-        "description": "\"This was a series of errors and a completely, completely preventable tragedy,\" Sebastian Torres' lawyer told NewsNation.",
-        "url": "https://www.newsnationnow.com/travel/amazon-cargo-plane-crash-lawsuit/",
-        "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/09/Untitled-June-29-2026-at-02.32.20-5-35.png?w=1280",
-        "publishedAt": "2026-09-14T11:32:13Z",
-        "content": "(NewsNation) The attorney for a survivor of last week\u2019s Amazon cargo plane crash believes the pilots\u2019 actions leading up to the disaster amounted to clear negligence. \r\nThe aircraft overran a runway \u2026 [+2048 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Benzinga"
-        },
-        "author": "Anusuya Lahiri",
-        "title": "Why Is Micron Technology Stock Falling Monday? - benzinga.com",
-        "description": "Micron (MU) stock fell over 5% premarket as AI spending concerns hit memory stocks. Here is the technical breakdown and earnings outlook.",
-        "url": "https://www.benzinga.com/markets/tech/26/09/61760346/why-is-micron-technology-stock-falling-monday",
-        "urlToImage": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/09/14/Micron-MU-Logo-On-Smartphone-With-Semico.jpg",
-        "publishedAt": "2026-09-14T11:32:12Z",
-        "content": "Micron Technology Inc.(NASDAQ:MU) stock fell more than 5% in Mondays premarket session as a broader sell-off hit memory, storage and AI-linked stocks.\r\nNasdaq futures dropped 1.48%, while S&amp;P 500\u2026 [+3071 chars]"
+        "author": "Catriona Marangi",
+        "title": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center - CNBC",
+        "description": "The gift to Providence St. Vincent Medical Center will support the creation of an all-women\u2019s hospital as well as advance cardiovascular care across Oregon.",
+        "url": "https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106014832-1562878224336rts2lukw.jpg?v=1562878291&w=1920&h=1080",
+        "publishedAt": "2026-09-15T15:00:01Z",
+        "content": "Phil Knight, former chairman and founder of Nike, attends the annual Allen and Co. Sun Valley media conference in Sun Valley, Idaho, July 11, 2019.\r\nNike co-founder Phil Knight and his wife, Penny, w\u2026 [+3256 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "BBC News"
         },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "Tech stocks fall after calls for AI development to slow down - BBC",
-        "description": "Industry bosses warn safeguards are needed to protect humanity - our AI experts answer your questions on the technology and its future.",
-        "url": "https://www.bbc.com/news/live/cm70d91rg7l4t",
-        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7707/live/46a14fb0-b038-11f1-a540-61c3f7fc4e6c.jpg",
-        "publishedAt": "2026-09-14T10:58:07Z",
-        "content": "Image caption, Stephanie Hare, co-host of AI Decoded\r\nOur experts are now asked what guardrails and laws are in place to protect people from the risks of AI.\r\nThere are none, says Stephanie Hare. \r\nS\u2026 [+1117 chars]"
+        "author": null,
+        "title": "Canada is a 'safe harbour' for global finance, Carney says - BBC",
+        "description": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.",
+        "url": "https://www.bbc.com/news/articles/cmq8jdgel128o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b4df/live/3ae50110-b107-11f1-a540-61c3f7fc4e6c.jpg",
+        "publishedAt": "2026-09-15T13:43:01Z",
+        "content": "There will, however, be panels with speakers including Deutsche Bank AG CEO Christian Sewing, Bombardier executive Eric Martel, and BlackRock CEO Larry Fink and Blackstone president Jon Gray."
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Brendan Bordelon",
+        "title": "OpenAI backs bipartisan House plan for third-party safety assessments - Politico",
+        "description": "The leading AI lab endorses a bipartisan proposal that would require top AI companies to work with independent safety assessors.",
+        "url": "https://www.politico.com/news/2026/09/15/openai-backs-bipartisan-house-plan-for-third-party-safety-assessments-01076588",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa5%2F44%2F35a72269413e9d5cc0849d72bef2%2Fu-s-congress-2772.jpg",
+        "publishedAt": "2026-09-15T13:37:00Z",
+        "content": "Artificial intelligence giant OpenAI is supporting a bipartisan House proposal that would require top AI companies to embed outside evaluators to ensure their models are safe.\r\nChris Lehane, chief gl\u2026 [+629 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Zoe Malin",
+        "title": "You can shop early October Prime Day deals weeks before the sale \u2014 here are 31+ that are actually worth it - NBC News",
+        "description": "Prime Big Deal Days starts on October 6, but early deals are already live. Shop products at least 20% off from Dyson, Garmin, Ninja and more.",
+        "url": "https://www.nbcnews.com/select/shopping/early-october-prime-day-deals-2026-rcna597786",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-pbdd-26-early-deals-canonical-hub-lf-main-64a097.jpg",
+        "publishedAt": "2026-09-15T13:20:32Z",
+        "content": "Prime members dont have to wait until next month to shop October Prime Day (a.k.a Prime Big Deal Days). After confirming the official dates of the sale this morning October 6 to 7 Amazon dropped pric\u2026 [+9565 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TMZ"
+        },
+        "author": "TMZ Staff",
+        "title": "American Airlines Passenger Reportedly Strips and Performs Lewd Acts During Flight, FBI Investigating - TMZ",
+        "description": "An American Airlines passenger got totally naked and performed lewd acts on herself in front of others during a flight to Florida ... and she wound up in police custody, according to a report.",
+        "url": "https://www.tmz.com/2026/09/15/american-airlines-female-passenger-removes-clothes-during-flight/",
+        "urlToImage": "https://imagez.tmz.com/image/b9/16by9/2026/09/15/b91f49814446457e95cca71119b3299d_xl.jpg",
+        "publishedAt": "2026-09-15T12:49:37Z",
+        "content": "An American Airlines passenger got totally naked and performed lewd acts on herself in front of others during a flight to Florida ... and she wound up in police custody, according to a report.\r\nFox N\u2026 [+1090 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WLWT Cincinnati"
+        },
+        "author": "Fletcher Keel",
+        "title": "'This decision was necessary': Barnes & Noble announces acquisition of Joseph-Beth, identity to remain - WLWT",
+        "description": "An independent bookstore with locations in Ohio and Kentucky is being acquired by one of the biggest names in book selling.",
+        "url": "https://www.wlwt.com/article/barnes-noble-acquisition-joseph-beth-bookstore-ohio-kentucky/73740344",
+        "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1450969704-65cc101c44817.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0951xh&resize=1200%3A*",
+        "publishedAt": "2026-09-15T12:45:19Z",
+        "content": "CINCINNATIAn independent bookstore with locations in Ohio and Kentucky is being acquired by one of the biggest names in book selling.\r\nAccording to a press release, Barnes &amp; Noble has signed an a\u2026 [+1355 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Callum Keown",
+        "title": "Bitcoin Drops Ahead of Clarity Act Vote. Why Cathie Wood\u2019s Dumping Crypto Stocks. - Barron's",
+        "description": "Bitcoin and crypto-exposed stocks Strategy and Coinbase were falling ahead of the Clarity Act vote.",
+        "url": "https://www.barrons.com/articles/bitcoin-price-clarity-act-crypto-cathie-wood-c2471654",
+        "urlToImage": "https://images.barrons.com/im-07439883/social",
+        "publishedAt": "2026-09-15T12:35:00Z",
+        "content": "Its crunch time for cryptocurrencies.\r\nCopyright \u00a92026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Seattlered.com"
+        },
+        "author": "Jason Rantz",
+        "title": "Challenge Seattle names WA taxes but asks for no repeal - Seattle Red",
+        "description": "Challenge Seattle's new report names JumpStart, the B&O tax, capital gains and the income tax as drivers, yet none of its 20 recommendations seeks a repeal.",
+        "url": "https://seattlered.com/economy/challenge-seattle-report-washington-taxes-no-repeal/4120248",
+        "urlToImage": "https://seattlered.com/wp-content/uploads/2026/05/for-lease-seattle.jpeg",
+        "publishedAt": "2026-09-15T12:05:39Z",
+        "content": "Challenge Seattle, the CEO group led by former Gov. Chris Gregoire, released a regional jobs plan this month documenting how expensive, slow and unpredictable Washington has become for employers. The\u2026 [+6358 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Julie Bort",
+        "title": "Salesforce and Nvidia\u2019s new reasoning model is everything the AI labs should fear - TechCrunch",
+        "description": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+        "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/Marc-Benioff-DSC03537.jpg?resize=1200,800",
+        "publishedAt": "2026-09-15T12:00:00Z",
+        "content": "A new AI model called Koa is one of the biggest announcements from Salesforce this week at its giant Dreamforce tech conference. Koa is the company\u2019s first reasoning model, built on Nvidia\u2019s open-wei\u2026 [+3798 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Marketing Dive"
+        },
+        "author": "Jessica Hammers",
+        "title": "How Carter\u2019s is refreshing its brand to reach Gen Z, millennial parents - marketingdive.com",
+        "description": "An identity overhaul, inclusive of a new logo and revamped social media strategy, is showcased in a campaign that is rooted in self-expression.",
+        "url": "https://www.marketingdive.com/news/how-carters-is-refreshing-its-brand-to-reach-gen-z-millennial-parents/830313/",
+        "urlToImage": "https://imgproxy.divecdn.com/wYqZf5YsMX_B69BvNAHCGpwyFMKyP-k4W37tqqIHs3U/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYXJ0ZXJzX1N0ZWxsYXJfU2xlZXBfSW5fU3RvcmVfTW9ja3VwXzI2LTI3XzEuanBn.webp",
+        "publishedAt": "2026-09-15T11:48:22Z",
+        "content": "Carters is focusing on self-expression and individuality for an identity refresh and accompanying marketing campaign titled Watch Them Glow, per details shared with Marketing Dive. The effort, rooted\u2026 [+6452 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Newser"
+        },
+        "author": "Polly Davis Doig",
+        "title": "Oil Execs Warn: The Fuel Crisis Has Arrived - Newser",
+        "description": "With Hormuz hobbled and a Saudi pipeline offline, global mechanisms 'have largely now played out'",
+        "url": "https://www.newser.com/story/396440/oil-execs-warn-the-fuel-crisis-has-arrived.html",
+        "urlToImage": "https://cdn.newser.com/image/1711730-12-20260915064833.jpeg",
+        "publishedAt": "2026-09-15T11:31:00Z",
+        "content": "Oil executives have been warning this was coming, and now they say it's arrived: With the Strait of Hormuz effectively shut and a key Saudi pipeline knocked offline, industry leaders like Chevron CEO\u2026 [+1150 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Christopher Rugaber",
+        "title": "Federal Reserve is expected to raise its benchmark rate, defying Trump\u2019s demands - AP News",
+        "description": "The Federal Reserve is widely expected to lift its short-term interest rate for the first time in three years to fight stubbornly high inflation. Such a move Wednesday would put the central bank at odds with President Donald Trump\u2019s demands. An increase in th\u2026",
+        "url": "https://apnews.com/article/federal-reserve-kevin-warsh-interest-rates-ffd60cca8bb045bb9b1c389f5f1b73af",
+        "urlToImage": "https://dims.apnews.com/dims4/default/693a55e/2147483647/strip/true/crop/6720x4478+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faa%2F00%2F462c3239c63666e0c41de049aa57%2F5e83f1d4b9b0457a914ac1bc9de2b605",
+        "publishedAt": "2026-09-15T11:09:00Z",
+        "content": "WASHINGTON (AP) The Federal Reserve is widely expected to lift its short-term interest rate Wednesday for the first time in three years to fight stubbornly high inflation, a move that would put the c\u2026 [+5619 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Elizabeth Robinson",
+        "title": "How an AI slowdown could hit the economy and Supreme Court blocks Trump on mail-in voting: Morning Rundown - NBC News",
+        "description": "What hitting the brakes on AI could mean for the U.S. economy.",
+        "url": "https://www.nbcnews.com/news/us-news/ai-slowdown-supreme-court-mail-ballots-rule-morning-rundown-rcna597863",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260914-Trump-with-Jensen-Huang-vsb-1641-961a7e.jpg",
+        "publishedAt": "2026-09-15T11:04:21Z",
+        "content": "What hitting the brakes on AI could mean for the U.S. economy. The Supreme Courtblocks Trumps plan to restrict mail-in voting weeks before the midterms. And Apple TVs Widows Bay wins big at the Emmys\u2026 [+6952 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Michael Wayland",
+        "title": "GM launching new customer software experience with redesigned Chevy, GMC pickups - CNBC",
+        "description": "The new system comes as vehicles are becoming more digital, leading GM to also redesign its organizational processes.",
+        "url": "https://www.cnbc.com/2026/09/15/2027-chevy-silverado-gmc-sierra-to-debut-gms-new-software-experience.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108362805-1789434411697-Chevrolet_Silverado_ZR2_CA.jpg?v=1789434695&w=1920&h=1080",
+        "publishedAt": "2026-09-15T11:00:01Z",
+        "content": "DETROIT General Motors is releasing a new in-vehicle information and entertainment software experience for its customers, beginning later this year with its redesigned Chevrolet Silverado and GMC Sie\u2026 [+2853 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jim Edwards",
+        "title": "Global selloff in stocks as bond market enters \u2018new era\u2019 of risk - Fortune",
+        "description": "Everything you need to know before you reach the office this morning.",
+        "url": "https://fortune.com/2026/09/15/global-selloff-in-stocks-as-bond-market-enters-new-era-of-risk/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2207393948.jpg?resize=1200,600",
+        "publishedAt": "2026-09-15T10:33:00Z",
+        "content": "Did someone forward this email to you? If you would like to receive this information directly, every morning before the markets open in New York,sign up here.ONE BIG THING\r\nThe price of war: $33 bill\u2026 [+8984 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Motley Fool"
+        },
+        "author": "Adam Spatacco",
+        "title": "What a $10,000 Investment in Amazon Now Would Be Worth if Its Anthropic Stake Gets Marked at $2 Trillion - fool.com",
+        "description": "Anthropic is reportedly considering an initial public offering next month at a valuation of $2 trillion.",
+        "url": "https://www.fool.com/investing/2026/09/15/10k-investment-amazon-worth-anthropic-trillion/",
+        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887287%2Fgettyimages-2199069334-1.jpg&w=1200&op=resize",
+        "publishedAt": "2026-09-15T10:20:00Z",
+        "content": "Wall Street is already treating an Anthropic IPO as more than just a rumor. Reports are floating a $2 trillion listing as early as October, following the filing of a confidential S-1 earlier this sum\u2026 [+5646 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Roaches caught crawling across popular steakhouse's kitchen floor in viral employee video - Fox News",
+        "description": "Videos from a LongHorn Steakhouse restaurant in East Point, Georgia, appear to show cockroaches and food waste in the kitchen, sparking online criticism and a health inspection review.",
+        "url": "https://www.foxnews.com/food-drink/roaches-caught-crawling-across-popular-steakhouses-kitchen-floor-viral-employee-video",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/longhorn-steakhouse-roaches.jpg",
+        "publishedAt": "2026-09-15T10:00:47Z",
+        "content": "A LongHorn Steakhouse is receiving new scrutiny after videos appearing to show roaches and food waste inside the restaurant's kitchen have been spreading across social media.\r\nThe videos were alleged\u2026 [+2791 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Ines Ferr\u00e9",
+        "title": "Wall Street pushes back on Anthropic's warning as AI spending expected to roll on: Chart of the Day - Yahoo Finance",
+        "description": "Wall Street pushed back against bleak warnings from AI developer titans, arguing that companies are not slowing development or spending.",
+        "url": "https://finance.yahoo.com/markets/article/wall-street-pushes-back-on-anthropics-warning-as-ai-spending-expected-to-roll-on-chart-of-the-day-100000270.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/9dc1727956c608c9fdd42501a082fba5403f680fd29c6da2ebcb382e4b137a45/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F7e48f7d3-6e78-4053-98f2-79a5b7b8ab77",
+        "publishedAt": "2026-09-15T10:00:00Z",
+        "content": "Semiconductor stocks took a leg lower on Monday after Anthropic (ANTH.PVT) CEO Dario Amodei made a public plea to \"slow down the AI industry.\"\r\nThe call was echoed by rival OpenAI (OPAI.PVT) CEO Sam \u2026 [+2121 chars]"
     }
 ]
