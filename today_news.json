@@ -1,107 +1,42 @@
 [
     {
         "source": {
-            "id": "fox-news",
-            "name": "Fox News"
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Ben Cost",
+        "title": "Former KLM CEO allegedly sparks fire onboard after ignoring power bank rule - New York Post",
+        "description": "It was a corporate power struggle.",
+        "url": "https://nypost.com/2026/09/19/lifestyle/former-klm-ceo-allegedly-ignores-power-bank-rule-sparks-onboard-fire/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141703300.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-09-19T14:19:00Z",
+        "content": "It literally blew up in his face.\r\nA KLM Royal Dutch Airlines flight had to turn back partway across the ocean after a power bank reportedly belonging to the ex-CEO exploded midflight.\r\nThe backfire \u2026 [+3153 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
         },
         "author": null,
-        "title": "Anthropic says its AI model Claude is helping develop its own successor - Fox News",
-        "description": "Claude, first launched in March 2023, has taken an extraordinarily active role in building new AI models for Anthropic. The company, eying an IPO later this fall, said Claude is still working under human guidance and supervision.",
-        "url": "https://www.foxnews.com/live-news/ai-news-openai-anthropic-claude-artificial-intelligence-rogue-debate-09-18-26",
-        "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/7912b03281ee5c8c1d6d2e25c4ac3797.jpg",
-        "publishedAt": "2026-09-18T13:25:53Z",
-        "content": "Interpol said Friday it carried out a first-of-its-kind operation using artificial intelligence-aided facial recognition to identify more than 100 suspected terrorists.\r\nA team of two dozen experts f\u2026 [+1311 chars]"
+        "title": "Gemini hacked three companies in first known breakout by Google\u2019s AI - CNN",
+        "description": "Google\u2019s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company\u2019s AI systems autonomously committing such an act.",
+        "url": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2094551676.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-09-19T12:44:54Z",
+        "content": "Googles Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the companys AI systems autonomously committing such \u2026 [+1714 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "google-news",
+            "name": "Google News"
         },
-        "author": "CJ Haddad, Jordan Novet",
-        "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC - CNBC",
-        "description": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
-        "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108126884-1743790349191-gettyimages-2207866106-776305461sb11.jpeg?v=1761927498&w=1920&h=1080",
-        "publishedAt": "2026-09-18T13:23:58Z",
-        "content": "Microsoft AI CEO Mustafa Suleyman pressed for the need for artificial intelligence models to stay aligned to humanity's interests after OpenAI disclosed more incidents of \"concerning model behavior\" \u2026 [+3401 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Kayla Steinberg, Maya Huter",
-        "title": "Soaring mortgage rates and high prices are putting homeownership further out of reach - NBC News",
-        "description": "Interest rates on a 30-year fixed mortgage soared to 7.2%. Coupled with near record high prices, it\u2019s putting homeownership out of reach for millions.",
-        "url": "https://www.nbcnews.com/business/real-estate/high-mortgage-rates-home-prices-stress-rcna598396",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260627-houses-under-construction-ch-1216-674580.jpg",
-        "publishedAt": "2026-09-18T13:10:30Z",
-        "content": "Still, pending home sales in which contracts have been signed but the sales havent closed yet fell 4.7% over the past year, which economists attribute to higher mortgage rates.\r\nRealtors say higher i\u2026 [+1599 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Dow Jones Futures: After S&P 500, Nasdaq Rebound, What's Next? Moderna, AMD, SpaceX Flash Buy Signals. - Investor's Business Daily",
-        "description": "Treasury yields fall in a positive day-two reaction to the Fed meeting.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-moderna-amd-spacex-buy-signals/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2018/07/Stock-SpaceXfalcon9-10-company.jpg",
-        "publishedAt": "2026-09-18T12:02:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Here's How Google Advertising Antitrust Ruling Could Play Out - Investor's Business Daily",
-        "description": "A federal judge has unsealed detailed remedies in an advertising antitrust case.",
-        "url": "https://www.investors.com/news/technology/googl-stock-digital-advertising-antitrust-remedies-winners/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/01/stock-google-hq-adobe.jpg",
-        "publishedAt": "2026-09-18T11:44:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Sam Meredith",
-        "title": "Putin targets Nestle's Russian business as Kremlin tightens grip on Western assets - CNBC",
-        "description": "Nestl\u00e9 is assessing its options after Russia placed the Swiss food giant\u2019s local assets under temporary external administration.",
-        "url": "https://www.cnbc.com/2026/09/18/nestle-russia-assets-putin-ukraine-war.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107319809-1697706238236-gettyimages-1234257586-UK_NESTLE.jpeg?v=1697707649&w=1920&h=1080",
-        "publishedAt": "2026-09-18T11:23:07Z",
-        "content": "Swiss food giant Nestle said Friday it's weighing its options after the Kremlin moved to place the Russian assets of its business under temporary external administration.\r\nThe maker of Nescaf\u00e9 coffee\u2026 [+2180 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Sherry Su",
-        "title": "Saudis Tell European Refiners They\u2019ll Get No Crude Next Month - Bloomberg.com",
-        "description": "Saudi Aramco told at least two oil refining customers in Europe that they will be allocated no crude next month under long-term agreements after the kingdom\u2019s key pipeline to the Red Sea was attacked, people informed of the decision said.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-18/saudis-tell-european-refiners-they-ll-get-no-crude-next-month",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW0K5vMyWGkM/v1/1200x800.jpg",
-        "publishedAt": "2026-09-18T11:06:34Z",
-        "content": "Saudi Aramco told at least two oil refining customers in Europe that they will be allocated no crude next month under long-term agreements after the kingdoms key pipeline to the Red Sea was attacked,\u2026 [+356 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Laya Neelakandan",
-        "title": "Beauty, health and wellness are converging into one retail category - CNBC",
-        "description": "As consumers prioritize holistic retail purchases, beauty, health and wellness are increasingly converging into one category and one consumer budget.",
-        "url": "https://www.cnbc.com/2026/09/18/beauty-health-wellness-consumer-spending.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363263-1789500104734-gettyimages-2151518056-WALMART_REVAMP.jpeg?v=1789664026&w=1920&h=1080",
-        "publishedAt": "2026-09-18T11:00:01Z",
-        "content": "A customer shops for makeup at a Walmart store in Secaucus, New Jersey, March 5, 2024.\r\nAs consumers become more educated about the products they're buying and look to make more holistic purchases, a\u2026 [+6985 chars]"
+        "author": "New York Post",
+        "title": "Iconic Carnegie Deli reopens after 10-year absence \u2014 with noticeable differences in service, soup, pastrami - New York Post",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamJ4aHJYVzJJZ1J2SnRXbS1GdElwRlRTTE5SWmtIYlJNRlgxbHkzZFBGdzBVdHh5Rl9MeDFGWmJWVXBDekVhN3RoeUhfdFhLRnhOOUE0YWg5Y05VYUdVcVJSLU01bGx1WHBwQXpLLXN4emRHNzBoVHpIWVBtNklGVkx2NGxQM0JyYnZXZlR2ZE1TYlN0VVE?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2026-09-19T12:34:00Z",
+        "content": null
     },
     {
         "source": {
@@ -109,89 +44,180 @@
             "name": "Fox News"
         },
         "author": null,
-        "title": "Man loses weight eating nothing but a certain food for 25 days \u2014 and paid a price - Fox News",
-        "description": "A New Jersey man's Sweetgreen-only diet for 25 days left him nine pounds lighter \u2014 but the cost, logistics and a celebratory cheese pizza tell a bigger story.",
-        "url": "https://www.foxnews.com/food-drink/man-loses-weight-eating-nothing-certain-food-25-days-paid-price",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/tim-donohue-split-with-sweetgreen-salad-bowl-inside-and-outside.jpg",
-        "publishedAt": "2026-09-18T10:00:18Z",
-        "content": "A New Jersey man ate nothing but certain foods from a fast-casual chain for 25 days an experiment that left him nine pounds lighter and craving a slice of pizza.\r\nTim Donohue, a 27-year-old Hoboken r\u2026 [+4559 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Ben Geman",
-        "title": "Oil's shrug emoji era - Axios",
-        "description": "J.P. Morgan oil analysts offered a candid look into a conflict with no clear resolution.",
-        "url": "https://www.axios.com/2026/09/18/oils-shrug-emoji-era-iran-trump-hormuz-prices",
-        "urlToImage": "https://images.axios.com/EVdY8CRFzDfGKkDBssfKOZi177U=/0x0:1387x780/1366x768/2026/09/17/1789687177001.png",
-        "publishedAt": "2026-09-18T09:30:47Z",
-        "content": "<ul><li>Market watchers have come to grips with the likelihood that the status of the Strait of Hormuz and the number of barrels getting through will be messy for months to come.</li></ul>The big pic\u2026 [+2143 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Chloe Taylor, Sean Conlon",
-        "title": "Treasury yields edge higher as volatile week wraps up - CNBC",
-        "description": "Treasury yields moved higher on Friday as investors continued to look for clues on the trajectory of monetary policy.",
-        "url": "https://www.cnbc.com/2026/09/18/treasury-yields-fed-rates-volatile-week.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364037-17895893572026-09-16t200807z_1402825571_rc2iknai4t1v_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&w=1920&h=1080",
-        "publishedAt": "2026-09-18T09:22:17Z",
-        "content": "Traders work on the floor of the New York Stock Exchange (NYSE) in New York City, U.S., Sept. 16, 2026. \r\nTreasury yields moved higher on Friday as investors continued to look for clues on the trajec\u2026 [+1041 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Rachel Barber",
-        "title": "What a Fed rate hike means for credit card debt, car loans and savers - USA Today",
-        "description": "Borrowers can expect to see higher APRs on their credit cards at a time when more are relying on lent money to make ends meet.",
-        "url": "https://www.usatoday.com/story/money/personal-finance/2026/09/18/fed-interest-rate-hike-impacts/91805903007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/17/USAT/91806435007-20260916-t-192610-z-1212038521-rc-2-jkna-3-uu-5-r-rtrmadp-3-usafed.JPG?crop=5294,2978,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-09-18T09:05:00Z",
-        "content": "Federal Reserve policymakers decision to raise the benchmark for short-term interest rates is about to impact Americans budgets.\r\nThe federal funds rate stands at a range of 3.75% to 4%, a quarter pe\u2026 [+8248 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CoinDesk"
-        },
-        "author": "Shaurya Malwa",
-        "title": "BTC news: Iran's Strait of Hormuz toll booth has been settling in bitcoin since June - CoinDesk",
-        "description": "The U.S. Treasury sanctioned BitBank, a Tehran exchange it says moved hundreds of millions of dollars in bitcoin to the Revolutionary Guards and handled payments collected from ships buying passage through the world\u2019s most important oil chokepoint.",
-        "url": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/ea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-        "publishedAt": "2026-09-18T06:52:23Z",
-        "content": "Iran has spent this year charging tankers between $1 million and $2 million to cross the Strait of Hormuz, and the U.S. Treasury said that since June, part of that money has moved through a cryptocur\u2026 [+927 chars]"
+        "title": "Beloved restaurant chain dwindles from 850 locations to 87, but expert sees 'a lot of life left' - foxnews.com",
+        "description": "Friendly's once operated 850 restaurants, but 90% have closed. A Wharton marketing professor says nostalgia could fuel the ice cream chain's comeback.",
+        "url": "https://www.foxnews.com/food-drink/beloved-restaurant-chain-known-ice-cream-now-operates-handful-states",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/friendly_s_ice_cream.jpg",
+        "publishedAt": "2026-09-19T12:00:34Z",
+        "content": "A casual-dining chain known for its ice-cream desserts, burgers and family atmosphere that once operated roughly 850 restaurants has dwindled to fewer than 100 locations in 11 states.\r\nFriendly's was\u2026 [+3642 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Daniel Howley",
-        "title": "AI isn't coming to destroy humanity, but experts say the real threats are here - Yahoo Finance",
-        "description": "You don't have to hide under your bed for fear of AI quite yet.",
-        "url": "https://finance.yahoo.com/technology/article/ai-isnt-coming-to-destroy-humanity-but-experts-say-the-real-threats-are-here-165308199.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/9df2380d9b1f6c71c778133b702c384995248dd42b75eacee29a5b48df217e5a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fae49bb5b-66f0-4508-a804-e0e1d464dfe2",
-        "publishedAt": "2026-09-18T05:19:04Z",
-        "content": "On Wednesday, OpenAI (OPAI.PVT) revealed six new examples of its AI models displaying \"unexpected or concerning model behavior\" during testing and evaluation.\r\nThe company made the announcement along\u2026 [+4970 chars]"
+        "author": "Ines Ferr\u00e9",
+        "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day - Yahoo Finance",
+        "description": "Bitcoin has jumped more than 3% on a week when the headlines were not in its favor.",
+        "url": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
+        "publishedAt": "2026-09-19T11:59:55Z",
+        "content": "Bitcoin (BTC-USD) rallied to a two-week high on Friday, along with other cryptocurrencies.\r\nThe surge came despite a Fed rate hike earlier in the week and the failure of the Clarity Act, legislation \u2026 [+2158 chars]"
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": null,
+            "name": "Salon"
         },
-        "author": "Nick Timiraos, Brian Schwartz",
-        "title": "How Warsh Raised Rates Without Drawing Trump\u2019s Ire - WSJ",
-        "description": "New Fed chairman\u2019s close relationship with president gave him room to move without triggering White House backlash",
-        "url": "https://www.wsj.com/politics/policy/how-warsh-raised-rates-without-drawing-trumps-ire-5b0063f0",
-        "urlToImage": "https://images.wsj.net/im-27376888/social",
-        "publishedAt": "2026-09-18T00:00:00Z",
-        "content": "President Trump spent months attacking the \r\nFederal Reserve for keeping interest rates too high. On Wednesday, the central bank raised them, and Trump said he was standing by the chairman he picked.\u2026 [+923 chars]"
+        "author": "Troy Farah",
+        "title": "Trump\u2019s Iran war has economists aghast - salon.com",
+        "description": "No \"endgame\" in sight, says J.P. Morgan, as gas prices keep soaring",
+        "url": "https://www.salon.com/2026/09/19/economists-are-losing-it-over-damage-caused-by-trumps-iran-war/",
+        "urlToImage": "https://www.salon.com/app/uploads/2026/09/iran-war-GettyImages-2294767093.jpg",
+        "publishedAt": "2026-09-19T10:45:56Z",
+        "content": "America and Israels ongoing war against Iran has sunk the global economy so deeply in the mire that economists are now seemingly throwing down their pencils in frustration. On Thursday, for the first\u2026 [+4505 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Rafael Nam",
+        "title": "Ever wonder how the Fed's interest rate actually works? We've got answers - npr.org",
+        "description": "The Federal Reserve just raised interest rates this week for the first time this year. So how does it actually work? And what does it mean for the economy \u2014 and the rest of us? Here are some answers.",
+        "url": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3078+0+282/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F3e%2F812d039d41f29656f9b92aed1411%2Fap20100194370143.jpg",
+        "publishedAt": "2026-09-19T09:00:00Z",
+        "content": "It may be the most important tool in the Federal Reserve's toolkit: the interest rate.\r\nAnd on Wednesday, the Fed wielded it for the first time this year, raising rates by a quarter percentage point \u2026 [+5343 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "AAMER MADHANI",
+        "title": "Oil prices are high but could be much worse. Trump has China's Xi to thank for that - Yahoo",
+        "description": "When President Donald Trump launched his war against Iran in late February, energy analysts issued dire warnings that oil prices could more than double durin...",
+        "url": "https://www.yahoo.com/news/politics/articles/oil-prices-high-could-much-040833336.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/0d983b11d5c6ef9f18b0359630163e1ae708a7dcae65a6bd20f767250ad6d3cf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9dd77a44aa9b625aab0fccdd55771f7e.jpg",
+        "publishedAt": "2026-09-19T04:08:00Z",
+        "content": "WASHINGTON (AP) It could be much worse.\r\nWhen President Donald Trump launched his war against Iran in late February, energy analysts issued dire warnings that oil prices could more than double during\u2026 [+7356 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Kyiv Post"
+        },
+        "author": "Kyiv Post",
+        "title": "Moscow Expands Asset Grab Against Western Companies \u2013 Why It Could Backfire - Kyiv Post",
+        "description": "Russia is taking control of more Western businesses, but the short-term gains could deepen investor distrust and legal risks.",
+        "url": "https://www.kyivpost.com/post/84875",
+        "urlToImage": "https://static.kyivpost.com/storage/2026/09/19/36fcf5cf542a218088a9207e6b34f997.jpg?w=1200&q=90&f=jpg",
+        "publishedAt": "2026-09-19T04:04:23Z",
+        "content": "Russian President Vladimir Putin has expanded \u00a0Moscow\u2019s seizure campaign against Western companies, taking control of the Russian operations of Nestl\u00e9, Auchan, Lemana Pro and FM Logistic.\r\nThe seized\u2026 [+4012 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Investors weigh whether Anthropic can sustain surging revenues post-IPO - Financial Times",
+        "description": "OpenAI\u2019s resurgence, cheap rivals and safety fears test faith in durability of business model",
+        "url": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F84e31127-9df1-437a-8ed4-cfb4dcd9a852.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-09-19T04:00:24Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Christian Science Monitor"
+        },
+        "author": "Victoria Hoffmann, Laina Gustafson",
+        "title": "The price of diesel keeps rising. Why it\u2019s about to hit American consumers. - csmonitor.com",
+        "description": "The average price of diesel fuel in the U.S. is at a record high, raising the cost of transporting goods as the nation\u2019s economy is burdened with persistent inflation.",
+        "url": "https://www.csmonitor.com/Business/2026/0919/diesel-fuel-price-inflation",
+        "urlToImage": "https://images.csmonitor.com/csm/2026/09/0918_NDIESEL_lede.jpg?alias=standard_900x600",
+        "publishedAt": "2026-09-19T04:00:00Z",
+        "content": "Americans have already absorbed sharp increases in gasoline prices since the war in Iran began this spring. Now, the rising price of diesel, which powers much of the freight network that keeps the U.\u2026 [+7734 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Tyler Katzenberger, Christine Mui",
+        "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to \u2018pace\u2019 AI development - Politico",
+        "description": "The lawsuit alleges comments about need to \u201cpace the frontier\u201d of AI represent illegal coordination between competitors.",
+        "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F93%2Fe0%2Fea28d8ab4049b1ab95dd9e723c59%2Fanthropic-ai-disruptions-57538.jpg",
+        "publishedAt": "2026-09-19T01:04:00Z",
+        "content": "Humanity deserves iron clad safeguards when it comes to extinction event threats such as nuclear warfare and now the biggest risk to mankind in history, Rowley said in a statement. The rule of law sh\u2026 [+947 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Arianna Skibell",
+        "title": "Citing Trump, GOP regulators reject gas plant for Amazon data center - Politico",
+        "description": "GOP officials in North Carolina said Duke Energy\u2019s plans for powering the Amazon facility ran counter to the president\u2019s Ratepayer Protection Pledge.",
+        "url": "https://www.politico.com/news/2026/09/18/amazon-data-center-north-carolina-energy-trump-01084934",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F36%2F03%2Fcd05dc164cb986c93fd5f9bd942c%2Ftrump-08392.jpg",
+        "publishedAt": "2026-09-19T00:09:00Z",
+        "content": "Commissioner Floyd McKissick took issue with his colleagues basing their decision on who would pay for the project a reference to the invocation of Trumps ratepayer protection pledge, which is not le\u2026 [+1874 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Anthropic brings in Accenture for AI safety testing - Financial Times",
+        "description": "CEO Dario Amodei says labs should more deeply embed third-party testers as concerns grow around risks associated with the technology",
+        "url": "https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1db48b87-664a-4973-b881-1f4b531a542e.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-09-18T23:38:50Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Faris  Tanyos",
+        "title": "Nvidia CEO Jensen Huang calls for AI to be developed \"as fast as we can\" - CBS News",
+        "description": "The CEO of the world's largest chipmaker told CBS News that tech companies should proceed with artificial intelligence development despite recent warnings from worried industry leaders that there may be a need to pull back.",
+        "url": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-ai-development-fast-as-we-can/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/219ff5d8-0072-4182-8d0b-643a170dcd37/thumbnail/1200x630/dbaceaf719e598c29bfbf03e35f30abc/jensen.jpg",
+        "publishedAt": "2026-09-18T23:13:00Z",
+        "content": "The CEO of the world's largest chipmaker told CBS News that tech companies should push forward with the development of artificial intelligence despite recent warnings from worried industry leaders th\u2026 [+1925 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KABC-TV"
+        },
+        "author": "Gloria Rodr\u00edguez, Cameron Bopp",
+        "title": "Thousands of Bay Area, Southern California security guards at major retailers, tech giants begin strike - ABC7 Los Angeles",
+        "description": "Nearly 14,000 security guards across the Bay Area and Southern California at luxury stores and major tech companies began striking Friday morning, saying they're protecting billions of dollars in wealth but struggling to make ends meet.",
+        "url": "https://abc7.com/post/thousands-bay-area-southern-california-security-guards-major-retailers-tech-giants-begin-strike/19845253/",
+        "urlToImage": "https://cdn.abcotvs.com/dip/images/19847647_091826-kgo-security-strike-img.jpg?w=1600",
+        "publishedAt": "2026-09-18T23:07:33Z",
+        "content": "SAN FRANCISCO -- Nearly 14,000 union security officers across California began striking Friday morning in a labor dispute over pay, benefits, training and alleged unfair labor practices.\r\nThe officer\u2026 [+4289 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "OpenAI expects to burn $280bn by 2030 - Financial Times",
+        "description": "AI start-up has projected deeply negative cash flows as it invests in infrastructure and faces price pressures",
+        "url": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff69b3753-0530-4d1e-aee4-5d45d53b4bad.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-09-18T22:33:32Z",
+        "content": null
     }
 ]
