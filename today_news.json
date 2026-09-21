@@ -4,220 +4,233 @@
             "id": null,
             "name": "New York Post"
         },
-        "author": "Ben Cost",
-        "title": "Former KLM CEO allegedly sparks fire onboard after ignoring power bank rule - New York Post",
-        "description": "It was a corporate power struggle.",
-        "url": "https://nypost.com/2026/09/19/lifestyle/former-klm-ceo-allegedly-ignores-power-bank-rule-sparks-onboard-fire/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141703300.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-09-19T14:19:00Z",
-        "content": "It literally blew up in his face.\r\nA KLM Royal Dutch Airlines flight had to turn back partway across the ocean after a power bank reportedly belonging to the ex-CEO exploded midflight.\r\nThe backfire \u2026 [+3153 chars]"
+        "author": "Andrea Palladino",
+        "title": "The \u2018unprofessional\u2019 item Gen Z brings to interviews could be costing them jobs - New York Post",
+        "description": "In today\u2019s brutal job market,\u00a0 Gen Z is bringing their absolute A-game to interviews.",
+        "url": "https://nypost.com/2026/09/20/lifestyle/the-unprofessional-item-gen-z-brings-to-interviews-could-be-costing-them-jobs/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-40905453.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-09-20T16:53:00Z",
+        "content": "In todays brutal job market,\u00a0Gen Z is bringing their absolute A-game to interviews.\u00a0\r\nBut theyre also bringing their emotional support iced lattes.\r\nA generational debate has erupted online over a de\u2026 [+3131 chars]"
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": null,
-        "title": "Gemini hacked three companies in first known breakout by Google\u2019s AI - CNN",
-        "description": "Google\u2019s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company\u2019s AI systems autonomously committing such an act.",
-        "url": "https://www.cnn.com/2026/09/19/business/gemini-ai-hack-internet",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2094551676.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-09-19T12:44:54Z",
-        "content": "Googles Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the companys AI systems autonomously committing such \u2026 [+1714 chars]"
+        "author": "Christopher Rugaber",
+        "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth - AP News",
+        "description": "President Donald Trump has renewed his attacks on the Federal Reserve after it hiked its benchmark interest rate Wednesday, but the Fed matters less than broader economic trends when it comes to longer-term borrowing costs, economists say. The economy is grow\u2026",
+        "url": "https://apnews.com/article/federal-reserve-interest-rates-inflation-a633de46f84a3487f3bdc03f788188fa",
+        "urlToImage": "https://dims.apnews.com/dims4/default/c61be33/2147483647/strip/true/crop/7796x5195+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F52%2Fad960f499fc601b9aa6141f411d5%2Fac7bb56a5e484304a5ff4a9513f04f68",
+        "publishedAt": "2026-09-20T13:45:00Z",
+        "content": "WASHINGTON (AP) President Donald Trump has renewed his attacks on the Federal Reserve after it hiked its benchmark interest rate Wednesday, but the Fed matters less than broader economic trends when \u2026 [+4706 chars]"
     },
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": "usa-today",
+            "name": "USA Today"
         },
-        "author": "New York Post",
-        "title": "Iconic Carnegie Deli reopens after 10-year absence \u2014 with noticeable differences in service, soup, pastrami - New York Post",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamJ4aHJYVzJJZ1J2SnRXbS1GdElwRlRTTE5SWmtIYlJNRlgxbHkzZFBGdzBVdHh5Rl9MeDFGWmJWVXBDekVhN3RoeUhfdFhLRnhOOUE0YWg5Y05VYUdVcVJSLU01bGx1WHBwQXpLLXN4emRHNzBoVHpIWVBtNklGVkx2NGxQM0JyYnZXZlR2ZE1TYlN0VVE?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2026-09-19T12:34:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": null,
-        "title": "Beloved restaurant chain dwindles from 850 locations to 87, but expert sees 'a lot of life left' - foxnews.com",
-        "description": "Friendly's once operated 850 restaurants, but 90% have closed. A Wharton marketing professor says nostalgia could fuel the ice cream chain's comeback.",
-        "url": "https://www.foxnews.com/food-drink/beloved-restaurant-chain-known-ice-cream-now-operates-handful-states",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/friendly_s_ice_cream.jpg",
-        "publishedAt": "2026-09-19T12:00:34Z",
-        "content": "A casual-dining chain known for its ice-cream desserts, burgers and family atmosphere that once operated roughly 850 restaurants has dwindled to fewer than 100 locations in 11 states.\r\nFriendly's was\u2026 [+3642 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Ines Ferr\u00e9",
-        "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day - Yahoo Finance",
-        "description": "Bitcoin has jumped more than 3% on a week when the headlines were not in its favor.",
-        "url": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/4979006798ae58c331d45c24030db19b8909c8cc4a3d6772787dedbae6ab7f85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F6b49920e-2866-4c31-b620-afd64c8f081a",
-        "publishedAt": "2026-09-19T11:59:55Z",
-        "content": "Bitcoin (BTC-USD) rallied to a two-week high on Friday, along with other cryptocurrencies.\r\nThe surge came despite a Fed rate hike earlier in the week and the failure of the Clarity Act, legislation \u2026 [+2158 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Salon"
-        },
-        "author": "Troy Farah",
-        "title": "Trump\u2019s Iran war has economists aghast - salon.com",
-        "description": "No \"endgame\" in sight, says J.P. Morgan, as gas prices keep soaring",
-        "url": "https://www.salon.com/2026/09/19/economists-are-losing-it-over-damage-caused-by-trumps-iran-war/",
-        "urlToImage": "https://www.salon.com/app/uploads/2026/09/iran-war-GettyImages-2294767093.jpg",
-        "publishedAt": "2026-09-19T10:45:56Z",
-        "content": "America and Israels ongoing war against Iran has sunk the global economy so deeply in the mire that economists are now seemingly throwing down their pencils in frustration. On Thursday, for the first\u2026 [+4505 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "Rafael Nam",
-        "title": "Ever wonder how the Fed's interest rate actually works? We've got answers - npr.org",
-        "description": "The Federal Reserve just raised interest rates this week for the first time this year. So how does it actually work? And what does it mean for the economy \u2014 and the rest of us? Here are some answers.",
-        "url": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3078+0+282/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F3e%2F812d039d41f29656f9b92aed1411%2Fap20100194370143.jpg",
-        "publishedAt": "2026-09-19T09:00:00Z",
-        "content": "It may be the most important tool in the Federal Reserve's toolkit: the interest rate.\r\nAnd on Wednesday, the Fed wielded it for the first time this year, raising rates by a quarter percentage point \u2026 [+5343 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "AAMER MADHANI",
-        "title": "Oil prices are high but could be much worse. Trump has China's Xi to thank for that - Yahoo",
-        "description": "When President Donald Trump launched his war against Iran in late February, energy analysts issued dire warnings that oil prices could more than double durin...",
-        "url": "https://www.yahoo.com/news/politics/articles/oil-prices-high-could-much-040833336.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/0d983b11d5c6ef9f18b0359630163e1ae708a7dcae65a6bd20f767250ad6d3cf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9dd77a44aa9b625aab0fccdd55771f7e.jpg",
-        "publishedAt": "2026-09-19T04:08:00Z",
-        "content": "WASHINGTON (AP) It could be much worse.\r\nWhen President Donald Trump launched his war against Iran in late February, energy analysts issued dire warnings that oil prices could more than double during\u2026 [+7356 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Kyiv Post"
-        },
-        "author": "Kyiv Post",
-        "title": "Moscow Expands Asset Grab Against Western Companies \u2013 Why It Could Backfire - Kyiv Post",
-        "description": "Russia is taking control of more Western businesses, but the short-term gains could deepen investor distrust and legal risks.",
-        "url": "https://www.kyivpost.com/post/84875",
-        "urlToImage": "https://static.kyivpost.com/storage/2026/09/19/36fcf5cf542a218088a9207e6b34f997.jpg?w=1200&q=90&f=jpg",
-        "publishedAt": "2026-09-19T04:04:23Z",
-        "content": "Russian President Vladimir Putin has expanded \u00a0Moscow\u2019s seizure campaign against Western companies, taking control of the Russian operations of Nestl\u00e9, Auchan, Lemana Pro and FM Logistic.\r\nThe seized\u2026 [+4012 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "Investors weigh whether Anthropic can sustain surging revenues post-IPO - Financial Times",
-        "description": "OpenAI\u2019s resurgence, cheap rivals and safety fears test faith in durability of business model",
-        "url": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F84e31127-9df1-437a-8ed4-cfb4dcd9a852.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-09-19T04:00:24Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Christian Science Monitor"
-        },
-        "author": "Victoria Hoffmann, Laina Gustafson",
-        "title": "The price of diesel keeps rising. Why it\u2019s about to hit American consumers. - csmonitor.com",
-        "description": "The average price of diesel fuel in the U.S. is at a record high, raising the cost of transporting goods as the nation\u2019s economy is burdened with persistent inflation.",
-        "url": "https://www.csmonitor.com/Business/2026/0919/diesel-fuel-price-inflation",
-        "urlToImage": "https://images.csmonitor.com/csm/2026/09/0918_NDIESEL_lede.jpg?alias=standard_900x600",
-        "publishedAt": "2026-09-19T04:00:00Z",
-        "content": "Americans have already absorbed sharp increases in gasoline prices since the war in Iran began this spring. Now, the rising price of diesel, which powers much of the freight network that keeps the U.\u2026 [+7734 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Tyler Katzenberger, Christine Mui",
-        "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to \u2018pace\u2019 AI development - Politico",
-        "description": "The lawsuit alleges comments about need to \u201cpace the frontier\u201d of AI represent illegal coordination between competitors.",
-        "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F93%2Fe0%2Fea28d8ab4049b1ab95dd9e723c59%2Fanthropic-ai-disruptions-57538.jpg",
-        "publishedAt": "2026-09-19T01:04:00Z",
-        "content": "Humanity deserves iron clad safeguards when it comes to extinction event threats such as nuclear warfare and now the biggest risk to mankind in history, Rowley said in a statement. The rule of law sh\u2026 [+947 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Arianna Skibell",
-        "title": "Citing Trump, GOP regulators reject gas plant for Amazon data center - Politico",
-        "description": "GOP officials in North Carolina said Duke Energy\u2019s plans for powering the Amazon facility ran counter to the president\u2019s Ratepayer Protection Pledge.",
-        "url": "https://www.politico.com/news/2026/09/18/amazon-data-center-north-carolina-energy-trump-01084934",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F36%2F03%2Fcd05dc164cb986c93fd5f9bd942c%2Ftrump-08392.jpg",
-        "publishedAt": "2026-09-19T00:09:00Z",
-        "content": "Commissioner Floyd McKissick took issue with his colleagues basing their decision on who would pay for the project a reference to the invocation of Trumps ratepayer protection pledge, which is not le\u2026 [+1874 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "Anthropic brings in Accenture for AI safety testing - Financial Times",
-        "description": "CEO Dario Amodei says labs should more deeply embed third-party testers as concerns grow around risks associated with the technology",
-        "url": "https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1db48b87-664a-4973-b881-1f4b531a542e.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-09-18T23:38:50Z",
-        "content": null
+        "author": "Kathleen Wong",
+        "title": "She thought she'd booked a dream vacation rental. Then she arrived - USA Today",
+        "description": "Experts warn AI-generated images, fake reviews and misleading listings are making vacation rental scams harder for travelers to detect.",
+        "url": "https://www.usatoday.com/story/travel/2026/09/20/vacation-rental-airbnb-scams-ai-photos/91682623007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/16/USAT/91797606007-img-6192.jpeg?crop=1178,663,x0,y594&width=1178&height=663&format=pjpg&auto=webp",
+        "publishedAt": "2026-09-20T13:41:00Z",
+        "content": "<ul><li>A family's vacation rental in San Diego was unsafe and did not match the online listing photos.</li><li>Scammers use tactics like AI-generated images, fake reviews and bait-and-switch to expl\u2026 [+10814 chars]"
     },
     {
         "source": {
             "id": "cbs-news",
             "name": "CBS News"
         },
-        "author": "Faris  Tanyos",
-        "title": "Nvidia CEO Jensen Huang calls for AI to be developed \"as fast as we can\" - CBS News",
-        "description": "The CEO of the world's largest chipmaker told CBS News that tech companies should proceed with artificial intelligence development despite recent warnings from worried industry leaders that there may be a need to pull back.",
-        "url": "https://www.cbsnews.com/news/nvidia-ceo-jensen-huang-ai-development-fast-as-we-can/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/219ff5d8-0072-4182-8d0b-643a170dcd37/thumbnail/1200x630/dbaceaf719e598c29bfbf03e35f30abc/jensen.jpg",
-        "publishedAt": "2026-09-18T23:13:00Z",
-        "content": "The CEO of the world's largest chipmaker told CBS News that tech companies should push forward with the development of artificial intelligence despite recent warnings from worried industry leaders th\u2026 [+1925 chars]"
+        "author": "Jo Ling  Kent, Emily  Pandise, Aimee  Picchi",
+        "title": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\" - CBS News",
+        "description": "Predictions that AI could destroy humanity in a few years are irresponsible and not based on science, Nvidia's co-founder told CBS News.",
+        "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/ca887747-0cd6-4acb-870e-b58cabc4ed91/thumbnail/1200x630/0d4d71c1177f0f6aa26fc8e06dac60fd/cbsn-fusion-nvidia-ceo-jensen-huang-ai-safety-concerns-2030-not-end-of-world-thumbnail.jpg",
+        "publishedAt": "2026-09-20T13:37:00Z",
+        "content": "Nvidia co-founder and CEO Jensen Huang told CBS News he disagrees with recent warnings from artificial intelligence researchers that the technology could lead to humanity's extinction within a few ye\u2026 [+6174 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "KABC-TV"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Gloria Rodr\u00edguez, Cameron Bopp",
-        "title": "Thousands of Bay Area, Southern California security guards at major retailers, tech giants begin strike - ABC7 Los Angeles",
-        "description": "Nearly 14,000 security guards across the Bay Area and Southern California at luxury stores and major tech companies began striking Friday morning, saying they're protecting billions of dollars in wealth but struggling to make ends meet.",
-        "url": "https://abc7.com/post/thousands-bay-area-southern-california-security-guards-major-retailers-tech-giants-begin-strike/19845253/",
-        "urlToImage": "https://cdn.abcotvs.com/dip/images/19847647_091826-kgo-security-strike-img.jpg?w=1600",
-        "publishedAt": "2026-09-18T23:07:33Z",
-        "content": "SAN FRANCISCO -- Nearly 14,000 union security officers across California began striking Friday morning in a labor dispute over pay, benefits, training and alleged unfair labor practices.\r\nThe officer\u2026 [+4289 chars]"
+        "author": "Jeran Wittenstein",
+        "title": "AI\u2019s Wobbly House of Cards Puts Markets and US Economy at Risk - Bloomberg.com",
+        "description": "The heads of America\u2019s leading AI development labs have started a national conversation about tapping the brakes on a technology that\u2019s offering so much promise for society, while at the same time showing it can do a frightening amount of harm.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-20/ai-s-wobbly-house-of-cards-puts-markets-and-us-economy-at-risk",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inCbFHqO18sE/v4/1200x848.jpg",
+        "publishedAt": "2026-09-20T13:00:00Z",
+        "content": "The heads of Americas leading AI development labs have started a national conversation about tapping the brakes on a technology thats offering so much promise for society, while at the same time show\u2026 [+401 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Daniel de Vise\u0301",
+        "title": "Too old to hire? These Americans lost their jobs at 60 - USA Today",
+        "description": "When you lose a job around age 60, you are arguably too old to get a new job and too young to retire. Here's how 10 workers handled the scenario.",
+        "url": "https://www.usatoday.com/story/money/personal-finance/2026/09/20/too-old-to-hire-workers-early-retirement-layoffs/91680065007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/10/USAT/91696319007-cynthia-hennessy.jpeg?crop=2052,1155,x0,y1235&width=2052&height=1155&format=pjpg&auto=webp",
+        "publishedAt": "2026-09-20T12:54:00Z",
+        "content": "Cynthia Hennessy hit some low points after\u00a0getting laid off from her\u00a0corporate lawyer\u00a0position\u00a0in 2024, at age 61. The lowest probably came when she was rejected for a job driving the Oscar Mayer Wie\u2026 [+18583 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "CNBC"
+        },
+        "author": "TipRanks.com Staff",
+        "title": "Top Wall Street analysts find these 3 stocks attractive as long-term investments - CNBC",
+        "description": "Look beyond short-term noise and focus on stocks with strong growth potential in future years.",
+        "url": "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108341726-1785333887824-gettyimages-2287296727-META_EARNS.jpeg?v=1788974547&w=1920&h=1080",
+        "publishedAt": "2026-09-20T12:01:35Z",
+        "content": "Investors have been grappling with stock market volatility, weighing elevated oil prices, persistent geopolitical tensions, the Federal Reserve's rate hike and a debate about AI safety. For all that,\u2026 [+5728 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Hugh Son, Leslie Josephs, Michael Wayland",
+        "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies - CNBC",
+        "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+        "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364844-1789731895573-img_1793.jpg?v=1789768722&w=1920&h=1080",
+        "publishedAt": "2026-09-20T12:00:01Z",
+        "content": "Jim Nielsen puts the finishing touches on a radial arm saw at Original Saw Co. in Britt, Iowa.\r\nFewer, pricier flights. Freight surcharges. Manufacturers hoarding inventory. Even bankruptcy.\r\nFor Ame\u2026 [+8450 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Leslie Josephs",
+        "title": "Budget airline king Bill Franke warms to first-class seats and premium upgrades - CNBC",
+        "description": "Serial airline investor Bill Franke is embracing more upmarket changes like first-class seats.",
+        "url": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107142593-1666971212990-ind.jpg?v=1666971248&w=1920&h=1080",
+        "publishedAt": "2026-09-20T12:00:01Z",
+        "content": "Bill Franke, co-founder of Indigo Partners and chairman of Frontier Airlines Inc., speaks during an interview in New York, Oct. 28, 2022.\r\nSCOTTSDALE, Ariz. For decades, William Augustus Franke, Fron\u2026 [+8424 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Geoffrey Morgan, Joel Leon",
+        "title": "Carney\u2019s Glitzy Summit Lures International Investments to Canada - Bloomberg.com",
+        "description": "Prime Minister Mark Carney\u2019s effort to charm a cadre of the world\u2019s largest investors at a VIP-only summit in Toronto last week is paying quick dividends for Canadian investments.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-20/carney-s-glitzy-summit-lures-international-investments-to-canada",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ3fEUpZHVMs/v7/1200x800.jpg",
+        "publishedAt": "2026-09-20T12:00:01Z",
+        "content": "Prime Minister Mark Carneys effort to charm a cadre of the worlds largest investors at a VIP-only summit in Toronto last week is paying quick dividends for Canadian investments.\r\nWith a stock market \u2026 [+441 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The-independent.com"
+        },
+        "author": "Carsen Holaday",
+        "title": "Flight attendant reveals the two drinks you should never order on a plane - The Independent",
+        "description": "Cabin crew members recommend ordering sealed or bottled drinks instead",
+        "url": "https://www.the-independent.com/life-style/flight-attendant-advice-drinks-plane-b3052750.html",
+        "urlToImage": "https://static.the-independent.com/2026/09/18/20/09/iStock-1401029211.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-09-20T11:54:00Z",
+        "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+3303 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Post Magazine"
         },
         "author": null,
-        "title": "OpenAI expects to burn $280bn by 2030 - Financial Times",
-        "description": "AI start-up has projected deeply negative cash flows as it invests in infrastructure and faces price pressures",
-        "url": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff69b3753-0530-4d1e-aee4-5d45d53b4bad.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-09-18T22:33:32Z",
+        "title": "China\u2019s CXMT touts new chip process as close to \u2018world\u2019s most advanced\u2019 - South China Morning Post",
+        "description": "Fifth-generation process narrows gap with global leaders Samsung and SK Hynix as the DRAM maker shows two 24-gigabit chips.",
+        "url": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced",
+        "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/20/14027e09-b8f6-46e8-96fa-6e9ad6d2dc11_66b7ec77.jpg?itok=Ir9Si8sG&v=1789897777",
+        "publishedAt": "2026-09-20T10:30:05Z",
+        "content": "Chinese memory chip giant Changxin Memory Technologies (CXMT) said on Sunday that it adopted its new-generation technology platform for mass production, narrowing the advantage of global leaders incl\u2026 [+945 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Reece Rogers",
+        "title": "Meta\u2019s Muse Is Better at Surveilling Than Helping Me - WIRED",
+        "description": "The Muse app continues Meta\u2019s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+        "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+        "urlToImage": "https://media.wired.com/photos/6aaa7e94f251bfe9554bf013/191:100/w_1280,c_limit/091626-Meta%20Muse.jpg",
+        "publishedAt": "2026-09-20T10:30:00Z",
+        "content": "I do see this as a continued trajectory of their main business model of controlling what people see, putting ads in front of them, and collecting more data, Mir says.\r\nIts definitely rational to be a\u2026 [+3110 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba",
+        "urlToImage": null,
+        "publishedAt": "2026-09-20T10:28:00Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Ayelet Sheffey",
+        "title": "A 60-year-old took out student loans to help her kids succeed. She's facing retirement with a $156,000 balance. - Business Insider",
+        "description": "She doesn't have a college degree of her own, but she's staring down a six-figure student-loan balance she took on to give her kids a better life.",
+        "url": "https://www.businessinsider.com/mom-postponing-retirement-student-loan-debt-parent-plus-save-repayment-2026-9#article",
+        "urlToImage": "https://i.insider.com/6aaacf794a3706ac06f83d07?width=1200&format=jpeg",
+        "publishedAt": "2026-09-20T10:00:21Z",
+        "content": "Nansi Lynch never went to college. But she's approaching retirement with a $156,000 student-loan balance.\r\n\"I don't get rid of it until I turn 75 years old,\" Lynch said. \"I've never heard of somethin\u2026 [+5286 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Logan Brown",
+        "title": "My first law firm billed clients $600 per hour for me to use my Harvard degree on data entry. Thank God AI is changing the industry - Fortune",
+        "description": "Whether the industry likes it or not, the introduction of artificial intelligence is reshaping the distribution of talent and availability of resources.",
+        "url": "https://fortune.com/2026/09/20/logan-brown-ai-law-founder-harvard-law-school-data-entry-disruption/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Logan-Brown-Headshot100.jpg?resize=1200,600",
+        "publishedAt": "2026-09-20T10:00:00Z",
+        "content": "When I was 12 years old, I walked into the district attorneys office of my Kansas hometown and asked for a job. I was inspired by onscreen lawyers depicted as hardworking professionals fighting for t\u2026 [+3860 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Dan Primack",
+        "title": "How Trump 2.0's stock market stacks up with predecessors - Axios",
+        "description": "Trump 2.0 stock market easily topped Biden, but remains behind Obama and Trump 1.0.",
+        "url": "https://www.axios.com/2026/09/20/trump-stock-market-predecessors",
+        "urlToImage": "https://images.axios.com/-87oNUMDa_R0Lp0TqtC7Bajf00w=/0x0:1600x900/1366x768/2026/09/19/1789831417233.png",
+        "publishedAt": "2026-09-20T09:59:43Z",
+        "content": "By the numbers: The S&amp;P 500 rose nearly 27.6% between inauguration day and this past Friday's close, compared to 28.5% during his first term.\r\n<ul><li>The gap at 20 months is closer than it was a\u2026 [+522 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Preston Fore",
+        "title": "Meet a 71-year-old who retired as a radiologist and professor, and now runs a banana-skewer business - Fortune",
+        "description": "Richard Brown\u2019s career has taken him from the exam room to the classroom and boardroom. At 71, he\u2019s still working\u2014and is now focused on entrepreneurship.",
+        "url": "https://fortune.com/2026/09/20/retired-professor-radiologist-richard-brown-turning-to-entreprenuership-career-success-starting-over-poka-snack/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/RichardBrown.jpg?resize=1200,600",
+        "publishedAt": "2026-09-20T09:34:00Z",
+        "content": "At 71, Richard Brown feels as if hes a college student all over again.A nuclear medicine physician turned professor, Brown formally retired in 2020only to take another job in university leadership th\u2026 [+4592 chars]"
     }
 ]
