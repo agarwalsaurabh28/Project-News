@@ -2,235 +2,209 @@
     {
         "source": {
             "id": null,
-            "name": "New York Post"
+            "name": "NBC New York"
         },
-        "author": "Andrea Palladino",
-        "title": "The \u2018unprofessional\u2019 item Gen Z brings to interviews could be costing them jobs - New York Post",
-        "description": "In today\u2019s brutal job market,\u00a0 Gen Z is bringing their absolute A-game to interviews.",
-        "url": "https://nypost.com/2026/09/20/lifestyle/the-unprofessional-item-gen-z-brings-to-interviews-could-be-costing-them-jobs/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/crop-40905453.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-09-20T16:53:00Z",
-        "content": "In todays brutal job market,\u00a0Gen Z is bringing their absolute A-game to interviews.\u00a0\r\nBut theyre also bringing their emotional support iced lattes.\r\nA generational debate has erupted online over a de\u2026 [+3131 chars]"
+        "author": "Jennifer Millman",
+        "title": "Air travel nightmare: Newark ground stop nears 6th hour; JFK, LGA pause flights - NBC New York",
+        "description": "A full ground stop order is in place at Newark Airport.",
+        "url": "https://www.nbcnewyork.com/new-jersey/newark-airport-ground-stop-equipment-issues/6550060/",
+        "urlToImage": "https://media.nbcnewyork.com/2026/09/newark-plane-backup.png?crop=713px%2C73px%2C1192px%2C671px&resize=1200%2C675&quality=85&strip=all",
+        "publishedAt": "2026-09-21T17:59:30Z",
+        "content": "An all-out air travel nightmare erupted Monday as the Federal Aviation Administration ordered ground stops at major tri-state airport after major tri-state airport because of a failed circuit connect\u2026 [+1682 chars]"
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": "ars-technica",
+            "name": "Ars Technica"
         },
-        "author": "Christopher Rugaber",
-        "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth - AP News",
-        "description": "President Donald Trump has renewed his attacks on the Federal Reserve after it hiked its benchmark interest rate Wednesday, but the Fed matters less than broader economic trends when it comes to longer-term borrowing costs, economists say. The economy is grow\u2026",
-        "url": "https://apnews.com/article/federal-reserve-interest-rates-inflation-a633de46f84a3487f3bdc03f788188fa",
-        "urlToImage": "https://dims.apnews.com/dims4/default/c61be33/2147483647/strip/true/crop/7796x5195+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F52%2Fad960f499fc601b9aa6141f411d5%2Fac7bb56a5e484304a5ff4a9513f04f68",
-        "publishedAt": "2026-09-20T13:45:00Z",
-        "content": "WASHINGTON (AP) President Donald Trump has renewed his attacks on the Federal Reserve after it hiked its benchmark interest rate Wednesday, but the Fed matters less than broader economic trends when \u2026 [+4706 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Kathleen Wong",
-        "title": "She thought she'd booked a dream vacation rental. Then she arrived - USA Today",
-        "description": "Experts warn AI-generated images, fake reviews and misleading listings are making vacation rental scams harder for travelers to detect.",
-        "url": "https://www.usatoday.com/story/travel/2026/09/20/vacation-rental-airbnb-scams-ai-photos/91682623007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/16/USAT/91797606007-img-6192.jpeg?crop=1178,663,x0,y594&width=1178&height=663&format=pjpg&auto=webp",
-        "publishedAt": "2026-09-20T13:41:00Z",
-        "content": "<ul><li>A family's vacation rental in San Diego was unsafe and did not match the online listing photos.</li><li>Scammers use tactics like AI-generated images, fake reviews and bait-and-switch to expl\u2026 [+10814 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Jo Ling  Kent, Emily  Pandise, Aimee  Picchi",
-        "title": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\" - CBS News",
-        "description": "Predictions that AI could destroy humanity in a few years are irresponsible and not based on science, Nvidia's co-founder told CBS News.",
-        "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/18/ca887747-0cd6-4acb-870e-b58cabc4ed91/thumbnail/1200x630/0d4d71c1177f0f6aa26fc8e06dac60fd/cbsn-fusion-nvidia-ceo-jensen-huang-ai-safety-concerns-2030-not-end-of-world-thumbnail.jpg",
-        "publishedAt": "2026-09-20T13:37:00Z",
-        "content": "Nvidia co-founder and CEO Jensen Huang told CBS News he disagrees with recent warnings from artificial intelligence researchers that the technology could lead to humanity's extinction within a few ye\u2026 [+6174 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Jeran Wittenstein",
-        "title": "AI\u2019s Wobbly House of Cards Puts Markets and US Economy at Risk - Bloomberg.com",
-        "description": "The heads of America\u2019s leading AI development labs have started a national conversation about tapping the brakes on a technology that\u2019s offering so much promise for society, while at the same time showing it can do a frightening amount of harm.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-20/ai-s-wobbly-house-of-cards-puts-markets-and-us-economy-at-risk",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inCbFHqO18sE/v4/1200x848.jpg",
-        "publishedAt": "2026-09-20T13:00:00Z",
-        "content": "The heads of Americas leading AI development labs have started a national conversation about tapping the brakes on a technology thats offering so much promise for society, while at the same time show\u2026 [+401 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Daniel de Vise\u0301",
-        "title": "Too old to hire? These Americans lost their jobs at 60 - USA Today",
-        "description": "When you lose a job around age 60, you are arguably too old to get a new job and too young to retire. Here's how 10 workers handled the scenario.",
-        "url": "https://www.usatoday.com/story/money/personal-finance/2026/09/20/too-old-to-hire-workers-early-retirement-layoffs/91680065007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/10/USAT/91696319007-cynthia-hennessy.jpeg?crop=2052,1155,x0,y1235&width=2052&height=1155&format=pjpg&auto=webp",
-        "publishedAt": "2026-09-20T12:54:00Z",
-        "content": "Cynthia Hennessy hit some low points after\u00a0getting laid off from her\u00a0corporate lawyer\u00a0position\u00a0in 2024, at age 61. The lowest probably came when she was rejected for a job driving the Oscar Mayer Wie\u2026 [+18583 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "TipRanks.com Staff",
-        "title": "Top Wall Street analysts find these 3 stocks attractive as long-term investments - CNBC",
-        "description": "Look beyond short-term noise and focus on stocks with strong growth potential in future years.",
-        "url": "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108341726-1785333887824-gettyimages-2287296727-META_EARNS.jpeg?v=1788974547&w=1920&h=1080",
-        "publishedAt": "2026-09-20T12:01:35Z",
-        "content": "Investors have been grappling with stock market volatility, weighing elevated oil prices, persistent geopolitical tensions, the Federal Reserve's rate hike and a debate about AI safety. For all that,\u2026 [+5728 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Hugh Son, Leslie Josephs, Michael Wayland",
-        "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies - CNBC",
-        "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-        "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364844-1789731895573-img_1793.jpg?v=1789768722&w=1920&h=1080",
-        "publishedAt": "2026-09-20T12:00:01Z",
-        "content": "Jim Nielsen puts the finishing touches on a radial arm saw at Original Saw Co. in Britt, Iowa.\r\nFewer, pricier flights. Freight surcharges. Manufacturers hoarding inventory. Even bankruptcy.\r\nFor Ame\u2026 [+8450 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Leslie Josephs",
-        "title": "Budget airline king Bill Franke warms to first-class seats and premium upgrades - CNBC",
-        "description": "Serial airline investor Bill Franke is embracing more upmarket changes like first-class seats.",
-        "url": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107142593-1666971212990-ind.jpg?v=1666971248&w=1920&h=1080",
-        "publishedAt": "2026-09-20T12:00:01Z",
-        "content": "Bill Franke, co-founder of Indigo Partners and chairman of Frontier Airlines Inc., speaks during an interview in New York, Oct. 28, 2022.\r\nSCOTTSDALE, Ariz. For decades, William Augustus Franke, Fron\u2026 [+8424 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Geoffrey Morgan, Joel Leon",
-        "title": "Carney\u2019s Glitzy Summit Lures International Investments to Canada - Bloomberg.com",
-        "description": "Prime Minister Mark Carney\u2019s effort to charm a cadre of the world\u2019s largest investors at a VIP-only summit in Toronto last week is paying quick dividends for Canadian investments.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-20/carney-s-glitzy-summit-lures-international-investments-to-canada",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZ3fEUpZHVMs/v7/1200x800.jpg",
-        "publishedAt": "2026-09-20T12:00:01Z",
-        "content": "Prime Minister Mark Carneys effort to charm a cadre of the worlds largest investors at a VIP-only summit in Toronto last week is paying quick dividends for Canadian investments.\r\nWith a stock market \u2026 [+441 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The-independent.com"
-        },
-        "author": "Carsen Holaday",
-        "title": "Flight attendant reveals the two drinks you should never order on a plane - The Independent",
-        "description": "Cabin crew members recommend ordering sealed or bottled drinks instead",
-        "url": "https://www.the-independent.com/life-style/flight-attendant-advice-drinks-plane-b3052750.html",
-        "urlToImage": "https://static.the-independent.com/2026/09/18/20/09/iStock-1401029211.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-09-20T11:54:00Z",
-        "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+3303 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Post Magazine"
-        },
-        "author": null,
-        "title": "China\u2019s CXMT touts new chip process as close to \u2018world\u2019s most advanced\u2019 - South China Morning Post",
-        "description": "Fifth-generation process narrows gap with global leaders Samsung and SK Hynix as the DRAM maker shows two 24-gigabit chips.",
-        "url": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced",
-        "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/20/14027e09-b8f6-46e8-96fa-6e9ad6d2dc11_66b7ec77.jpg?itok=Ir9Si8sG&v=1789897777",
-        "publishedAt": "2026-09-20T10:30:05Z",
-        "content": "Chinese memory chip giant Changxin Memory Technologies (CXMT) said on Sunday that it adopted its new-generation technology platform for mass production, narrowing the advantage of global leaders incl\u2026 [+945 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Reece Rogers",
-        "title": "Meta\u2019s Muse Is Better at Surveilling Than Helping Me - WIRED",
-        "description": "The Muse app continues Meta\u2019s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
-        "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-        "urlToImage": "https://media.wired.com/photos/6aaa7e94f251bfe9554bf013/191:100/w_1280,c_limit/091626-Meta%20Muse.jpg",
-        "publishedAt": "2026-09-20T10:30:00Z",
-        "content": "I do see this as a continued trajectory of their main business model of controlling what people see, putting ads in front of them, and collecting more data, Mir says.\r\nIts definitely rational to be a\u2026 [+3110 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba",
-        "urlToImage": null,
-        "publishedAt": "2026-09-20T10:28:00Z",
+        "author": "Ryan Whitwam",
+        "title": "Google confirms Gemini models hacked three companies in May 2026 - Ars Technica",
+        "description": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
+        "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+        "publishedAt": "2026-09-21T16:57:26Z",
         "content": null
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Ayelet Sheffey",
-        "title": "A 60-year-old took out student loans to help her kids succeed. She's facing retirement with a $156,000 balance. - Business Insider",
-        "description": "She doesn't have a college degree of her own, but she's staring down a six-figure student-loan balance she took on to give her kids a better life.",
-        "url": "https://www.businessinsider.com/mom-postponing-retirement-student-loan-debt-parent-plus-save-repayment-2026-9#article",
-        "urlToImage": "https://i.insider.com/6aaacf794a3706ac06f83d07?width=1200&format=jpeg",
-        "publishedAt": "2026-09-20T10:00:21Z",
-        "content": "Nansi Lynch never went to college. But she's approaching retirement with a $156,000 student-loan balance.\r\n\"I don't get rid of it until I turn 75 years old,\" Lynch said. \"I've never heard of somethin\u2026 [+5286 chars]"
+        "author": "Annika Kim Constantino",
+        "title": "Eli Lilly CEO tells CNBC one-third of new GLP-1 pill patients are taking Foundayo, as drugmaker ramps up production - CNBC",
+        "description": "Eli Lilly is trying to catch up in the GLP-1 pill market to Novo, which got a head start in the space.",
+        "url": "https://www.cnbc.com/2026/09/21/lilly-is-ramping-up-future-manufacturing-for-foundayo-obesity-pill.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203003-17586589222025-09-23t201801z_447425135_rc2oxgaiwjkl_rtrmadp_0_usa-lilly.jpeg?v=1774971797&w=1920&h=1080",
+        "publishedAt": "2026-09-21T16:53:06Z",
+        "content": "Eli Lilly CEO Dave Ricks told CNBC on Monday that one-third of new GLP-1 pill patients are taking the drugmaker's Foundayo, as the company tries to catch up to a lead in the space established by riva\u2026 [+2382 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "Fox Business"
         },
-        "author": "Logan Brown",
-        "title": "My first law firm billed clients $600 per hour for me to use my Harvard degree on data entry. Thank God AI is changing the industry - Fortune",
-        "description": "Whether the industry likes it or not, the introduction of artificial intelligence is reshaping the distribution of talent and availability of resources.",
-        "url": "https://fortune.com/2026/09/20/logan-brown-ai-law-founder-harvard-law-school-data-entry-disruption/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Logan-Brown-Headshot100.jpg?resize=1200,600",
-        "publishedAt": "2026-09-20T10:00:00Z",
-        "content": "When I was 12 years old, I walked into the district attorneys office of my Kansas hometown and asked for a job. I was inspired by onscreen lawyers depicted as hardworking professionals fighting for t\u2026 [+3860 chars]"
+        "author": "Eric Revell",
+        "title": "Nvidia's Jensen Huang rejects AI doomsday fears: '2030 is not going to be the end of the world' - foxbusiness.com",
+        "description": "Nvidia CEO Jensen Huang called AI doomsday predictions \"irresponsible\" and not grounded in science, urging existing laws over new AI regulation.",
+        "url": "https://www.foxbusiness.com/technology/nvidias-jensen-huang-rejects-ai-doomsday-fears-2030-not-going-end-world",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/jensen-huang-nvidia-ceo-g20.jpg?ve=1&tl=1",
+        "publishedAt": "2026-09-21T16:50:00Z",
+        "content": "Nvidia CEO Jensen Huang said in an interview on Friday that he disagrees with doomsday warnings that artificial intelligence (AI) may contribute to the extinction of humanity within a decade.\r\nHuang \u2026 [+3379 chars]"
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": null,
+            "name": "Forbes"
         },
-        "author": "Dan Primack",
-        "title": "How Trump 2.0's stock market stacks up with predecessors - Axios",
-        "description": "Trump 2.0 stock market easily topped Biden, but remains behind Obama and Trump 1.0.",
-        "url": "https://www.axios.com/2026/09/20/trump-stock-market-predecessors",
-        "urlToImage": "https://images.axios.com/-87oNUMDa_R0Lp0TqtC7Bajf00w=/0x0:1600x900/1366x768/2026/09/19/1789831417233.png",
-        "publishedAt": "2026-09-20T09:59:43Z",
-        "content": "By the numbers: The S&amp;P 500 rose nearly 27.6% between inauguration day and this past Friday's close, compared to 28.5% during his first term.\r\n<ul><li>The gap at 20 months is closer than it was a\u2026 [+522 chars]"
+        "author": "Forbes",
+        "title": "States Settle Paramount-Warner Bros. Lawsuit\u2014Clearing Way For Merger To Go Through - Forbes",
+        "description": null,
+        "url": "https://www.forbes.com/sites/alisondurkee/2026/09/21/states-settle-paramount-warner-bros-lawsuit-report-says-paving-way-for-merger-to-go-through/",
+        "urlToImage": null,
+        "publishedAt": "2026-09-21T16:19:09Z",
+        "content": null
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": null,
+            "name": "Albany Times Union"
         },
-        "author": "Preston Fore",
-        "title": "Meet a 71-year-old who retired as a radiologist and professor, and now runs a banana-skewer business - Fortune",
-        "description": "Richard Brown\u2019s career has taken him from the exam room to the classroom and boardroom. At 71, he\u2019s still working\u2014and is now focused on entrepreneurship.",
-        "url": "https://fortune.com/2026/09/20/retired-professor-radiologist-richard-brown-turning-to-entreprenuership-career-success-starting-over-poka-snack/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/RichardBrown.jpg?resize=1200,600",
-        "publishedAt": "2026-09-20T09:34:00Z",
-        "content": "At 71, Richard Brown feels as if hes a college student all over again.A nuclear medicine physician turned professor, Brown formally retired in 2020only to take another job in university leadership th\u2026 [+4592 chars]"
+        "author": "Patrick Tine",
+        "title": "Central Warehouse teardown begins Monday night - Times Union",
+        "description": "With 4,500 tons of asbestos gone and permits secured, days are numbered for century-old eyesore",
+        "url": "https://www.timesunion.com/news/article/major-central-warehouse-demolition-work-begin-22441674.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/67/17/41/31258711/3/rawImage.jpg",
+        "publishedAt": "2026-09-21T16:01:33Z",
+        "content": "Central Warehouse is seen Wednesday, Sept. 2, 2026, in Albany, N.Y. Gov. Kathy Hochul's office said structural work to tear the building down will begin Monday.\u00a0(Will Waldron/Times Union)\r\nWill Waldr\u2026 [+8686 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Bradford Betz",
+        "title": "Major Wendy's franchisee files for bankruptcy - Fox Business",
+        "description": "Meritage Hospitality Group filed for Chapter 11 bankruptcy protection to block Wendy's corporate from terminating its franchise agreements.",
+        "url": "https://www.foxbusiness.com/lifestyle/major-wendys-franchisee-files-bankruptcy",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/wendys-brampton-ontario.jpg?ve=1&tl=1",
+        "publishedAt": "2026-09-21T15:43:00Z",
+        "content": "Meritage Hospitality Group, one of the largest Wendy\u2019s franchisees in the U.S., has filed for Chapter 11 bankruptcy protection following a high-stakes dispute with the fast-food chain's corporate par\u2026 [+3204 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Matt Day, Spencer Soper",
+        "title": "Amazon Blocks Meta\u2019s Muse AI Agent From Its Retail Site - Bloomberg.com",
+        "description": "Amazon.com Inc. has blocked Meta Platforms Inc.\u2019s new artificial intelligence agent from its retail site after the social media company declined a request to remove the bot.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilAISYsDgwg4/v1/1200x800.jpg",
+        "publishedAt": "2026-09-21T15:13:34Z",
+        "content": "Amazon.com Inc. has blocked Meta Platforms Inc.s new artificial intelligence agent from its retail site after the social media company declined a request to remove the bot. \r\nMetas Muse, which was in\u2026 [+362 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Federal Reserve will need to be \u2018aggressive\u2019 on inflation, says top official - Financial Times",
+        "description": "Austan Goolsbee voices concern that price growth is being fuelled by \u2018overheating demand\u2019 on top of Iran supply shock",
+        "url": "https://www.ft.com/content/e173bec6-352b-4b51-b3a4-382a9229bc86?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F00e875b5-613f-4b9e-8ad5-a1bc3c0bcfb4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-09-21T15:10:13Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Motley Fool"
+        },
+        "author": "Harsh Chauhan",
+        "title": "Prediction: Micron Stock Will Go Parabolic After Sept. 30. Here Are 31.6 Trillion Reasons Why - The Motley Fool",
+        "description": "The consistently strong spending on AI data center infrastructure and the ongoing supply shortage in the memory market will be a tailwind for Micron.",
+        "url": "https://www.fool.com/investing/2026/09/21/prediction-micron-stock-will-go-parabolic-after-sept-30-here-are-31-6-trillion-reasons-why/",
+        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F59e23b8f0dc40d0512aaa076c320625007375020-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+        "publishedAt": "2026-09-21T14:36:00Z",
+        "content": "Micron Technology(MU+2.68%) has been in crushing form on the stock market in 2026 so far, with shares of the memory specialist already up 256% this year. \r\nThis impressive rally will be put to the te\u2026 [+3954 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Adam Clark",
+        "title": "Intel and Arm Stocks Are Jumping. Thank Meta\u2019s Muse AI Agent. - Barron's",
+        "description": "Intel stock, AMD, and Arm Holdings were gaining as the success of Meta Platforms' Muse AI agent could boost CPU demand.",
+        "url": "https://www.barrons.com/articles/intel-stock-price-arm-meta-muse-2a81cacf",
+        "urlToImage": "https://images.barrons.com/im-77954408/social",
+        "publishedAt": "2026-09-21T14:18:00Z",
+        "content": "Intel,Advanced Micro Devices, andArm Holdingssoared Monday as investors got excited about the potential growth of central-processing units. The trigger looks to be the popularity ofMeta PlatformsMuse\u2026 [+130 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Callum Keown, Mariapaula Gonzalez",
+        "title": "AMD, Intel, Novo, Meta, Strategy, Critical Metals, and More Stocks That Explain Today\u2019s Market - Barron's",
+        "description": "Advanced Micro Devices is on pace for its first record high since June 30, and a $1 trillion market cap.",
+        "url": "https://www.barrons.com/articles/stock-movers-7769c3ad",
+        "urlToImage": "https://images.barrons.com/im-15942130/social",
+        "publishedAt": "2026-09-21T14:13:00Z",
+        "content": "Meta Platforms stock rose Monday, driven by optimism over its new personal artificial-intelligence agent, Muse."
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Can John Ternus find Apple\u2019s next big thing? - The Verge",
+        "description": "Bloomberg\u2019s chief Apple correspondent Mark Gurman on Siri, Tim Cook\u2019s legacy, and what to expect from new CEO John Ternus.",
+        "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-09-21T14:00:00Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nBloombergs chief Apple correspondent Mark Gurman on Siri, Tim Cooks legacy, and what to expect from new CEO John Ternus.\r\nby\r\nNilay PatelClose\r\nPosts from this a\u2026 [+60476 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Information"
+        },
+        "author": "Amir Efrati, Stephanie Palazzolo",
+        "title": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other\u2019s AI - The Information",
+        "description": "OpenAI is rethinking a range of safety strategies as it responds to fears from employees and others about the dangers its AI poses. One solution could lie in the recent past. Even before the spate of cybersecurity incidents involving OpenAI\u2019s technology and t\u2026",
+        "url": "https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai",
+        "urlToImage": "https://tii.imgix.net/production/articles/17852/b42d1dea-11a9-4257-83e5-f47df861ac1b.png?fm=jpg&auto=compress&w=1200&frame=0",
+        "publishedAt": "2026-09-21T13:55:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "OilPrice.com"
+        },
+        "author": "Charles Kennedy",
+        "title": "Saudi Arabia Reroutes Oil Exports as Houthi Strikes Target Yanbu - Crude Oil Prices Today | OilPrice.com",
+        "description": "Satellite images show Saudi Arabia rerouting crude exports as Hormuz traffic falls and Houthi strikes target the kingdom's Yanbu route.",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Reroutes-Oil-Exports-as-Houthi-Strikes-Target-Yanbu.html",
+        "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-21_m2kpodw7t0.jpg",
+        "publishedAt": "2026-09-21T13:51:13Z",
+        "content": "Crude oil inventories in the\u2026\r\nOil prices fall as China\u2026\r\nBy Charles Kennedy - Sep 21, 2026, 8:51 AM CDTSatellite images gathered by Bloomberg show supertankers with capacity for 14 million barrels a\u2026 [+2511 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Motley Fool"
+        },
+        "author": "Anthony Di Pizio, The Motley Fool",
+        "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - Yahoo Finance",
+        "description": "Nvidia looks poised for another record year of chip sales in 2027.",
+        "url": "https://www.fool.com/investing/2026/09/21/jensen-huang-incredible-news-nvidia-stock-investor/",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/a604c959bd47f48ea4f8f2e4eaa696f93d8654006485a27a143c1e72a58ff48d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fc9dc91add446652f075c1811cc61d628.jpg",
+        "publishedAt": "2026-09-21T13:39:00Z",
+        "content": "Nvidia (NASDAQ: NVDA) supplies the world's best graphics processing units (GPUs) for data centers, which are the primary chips used in artificial intelligence (AI) training and inference workloads. D\u2026 [+6158 chars]"
     }
 ]
