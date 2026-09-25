@@ -2,15 +2,28 @@
     {
         "source": {
             "id": null,
-            "name": "Barron's"
+            "name": "KTLA Los Angeles"
         },
-        "author": "Mackenzie Tatananni",
-        "title": "IonQ Stock Surges After Inking Quantum Computing Deal With Nvidia - Barron's",
-        "description": "IonQ\u2019s Superion 256 quantum computer will be the first system installed at Nvidia\u2019s quantum research center, say the partners.",
-        "url": "https://www.barrons.com/articles/ionq-stock-nvidia-quantum-computing-partnership-bda1cad5",
-        "urlToImage": "https://images.barrons.com/im-08901332/social",
-        "publishedAt": "2026-09-23T15:33:00Z",
-        "content": "IonQgenerated buzzlast yearafter CEO Niccolo de Masi expressed a bold ambition toBarrons: turning IonQ into theNvidiaof quantum computing. Now, that association is being taken a step further.\r\nCopyri\u2026 [+91 chars]"
+        "author": "Tony Kurzweil, Omar Lewis",
+        "title": "LAX People Mover opening delayed again until 2027 - KTLA",
+        "description": "The opening of Los Angeles International Airport\u2019s long-delayed Automated People Mover project has been pushed back yet again. \u201cThe trains are here, the tracks are here, but the passengers are still not on board that People Mover, and now we\u2019re talking about \u2026",
+        "url": "https://ktla.com/news/local-news/lax-people-mover-delay-2027-opening/",
+        "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2025/06/GettyImages-2215451089.jpg?w=1280",
+        "publishedAt": "2026-09-24T15:37:20Z",
+        "content": "The opening of Los Angeles International Airports long-delayed Automated People Mover project has been pushed back yet again.\r\nThe trains are here, the tracks are here, but the passengers are still n\u2026 [+2069 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "Christine Idzelis, Jamie Chisholm, Steve Goldstein, Nora Redmond",
+        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as investors anticipate further Fed rate hikes; 10-year Treasury yield remains above 5%; Trump meets with Xi - MarketWatch",
+        "description": "U.S. stock market was down Thursday, with the Dow, S&P 500 and Nasdaq Composite Index all in the red. The 10-year Treasury yield was little changed, after on Wednesday settling at its highest level since July 12, 2007.",
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-further-federal-reserve-interest-rate-hikes-treasury-yields",
+        "urlToImage": "https://images.mktw.net/im-51746529/social",
+        "publishedAt": "2026-09-24T15:30:00Z",
+        "content": null
     },
     {
         "source": {
@@ -18,90 +31,12 @@
             "name": "Barron's"
         },
         "author": "Kit Norton",
-        "title": "Palantir Could Be a Major Winner as Air Traffic Control Goes AI. The Stock Rises. - Barron's",
-        "description": "Palantir stock is slightly higher this year even as business growth accelerates. The FAA\u2019s AI air traffic control system could be another revenue growth opportunity.",
-        "url": "https://www.barrons.com/articles/palantir-stock-ai-faa-air-traffic-control-373cce03",
-        "urlToImage": "https://images.barrons.com/im-00324801/social",
-        "publishedAt": "2026-09-23T15:12:00Z",
-        "content": "The Federal Aviation Administration has rolled out its artificial-intelligence tool for air traffic control at three major Washington-area airports. How well it will work remains to be seen. But at l\u2026 [+161 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WLWT Cincinnati"
-        },
-        "author": "Fletcher Keel, Emily Sanderson, Brian Hamrick",
-        "title": "Police: 9 arrested after protesters chain themselves to Kroger headquarters - wlwt.com",
-        "description": "Nine people were arrested after an animal rights protest outside Kroger's downtown headquarters resulted in a police response, police said.",
-        "url": "https://www.wlwt.com/article/kroger-cincinnati-hq-animal-rights-protest-roads-blocked/73849847",
-        "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/b2004c29-1cee-4015-ac3b-a764b96e4bef.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-        "publishedAt": "2026-09-23T15:00:00Z",
-        "content": "CINCINNATINine people were arrested after an animal rights protesters chained themselves to Kroger's headquarters downtown Wednesday, police said.\r\nInterim Cincinnati Police Chief Adam Hennie said of\u2026 [+1946 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MarketWatch"
-        },
-        "author": "Tomi Kilgore, Joy Wiltermuth, Jamie Chisholm, Steve Goldstein, Nora Redmond",
-        "title": "Stock Market Today: Dow off 125 points, S&P 500 and Nasdaq fall as 10-year Treasury yield surges to highest since 2007 and oil prices rise - marketwatch.com",
-        "description": "U.S. equities retreat as bond yields and oil prices rise on Wednesday.",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-firm-start-oil-prices-pull-back-further",
-        "urlToImage": "https://images.mktw.net/im-51746529/social",
-        "publishedAt": "2026-09-23T14:53:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI - BBC",
-        "description": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
-        "url": "https://www.bbc.com/news/articles/c6p3kxpp8lezo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4148/live/6d68fee0-b745-11f1-aa9c-3d062fa3aea7.jpg",
-        "publishedAt": "2026-09-23T14:35:30Z",
-        "content": "Across more than 1,000 trades, shares were bought and sold in AI company Nvidia and software firm Palantir, a contractor with the US defence department and Immigration and Customs Enforcement (ICE), \u2026 [+16 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "9to5google.com"
-        },
-        "author": "Abner Li",
-        "title": "YouTube announces Custom Feeds, GIF comments, and \u2019Your podcast lineup\u2019 - 9to5Google",
-        "description": "At Made on YouTube 2026 today, YouTube announced a slew of new features. We\u2019ve highlighted the capabilities that will impact...",
-        "url": "http://9to5google.com/2026/09/23/made-on-youtube-2026/",
-        "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Made-on-YouTube-2026-cover-1.jpg?quality=82&strip=all&resize=1200,628",
-        "publishedAt": "2026-09-23T14:30:00Z",
-        "content": "At Made on YouTube 2026 today, YouTube announced a slew of new features. Weve highlighted the capabilities that will impact the viewer experience over the coming months.\r\nCustom Feeds will let you co\u2026 [+2458 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Amelia Lucas",
-        "title": "McDonald's CEO expects high inflation, flat traffic are not going away for restaurant industry - CNBC",
-        "description": "McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry.",
-        "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106221633-15728710425162016-11-17t000000z_1917757095_s1beunjvexaa_rtrmadp_3_mcdonalds-technology.jpg?v=1657914121&w=1920&h=1080",
-        "publishedAt": "2026-09-23T14:19:04Z",
-        "content": "McDonald's is predicting that flat traffic and higher inflation will continue to weigh on the restaurant industry, CEO Chris Kempczinski said Wednesday.\r\n\"One of the things I've talked to our team ab\u2026 [+2126 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Jack Pitcher, Matt Grossman, Heather Haddon, Alexander Osipovich, WSJ Staff",
-        "title": "Stock Market Today: Dollar Climbs, European Diesel Futures Jump on Possible U.S. Export Ban \u2014 Live Updates - WSJ",
-        "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on bonds, oil prices, the Dow, S&P 500 and Nasdaq.",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-23-2026",
-        "urlToImage": "https://images.wsj.net/im-925349/social",
-        "publishedAt": "2026-09-23T13:17:00Z",
-        "content": "U.S. bond yields jumped in morning trading to their highest levels in nearly two decades, with the dollar also rising and stocks falling.\r\nThe 10-year Treasury yield jumped 0.1 percentage point to 5.\u2026 [+1026 chars]"
+        "title": "Why Everpure Is Today\u2019s Best Stock in the S&P 500 - Barron's",
+        "description": "Everpure stock advances after the data-storage company says revenue growth will continue to accelerate in fiscal 2028.",
+        "url": "https://www.barrons.com/articles/everpure-earnings-stock-price-85ae0168",
+        "urlToImage": "https://images.barrons.com/im-58252917/social",
+        "publishedAt": "2026-09-24T15:07:00Z",
+        "content": "Everpurestock surged on Thursday after the data-storage solutions company said revenue growth would accelerate due to hyperscaler business opportunities and booming demand for artificial intelligence\u2026 [+100 chars]"
     },
     {
         "source": {
@@ -109,25 +44,103 @@
             "name": "Yahoo Entertainment"
         },
         "author": "Ines Ferr\u00e9",
-        "title": "Oil hovers near $100 as analysts warn Trump diesel export ban would 'tighten global supply' - Yahoo Finance",
-        "description": "Oil prices remained below the $100 mark after President Trump floated the idea of a diesel export ban.",
-        "url": "https://finance.yahoo.com/markets/article/oil-hovers-near-100-as-analysts-warn-trump-diesel-export-ban-would-tighten-global-supply-130359301.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/691df5a6c05b03dcfe7b1ca52d63fa923b36d3b4b25a04eb32deb6242f0ed06b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fbd2b769f-fd21-4a17-9472-0c3eea27acae",
-        "publishedAt": "2026-09-23T13:03:59Z",
-        "content": "Oil prices edged higher on Wednesday after President Trump floated a diesel export ban the previous day, with industry analysts warning that such a measure could backfire.\r\nBrent crude futures (BZ=F)\u2026 [+1914 chars]"
+        "title": "Oracle stock drops as the company moves to shield itself from costs linked to controversial data center - Yahoo Finance",
+        "description": "Oracle took steps to shield itself financially from hefty costs at a controversial data center site in New Mexico.",
+        "url": "https://finance.yahoo.com/markets/article/oracle-stock-drops-as-the-company-moves-to-shield-itself-from-costs-linked-to-controversial-data-center-133351264.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/7724fb803d6e8c69a225166048d2671bdeda51e8d6a9aeba9e9e11d2769dbf4a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2F68a0a0fb-2a1d-4499-96ba-da60234b148c",
+        "publishedAt": "2026-09-24T14:25:09Z",
+        "content": "What happened: Oracle (ORCL) stock fell more than 4% on Thursday.\r\nWhat's behind the move: Oracle is taking steps to limit its financial exposure to a massive data center planned for New Mexico as th\u2026 [+1185 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Dee-Ann Durbin",
+        "title": "KFC opens a Texas restaurant to test ideas for reclaiming its fried chicken crown - apnews.com",
+        "description": "KFC has been taking a licking in its home market from fried chicken rivals like Raising Cane\u2019s. But the global fast-food chain has a plan to return to the top of the U.S. pecking order. The Kentucky-born brand opened a restaurant in Texas on Thursday to serve\u2026",
+        "url": "https://apnews.com/article/kfc-fried-chicken-6bb34d1783a17f7a651c929306e6752c",
+        "urlToImage": "https://dims.apnews.com/dims4/default/802b88b/2147483647/strip/true/crop/4980x3318+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2F08%2F0e878e619d49e738265be762feea%2Fd0f5ac8c7ad1412db920e3e1fca22b28",
+        "publishedAt": "2026-09-24T14:00:00Z",
+        "content": "KFC has been taking a licking from fried chicken rivals like Raising Canes, but the global fast-food chain has a plan to return to the top of the U.S. pecking order.\r\nThe Kentucky-born brand opened a\u2026 [+5340 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Chan Ho-him",
+        "title": "Chinese auto companies race ahead on EV technology, achieving 5-minute ultrafast charging - apnews.com",
+        "description": "Major Chinese auto group Geely has unveiled new ultrafast EV charging technology that can recharge a battery from 10% to 70% in just 4.5 minutes. This development is seen as significant for the company, as it joins BYD and CATL in the race for EV charging spe\u2026",
+        "url": "https://apnews.com/article/china-ev-charging-competition-us-8cba5f8e9580803bb3ca599d152d502b",
+        "urlToImage": "https://dims.apnews.com/dims4/default/2c58093/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F13%2Fca%2F1429a61d3f8cdd7c7cf3a613df46%2F662218937a39460fae51e1b240578cd3",
+        "publishedAt": "2026-09-24T13:52:00Z",
+        "content": "HONG KONG (AP) Chinese electric vehicles ultrafast charging is only getting faster.\r\nOn Wednesday, Geely Auto unveiled technology that can charge an electric vehicle battery from 10% to 70% in just 4\u2026 [+3843 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "Barron's"
         },
-        "author": "Brooke DiPalma",
-        "title": "McDonald's bets on hand-breaded chicken, AI drive-throughs to fend off Burger King - ca.finance.yahoo.com",
-        "description": "McDonald's (MCD) is making a long-term bet on artificial intelligence, hand-breaded chicken, and a return of 90s-style restaurants to regain customers who le...",
-        "url": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-chicken-ai-drive-throughs-to-fend-off-burger-king-120418093.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/c1e921873f30768fd5744fd62c027b8a769e24238f3f5203c15d91356e6994d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fimage-from-ios-5_4658.jpg",
-        "publishedAt": "2026-09-23T12:07:24Z",
-        "content": "CHICAGO, IL McDonald's (MCD) is making a long-term bet on artificial intelligence, hand-breaded chicken, and a return of 90s-style restaurants to regain customers who left for other chains, like Burg\u2026 [+4965 chars]"
+        "author": "Adam Clark",
+        "title": "Micron Stock Could Rise Another 50%. Here's How. - Barron's",
+        "description": "Micron stock could be pushed higher by rising earnings and stock buybacks, according to UBS.",
+        "url": "https://www.barrons.com/articles/micron-stock-price-rise-50-per-cent-39518b23",
+        "urlToImage": "https://images.barrons.com/im-63738/social",
+        "publishedAt": "2026-09-24T13:52:00Z",
+        "content": "Micron Technologystock has plenty left in the tank after its nearly-600% gain in the past 12 months. Thats the view fromUBSanalyst Timothy Arcuri as he looks ahead to the memory-chip companys earning\u2026 [+111 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Daniel de Vise\u0301",
+        "title": "Americans are taking Social Security early. Will the fund run dry? - USA Today",
+        "description": "Retirement experts say 70 is the best age to take Social Security. Few Americans plan to wait that long.",
+        "url": "https://www.usatoday.com/story/money/personal-finance/2026/09/24/social-security-claiming-early-retirement-cuts/91909457007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/10/USAT/89550487007-personal-finance-debt-02.jpg?crop=6714,3779,x0,y332&width=3200&height=1802&format=pjpg&auto=webp",
+        "publishedAt": "2026-09-24T13:48:00Z",
+        "content": "Retirement planners routinely urge Americans to wait until age 70 to claim Social Security.\r\nMost Americans have other plans.\r\nThe longer you wait to claim Social Security, the larger your monthly ch\u2026 [+6082 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Forbes",
+        "title": "Elizabeth Holmes Is Leaving Prison Early\u2014What We Know - Forbes",
+        "description": null,
+        "url": "https://www.forbes.com/sites/maryroeloffs/2026/09/24/elizabeth-holmes-set-to-be-released-to-halfway-house-next-summer/",
+        "urlToImage": null,
+        "publishedAt": "2026-09-24T13:47:24Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Daniel Wu",
+        "title": "One blood test could screen you for 50 cancers. Here\u2019s why it\u2019s controversial. - washingtonpost.com",
+        "description": "A Food and Drug Administration committee backed a cancer blood test called Galleri but was split on how well it works. The test is awaiting a final decision by the FDA.",
+        "url": "https://www.washingtonpost.com/health/2026/09/24/one-blood-test-could-screen-you-50-cancers-heres-why-its-controversial/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2D34H3ZGW5FSJPP2YBQXAIRRMA.jpg&w=1440",
+        "publishedAt": "2026-09-24T13:33:10Z",
+        "content": "A divided Food and Drug Administration panel narrowly backed a controversial blood-based cancer test Wednesday, a step forward for an emerging field of cancer screenings that could offer less invasiv\u2026 [+64 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Quenching the World\u2019s Biofuels Thirst Could Require a Montana-Size Chunk of Land - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/energy-oil/quenching-the-worlds-biofuels-thirst-could-require-a-montana-size-chunk-of-land-cd366cd1",
+        "urlToImage": null,
+        "publishedAt": "2026-09-24T13:33:00Z",
+        "content": null
     },
     {
         "source": {
@@ -135,115 +148,102 @@
             "name": "Financial Times"
         },
         "author": null,
-        "title": "Geely unveils sub-5 minute EV charging as battery race revs up - Financial Times",
-        "description": "Volvo Cars and Lotus owner is among Chinese carmakers seeking to reduce dependence on market leader CATL",
-        "url": "https://www.ft.com/content/8d8e774d-7559-4fcf-a435-13cad11f57e1?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F34999802-389c-4ada-a878-f22e1ef4dc47.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-09-23T12:00:23Z",
+        "title": "Isabel Schnabel to leave ECB early to join IMF - Financial Times",
+        "description": "Departure will open door to major reshuffle at top of central bank",
+        "url": "https://www.ft.com/content/2bf6bba0-a361-474b-b5d6-6461695ecc4a?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0b924450-2f7c-4d41-bb60-c3f19419d1a9.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-09-24T13:32:25Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hollywood Reporter"
+        },
+        "author": "Bob Chapek",
+        "title": "How Bob Chapek\u2019s Disney Dream Turned Into an Instant Nightmare: Bob Iger \u201cWanted to See Me Fail\u201d - The Hollywood Reporter",
+        "description": "In an exclusive excerpt from his forthcoming memoir, the author recalls the euphoric moment he was anointed CEO of the House of Mouse, and the immediate signs that his predecessor (and eventual successor) had second thoughts about leaving.",
+        "url": "http://www.hollywoodreporter.com/lifestyle/arts/bob-chapek-disney-memoir-excerpt-bob-iger-1236708936/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Bob_A_Iger_and_Bob_Chapek-H-2026.jpg?w=1440&h=810&crop=1",
+        "publishedAt": "2026-09-24T13:00:41Z",
+        "content": "Of all the stories and tales that Disney tells so well, perhaps none proved as fanciful, and lasted as long, as the fantasy that Bob Iger was going to retire.\r\nSure, he thought about it. And he talke\u2026 [+16781 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Post Magazine"
+        },
+        "author": null,
+        "title": "Exclusive | Chinese CEOs fly to US on own, await invites to Trump\u2019s state dinner for Xi Jinping - South China Morning Post",
+        "description": "Sources say executives did not fly with Xi\u2019s official party or aboard his aircraft, unlike Trump\u2019s CEO-heavy entourage for May China visit.",
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3368683/chinese-ceos-fly-us-own-await-invites-trumps-state-dinner-xi-jinping",
+        "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/24/917e4500-5389-41f5-947b-8a6a2a9422f7_975f5616.jpg?itok=cS4vSNlk&v=1790248702",
+        "publishedAt": "2026-09-24T12:41:59Z",
+        "content": "A small group of Chinese CEOs holding US visas has arrived in Washington after travelling separately from President Xi Jinpings official entourage, according to multiple sources familiar with the mat\u2026 [+880 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "James Powel, Gabe Hauari",
+        "title": "Aldi is cutting prices on a third of its products. Here's when - USA Today",
+        "description": "The grocery chain said the price cuts are expected to save customers $86 million.",
+        "url": "https://www.usatoday.com/story/grocery/shopping/2026/09/23/aldi-price-cuts-groceries-products/91894051007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/23/USAT/91898399007-20260914-t-173703-z-46325071-mt-1-usatoday-29820194-rtrmadp-3-aldiinportorangesept-32026.JPG?crop=3166,1782,x0,y317&width=3166&height=1782&format=pjpg&auto=webp",
+        "publishedAt": "2026-09-24T12:28:00Z",
+        "content": "With new price reductions taking affect, nearly one-third of regularly stocked Aldi products are now priced lower than last year, the company announced in a news release provided to USA TODAY.\r\nThe c\u2026 [+1766 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Julia Carpenter",
+        "title": "Iced coffee, tattoos, thank-you notes: The shifting do\u2019s and don\u2019ts of job interviews - The Washington Post",
+        "description": "An explosive debate over iced coffee highlights how tricky it can be to navigate interview etiquette.",
+        "url": "https://www.washingtonpost.com/business/2026/09/24/iced-coffee-tattoos-thank-you-notes-shifting-dos-donts-job-interviews/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YUJQI6ALJAI6ZJ6IMG5XWO7WFA.jpg&w=1440",
+        "publishedAt": "2026-09-24T12:24:57Z",
+        "content": "When I was a fresh college graduate, interviewing for my first full-time job, I thought about my mothers interview dos and donts. Dont wear anything that could reveal tattoos. Dont start with asking \u2026 [+111 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Anders Hagstrom",
+        "title": "Starbucks to close 250 stores: 'Difficult decision' - Fox Business",
+        "description": "Starbucks COO Mike Grams revealed plans to shutter about 250 coffeehouses across North America, citing struggles with financial performance.",
+        "url": "https://www.foxbusiness.com/fox-news-food-drink/starbucks-close-250-stores-difficult-decision",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/0/0/starbucks-.jpg?ve=1&tl=1",
+        "publishedAt": "2026-09-24T12:11:00Z",
+        "content": "Starbucks announced plans to close roughly 250 stores across North America this week, company COO Mike Grams revealed Thursday.\r\nGrams announced the closure in a public statement, saying that while m\u2026 [+3472 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "POLITICO.eu"
+        },
+        "author": "Ben Munster",
+        "title": "EU launches diplomatic offensive to stop Trump\u2019s diesel export ban - politico.eu",
+        "description": "Brussels argues the 90-day ban would be bad for all sides, warning of a serious hit to energy markets.",
+        "url": "https://www.politico.eu/article/eu-launches-diplomatic-offensive-to-stop-trumps-diesel-export-ban/",
+        "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/24/GettyImages-2285881500-scaled.jpg",
+        "publishedAt": "2026-09-24T12:10:00Z",
+        "content": "Gill declined to share details on the content of the diplomatic talks but said \"there are strong voices \u00a0also there \u00a0that believe any proposed ban of this nature would be a very bad idea indeed.\"\r\nTh\u2026 [+1476 chars]"
     },
     {
         "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
-        "author": "Ian Walker",
-        "title": "Arcadis Shares Fall After Canada\u2019s WSP Global Pulls Takeover Offer - WSJ",
-        "description": "Arcadis shares were down 6% in early afternoon European trading",
-        "url": "https://www.wsj.com/business/deals/arcadis-shares-fall-after-canadas-wsp-global-pulls-takeover-offer-d5079668",
-        "urlToImage": "https://images.wsj.net/im-18926969/social",
-        "publishedAt": "2026-09-23T11:58:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Oliver Renick",
-        "title": "Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty - CNBC",
-        "description": "Meta's latest consumer AI product is sending such big shockwaves through the market that it's even inflaming a long-time rivalry in the brokerage business.",
-        "url": "https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108338168-1784667654662-gettyimages-2287095397-_75a1669_bsgcs6jm.jpeg?v=1789594575&w=1920&h=1080",
-        "publishedAt": "2026-09-23T11:51:23Z",
-        "content": "Meta's latest consumer AI product is sending such big shockwaves through the market that it's even inflaming a long-time rivalry in the brokerage business between 55-year old investing giant Charles \u2026 [+4062 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Simple Flying"
-        },
-        "author": "Jake Hardiman",
-        "title": "Sydney-US Nonstop: Qantas Confirms Ticket Sale & Launch Date For 2nd Project Sunrise Route - Simple Flying",
-        "description": "While the flights are still a long way off, the concrete launch data marks an exciting step forward.",
-        "url": "https://simpleflying.com/qantas-reveals-project-sunrise-new-york-launch-date/",
-        "urlToImage": "https://static0.simpleflyingimages.com/wordpress/wp-content/uploads/2026/09/a350-1000ulr-qantas-newyork-flyover_cropped.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-09-23T11:45:43Z",
-        "content": "Qantas has announced concrete timescales for the launch of its second ultra-long-haul 'Project Sunrise' route from Sydney Kingsford Smith Airport (SYD) in the Australian state of New South Wales to J\u2026 [+3855 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "fox8.com"
-        },
-        "author": "Danielle Langenfeld",
-        "title": "Massive meat recall on beef, pork and more: USDA - FOX 8 News",
-        "description": "The U.S. Department of Agriculture has announced a massive meat recall on more than 167,000 pounds of of raw pork, beef, and goat products that officials said were produced without the benefit of federal inspection.",
-        "url": "https://fox8.com/news/massive-meat-recall-on-beef-pork-and-more-usda/",
-        "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2026/09/Pork-Chops.jpg?w=1280",
-        "publishedAt": "2026-09-23T11:45:42Z",
-        "content": "(WJW) \u2014 The U.S. Department of Agriculture has announced a massive meat recall on more than 167,000 pounds of of raw pork, beef, and goat products that officials said were produced without the benefi\u2026 [+1712 chars]"
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": null,
-        "title": "Socialist mayor\u2019s new answer to rampant retail crime ignites fury: \u2018Bandage on a bullet wound\u2019 - Fox News",
-        "description": "Seattle Mayor Katie Wilson's $1.7 million grocery store security plan draws fierce criticism from those demanding the city arrest and prosecute criminals.",
-        "url": "https://www.foxnews.com/politics/socialist-mayors-new-answer-rampant-retail-crime-ignites-fury-bandage-bullet-wound",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/katie-wilson-starbucks-strike-seattle-fox-news-001.jpeg",
-        "publishedAt": "2026-09-23T11:36:46Z",
-        "content": "Seattle Mayor Katie Wilson is rolling out city-funded security for grocery stores facing theft, break-ins and vandalism, fueling criticism that Seattle is spending taxpayer money to protect businesse\u2026 [+4214 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CoinDesk"
-        },
-        "author": "Shaurya Malwa, Omkar Godbole, Stephen Alpher, James Van Straten",
-        "title": "Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC - CoinDesk",
-        "description": "Bitcoin matched Monday's high near $87,300 before running into selling, while bitcoin cash surged 28% on a CME futures listing and ZEC added 9%.",
-        "url": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
-        "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/a3d495281a21863fee8dd38603efd9dadf71b93e-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
-        "publishedAt": "2026-09-23T11:29:30Z",
-        "content": "Bitcoin Cash jumped 28% to nearly $349 over 24 hours, the largest move among sizeable tokens, after CME Group said on Monday it will list Bitcoin Cash and Uniswap futures from Oct. 19.\r\nFutures on a \u2026 [+1386 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Jeffrey Sparshott",
-        "title": "US Mortgage Rates Surge Above 7% to a More Than Two-Year High - Bloomberg",
-        "description": "US mortgage rates rose to the highest level in more than two years, further weighing on a housing market already suppressed by elevated prices and sluggish sales.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-23/us-mortgage-rates-surge-above-7-to-a-more-than-two-year-high",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwttmfSqVGhk/v1/1200x800.jpg",
-        "publishedAt": "2026-09-23T11:00:00Z",
-        "content": "US mortgage rates rose to the highest level in more than two years, further weighing on a housing market already suppressed by elevated prices and sluggish sales.\r\nThe contract rate on a 30-year fixe\u2026 [+250 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "OregonLive"
-        },
-        "author": "OregonLive.com",
-        "title": "UO lands $1B donation to create Knight College of Engineering - OregonLive.com",
+        "author": "WSJ",
+        "title": "Exclusive | BlackRock Investment Portfolios Debut on the Blockchain as Digital Tokens - WSJ",
         "description": null,
-        "url": "https://www.oregonlive.com/silicon-forest/2026/09/phil-and-penny-knight-give-1-billion-to-launch-university-of-oregon-engineering-school.html",
+        "url": "https://www.wsj.com/finance/investing/blackrock-investment-portfolios-debut-on-the-blockchain-as-digital-tokens-c9df7ca6",
         "urlToImage": null,
-        "publishedAt": "2026-09-23T10:50:00Z",
+        "publishedAt": "2026-09-24T12:00:00Z",
         "content": null
     }
 ]
