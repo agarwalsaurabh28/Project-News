@@ -1,55 +1,120 @@
 [
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "politico",
+            "name": "Politico"
         },
-        "author": "Herb Scribner",
-        "title": "Bill Gates warns AI is powerful enough to cause \"a billion deaths\" - axios.com",
-        "description": "\"There's never been a weapon as powerful.\"",
-        "url": "https://www.axios.com/2026/09/25/bill-gates-ai-deaths-doom",
-        "urlToImage": "https://images.axios.com/Z_7bZbAztx_ymd5EJsgvDNH7XUY=/0x166:4000x2416/1366x768/2026/09/25/1790340610418.jpeg",
-        "publishedAt": "2026-09-25T12:54:32Z",
-        "content": "Driving the news: \"AI is certainly powerful enough to drive events that, you know, cause a billion deaths,\" he will tell Kristen Welker on \"Meet the Press\" on Sunday, per excerpts NBC released Friday\u2026 [+697 chars]"
+        "author": "Zack Colman, Ben Munster",
+        "title": "How a diesel ban could burn US credibility - Politico",
+        "description": "European officials say the prospect of a U.S. cutoff is exposing the risks of relying on American fuel.",
+        "url": "https://www.politico.com/news/2026/09/26/diesel-export-ban-energy-europe-01094058",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F72%2Ff8%2F95eadea747e1a37beaa2f3525228%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2296204682",
+        "publishedAt": "2026-09-26T16:00:00Z",
+        "content": "The logical endpoint is demand destruction, according to Debnil Chowdhury, a senior fuel analyst at S&amp;P Global Energy, with the cost falling on consumers to preserve fuel for agriculture and indu\u2026 [+1550 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jeremy Kahn",
+        "title": "OpenAI says its AI agents escaped a secure \u2018sandbox\u2019 again last weekend and it is pausing training for a second time - Fortune",
+        "description": "OpenAI looks to improve test security again after upgrades it made after the Hugging Face attack proved insufficient.",
+        "url": "https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2296177332-e1790434491678.jpg?resize=1200,600",
+        "publishedAt": "2026-09-26T15:25:00Z",
+        "content": "OpenAI said in a technical report released on Friday that an AI model it was training and evaluating broke out of its secure testing environment as recently as last weekend and took unauthorized acti\u2026 [+6046 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "CNBC"
         },
-        "author": "Ines Ferr\u00e9",
-        "title": "'Meta is having its moment' as stock's monster rally vindicates the bulls: Chart of the Day - Yahoo Finance",
-        "description": "Meta stock has rallied 16% over the past week on the heels of the company's AI agent release.",
-        "url": "https://finance.yahoo.com/markets/article/meta-is-having-its-moment-as-stocks-monster-rally-vindicates-the-bulls-chart-of-the-day-121302619.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/d4cbd5d45c73e05dd1afa894e3bce247c1be2e18ddce0dca451e6c3154d8a227/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F14fb2eaa-11e8-4e4f-8c40-423407cd50fb",
-        "publishedAt": "2026-09-25T12:45:09Z",
-        "content": "If there's one stock that has repeatedly shown it knows how to make a comeback, it's Meta Platforms (META).\r\nThe company's launch of its wildly popular AI agent Musehas catapulted the stock roughly 1\u2026 [+2332 chars]"
+        "author": "Ashley Capoot",
+        "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics - CNBC",
+        "description": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
+        "url": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&w=1920&h=1080",
+        "publishedAt": "2026-09-26T14:55:59Z",
+        "content": "A federal jury in San Diego awarded Taction Technology more than $5.7 billion in damages Friday after finding that Apple infringed claims from two haptics patents.\r\nTaction sued Apple in 2021 in the \u2026 [+1660 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Deena Zaidi",
+        "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here - CNBC",
+        "description": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+        "url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&w=1920&h=1080",
+        "publishedAt": "2026-09-26T13:30:06Z",
+        "content": "Investors were rattled this week as the benchmark 10-year Treasury yield soared to its highest level since 2007, but sticky inflation is just one of the factors behind this latest surge.\r\nThe key 10-\u2026 [+2622 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Greg Iacurci",
+        "title": "Many homeowners have a big insurance coverage gap \u2014 and don't even know it - CNBC",
+        "description": "Many consumers have a gap in their homeowners insurance coverage. This puts them at financial risk, and they are likely unaware, experts said.",
+        "url": "https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108296964-1777045969021-108296964-1777045906235-gettyimages-2272467978-dji_20260421145453_0236_d_copy_wjvxxyvd.jpg?v=1790364665&w=1920&h=1080",
+        "publishedAt": "2026-09-26T13:30:01Z",
+        "content": "A home along the Fox River is surrounded by floodwaters, near Crystal Lake, Illinois, April 21, 2026.\r\nMany homeowners have a big gap in their insurance coverage and they likely don't know it, accord\u2026 [+7832 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Newsnationnow.com"
+        },
+        "author": "Rob Taub",
+        "title": "GLP-1 lawsuit: Patient\u2019s attorney describes life-changing effects from taking drug - NewsNation",
+        "description": "Engel's attorney, Grace Chandler, said her client has a hard time having a positive outlook due to being permanently blind.",
+        "url": "https://www.newsnationnow.com/health/glp-1-lawsuit-todd-engel-blind/",
+        "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/09/snapshot-2026-09-25T233806.121.jpg?w=1280",
+        "publishedAt": "2026-09-26T13:13:27Z",
+        "content": "(NewsNation) Lawsuits against GLP-1 drugmakers continue to increase, and the attorney for one patient says his life has changed dramatically as a result of taking the medication.\r\nRecent complaints a\u2026 [+2211 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Sasha Rogelberg",
+        "title": "Japan\u2019s debt is twice the size of its economy\u2014but economists warn U.S.\u2019s $40 trillion sum is worse - Fortune",
+        "description": "\u201cJapan\u2019s debt dynamics are fundamentally different from those of the United States.\u201d",
+        "url": "https://fortune.com/article/why-is-americas-national-debt-so-bad-if-debt-to-gdp-ratio-isnt-as-bad-as-japan/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2266868397-e1784818861311.jpg?resize=1200,600",
+        "publishedAt": "2026-09-26T13:03:00Z",
+        "content": "Statistics dont always tell the full story, and the U.S. national debt is evidence as to why.\u00a0Despite its $40 trillion national debt, the U.S. barely cracks the top 10 in countries for debt relative \u2026 [+4749 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Exclusive | Historic Homes: A Michigan Cow Farm Built by a GM Exec - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/real-estate/luxury-homes/ann-arbor-general-motors-home-6ddb00de",
+        "urlToImage": null,
+        "publishedAt": "2026-09-26T13:00:00Z",
+        "content": null
     },
     {
         "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Todd C. Frankel",
-        "title": "The surprise winners from record-high diesel prices - The Washington Post",
-        "description": "It isn\u2019t just big oil companies that are benefitting from the highest diesel prices ever seen.",
-        "url": "https://www.washingtonpost.com/transportation/2026/09/25/surprise-winners-record-high-diesel-prices/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2XGQF2ER5AUOKY24TQKVZENII4_size-normalized.jpg&w=1440",
-        "publishedAt": "2026-09-25T12:16:55Z",
-        "content": "No one seems happy about record-high diesel prices.\r\nFarmers complain about the cost to harvest their crops. Truckers say theyre getting squeezed. Retailers such as Kroger have warned that its drivin\u2026 [+10 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Paul R. La Monica",
-        "title": "Treasury Yields Are Spiking. Where to Invest in the Bond Market Now. - Barron's",
-        "description": "Shorter-dated Treasuries, high-quality corporates, and munis as well as international bonds make sense for a diversified portfolio.",
-        "url": "https://www.barrons.com/articles/treasury-yields-spike-where-to-invest-bond-market-d4a362ef",
-        "urlToImage": "https://images.barrons.com/im-40870661/social",
-        "publishedAt": "2026-09-25T12:13:58Z",
-        "content": "The bond vigilantes are having their moment in the sun.\r\nCopyright \u00a92026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+        "author": "Andrea Sachs",
+        "title": "The worst airports if you have a connecting flight - The Washington Post",
+        "description": "Short layover? You may want to think twice before booking through these transport hubs.",
+        "url": "https://www.washingtonpost.com/travel/2026/09/26/worst-airports-travel-connections/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XDPXNZH5F5RCBWUGWONWJPALIQ.JPG&w=1440",
+        "publishedAt": "2026-09-26T12:46:09Z",
+        "content": "For Ramsey Qubein, London Heathrow is a missed connection he hopes to never meet again.\r\nAfter too many maddening transits, the Charlotte-based travel journalist, who logs about 400,000 miles per yea\u2026 [+71 chars]"
     },
     {
         "source": {
@@ -57,206 +122,141 @@
             "name": "Investor's Business Daily"
         },
         "author": null,
-        "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Micron, Sandisk Rally (Live Coverage) - Investor's Business Daily",
-        "description": "Stock Market Today: The Dow Jones index rises Friday on U.S.-Iran peace hopes. Micron stock and Sandisk rally Friday.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-micron-sandisk/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet-031317-shutter.jpg",
-        "publishedAt": "2026-09-25T12:06:00Z",
+        "title": "Bloom Energy, TSM Lead 5 Stocks Near Buy Points As AI Rebounds - Investor's Business Daily",
+        "description": "A Bloom Energy breakout highlights the five stocks to watch near buy points.",
+        "url": "https://www.investors.com/news/bloom-energy-taiwan-semiconductor-be-stock-buy-points-ai/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/09/stock-ai-accelerator-adobe.jpg",
+        "publishedAt": "2026-09-26T12:00:00Z",
         "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": null,
+            "name": "Jalopnik"
         },
-        "author": "Tom Warren",
-        "title": "Microsoft thinks its new Copilot \u2018super app\u2019 will be as influential as Office - The Verge",
-        "description": "The new Copilot merges AI chat, coding, and Autopilot agents.\ufeff",
-        "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/New-Copilot.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "publishedAt": "2026-09-25T12:00:00Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Copilot merges AI chat, coding, and Autopilot agents.\r\nThe new Copilot merges AI chat, coding, and Autopilot agents.\r\nby\r\nTom WarrenClose\r\nPosts from thi\u2026 [+6092 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "wsj.com",
-        "title": "Stock Market Today: Bond Selloff Abates as Oil Price Slips \u2014 Live Updates - wsj.com",
-        "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-25-2026",
-        "urlToImage": null,
-        "publishedAt": "2026-09-25T11:57:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Nishant Kumar, Liza Tetley",
-        "title": "Millennium\u2019s New Cash Raise Draws $30 Billion in Client Demand - bloomberg.com",
-        "description": "Millennium Management\u2019s new capital raise attracted billions of dollars more than the firm could take in, signaling surging demand for the biggest multistrategy hedge funds.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-25/millennium-s-new-cash-raise-draws-30-billion-in-client-demand",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ireGt.y6UO98/v0/1200x800.jpg",
-        "publishedAt": "2026-09-25T11:49:12Z",
-        "content": "Millennium Managements new capital raise attracted billions of dollars more than the firm could take in, signaling surging demand for the biggest multistrategy hedge funds.\r\nInvestors pledged more th\u2026 [+193 chars]"
+        "author": "Kiran Menon",
+        "title": "Chevy's New V8: Why Cars Will Have Engine Oil Dipsticks But Trucks Won't - Jalopnik",
+        "description": "Sixth-generation V8 gasoline engines from Chevrolet will not have a dipstick, because the company's bosses say it's unnecessary.",
+        "url": "https://www.jalopnik.com/2265025/why-cars-trucks-chevy-new-production-crate-v8s-no-engine-oil-dipstick/",
+        "urlToImage": "https://www.jalopnik.com/img/gallery/chevys-new-v8-why-cars-will-have-engine-oil-dipsticks-but-trucks-wont/l-intro-1790088012.jpg",
+        "publishedAt": "2026-09-26T11:05:00Z",
+        "content": "Before we get into the specifics, it's important to understand that these new 5.7 and 6.6 V8s aren't the first of the sixth-gen engines to arrive. That honor goes to the 2027 Corvette's 6.7-liter LS6\u2026 [+1494 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kai Nicol-Schwarz, Arjun Kharpal",
-        "title": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far - CNBC",
-        "description": "AI was a key topic during Trump-Xi talks on Thursday, after safety concerns shot to the top of the global geopolitical agenda in recent weeks.",
-        "url": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348893-1786596567346-gettyimages-2275368013-AFP_B2NX79F.jpeg?v=1786596593&w=1920&h=1080",
-        "publishedAt": "2026-09-25T11:06:48Z",
-        "content": "This report is from this week's The Tech Download newsletter. Like what you see? You can subscribe\u00a0here.\r\nIt's the morning after the night before, as the U.S. President Donald Trump hosted Chinese Pr\u2026 [+5896 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Annika Kim Constantino, Elsa Ohlen",
-        "title": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s - CNBC",
-        "description": "As Novo works to turn itself around, some analysts say Lilly has advantages that could help it maintain its position at the top of the obesity drug market.",
-        "url": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108261536-1770233397984-Side_by_Side_template.jpg?v=1770233491&w=1920&h=1080",
-        "publishedAt": "2026-09-25T11:00:01Z",
-        "content": "The Eli Lilly and Novo Nordisk logos.\r\nEvery time Novo urges investors to look ahead, Eli Lilly gives them another reason to look back at its widening lead over the Danish drugmaker.\u00a0\r\nNovo this week\u2026 [+10000 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The-independent.com"
-        },
-        "author": "Lydia Spencer-Elliott",
-        "title": "Is it really unprofessional to bring an iced coffee to a job interview? - The Independent",
-        "description": "Forget Bake Off, there\u2019s only one topic of conversation in offices this week: is an iced coffee in an interview acceptable? After a recruitment expert exploded the internet with her warning that young people should leave their cold beverages behind, Lydia Spe\u2026",
-        "url": "https://www.the-independent.com/life-style/iced-coffee-work-interview-gen-z-tik-tok-b3055144.html",
-        "urlToImage": "https://static.the-independent.com/2026/09/24/11/18/Copy-of-buzzcuts.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-        "publishedAt": "2026-09-25T10:32:00Z",
-        "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+8305 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Salon"
-        },
-        "author": "Alex Galbraith",
-        "title": "The private equity backlash could start at the drive-thru - Salon.com",
-        "description": "The places Americans once loved for being cheap are a lesson in what buyouts do",
-        "url": "https://www.salon.com/2026/09/25/the-private-equity-backlash-could-start-at-the-drive-thru/",
-        "urlToImage": "https://www.salon.com/app/uploads/2026/09/Wendys-2289730203.jpg",
-        "publishedAt": "2026-09-25T10:30:40Z",
-        "content": "Elizabeth Warrens job doesnt need to be this hard.\r\nThe Democratic senator from Massachusetts is leading a cadre of largely left-of-center lawmakers in reviving the Stop Wall Street Looting Act, legi\u2026 [+6124 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Lila MacLellan",
-        "title": "Moderna CEO\u2019s Realistic Approach to Innovation - WSJ",
-        "description": "",
-        "url": "https://www.wsj.com/business/moderna-ceos-realistic-approach-to-innovation-cc84144e",
-        "urlToImage": "https://images.wsj.net/im-10355920/social",
-        "publishedAt": "2026-09-25T09:53:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
+            "name": "HuffPost"
         },
         "author": null,
-        "title": "US backs Elon Musk's bid to overturn \u20ac120m EU fine against X - BBC",
-        "description": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-        "url": "https://www.bbc.com/news/articles/cq0m373ee0v0o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg",
-        "publishedAt": "2026-09-25T09:48:33Z",
-        "content": "Henna Virkkunen, the regulator's executive vice-president for tech sovereignty, said at the time of the fine's issue it was \"holding X responsible for undermining users' rights and evading accountabi\u2026 [+5 chars]"
+        "title": "Mamdani's Showdown With Amazon Could Have Far-Reaching Consequences - HuffPost",
+        "description": "A New York City bill would strike a huge blow to Amazon\u2019s outsourcing model. The battle is already spreading to other cities.",
+        "url": "https://www.huffpost.com/entry/mamdani-takes-on-amazon_n_6aad4387e4b0a3bc8deb0c98",
+        "urlToImage": "https://img.huffingtonpost.com/asset/6ab288521c0000f94095f00f.jpeg?ops=500_281%2Cscalefit_1200_630",
+        "publishedAt": "2026-09-26T11:00:19Z",
+        "content": "Mayor Zohran Mamdani and other New York City leaders are challenging the controversial business model that underpins Amazons vast delivery network and the fights consequences could stretch far beyond\u2026 [+10547 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Reece Rogers",
+        "title": "Meta\u2019s Muse Is Adults-Only. Why Does It Look Like a Kids\u2019 Toy? - wired.com",
+        "description": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot\u2014and upcoming Tamagotchi-style AI device\u2014may be disarming for users of all ages.",
+        "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+        "urlToImage": "https://media.wired.com/photos/6ab6a33ebc7793cf754905a1/191:100/w_1280,c_limit/GettyImages-2296209094.jpg",
+        "publishedAt": "2026-09-26T10:30:00Z",
+        "content": "Metas Muse mascot is named Jolly. It's an adorable, cuddly representation of Metas AI agent that you can dress however you wantlike a doll. At the companys recent Meta Connect event, CEO Mark Zuckerb\u2026 [+3296 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WCVB Boston"
+        },
+        "author": "Katrina Ventura",
+        "title": "Home asking prices have dipped in the past year. See how they've changed over a decade. - WCVB",
+        "description": "Austin, Denver and Los Angeles are among the major markets seeing a decline in median listing prices.",
+        "url": "https://www.wcvb.com/article/median-listing-prices-over-10-years/73871098",
+        "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/52c0597a-9e38-467e-81cc-91c67ed3b6c0.png?crop=0.998xw%3A1.00xh%3B0.00160xw%2C0&resize=1200%3A*",
+        "publishedAt": "2026-09-26T10:02:16Z",
+        "content": "NEW YORKAsking prices have dipped in the past year but remain high compared to 10 years ago, data from Realtor.com shows. \r\nThe median asking price for a U.S. home was $424,500 in August 2026, accord\u2026 [+1906 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Trump\u2019s Greenland deal shadows Xi visit after years of Beijing eyeing Arctic influence - Fox News",
+        "description": "Trump's Greenland security deal blocked China's Arctic ambitions days before Xi Jinping arrived for a state dinner with America's top AI executives.",
+        "url": "https://www.foxnews.com/politics/trumps-greenland-deal-shadows-xi-visit-after-years-beijing-eyeing-arctic-influence",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/xi-trump-end-of-trip.jpg",
+        "publishedAt": "2026-09-26T10:00:37Z",
+        "content": "President Donald Trump welcomed Chinese President Xi Jinping to Washington this week, one day after signing a Greenland security agreement that, once in force, would bar non-NATO states such as China\u2026 [+5073 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Foreign capital flows into US stocks hit record as appetite for debt fades - Financial Times",
+        "description": "Overseas purchases of US equities topped $940bn in the year to July, coinciding with strong gains in the S&P 500",
+        "url": "https://www.ft.com/content/a1a1318b-8051-4539-a485-5a4e1d021578?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe0d918f1-a6bb-4b27-8f28-2f1c7f37f9c0.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-09-26T10:00:04Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Slate Magazine"
+        },
+        "author": "Jim Newell",
+        "title": "The Great Republican Panic Is Upon Us - Slate Magazine",
+        "description": "These races weren\u2019t supposed to be close. Now they very much are.",
+        "url": "https://slate.com/news-and-politics/2026/09/trump-diesel-senate-midterms-republicans.html",
+        "urlToImage": "https://compote.slate.com/images/dc94f933-fbbf-4f1e-93e0-1fd7209c8421.jpeg?crop=1080%2C720%2Cx0%2Cy0&width=1560",
+        "publishedAt": "2026-09-26T09:45:00Z",
+        "content": "The Surge is your weekly political sanity check: What matters, what might, and whats just political theater.Sign up here to get it in your inbox.\r\nWelcome to this weekends edition of the Surge, Slate\u2026 [+7519 chars]"
     },
     {
         "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "William Edwards",
-        "title": "3 Reasons Investors Should Be Ready for Bond Market Sell-Off to Worsen - Business Insider",
-        "description": "Rising bond yields are weighing on stocks, and BNP Paribas says the fixed income sell-off is likely to deepen from here.",
-        "url": "https://www.businessinsider.com/bond-market-sell-off-high-treasury-yields-interest-rates-fed-2026-9#article",
-        "urlToImage": "https://i.insider.com/6ab55ed8eb7225411267a395?width=1200&format=jpeg",
-        "publishedAt": "2026-09-25T09:20:37Z",
-        "content": "Rising long-term bond yields are once again pestering stocks, and BNP Paribas says it's only going to get worse.\r\nIn a client note published Tuesday, the bank said it sees yields on the 30-year Treas\u2026 [+2451 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Ben Bergman",
-        "title": "The head of one of the largest US endowments says OpenAI and Anthropic are in big trouble - Business Insider",
-        "description": "The head of a major endowment says frontier labs won't be able to withstand competition from cheaper Chinese open-weight models.",
-        "url": "https://www.businessinsider.com/wash-u-cio-says-openai-and-anthropic-are-in-trouble-2026-9#article",
-        "urlToImage": "https://i.insider.com/6ab44165265e3f8e338f64a7?width=1200&format=jpeg",
-        "publishedAt": "2026-09-25T09:01:28Z",
-        "content": "Scott Wilson knows what it is like to make a contrarian bet that pays off big. His early investment in SpaceX helped create a multi-billion dollar windfall for Washington University's endowment.\r\nNow\u2026 [+4090 chars]"
+        "author": "Charles Rollet",
+        "title": "Inside Meta's months-long grind to turn Muse into a hit - Business Insider",
+        "description": "Meta's Muse became an App Store hit after a rocky start for its AI team. Here's how Nat Friedman, new hires, and AI training turned things around.",
+        "url": "https://www.businessinsider.com/meta-ai-success-nat-friedman-muse-launch-2026-9#article",
+        "urlToImage": "https://i.insider.com/6ab6cae3eb7225411267ad3e?width=1200&format=jpeg",
+        "publishedAt": "2026-09-26T09:00:00Z",
+        "content": "A year ago, Meta was struggling to convince Silicon Valley that it could keep up in the AI race. Now it has one of the industry's hottest products.\r\nMuse, Meta's new personal AI assistant, has rocket\u2026 [+7425 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "NPR"
         },
-        "author": "Willa Rubin",
-        "title": "The U.S. Strategic Petroleum Reserve is low. Here\u2019s why you should care - NPR",
-        "description": "The U.S. has tapped into its strategic oil reserve to help drive down rising gasoline prices in the wake of the war with Iran. Can oil from Venezuela help fill it back up?",
-        "url": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-petroleum-reserve-low-level-venezuela",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x2970+0+493/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F0a%2F41e0e8a0421882d549898cf146fc%2Fgettyimages-1434808195.jpg",
-        "publishedAt": "2026-09-25T09:00:00Z",
-        "content": "Deep in the giant underground salt caverns\r\n of Louisiana and Texas, the U.S. government stores hundreds of millions of barrels of crude oil.\r\nThe Strategic Petroleum Reserve is a special government \u2026 [+6286 chars]"
+        "author": "Katie McQue",
+        "title": "The AI safety debate is confusing. Here's our guide to the different factions - npr.org",
+        "description": "The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate.",
+        "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2Fe9%2F740a82844c44bf409fd71dd0fcba%2F2026-09-ai-factions-final.jpg",
+        "publishedAt": "2026-09-26T09:00:00Z",
+        "content": "The debate over the potential benefits and safety risks of accelerating artificial intelligence development reached a crescendo this month, as supporters and critics of the technology clashed over wa\u2026 [+10521 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "NPR"
+            "name": "ProPublica"
         },
-        "author": "Scott Horsley",
-        "title": "American farmers are hurting \u2014 and worried about their futures - NPR",
-        "description": "Farmers who grow soybeans, corn, cotton and other crops are facing another year of losses as soaring fuel and fertilizer costs offset higher revenues.",
-        "url": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x2531+0+234/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F30%2Ff7%2F456d68d6440aa14fe70ee5e689b2%2Ftelesz-1.jpg",
-        "publishedAt": "2026-09-25T09:00:00Z",
-        "content": "Rick Telesz raises soybeans, corn and dairy cows on about 700 acres in western Pennsylvania. He's expecting a promising soybean crop this fall but Telesz will be lucky to just break even. \r\n\"Am I goi\u2026 [+3616 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Michael Sinkewicz",
-        "title": "Former Secret Service cybercrime expert weighs in on privacy after hackers breach stolen Flock camera - Fox Business",
-        "description": "Hackers stole a Flock Safety license plate camera and extracted 1.6 million images, but a former Secret Service expert says the cloud wasn't breached.",
-        "url": "https://www.foxbusiness.com/technology/former-secret-service-cybercrime-expert-weighs-privacy-hackers-breach-stolen-flock-camera",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/1-washington-judge-rules-ai-camera-images-are-public-1.jpg?ve=1&tl=1",
-        "publishedAt": "2026-09-25T06:28:00Z",
-        "content": "A stolen Flock Safety license-plate camera yielded roughly 1.6 million images after hackers physically removed and reverse-engineered the device, but a former Secret Service cybercrime expert says th\u2026 [+4899 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Lim Hui Jie",
-        "title": "CEO who posted 'Lake America' sweatshirt photos is no longer with the company - CNBC",
-        "description": "Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in \"Lake America\" sweatshirts.",
-        "url": "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108355305-17878516282026-08-27t172438z_2070356008_rc257navmzp0_rtrmadp_0_usa-trump.jpeg?v=1787851687&w=1920&h=1080",
-        "publishedAt": "2026-09-25T04:14:11Z",
-        "content": "The CEO of U.S.-based credit union Family First is no longer with the company, days after she posted an allegedly artificial intelligence-edited photo of her family with \"Lake America\" sweatshirts. \r\u2026 [+1893 chars]"
+        "author": "Jake Pearson and Chris Alcantara",
+        "title": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP. - ProPublica",
+        "description": "Amid growing public health concerns, operators like DraftKings have touted \u201cresponsible gaming\u201d tools and prompts. But as I went off the deep end, I found they were no match for the incentives and product design pushing me to keep going.",
+        "url": "https://www.propublica.org/article/draftkings-sports-gambling-problem-vip-fanduel",
+        "urlToImage": "https://www.propublica.org/wp-content/uploads/2026/09/Propublica_Sportsbetting_story1_SN_260917_Layered-social_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?resize=2000,1050",
+        "publishedAt": "2026-09-26T09:00:00Z",
+        "content": "<ul><li>Recklessness Rewarded: I blew $1,800 in one night by chasing my losses with bigger bets, a classic sign of problem gambling. The next day, DraftKings invited me to audition for its VIP progra\u2026 [+40936 chars]"
     }
 ]
