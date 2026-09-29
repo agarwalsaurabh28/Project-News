@@ -1,211 +1,146 @@
 [
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "OpenAI Agents Hit U.S. Government Websites - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/tech/ai/openai-agents-hacked-u-s-government-websites-d999df5f",
-        "urlToImage": null,
-        "publishedAt": "2026-09-27T20:31:34Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Francisco \"A.J.\" Camacho",
-        "title": "The startup bringing the SpaceX playbook to nuclear power - Politico",
-        "description": "General Matter, a startup helmed by one of the first employees of Elon Musk's rocket company, is hoping to help drive a revival in the U.S. nuclear industry.",
-        "url": "https://www.politico.com/news/2026/09/27/the-startup-bringing-the-spacex-playbook-to-nuclear-power-01084143",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ffc%2Ff7%2F7de5c4f140d8bb0efcb0de6249c7%2Fpolitico-general-matter-368.jpg",
-        "publishedAt": "2026-09-27T17:24:00Z",
-        "content": "Nolan is leaning into his Founders Fund experience and reputation to satisfy investors who are drawn to his personality and SpaceX success. He has likened a companys technology to a horse and its CEO\u2026 [+2749 chars]"
-    },
-    {
-        "source": {
             "id": null,
-            "name": "New York Post"
+            "name": "BBC News"
         },
-        "author": "Andrea Palladino",
-        "title": "Instagram has a new feature that\u2019s bad news for creepers \u2014 and it\u2019s got people vowing to quit the app - New York Post",
-        "description": "\u201cIf you have Instagram plus stay away from me,\u201d one social media user commented.",
-        "url": "https://nypost.com/2026/09/27/lifestyle/instagrams-new-3-99-plus-subscription-slammed-as-a-new-low-that-lets-users-torture-themselves/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/COMP-714631558_1018293417219789_1633964034675968286_n.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-09-27T16:49:00Z",
-        "content": "Instagram stalking is no longer private. \r\nInstagram has launched a new premium feature, Instagram Plus, for $3.99 a monthmarketing the subscription as a way to help you express yourself, connect dee\u2026 [+3050 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Richmond.com"
-        },
-        "author": "COLLEEN CURRAN AND SEAN JONES Richmond Times-Dispatch",
-        "title": "Jim Ukrop, longtime leader of Richmond grocery chain, dies at 89 - Richmond Times-Dispatch",
-        "description": "Jim Ukrop helped turn his family\u2019s grocery business into a Richmond institution, then extended his influence into banking, investing and philanthropy.",
-        "url": "https://richmond.com/news/local/article_c583fbce-89b3-4c08-ad0f-29f0b9ed8fc6.html",
-        "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/58/c583fbce-89b3-4c08-ad0f-29f0b9ed8fc6/6a63aa9e6b9be.preview.jpg?crop=920%2C483%2C0%2C65",
-        "publishedAt": "2026-09-27T16:06:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Paradepets.com"
-        },
-        "author": "ParadePets",
-        "title": "Chunky White Golden Retriever Puppy Looks Just Like a Polar Bear Cub - ParadePets",
-        "description": null,
-        "url": "https://paradepets.com/pet-news/chunky-white-golden-retriever-puppy-looks-like-polar-bear-cub",
-        "urlToImage": null,
-        "publishedAt": "2026-09-27T15:55:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "One Mile at a Time"
-        },
-        "author": "Ben Schlappig",
-        "title": "United Airlines Passengers Clash Over Moving To Empty Economy Seats - One Mile at a Time",
-        "description": "Two United Airlines passengers clash over empty economy seats \u2014 one furious she couldn't move for free, the other filing an FAA complaint over seat poaching.",
-        "url": "https://onemileatatime.com/news/united-airlines-passengers-clash-moving-empty-economy-seats/",
-        "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2025/02/United-First-Class-737-MAX-6.jpeg",
-        "publishedAt": "2026-09-27T15:54:13Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Dow Jones Futures Due Amid Trump Iran Comments; Micron, SpaceX, Tesla Eye Buy Points - Investor's Business Daily",
-        "description": "Micron, SpaceX and Tesla eye buy points with big news this week.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-comments-micron-spacex-tesla-economic-data/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/04/stock-trump-wh-shutterstock.jpg",
-        "publishedAt": "2026-09-27T15:38:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Information"
-        },
-        "author": "Qianer Liu",
-        "title": "China Weighs Allowing Purchases of New Nvidia Chips by ByteDance, Alibaba - The Information",
-        "description": "China\u2019s government has signaled it could allow some domestic companies to buy a new Nvidia chip built for high-end professional computers, according to two people familiar with the matter, as the country\u2019s AI firms strain for enough computing power to run the\u2026",
-        "url": "https://www.theinformation.com/articles/china-weighs-allowing-purchases-new-nvidia-chips-bytedance-alibaba",
-        "urlToImage": "https://tii.imgix.net/production/articles/17888/aba91118-8c16-4942-b577-8daab3074a05.png?fm=jpg&auto=compress&w=1200&frame=0",
-        "publishedAt": "2026-09-27T15:00:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "One Mile at a Time"
-        },
-        "author": "Ben Schlappig",
-        "title": "Starlux Airlines First Class Airbus A350 Review: Strange Hard Product, Stellar Soft Product - One Mile at a Time",
-        "description": "A detailed review of Starlux Airlines' A350 first class from Los Angeles to Taipei, covering booking, ground perks, the seat, dining, and crew service.",
-        "url": "https://onemileatatime.com/reviews/starlux-airlines-first-class-a350/",
-        "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2026/09/Starlux-First-Class-A350-58.jpeg",
-        "publishedAt": "2026-09-27T14:51:04Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Alexandra Marquez",
-        "title": "Bill Gates says getting countries to agree on AI regulations will be harder than Cold War-era nuclear negotiations - NBC News",
-        "description": "Bill Gates called on the U.S. to lead in the global regulation of AI growth but warned agreeing on a global AI regulation could be \u201cmore difficult\u201d than Cold War-era nuclear negotiations.",
-        "url": "https://www.nbcnews.com/news/us-news/bill-gates-global-artificial-intelligence-regulations-nuclear-rcna599646",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260925-bill-gates-ch-1017-22a3cb.jpg",
-        "publishedAt": "2026-09-27T14:10:16Z",
-        "content": "Microsoft co-founder and billionaire philanthropist Bill Gates called on the U.S. to be a leader in regulating the growth of artificial intelligence but warned that getting countries to agree on a gl\u2026 [+8180 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "FOX43.com"
-        },
-        "author": "fox43.com",
-        "title": "How many Starbucks locations are closing in south central Pennsylvania? - fox43.com",
-        "description": null,
-        "url": "https://www.fox43.com/article/money/business/how-many-starbucks-locations-are-closing-in-south-central-pennsylvania/521-84d83bc7-daf7-4042-a882-6b12b21724dd",
-        "urlToImage": null,
-        "publishedAt": "2026-09-27T13:30:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TheStreet"
-        },
-        "author": "thestreet.com",
-        "title": "Bank of America drops bombshell verdict on Nike stock - thestreet.com",
-        "description": null,
-        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-drops-bombshell-verdict-on-nike-stock",
-        "urlToImage": null,
-        "publishedAt": "2026-09-27T13:17:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Sydney Lake, Alena Botros",
-        "title": "Baby boomers are aging in place and plunking down hundreds of thousands on renovating their homes - Fortune",
-        "description": "Millennials need homes, but because of high home prices and mortgage rates, baby boomers have little reason to sell.",
-        "url": "https://fortune.com/article/baby-boomers-millennials-mortgage-rates-aging-in-place-renovations/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2025/03/GettyImages-2174889879-e1741379829956.jpg?resize=1200,600",
-        "publishedAt": "2026-09-27T13:16:00Z",
-        "content": "The housing world is a bit of a generational war zone, mostly between baby boomers and millennials.\u00a0Baby boomers make up more than one-third of all homeowners, and more than half dont even have a mor\u2026 [+4444 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Ines Ferr\u00e9",
-        "title": "'Out of nowhere came Muse': Wall Street weighs in on Meta's AI catch-up moment - Yahoo Finance",
-        "description": "Meta went from an AI laggard to a leader in the course of a week.",
-        "url": "https://finance.yahoo.com/markets/article/out-of-nowhere-came-muse-wall-street-weighs-in-on-metas-ai-catch-up-moment-131134524.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/963dd6da896db94415f4a9e6861c97134cf316594b8d415589b21da5454f3b0d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fe81be4f5-1553-437a-ad87-ed5676fc065c",
-        "publishedAt": "2026-09-27T13:11:34Z",
-        "content": "Meta Platforms (META) just had a mic-drop moment.\r\nThe release of its AI agent Muse is giving investors a glimpse of how AI could be monetized with consumers.\r\n\"This new Muse agentic platform is taki\u2026 [+2751 chars]"
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "SpaceX Starship rocket splashes down in Pacific Ocean - BBC",
+        "description": "The rocket - which had been due to orbit the planet six times on a 10-hour flight - ultimately returned after a three-hour flight.",
+        "url": "https://www.bbc.com/news/live/c65ymmpzev1mt",
+        "urlToImage": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
+        "publishedAt": "2026-09-28T17:50:45Z",
+        "content": "Imogen JamesLive editor\r\nA thunderous lift off, rapid satellite deployments and a\r\nfiery ending. That's how SpaceX's 14th launch of its Starship rocket\r\npanned out today.\r\nSpaceX - owned by Elon Musk\u2026 [+993 chars]"
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Carmen Reinicke",
-        "title": "AI Whiplash Jolts Stocks as Sentiment Lurches From Fear to Greed - Bloomberg",
-        "description": "Artificial intelligence could wipe us all out. Or it might just kill our unwanted subscriptions.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-27/ai-whiplash-jolts-stocks-as-sentiment-lurches-from-fear-to-greed",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iimy2j0Ps1hs/v1/1200x800.jpg",
-        "publishedAt": "2026-09-27T13:00:07Z",
-        "content": "Artificial intelligence could wipe us all out. Or it might just kill our unwanted subscriptions.\r\nThose are the two extremes the stock market has swung between over the past two weeks, sending hundre\u2026 [+138 chars]"
+        "author": "Justina Lee, Denitsa Tsekova",
+        "title": "Treasury Takes Aim at Wall Street Tax Trades in New Notice - Bloomberg.com",
+        "description": "The US Treasury Department took a big step toward curbing Wall Street\u2019s tax-aware investing boom on Monday, with a notice signaling potential action on an array of strategies and a ruling that will limit the tax benefits of a booming ETF maneuver.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-28/treasury-takes-aim-at-wall-street-tax-trades-in-new-notice",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIcPMJ6nrmHk/v0/1200x800.jpg",
+        "publishedAt": "2026-09-28T17:32:59Z",
+        "content": "The US Treasury Department took a big step toward curbing Wall Streets tax-aware investing boom on Monday, with a notice signaling potential action on an array of strategies and a ruling that will li\u2026 [+443 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Russell Brandom",
+        "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity - TechCrunch",
+        "description": "On Friday, OpenAI published a new site devoted to \u201cmisalignment reports\u201d and the breadth of the incidents is alarming.",
+        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+        "publishedAt": "2026-09-28T17:09:02Z",
+        "content": "On Friday, OpenAI published a new site devoted to misalignment reports and the sheer breadth of the reports is alarming, as they cover many types of rogue behavior over a long period of time. So far,\u2026 [+3750 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "9to5Mac"
+            "name": "Barron's"
         },
-        "author": "Chance Miller",
-        "title": "Apple hit with $5.7 billion verdict over Taptic Engine patent infringement - 9to5mac.com",
-        "description": "Apple must pay $5.7 billion for infringing on patents held by Taction Technology, a US jury ruled on Friday. The...",
-        "url": "https://9to5mac.com/2026/09/27/apple-hit-with-5-7-billion-verdict-over-taptic-engine-patent-infringement/",
-        "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&strip=all&resize=1200,628",
-        "publishedAt": "2026-09-27T12:49:00Z",
-        "content": "Apple must pay $5.7 billion for infringing on patents held by Taction Technology, a US jury ruled on Friday. The patents relate to Apples Taptic Engine, which is the hardware Apple uses to provide ha\u2026 [+1830 chars]"
+        "author": "Kit Norton",
+        "title": "MongoDB Stock Sinks 20% as CEO Departs for Meta. \u2018Real Shocker,\u2019 Says Analyst. - Barron's",
+        "description": "MongoDB stock falls after the company announces its CEO is stepping down to take a role role at Meta.",
+        "url": "https://www.barrons.com/articles/mongodb-stock-ceo-meta-a8360815",
+        "urlToImage": "https://images.barrons.com/im-25879868/social",
+        "publishedAt": "2026-09-28T16:28:00Z",
+        "content": "Chipotle shares rise after unveiling the return, for a limited time, of its classic margaritas, which were discontinued in 2019."
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Steve Kopack",
+        "title": "Stocks fall, oil rises and bond yields surge as geopolitics keeps markets on edge - NBC News",
+        "description": "Stocks fell Monday alongside a jump in bond yields and erratic oil trading as geopolitical upheaval remained front and center for traders.",
+        "url": "https://www.nbcnews.com/business/markets/stocks-oil-bond-yields-geopolitics-rcna600284",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260928-US-Treasury-building-ew-1209p-9bc63f.jpg",
+        "publishedAt": "2026-09-28T16:23:35Z",
+        "content": "Stocks fell Monday alongside a jump in bond yields and erratic oil trading as geopolitical upheaval remained front and center for traders.\r\nThe S&amp;P 500 fell 0.5% and the Nasdaq Composite dropped \u2026 [+3300 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Willa Rubin",
+        "title": "The Trump administration weakens fuel efficiency standards for new cars - NPR",
+        "description": "The Trump administration says easing these standards will make cars more affordable. Critics say it's not so simple and could be costly for the environment.",
+        "url": "https://www.npr.org/2026/09/28/nx-s1-5918509/car-fuel-efficiency-cafe-standards-rollback",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5266x2962+0+274/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2F30%2F10c1cbbb4d28abb52f01a2a22fcc%2Fgettyimages-2261037791.jpg",
+        "publishedAt": "2026-09-28T16:07:15Z",
+        "content": "Sign up for the Planet Money newsletter. The world is confusing. Economics can help\r\nThe Trump administration announced Monday it's scaling back how fuel efficient American carmakers need to make the\u2026 [+8676 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Sarah Whitten",
+        "title": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle - CNBC",
+        "description": "Former Disney CEO Bob Chapek was ousted from his role as CEO in late 2022, less than three years after taking the post, and replaced by Iger.",
+        "url": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107116506-1662762534450-gettyimages-1243031526-pinocchio310150.jpeg?v=1693994401&w=1920&h=1080",
+        "publishedAt": "2026-09-28T16:02:17Z",
+        "content": "Former Disney CEO Bob Chapek said Monday he voiced concerns about then-Executive Chairman Bob Iger to the company's board \"weekly\" during his brief tenure as head of the House of Mouse.\r\nChapek has r\u2026 [+1516 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KOMO News"
+        },
+        "author": "Nouchaly Keo, KOMO News Staff",
+        "title": "Boeing identifies 737 MAX software glitch - KOMO",
+        "description": "SEATTLE \u2014 Boeing has identified a software glitch affecting some 737 MAX jets that could cause pilots to lose access to automated flight guidance during a speci",
+        "url": "https://komonews.com/news/local/boeing-identifies-737-max-software-glitch-automated-flight-guidance-landing-missed-approach-flight-path-pilot-procedures-permanent-fix-engineers",
+        "urlToImage": "https://komonews.com/resources/media2/16x9/1280/1320/center/90/ef89ebf0-f1ac-4169-8186-1b6194ac5787-MONVOBOEING737MAXSOFTWAREGLITCH.transfer_frame_591.jpeg",
+        "publishedAt": "2026-09-28T15:52:55Z",
+        "content": "Boeing has identified a software glitch affecting some 737 MAX jets that could cause pilots to lose access to automated flight guidance during a specific landing scenario, according to the company.\r\n\u2026 [+1041 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Andrew J. Hawkins",
+        "title": "Volkswagen replaces ID.4 with all-electric Tiguan - The Verge",
+        "description": "Volkswagen announced it was replacing the retired ID.4 with the ID.Tiguan, while also adding back a lot of physical buttons.",
+        "url": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20113-db2026au00714.jpg?quality=90&strip=all&crop=0%2C10.75251595737%2C100%2C78.494968085261&w=1200",
+        "publishedAt": "2026-09-28T15:43:09Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new EV is expected to keep most of what worked with the ID.4, while fixing some of its shortcomings like the lack of physical buttons.\r\nThe new EV is expecte\u2026 [+3209 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Taylor Herzlich",
+        "title": "Everyone in a Pennsylvania town gets $10K if data center is built \u2013 but they\u2019re still pushing back: report - New York Post",
+        "description": "A big developer that\u2019s desperate to construct a data center near a Pennsylvania town has offered to pay every family there $10,000 \u2013 but most are still pushing back, part of a nationwide tren\u2026",
+        "url": "https://nypost.com/2026/09/28/business/everyone-in-hazle-township-pennsylvania-gets-10k-if-data-center-is-built-but-theyre-still-pushing-back-report/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/000-every-family-town-spend-142883857.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-09-28T15:23:00Z",
+        "content": "A big developer that\u2019s desperate to build a data center near a Pennsylvania town has reportedly offered to pay every family there $10,000 but most are still pushing back, part of a nationwide trend o\u2026 [+4538 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Seeking Alpha"
+        },
+        "author": "Jason Capul",
+        "title": "U.S. 10 Year Treasury tops 5.25% as yields continue to climb - Seeking Alpha",
+        "description": "U.S. Treasury yields climbed across the curve on Monday as investors kept selling government bonds, lifting the benchmark U.S. 10-year Treasury yield (US10Y) above 5.25%.",
+        "url": "https://seekingalpha.com/news/4647652-us-10-year-treasury-tops-525-as-yields-continue-to-climb",
+        "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1402586564/image_1402586564.jpg?io=getty-c-w630",
+        "publishedAt": "2026-09-28T14:55:23Z",
+        "content": "primeimages\r\nU.S. Treasury yields climbed across the curve on Monday as investors kept selling government bonds, lifting the benchmark U.S. 10-year Treasury yield (US10Y) above 5.25%.\r\nThe 10-year yi\u2026 [+71 chars]"
     },
     {
         "source": {
@@ -213,50 +148,102 @@
             "name": "Yahoo Entertainment"
         },
         "author": "Brian Sozzi",
-        "title": "The deeper reason behind the relentless rise in bond yields - Yahoo Finance",
-        "description": "Ignore hysteria calls on rising bond yields.",
-        "url": "https://finance.yahoo.com/markets/article/the-deeper-reason-behind-the-relentless-rise-in-bond-yields-120000422.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/eba80389f63bb262911d09a40adf03368f0fdb0c3ba79212f7615dba21a4bc55/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F3f4035c3-7e18-408f-86f1-5ec0a9705f45",
-        "publishedAt": "2026-09-27T12:00:00Z",
-        "content": "Over the past few days, you have probably been hit over the head with stories about rising bond yields.\r\nI hate to admit it, but I even churned out a host of stories on yields this week. Love me a go\u2026 [+2271 chars]"
+        "title": "Is Nike stock about to get whacked with another 'reset moment'? - Yahoo Finance",
+        "description": "It's been a rough run for Nike.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/is-nike-stock-about-to-get-whacked-with-another-reset-moment-142236242.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/886002bbdba2ba25a22dbe17e62013efa5f16b3b5e5a3c63199e8f9db4a454a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F2e1af95d-d044-4c6b-bc0a-1c486ed2f569",
+        "publishedAt": "2026-09-28T14:22:36Z",
+        "content": "Another L for Nike (NKE) may be coming up when the sportswear giant reports earnings later this week.\r\n\"F1Q Update Could be Another Reset Moment,\" Evercore ISI analyst Michael Binetti titled a new re\u2026 [+3978 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "David Hollerith",
-        "title": "The AI gold rush is fueling a record corporate bond boom: Chart of the Day - Yahoo Finance",
-        "description": "Tech giants are increasingly turning to the bond market for their AI infrastructure build-out.",
-        "url": "https://finance.yahoo.com/markets/article/the-ai-gold-rush-is-fueling-a-record-corporate-bond-boom-chart-of-the-day-115022571.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/c6bf85454a97f61895174d1924117c57dc7fc5c8e2dab7584bcad3e1e699e972/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F24d53d20-2614-439b-bd33-9695bf941721",
-        "publishedAt": "2026-09-27T11:50:22Z",
-        "content": "Alphabet (GOOG, GOOGL), Amazon (AMZN), Meta (META), Microsoft (MSFT), and Oracle (ORCL) are expected to see capital expenditures of roughly $800 billion this year\u00a0and $1.2 trillion next year, accordi\u2026 [+2417 chars]"
+        "author": "Michael B. Kelley",
+        "title": "Nvidia stock jumps after largest share buyback ever - Yahoo Finance",
+        "description": "Nvidia stock popped in early trading after the AI hardware giant announced the largest share buyback in history on Monday morning and a new platform for AI s...",
+        "url": "https://finance.yahoo.com/markets/article/so-much-cash-nvidia-stock-jumps-after-largest-share-buyback-ever-134349202.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/19525c53bc9063fbb763fdbe18b18c1c5ad9e9f8eaf5ef162bf12e6b0fd95287/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F7b049ee6-4342-4286-8645-a1e40a50c83e",
+        "publishedAt": "2026-09-28T14:09:50Z",
+        "content": "Nvidia stock popped in early trading after the AI hardware giant announced on Monday morning the\u00a0largest share buyback in history\u00a0and a\u00a0new platform for AI safety guardrails.\r\nThe $150 billion stock \u2026 [+1615 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Alex Harring",
-        "title": "Wall Street money takes back over from small investors as driving force of the stock market - CNBC",
-        "description": "One firm sees a \"reasonably constructive signal for risk appetite\" among institutional investors.",
-        "url": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108364036-17895893572026-09-16t200737z_126985946_rc2iknasv7pe_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&w=1920&h=1080",
-        "publishedAt": "2026-09-27T11:32:35Z",
-        "content": "Institutional investors are taking the wheel in the stock market.\r\nAfter years on a big buying streak, retail traders appear to be moving to the sidelines. At the same time, data from Vanda Research \u2026 [+1884 chars]"
+        "author": "Kai Nicol-Schwarz",
+        "title": "Jensen Huang says AI distillation is 'competition.' Scott Bessent has called it 'theft' - CNBC",
+        "description": "Nvidia CEO Jensen Huang argued that AI model distillation is \"competition\". U.S. Treasury Secretary Scott Bessent has called it \"theft.\"",
+        "url": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&w=1920&h=1080",
+        "publishedAt": "2026-09-28T13:55:33Z",
+        "content": "Nvidia CEO Jensen Huang has said AI model distillation models being trained on other models' outputs is \"competition,\" despite the White House calling it theft.\r\nDistillation has become a key flashpo\u2026 [+1478 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "San Francisco Chronicle"
+            "name": "Variety"
         },
-        "author": "Brooke Park",
-        "title": "Bay Area officials are banning new gas water heaters. Have they made the switch in their homes? - San Francisco Chronicle",
-        "description": "With the Bay Area Air District poised to require new, expensive electric heat pump water heaters, we asked all 24 board members if they had switched from gas.",
-        "url": "https://www.sfchronicle.com/bayarea/article/gas-water-heater-ban-22433411.php",
-        "urlToImage": "https://s.hdnux.com/photos/01/67/33/75/31309668/3/rawImage.jpg",
-        "publishedAt": "2026-09-27T11:07:07Z",
-        "content": "Steve Young, the mayor of\u00a0Benicia and a board member at the Bay Area Air District, stands beside his electric water heater and heat pump furnace at his home in\u00a0Benicia in July. Young enjoys his elect\u2026 [+10394 chars]"
+        "author": "Jordan Moreau",
+        "title": "Elizabeth Holmes Ahead of You Can See Everything Release: I Was Silenced - variety.com",
+        "description": "Elizabeth Holmes posts a cryptic message from prison ahead of the 'You Can See Everything' release: 'I was silenced'",
+        "url": "https://variety.com/2026/film/news/elizabeth-holmes-you-can-see-everything-1236877293/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2022/11/GettyImages-1156149399.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-09-28T13:38:00Z",
+        "content": "Theranos founder Elizabeth Holmes, who\u2019s been serving an 11-year prison sentence for fraud, posted a mysterious message on X ahead of moving to a halfway house and the release of a new documentary ab\u2026 [+2467 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Emma Roth",
+        "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019 - The Verge",
+        "description": "Nvidia is launching a new AI safety platform designed to prevent rogue hacking incidents.",
+        "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-09-28T13:36:06Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2592 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Kevin Schaul",
+        "title": "See how data centers are changing the American landscape - The Washington Post",
+        "description": "Satellite imagery shows what was once farmland and desert taken over by warehouselike structures.",
+        "url": "https://www.washingtonpost.com/technology/interactive/2026/09/28/satellite-images-show-scale-americas-data-center-build-out/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BELY2HQZ3JH3NCIH57GJ5VJC2Y.jpg&w=1200",
+        "publishedAt": "2026-09-28T13:31:30Z",
+        "content": "Americas landscape is undergoing one of the largest transformations in decades.\r\nTo meet the insatiable demand for computer processing to power AI, tech companies and their developers nationwide are \u2026 [+4207 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Luke Juricic",
+        "title": "Kodiak Sciences stock soars on positive AMD trial data - finance.yahoo.com",
+        "description": "Investing.com -- Kodiak Sciences Inc (NASDAQ:KOD) shares surged as much as 90% in premarket trading Monday following positive results from its Phase 3 DAYBRE...",
+        "url": "https://finance.yahoo.com/healthcare/articles/kodiak-sciences-stock-soars-positive-131620029.html",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+        "publishedAt": "2026-09-28T13:16:20Z",
+        "content": "Investing.com -- Kodiak Sciences Inc (NASDAQ:KOD) shares surged as much as 90% in premarket trading Monday following positive results from its Phase 3 DAYBREAK study in wet age-related macular degene\u2026 [+2423 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Exclusive | Senate Investigation Finds Rampant Use of Tether\u2019s Stablecoin by Iranian Regime - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/finance/currencies/senate-investigation-finds-rampant-use-of-tethers-stablecoin-by-iranian-regime-ce652e22",
+        "urlToImage": null,
+        "publishedAt": "2026-09-28T13:00:00Z",
+        "content": null
     }
 ]
