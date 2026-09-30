@@ -2,236 +2,119 @@
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "CNBC"
         },
-        "author": "https://www.facebook.com/bbcnews",
-        "title": "SpaceX Starship rocket splashes down in Pacific Ocean - BBC",
-        "description": "The rocket - which had been due to orbit the planet six times on a 10-hour flight - ultimately returned after a three-hour flight.",
-        "url": "https://www.bbc.com/news/live/c65ymmpzev1mt",
-        "urlToImage": "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
-        "publishedAt": "2026-09-28T17:50:45Z",
-        "content": "Imogen JamesLive editor\r\nA thunderous lift off, rapid satellite deployments and a\r\nfiery ending. That's how SpaceX's 14th launch of its Starship rocket\r\npanned out today.\r\nSpaceX - owned by Elon Musk\u2026 [+993 chars]"
+        "author": "Ashley Capoot, Kate Rooney, Chris Eudaily",
+        "title": "OpenAI DevDay live updates: AI lab unveils Dots agents and is in talks for new funding round - cnbc.com",
+        "description": "Follow CNBC\u2019s live coverage of OpenAI DevDay 2026, including Sam Altman\u2019s keynote and other developer announcements.",
+        "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369612-17907024752026-09-29t170951z_984146601_rc25tna79qfv_rtrmadp_0_ai-openai.jpeg?v=1790702493&w=1920&h=1080",
+        "publishedAt": "2026-09-29T18:13:00Z",
+        "content": "OpenAI introduced Dots, new \"always-on\" AI agents that are designed to help users complete a range of tasks.\u00a0\r\nDots are powered by OpenAI's GPT-6 Astra model, which the company launched earlier this \u2026 [+1371 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investopedia"
+        },
+        "author": "Aaron Rennie",
+        "title": "Stock Market Today: Major Indexes Decline as Treasury Yields Rise Further; Oil Prices Slip - Investopedia",
+        "description": "Major U.S. stock indexes fell further Tuesday after beginning the week with declines, as Treasury yields resumed their ascent.",
+        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09292026-12146739",
+        "urlToImage": "https://www.investopedia.com/thmb/PVGF8lyJRPxXF3rguZqKUrn30M8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2297041168-ecc1435d99ec42ef9ea0fbc46d6ee81b.jpg",
+        "publishedAt": "2026-09-29T17:47:38Z",
+        "content": "September 29, 2026 02:03 PM EDT\r\nUtilities Is Only S&amp;P 500 Sector in Positive Territory\r\nCrude prices are slipping today. Thats not enough to prevent the S&amp;P 500 Utilities Sector from registe\u2026 [+16513 chars]"
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Justina Lee, Denitsa Tsekova",
-        "title": "Treasury Takes Aim at Wall Street Tax Trades in New Notice - Bloomberg.com",
-        "description": "The US Treasury Department took a big step toward curbing Wall Street\u2019s tax-aware investing boom on Monday, with a notice signaling potential action on an array of strategies and a ruling that will limit the tax benefits of a booming ETF maneuver.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-28/treasury-takes-aim-at-wall-street-tax-trades-in-new-notice",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIcPMJ6nrmHk/v0/1200x800.jpg",
-        "publishedAt": "2026-09-28T17:32:59Z",
-        "content": "The US Treasury Department took a big step toward curbing Wall Streets tax-aware investing boom on Monday, with a notice signaling potential action on an array of strategies and a ruling that will li\u2026 [+443 chars]"
+        "author": "Rebecca Torrence, Edward Ludlow, Shirin Ghaffary",
+        "title": "OpenAI Targets $30 Billion in New Funding at $1.4 Trillion Value - Bloomberg",
+        "description": "OpenAI aims to raise at least $30 billion from investors in a new round of funding, according to people familiar with the matter, after the artificial intelligence startup pushed back its plans for an initial public offering.",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inmsn.WtKMMA/v1/1200x800.jpg",
+        "publishedAt": "2026-09-29T17:35:13Z",
+        "content": "OpenAI aims to raise at least $30 billion from investors in a new round of funding, according to people familiar with the matter, after the artificial intelligence startup pushed back its plans for a\u2026 [+330 chars]"
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
+            "id": "politico",
+            "name": "Politico"
         },
-        "author": "Russell Brandom",
-        "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity - TechCrunch",
-        "description": "On Friday, OpenAI published a new site devoted to \u201cmisalignment reports\u201d and the breadth of the incidents is alarming.",
-        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-        "publishedAt": "2026-09-28T17:09:02Z",
-        "content": "On Friday, OpenAI published a new site devoted to misalignment reports and the sheer breadth of the reports is alarming, as they cover many types of rogue behavior over a long period of time. So far,\u2026 [+3750 chars]"
+        "author": "Ben Lefebvre, James Bikales, Mike Soraghan",
+        "title": "White House looking to Europe to release diesel from strategic reserves - Politico",
+        "description": "The idea comes as high energy prices drag GOP in midterm elections.",
+        "url": "https://www.politico.com/news/2026/09/29/white-house-looking-to-europe-to-release-diesel-from-strategic-reserves-01096937",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F16%2F23%2Ff44d2ce14933944a106611111517%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2296177062",
+        "publishedAt": "2026-09-29T17:09:00Z",
+        "content": "President Donald Trump appears set on banning diesel exports. His cabinet, oil industry executives and some GOP lawmakers are hoping he doesnt.\r\nInstead, they are pitching the administration several \u2026 [+354 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Barron's"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Kit Norton",
-        "title": "MongoDB Stock Sinks 20% as CEO Departs for Meta. \u2018Real Shocker,\u2019 Says Analyst. - Barron's",
-        "description": "MongoDB stock falls after the company announces its CEO is stepping down to take a role role at Meta.",
-        "url": "https://www.barrons.com/articles/mongodb-stock-ceo-meta-a8360815",
-        "urlToImage": "https://images.barrons.com/im-25879868/social",
-        "publishedAt": "2026-09-28T16:28:00Z",
-        "content": "Chipotle shares rise after unveiling the return, for a limited time, of its classic margaritas, which were discontinued in 2019."
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Steve Kopack",
-        "title": "Stocks fall, oil rises and bond yields surge as geopolitics keeps markets on edge - NBC News",
-        "description": "Stocks fell Monday alongside a jump in bond yields and erratic oil trading as geopolitical upheaval remained front and center for traders.",
-        "url": "https://www.nbcnews.com/business/markets/stocks-oil-bond-yields-geopolitics-rcna600284",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260928-US-Treasury-building-ew-1209p-9bc63f.jpg",
-        "publishedAt": "2026-09-28T16:23:35Z",
-        "content": "Stocks fell Monday alongside a jump in bond yields and erratic oil trading as geopolitical upheaval remained front and center for traders.\r\nThe S&amp;P 500 fell 0.5% and the Nasdaq Composite dropped \u2026 [+3300 chars]"
+        "author": "wsj.com",
+        "title": "Treasury Will Auto-Enroll 60 Million Children in Trump Accounts - wsj.com",
+        "description": null,
+        "url": "https://www.wsj.com/politics/policy/treasury-will-auto-enroll-60-million-in-trump-accounts-a5f82421",
+        "urlToImage": null,
+        "publishedAt": "2026-09-29T16:52:00Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "NPR"
+            "name": "Deadline"
         },
-        "author": "Willa Rubin",
-        "title": "The Trump administration weakens fuel efficiency standards for new cars - NPR",
-        "description": "The Trump administration says easing these standards will make cars more affordable. Critics say it's not so simple and could be costly for the environment.",
-        "url": "https://www.npr.org/2026/09/28/nx-s1-5918509/car-fuel-efficiency-cafe-standards-rollback",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5266x2962+0+274/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2F30%2F10c1cbbb4d28abb52f01a2a22fcc%2Fgettyimages-2261037791.jpg",
-        "publishedAt": "2026-09-28T16:07:15Z",
-        "content": "Sign up for the Planet Money newsletter. The world is confusing. Economics can help\r\nThe Trump administration announced Monday it's scaling back how fuel efficient American carmakers need to make the\u2026 [+8676 chars]"
+        "author": "Nellie Andreeva, Dade Hayes",
+        "title": "Disney Hit By Layoffs In Multiple Areas, Hundreds Impacted - Deadline",
+        "description": "Disney has initiated layoffs under CEO Josh D'Amaro. The cuts impact a couple of hundred employees, largely in areas such as tech and HR.",
+        "url": "http://deadline.com/2026/09/disney-layoffs-josh-damaro-1237114027/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2026/09/Disney-Wall-Street.jpg?w=1024",
+        "publishedAt": "2026-09-29T16:11:00Z",
+        "content": "EXCLUSIVE: Disney has initiated layoffs as it continues to tighten its belt under recently appointed CEO Josh D\u2019Amaro. Today\u2019s cuts are said to impact a couple of hundred employees, largely in areas \u2026 [+2982 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Sarah Whitten",
-        "title": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle - CNBC",
-        "description": "Former Disney CEO Bob Chapek was ousted from his role as CEO in late 2022, less than three years after taking the post, and replaced by Iger.",
-        "url": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107116506-1662762534450-gettyimages-1243031526-pinocchio310150.jpeg?v=1693994401&w=1920&h=1080",
-        "publishedAt": "2026-09-28T16:02:17Z",
-        "content": "Former Disney CEO Bob Chapek said Monday he voiced concerns about then-Executive Chairman Bob Iger to the company's board \"weekly\" during his brief tenure as head of the House of Mouse.\r\nChapek has r\u2026 [+1516 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KOMO News"
-        },
-        "author": "Nouchaly Keo, KOMO News Staff",
-        "title": "Boeing identifies 737 MAX software glitch - KOMO",
-        "description": "SEATTLE \u2014 Boeing has identified a software glitch affecting some 737 MAX jets that could cause pilots to lose access to automated flight guidance during a speci",
-        "url": "https://komonews.com/news/local/boeing-identifies-737-max-software-glitch-automated-flight-guidance-landing-missed-approach-flight-path-pilot-procedures-permanent-fix-engineers",
-        "urlToImage": "https://komonews.com/resources/media2/16x9/1280/1320/center/90/ef89ebf0-f1ac-4169-8186-1b6194ac5787-MONVOBOEING737MAXSOFTWAREGLITCH.transfer_frame_591.jpeg",
-        "publishedAt": "2026-09-28T15:52:55Z",
-        "content": "Boeing has identified a software glitch affecting some 737 MAX jets that could cause pilots to lose access to automated flight guidance during a specific landing scenario, according to the company.\r\n\u2026 [+1041 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Andrew J. Hawkins",
-        "title": "Volkswagen replaces ID.4 with all-electric Tiguan - The Verge",
-        "description": "Volkswagen announced it was replacing the retired ID.4 with the ID.Tiguan, while also adding back a lot of physical buttons.",
-        "url": "https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Original-20113-db2026au00714.jpg?quality=90&strip=all&crop=0%2C10.75251595737%2C100%2C78.494968085261&w=1200",
-        "publishedAt": "2026-09-28T15:43:09Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new EV is expected to keep most of what worked with the ID.4, while fixing some of its shortcomings like the lack of physical buttons.\r\nThe new EV is expecte\u2026 [+3209 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Taylor Herzlich",
-        "title": "Everyone in a Pennsylvania town gets $10K if data center is built \u2013 but they\u2019re still pushing back: report - New York Post",
-        "description": "A big developer that\u2019s desperate to construct a data center near a Pennsylvania town has offered to pay every family there $10,000 \u2013 but most are still pushing back, part of a nationwide tren\u2026",
-        "url": "https://nypost.com/2026/09/28/business/everyone-in-hazle-township-pennsylvania-gets-10k-if-data-center-is-built-but-theyre-still-pushing-back-report/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/000-every-family-town-spend-142883857.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-09-28T15:23:00Z",
-        "content": "A big developer that\u2019s desperate to build a data center near a Pennsylvania town has reportedly offered to pay every family there $10,000 but most are still pushing back, part of a nationwide trend o\u2026 [+4538 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Seeking Alpha"
-        },
-        "author": "Jason Capul",
-        "title": "U.S. 10 Year Treasury tops 5.25% as yields continue to climb - Seeking Alpha",
-        "description": "U.S. Treasury yields climbed across the curve on Monday as investors kept selling government bonds, lifting the benchmark U.S. 10-year Treasury yield (US10Y) above 5.25%.",
-        "url": "https://seekingalpha.com/news/4647652-us-10-year-treasury-tops-525-as-yields-continue-to-climb",
-        "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1402586564/image_1402586564.jpg?io=getty-c-w630",
-        "publishedAt": "2026-09-28T14:55:23Z",
-        "content": "primeimages\r\nU.S. Treasury yields climbed across the curve on Monday as investors kept selling government bonds, lifting the benchmark U.S. 10-year Treasury yield (US10Y) above 5.25%.\r\nThe 10-year yi\u2026 [+71 chars]"
+        "author": "Amelia Lucas",
+        "title": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain - cnbc.com",
+        "description": "El Pollo Loco will open its first New York City restaurant next year in Queens as it aims to become a national chicken chain.",
+        "url": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369004-1790626180546-gettyimages-2236983222-dji_20250923110102_0537_d_kowzomgs.jpeg?v=1790704576&w=1920&h=1080",
+        "publishedAt": "2026-09-29T16:00:01Z",
+        "content": "El Pollo Loco will open its first New York City restaurant next year as the California chain looks to become a national player.\r\nEl Pollo Loco has closed three development agreements for a total of 1\u2026 [+3628 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Brian Sozzi",
-        "title": "Is Nike stock about to get whacked with another 'reset moment'? - Yahoo Finance",
-        "description": "It's been a rough run for Nike.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/is-nike-stock-about-to-get-whacked-with-another-reset-moment-142236242.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/886002bbdba2ba25a22dbe17e62013efa5f16b3b5e5a3c63199e8f9db4a454a9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F2e1af95d-d044-4c6b-bc0a-1c486ed2f569",
-        "publishedAt": "2026-09-28T14:22:36Z",
-        "content": "Another L for Nike (NKE) may be coming up when the sportswear giant reports earnings later this week.\r\n\"F1Q Update Could be Another Reset Moment,\" Evercore ISI analyst Michael Binetti titled a new re\u2026 [+3978 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Michael B. Kelley",
-        "title": "Nvidia stock jumps after largest share buyback ever - Yahoo Finance",
-        "description": "Nvidia stock popped in early trading after the AI hardware giant announced the largest share buyback in history on Monday morning and a new platform for AI s...",
-        "url": "https://finance.yahoo.com/markets/article/so-much-cash-nvidia-stock-jumps-after-largest-share-buyback-ever-134349202.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/19525c53bc9063fbb763fdbe18b18c1c5ad9e9f8eaf5ef162bf12e6b0fd95287/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F7b049ee6-4342-4286-8645-a1e40a50c83e",
-        "publishedAt": "2026-09-28T14:09:50Z",
-        "content": "Nvidia stock popped in early trading after the AI hardware giant announced on Monday morning the\u00a0largest share buyback in history\u00a0and a\u00a0new platform for AI safety guardrails.\r\nThe $150 billion stock \u2026 [+1615 chars]"
+        "author": "Daniel Howley",
+        "title": "Micron to report Q4 earnings, as memory boom powers on - Yahoo Finance",
+        "description": "Micron to report fourth quarter earnings after the bell Wednesday.",
+        "url": "https://finance.yahoo.com/technology/article/micron-to-report-q4-earnings-as-memory-boom-powers-on-153230577.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/a58035d5eca2ab0b3d01f079c8daac11913f3a0cf337d40424d28e31b586cc25/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2F1e4174d0-63d7-4d20-8933-d7a74c46331a",
+        "publishedAt": "2026-09-29T15:32:30Z",
+        "content": "Memory giant Micron (MU) will report its fourth quarter earnings after the bell on Wednesday, providing investors with insights into the state of the memory and AI market.\r\nMicron's fortunes, along w\u2026 [+2170 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Kai Nicol-Schwarz",
-        "title": "Jensen Huang says AI distillation is 'competition.' Scott Bessent has called it 'theft' - CNBC",
-        "description": "Nvidia CEO Jensen Huang argued that AI model distillation is \"competition\". U.S. Treasury Secretary Scott Bessent has called it \"theft.\"",
-        "url": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&w=1920&h=1080",
-        "publishedAt": "2026-09-28T13:55:33Z",
-        "content": "Nvidia CEO Jensen Huang has said AI model distillation models being trained on other models' outputs is \"competition,\" despite the White House calling it theft.\r\nDistillation has become a key flashpo\u2026 [+1478 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Jordan Moreau",
-        "title": "Elizabeth Holmes Ahead of You Can See Everything Release: I Was Silenced - variety.com",
-        "description": "Elizabeth Holmes posts a cryptic message from prison ahead of the 'You Can See Everything' release: 'I was silenced'",
-        "url": "https://variety.com/2026/film/news/elizabeth-holmes-you-can-see-everything-1236877293/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2022/11/GettyImages-1156149399.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2026-09-28T13:38:00Z",
-        "content": "Theranos founder Elizabeth Holmes, who\u2019s been serving an 11-year prison sentence for fraud, posted a mysterious message on X ahead of moving to a halfway house and the release of a new documentary ab\u2026 [+2467 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Emma Roth",
-        "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019 - The Verge",
-        "description": "Nvidia is launching a new AI safety platform designed to prevent rogue hacking incidents.",
-        "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-09-28T13:36:06Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nThe Open Agent Safety Platform is designed to enforce AI boundaries.\r\nby\r\nEmma RothClose\r\nP\u2026 [+2592 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Kevin Schaul",
-        "title": "See how data centers are changing the American landscape - The Washington Post",
-        "description": "Satellite imagery shows what was once farmland and desert taken over by warehouselike structures.",
-        "url": "https://www.washingtonpost.com/technology/interactive/2026/09/28/satellite-images-show-scale-americas-data-center-build-out/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BELY2HQZ3JH3NCIH57GJ5VJC2Y.jpg&w=1200",
-        "publishedAt": "2026-09-28T13:31:30Z",
-        "content": "Americas landscape is undergoing one of the largest transformations in decades.\r\nTo meet the insatiable demand for computer processing to power AI, tech companies and their developers nationwide are \u2026 [+4207 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Luke Juricic",
-        "title": "Kodiak Sciences stock soars on positive AMD trial data - finance.yahoo.com",
-        "description": "Investing.com -- Kodiak Sciences Inc (NASDAQ:KOD) shares surged as much as 90% in premarket trading Monday following positive results from its Phase 3 DAYBRE...",
-        "url": "https://finance.yahoo.com/healthcare/articles/kodiak-sciences-stock-soars-positive-131620029.html",
-        "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-        "publishedAt": "2026-09-28T13:16:20Z",
-        "content": "Investing.com -- Kodiak Sciences Inc (NASDAQ:KOD) shares surged as much as 90% in premarket trading Monday following positive results from its Phase 3 DAYBREAK study in wet age-related macular degene\u2026 [+2423 chars]"
+        "author": "Diana Olick",
+        "title": "Property Play: Homeowners are sitting on record equity \u2013 and not using it - cnbc.com",
+        "description": "U.S. homeowners have more housing wealth than ever before, thanks to fast-rising home prices over the last several years. But they aren't spending much of it.",
+        "url": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108323579-1781729855506-gettyimages-2281471644-US_HOUSING.jpeg?v=1790616156&w=1920&h=1080",
+        "publishedAt": "2026-09-29T15:24:17Z",
+        "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v\u2026 [+2855 chars]"
     },
     {
         "source": {
@@ -239,11 +122,141 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Exclusive | Senate Investigation Finds Rampant Use of Tether\u2019s Stablecoin by Iranian Regime - WSJ",
+        "title": "U.S. Consumer Confidence Fell in September Amid Elevated Oil Prices, Inflation Worries, Conference Board Says - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/finance/currencies/senate-investigation-finds-rampant-use-of-tethers-stablecoin-by-iranian-regime-ce652e22",
+        "url": "https://www.wsj.com/economy/central-banking/u-s-consumer-confidence-fell-sharply-in-september-conference-board-says-a3578a0f",
         "urlToImage": null,
-        "publishedAt": "2026-09-28T13:00:00Z",
+        "publishedAt": "2026-09-29T15:23:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Leslie Josephs",
+        "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay - cnbc.com",
+        "description": "Alaska Airlines CEO downplayed concerns about a new delay to the Boeing Max 10's certification.",
+        "url": "https://www.cnbc.com/2026/09/29/boeing-max-delay-alaska-airlines-ceo.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344208-1785796197204-gettyimages-2288945531-_24a5192_bxjapgg4.jpeg?v=1785796242&w=1920&h=1080",
+        "publishedAt": "2026-09-29T15:11:59Z",
+        "content": "Alaska Airlines\u00a0CEO Ben Minicucci said Tuesday he is \"not overly concerned\" about a new software glitch that's further delaying the certification of Boeing's 737 Max 10, which is already years behind\u2026 [+1525 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Ram Iyer",
+        "title": "Oura shelves its $2.2B IPO, citing \u2018uncertainty\u2019 in the market - TechCrunch",
+        "description": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
+        "url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5-2.jpg?resize=1200,841",
+        "publishedAt": "2026-09-29T14:56:55Z",
+        "content": "Smart ring maker Oura has postponed its up to $2.2 billion IPO indefinitely, citing \u201cuncertainty in the IPO market.\u201d\r\nThe company, which had filed to offer 55 million shares at a range of $40 to $44 \u2026 [+2163 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Brian Sozzi",
+        "title": "Anthropic IPO leaks \u2014 here are 2 big hot takes - Yahoo Finance",
+        "description": "Anthropic surprises the market, again.",
+        "url": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-leaks--here-are-2-big-hot-takes-010520570.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/e9061c60e5a3eaea9323cddc839fc0836f98c3f565c83ab56e2a6b63ee0b60e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2Ff2b6f40d-3cfb-4f30-86cf-9ff2adaafdc1",
+        "publishedAt": "2026-09-29T14:53:45Z",
+        "content": "And we have an IPO prospectus leak for Anthropic (ANTH.PVT).\r\nFor a company that has a billionaire founder warning about the significant safety risks to the world at the hands of his powerful tech, w\u2026 [+2011 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Minneapolis Star Tribune"
+        },
+        "author": "Christopher Snowbeck",
+        "title": "Two big Minnesota health care providers to merge - Star Tribune",
+        "description": "Bloomington\u2019s HealthPartners and Duluth-based Essentia want to join forces to create what would be one of Minnesota\u2019s largest health systems. It\u2019s the third proposed merger of major providers in the state this year.",
+        "url": "https://www.startribune.com/healthpartners-essentia-merger-hospital-bloomington-duluth-minnesota/601894093",
+        "urlToImage": "https://arc.stimg.co/startribunemedia/PEDTX526TRF23O7O6QKKJI2OMY.jpg?&w=1200&ar=1.91:1&fit=crop",
+        "publishedAt": "2026-09-29T14:52:15Z",
+        "content": "HealthPartners and Essentia Health are proposing a merger that would create one of Minnesotas largest health systems amid a wave of industry consolidation in the state.\r\nIts the third major health ca\u2026 [+1176 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Grace O'Donnell",
+        "title": "'Vacations are sacrosanct': Carnival stock surges on record quarter, healthy cruise demand - Yahoo Finance",
+        "description": "Cruise operator Carnival Corporation reported record third quarter bookings and customer deposits, demonstrating its ability to navigate rising fuel costs an...",
+        "url": "https://finance.yahoo.com/markets/stocks/article/vacations-are-sacrosanct-carnival-stock-surges-on-record-quarter-healthy-cruise-demand-145002464.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/533948cf968fc6e684c42f81db9a959dc673fa828b82b7b6be564ee7c6111f6b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F00fbc3d5-5519-435c-b9b5-04fe641c6255_4db9f723eff3fcce5ecdfc8621343627c92aa313af0a83d3f1105634cd60ebe7.jpg",
+        "publishedAt": "2026-09-29T14:50:02Z",
+        "content": "Cruise operator Carnival Corporation (CCL) reported record third quarter bookings and customer deposits, demonstrating its ability to navigate rising fuel costs and keep travelers engaged.\r\nThe compa\u2026 [+2253 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Seth Fiegerman",
+        "title": "OpenAI\u2019s Annualized Revenue Nears $70 Billion, Axios Says - Yahoo Finance",
+        "description": "OpenAI is on track to generate annualized revenue of nearly $70 billion based on its current performance, fueled by strong gains in business and consumer ado...",
+        "url": "https://finance.yahoo.com/technology/ai/articles/openai-annualized-revenue-nears-70-144152179.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/a5e83513e6dcbabac22c868f1821bd203c25ef2a8e52d3c891c11b41ae4d8564/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fe7dc67460d8b19376aee1b5bed1180fe.jpg",
+        "publishedAt": "2026-09-29T14:41:52Z",
+        "content": "(Bloomberg) -- OpenAI is on track to generate annualized revenue of nearly $70 billion based on its current performance, fueled by strong gains in business and consumer adoption, Axios reported on Tu\u2026 [+712 chars]"
+    },
+    {
+        "source": {
+            "id": "the-hill",
+            "name": "The Hill"
+        },
+        "author": "Addy Bink",
+        "title": "Common Cents Act would impact pennies, nickels and cash transactions. It may soon become law - The Hill",
+        "description": "A new nickel, rounded transactions and the formal death of the penny. They could all happen soon.",
+        "url": "https://thehill.com/business/personal-finance/6117206-common-cents-act-would-impact-pennies-nickels-and-cash-transactions-it-may-soon-become-law/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP25081645676251-e1789486475344.jpg?w=1280",
+        "publishedAt": "2026-09-29T14:40:00Z",
+        "content": "Skip to content\r\n(NEXSTAR) \u2013 The Senate on Monday passed a bill that could formally mark the end of the penny, change the nickel and alter your cash transactions.\r\nWithout objection, H.R. 10167, othe\u2026 [+3647 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Claire Boston",
+        "title": "Job openings and hiring hold steady as 'low hire, low fire' market drags on - Yahoo Finance",
+        "description": "Hiring and layoffs held steady between July and August.",
+        "url": "https://finance.yahoo.com/economy/article/job-openings-and-hiring-hold-steady-as-low-hire-low-fire-market-drags-on-143313164.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/324e059846f4298e967f6b4d4c714b6e4ba832cf40d20cc5c433b94ab1550e36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F4d184073-c5b6-4d5a-a381-aa7d1ecd38a3",
+        "publishedAt": "2026-09-29T14:33:13Z",
+        "content": "Job openings and hiring were little changed in August, according to the Labor Department's monthly Job Openings and Labor Turnover Survey, yet another data point that suggests the economy remains in \u2026 [+1034 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Alicia Wallace",
+        "title": "AI could force 11 million US workers into new careers by 2035 - CNN",
+        "description": "Millions of Americans may need to find an entirely new career in the next decade, according to research released Tuesday.",
+        "url": "https://www.cnn.com/2026/09/29/economy/us-economy-jobs-consumer-confidence-ai-jolts",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2297112294.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-09-29T14:25:57Z",
+        "content": "Millions of Americans may need to find an entirely new career in the next decade, according to research released Tuesday.\r\nAn estimated 11 million workers, or about 6.5% of the current labor force, m\u2026 [+4648 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "wsj.com",
+        "title": "Exclusive | Piper Sandler Holds Talks to Buy Perella Weinberg - wsj.com",
+        "description": null,
+        "url": "https://www.wsj.com/business/deals/piper-sandler-holds-talks-to-buy-perella-weinberg-633bae65",
+        "urlToImage": null,
+        "publishedAt": "2026-09-29T13:50:00Z",
         "content": null
     }
 ]
