@@ -4,221 +4,91 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "Ashley Capoot, Kate Rooney, Chris Eudaily",
-        "title": "OpenAI DevDay live updates: AI lab unveils Dots agents and is in talks for new funding round - cnbc.com",
-        "description": "Follow CNBC\u2019s live coverage of OpenAI DevDay 2026, including Sam Altman\u2019s keynote and other developer announcements.",
-        "url": "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369612-17907024752026-09-29t170951z_984146601_rc25tna79qfv_rtrmadp_0_ai-openai.jpeg?v=1790702493&w=1920&h=1080",
-        "publishedAt": "2026-09-29T18:13:00Z",
-        "content": "OpenAI introduced Dots, new \"always-on\" AI agents that are designed to help users complete a range of tasks.\u00a0\r\nDots are powered by OpenAI's GPT-6 Astra model, which the company launched earlier this \u2026 [+1371 chars]"
+        "author": "Michael Wayland",
+        "title": "Stellantis CEO reconfirms 2026 guidance, says turnaround plan continues as automaker's shares hit new low - cnbc.com",
+        "description": "Stellantis CEO Antonio Filosa on Wednesday reconfirmed the company's 2026 guidance and its plans to be cash flow positive by 2027.",
+        "url": "https://www.cnbc.com/2026/09/30/stellantis-guidance-turnaround-plan.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108236700-17648675632025-12-04t160441z_1876970717_rc2o3iaf0cbg_rtrmadp_0_autos-stellantis-filosa.jpeg?v=1768424783&w=1920&h=1080",
+        "publishedAt": "2026-09-30T14:48:31Z",
+        "content": "DETROIT Stellantis CEO Antonio Filosa on Wednesday reconfirmed the company's 2026 guidance and longer-term cash flow targets as U.S. shares of the embattled automaker trade at an all-time low. \r\n\"We \u2026 [+1928 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Annika Kim Constantino",
+        "title": "Eli Lilly says closely watched combo obesity regimen boosts weight loss in mid-stage trial - cnbc.com",
+        "description": "Lilly said it plans to start Phase 3 trials on the combo regimen adding its amylin drug eloralintide to tirzepatide at the end of the year.",
+        "url": "https://www.cnbc.com/2026/09/30/eli-lilly-obesity-drug-amylin-tirzepatide-weight-loss-trial.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108365903-1790025466816-gettyimages-2295954968-ELI_LILLY_TEXAS.jpeg?v=1790026142&w=1920&h=1080",
+        "publishedAt": "2026-09-30T14:15:01Z",
+        "content": "Eli Lilly on Wednesday said its experimental combination regimen showed greater weight loss than a high dose of its top-selling drug, tirzepatide, alone in a mid-stage trial on patients with obesity \u2026 [+5894 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Barbara Ortutay",
+        "title": "A timeline of developments in AI safety since the attack on Hugging Face - apnews.com",
+        "description": "Since OpenAI disclosed this summer that its artificial intelligence system hacked into another AI company in what is now referred to as the Hugging Face incident, other AI companies have jumped on the bandwagon with their own concerning events, such as hackin\u2026",
+        "url": "https://apnews.com/article/ai-hacking-hugging-face-openai-anthropic-452281863a49b18220057e71d4715cf4",
+        "urlToImage": "https://dims.apnews.com/dims4/default/bf34b0f/2147483647/strip/true/crop/8181x5451+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2Fa0%2F6c1fa5871136d915fa57dcc29ade%2Fe535183c1c5e480f9b0d13faf4552723",
+        "publishedAt": "2026-09-30T14:15:00Z",
+        "content": "In one alarming announcement after another, artificial intelligence companies in recent months have shared examples of their technology acting in ways that appeared to evade instructions from humans.\u2026 [+5111 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hollywood Reporter"
+        },
+        "author": "Alex Weprin",
+        "title": "Mattel CEO Ynon Kreiz May Be Heading to David Ellison\u2019s Paramount-Warner Bros. - The Hollywood Reporter",
+        "description": "Kreiz announced his exit from the toy giant Wednesday morning, and the rumor mill is buzzing that he may be heading to a top role at the combined media giant.",
+        "url": "http://www.hollywoodreporter.com/business/business-news/david-ellison-names-ynon-kreiz-paramount-warners-1236716995/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/GettyImages-2279296641.jpg?crop=0px%2C182px%2C6000px%2C3357px&resize=1440%2C810",
+        "publishedAt": "2026-09-30T13:52:20Z",
+        "content": "Could David Ellison be turning to a veteran chief executive to join the combined Paramount\u2013Warner Bros?\r\nThe Hollywood Reporter has learned that Kreiz told Mattel\u2019s board that he was leaving the toy \u2026 [+2182 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Paul Wiseman",
+        "title": "US economy grew a solid 2.2% in the second quarter, government says, upgrading previous estimate - apnews.com",
+        "description": "The U.S. economy grew at a solid 2.2% pace from April through June as consumer spending and business investment came in strong. Growth in gross domestic product \u2014 the nation\u2019s output of a goods and services \u2014 decelerated slightly a 2.5% pace from January thro\u2026",
+        "url": "https://apnews.com/article/economic-growth-inflation-trump-trade-b759367e9e6149fe145652cc95887aa0",
+        "urlToImage": "https://dims.apnews.com/dims4/default/847ba61/2147483647/strip/true/crop/4409x2938+294+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2F75%2Fc5548d89300ebf6ace55bc007484%2Fe718edd082814f3abf9dc34e5ee0dcee",
+        "publishedAt": "2026-09-30T13:44:00Z",
+        "content": "WASHINGTON (AP) The U.S. economy grew at a solid 2.2% pace from April through June as consumer spending and business investment came in strong.\r\nGrowth in gross domestic product the nations output of\u2026 [+2067 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": null,
+        "title": "Six Flags retires X2 roller coaster after multiple lawsuits allege traumatic brain injuries - Fox Business",
+        "description": "Six Flags Magic Mountain permanently closed X2 after settling a rider's death lawsuit and facing hundreds of brain injury claims from riders.",
+        "url": "https://www.foxbusiness.com/lifestyle/six-flags-retires-x2-roller-coaster-after-multiple-lawsuits-allege-traumatic-brain-injuries",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/six-flags-x2-coaster.jpg?ve=1&tl=1",
+        "publishedAt": "2026-09-30T13:43:00Z",
+        "content": "Six Flags Magic Mountain said Tuesday it is permanently closing the famed X2 roller coaster after multiple lawsuits alleged some riders were left with serious brain injuries.\r\nThe Southern California\u2026 [+4763 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Investopedia"
         },
-        "author": "Aaron Rennie",
-        "title": "Stock Market Today: Major Indexes Decline as Treasury Yields Rise Further; Oil Prices Slip - Investopedia",
-        "description": "Major U.S. stock indexes fell further Tuesday after beginning the week with declines, as Treasury yields resumed their ascent.",
-        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09292026-12146739",
-        "urlToImage": "https://www.investopedia.com/thmb/PVGF8lyJRPxXF3rguZqKUrn30M8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2297041168-ecc1435d99ec42ef9ea0fbc46d6ee81b.jpg",
-        "publishedAt": "2026-09-29T17:47:38Z",
-        "content": "September 29, 2026 02:03 PM EDT\r\nUtilities Is Only S&amp;P 500 Sector in Positive Territory\r\nCrude prices are slipping today. Thats not enough to prevent the S&amp;P 500 Utilities Sector from registe\u2026 [+16513 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Rebecca Torrence, Edward Ludlow, Shirin Ghaffary",
-        "title": "OpenAI Targets $30 Billion in New Funding at $1.4 Trillion Value - Bloomberg",
-        "description": "OpenAI aims to raise at least $30 billion from investors in a new round of funding, according to people familiar with the matter, after the artificial intelligence startup pushed back its plans for an initial public offering.",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inmsn.WtKMMA/v1/1200x800.jpg",
-        "publishedAt": "2026-09-29T17:35:13Z",
-        "content": "OpenAI aims to raise at least $30 billion from investors in a new round of funding, according to people familiar with the matter, after the artificial intelligence startup pushed back its plans for a\u2026 [+330 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Ben Lefebvre, James Bikales, Mike Soraghan",
-        "title": "White House looking to Europe to release diesel from strategic reserves - Politico",
-        "description": "The idea comes as high energy prices drag GOP in midterm elections.",
-        "url": "https://www.politico.com/news/2026/09/29/white-house-looking-to-europe-to-release-diesel-from-strategic-reserves-01096937",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F16%2F23%2Ff44d2ce14933944a106611111517%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2296177062",
-        "publishedAt": "2026-09-29T17:09:00Z",
-        "content": "President Donald Trump appears set on banning diesel exports. His cabinet, oil industry executives and some GOP lawmakers are hoping he doesnt.\r\nInstead, they are pitching the administration several \u2026 [+354 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "wsj.com",
-        "title": "Treasury Will Auto-Enroll 60 Million Children in Trump Accounts - wsj.com",
-        "description": null,
-        "url": "https://www.wsj.com/politics/policy/treasury-will-auto-enroll-60-million-in-trump-accounts-a5f82421",
-        "urlToImage": null,
-        "publishedAt": "2026-09-29T16:52:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": "Nellie Andreeva, Dade Hayes",
-        "title": "Disney Hit By Layoffs In Multiple Areas, Hundreds Impacted - Deadline",
-        "description": "Disney has initiated layoffs under CEO Josh D'Amaro. The cuts impact a couple of hundred employees, largely in areas such as tech and HR.",
-        "url": "http://deadline.com/2026/09/disney-layoffs-josh-damaro-1237114027/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2026/09/Disney-Wall-Street.jpg?w=1024",
-        "publishedAt": "2026-09-29T16:11:00Z",
-        "content": "EXCLUSIVE: Disney has initiated layoffs as it continues to tighten its belt under recently appointed CEO Josh D\u2019Amaro. Today\u2019s cuts are said to impact a couple of hundred employees, largely in areas \u2026 [+2982 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Amelia Lucas",
-        "title": "El Pollo Loco to open first New York restaurant as it aims to become national chicken chain - cnbc.com",
-        "description": "El Pollo Loco will open its first New York City restaurant next year in Queens as it aims to become a national chicken chain.",
-        "url": "https://www.cnbc.com/2026/09/29/el-pollo-loco-opens-first-new-york-restaurant.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369004-1790626180546-gettyimages-2236983222-dji_20250923110102_0537_d_kowzomgs.jpeg?v=1790704576&w=1920&h=1080",
-        "publishedAt": "2026-09-29T16:00:01Z",
-        "content": "El Pollo Loco will open its first New York City restaurant next year as the California chain looks to become a national player.\r\nEl Pollo Loco has closed three development agreements for a total of 1\u2026 [+3628 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Daniel Howley",
-        "title": "Micron to report Q4 earnings, as memory boom powers on - Yahoo Finance",
-        "description": "Micron to report fourth quarter earnings after the bell Wednesday.",
-        "url": "https://finance.yahoo.com/technology/article/micron-to-report-q4-earnings-as-memory-boom-powers-on-153230577.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/a58035d5eca2ab0b3d01f079c8daac11913f3a0cf337d40424d28e31b586cc25/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2F1e4174d0-63d7-4d20-8933-d7a74c46331a",
-        "publishedAt": "2026-09-29T15:32:30Z",
-        "content": "Memory giant Micron (MU) will report its fourth quarter earnings after the bell on Wednesday, providing investors with insights into the state of the memory and AI market.\r\nMicron's fortunes, along w\u2026 [+2170 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Diana Olick",
-        "title": "Property Play: Homeowners are sitting on record equity \u2013 and not using it - cnbc.com",
-        "description": "U.S. homeowners have more housing wealth than ever before, thanks to fast-rising home prices over the last several years. But they aren't spending much of it.",
-        "url": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108323579-1781729855506-gettyimages-2281471644-US_HOUSING.jpeg?v=1790616156&w=1920&h=1080",
-        "publishedAt": "2026-09-29T15:24:17Z",
-        "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v\u2026 [+2855 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "U.S. Consumer Confidence Fell in September Amid Elevated Oil Prices, Inflation Worries, Conference Board Says - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/economy/central-banking/u-s-consumer-confidence-fell-sharply-in-september-conference-board-says-a3578a0f",
-        "urlToImage": null,
-        "publishedAt": "2026-09-29T15:23:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Leslie Josephs",
-        "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay - cnbc.com",
-        "description": "Alaska Airlines CEO downplayed concerns about a new delay to the Boeing Max 10's certification.",
-        "url": "https://www.cnbc.com/2026/09/29/boeing-max-delay-alaska-airlines-ceo.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344208-1785796197204-gettyimages-2288945531-_24a5192_bxjapgg4.jpeg?v=1785796242&w=1920&h=1080",
-        "publishedAt": "2026-09-29T15:11:59Z",
-        "content": "Alaska Airlines\u00a0CEO Ben Minicucci said Tuesday he is \"not overly concerned\" about a new software glitch that's further delaying the certification of Boeing's 737 Max 10, which is already years behind\u2026 [+1525 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Ram Iyer",
-        "title": "Oura shelves its $2.2B IPO, citing \u2018uncertainty\u2019 in the market - TechCrunch",
-        "description": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
-        "url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5-2.jpg?resize=1200,841",
-        "publishedAt": "2026-09-29T14:56:55Z",
-        "content": "Smart ring maker Oura has postponed its up to $2.2 billion IPO indefinitely, citing \u201cuncertainty in the IPO market.\u201d\r\nThe company, which had filed to offer 55 million shares at a range of $40 to $44 \u2026 [+2163 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Brian Sozzi",
-        "title": "Anthropic IPO leaks \u2014 here are 2 big hot takes - Yahoo Finance",
-        "description": "Anthropic surprises the market, again.",
-        "url": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-leaks--here-are-2-big-hot-takes-010520570.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/e9061c60e5a3eaea9323cddc839fc0836f98c3f565c83ab56e2a6b63ee0b60e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2Ff2b6f40d-3cfb-4f30-86cf-9ff2adaafdc1",
-        "publishedAt": "2026-09-29T14:53:45Z",
-        "content": "And we have an IPO prospectus leak for Anthropic (ANTH.PVT).\r\nFor a company that has a billionaire founder warning about the significant safety risks to the world at the hands of his powerful tech, w\u2026 [+2011 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Minneapolis Star Tribune"
-        },
-        "author": "Christopher Snowbeck",
-        "title": "Two big Minnesota health care providers to merge - Star Tribune",
-        "description": "Bloomington\u2019s HealthPartners and Duluth-based Essentia want to join forces to create what would be one of Minnesota\u2019s largest health systems. It\u2019s the third proposed merger of major providers in the state this year.",
-        "url": "https://www.startribune.com/healthpartners-essentia-merger-hospital-bloomington-duluth-minnesota/601894093",
-        "urlToImage": "https://arc.stimg.co/startribunemedia/PEDTX526TRF23O7O6QKKJI2OMY.jpg?&w=1200&ar=1.91:1&fit=crop",
-        "publishedAt": "2026-09-29T14:52:15Z",
-        "content": "HealthPartners and Essentia Health are proposing a merger that would create one of Minnesotas largest health systems amid a wave of industry consolidation in the state.\r\nIts the third major health ca\u2026 [+1176 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Grace O'Donnell",
-        "title": "'Vacations are sacrosanct': Carnival stock surges on record quarter, healthy cruise demand - Yahoo Finance",
-        "description": "Cruise operator Carnival Corporation reported record third quarter bookings and customer deposits, demonstrating its ability to navigate rising fuel costs an...",
-        "url": "https://finance.yahoo.com/markets/stocks/article/vacations-are-sacrosanct-carnival-stock-surges-on-record-quarter-healthy-cruise-demand-145002464.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/533948cf968fc6e684c42f81db9a959dc673fa828b82b7b6be564ee7c6111f6b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F00fbc3d5-5519-435c-b9b5-04fe641c6255_4db9f723eff3fcce5ecdfc8621343627c92aa313af0a83d3f1105634cd60ebe7.jpg",
-        "publishedAt": "2026-09-29T14:50:02Z",
-        "content": "Cruise operator Carnival Corporation (CCL) reported record third quarter bookings and customer deposits, demonstrating its ability to navigate rising fuel costs and keep travelers engaged.\r\nThe compa\u2026 [+2253 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Seth Fiegerman",
-        "title": "OpenAI\u2019s Annualized Revenue Nears $70 Billion, Axios Says - Yahoo Finance",
-        "description": "OpenAI is on track to generate annualized revenue of nearly $70 billion based on its current performance, fueled by strong gains in business and consumer ado...",
-        "url": "https://finance.yahoo.com/technology/ai/articles/openai-annualized-revenue-nears-70-144152179.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/a5e83513e6dcbabac22c868f1821bd203c25ef2a8e52d3c891c11b41ae4d8564/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fe7dc67460d8b19376aee1b5bed1180fe.jpg",
-        "publishedAt": "2026-09-29T14:41:52Z",
-        "content": "(Bloomberg) -- OpenAI is on track to generate annualized revenue of nearly $70 billion based on its current performance, fueled by strong gains in business and consumer adoption, Axios reported on Tu\u2026 [+712 chars]"
-    },
-    {
-        "source": {
-            "id": "the-hill",
-            "name": "The Hill"
-        },
-        "author": "Addy Bink",
-        "title": "Common Cents Act would impact pennies, nickels and cash transactions. It may soon become law - The Hill",
-        "description": "A new nickel, rounded transactions and the formal death of the penny. They could all happen soon.",
-        "url": "https://thehill.com/business/personal-finance/6117206-common-cents-act-would-impact-pennies-nickels-and-cash-transactions-it-may-soon-become-law/",
-        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/09/AP25081645676251-e1789486475344.jpg?w=1280",
-        "publishedAt": "2026-09-29T14:40:00Z",
-        "content": "Skip to content\r\n(NEXSTAR) \u2013 The Senate on Monday passed a bill that could formally mark the end of the penny, change the nickel and alter your cash transactions.\r\nWithout objection, H.R. 10167, othe\u2026 [+3647 chars]"
+        "author": "Aaron McDade",
+        "title": "Here\u2019s How Much Micron Stock Is Expected to Move After Earnings - Investopedia",
+        "description": "Micron Technology is set to report earnings after markets close Wednesday, with traders anticipating a sizable swing in the memory chipmaker\u2019s stock.",
+        "url": "https://www.investopedia.com/here-is-how-much-micron-stock-is-expected-to-move-after-earnings-mu-q4-fy2026-update-12136351",
+        "urlToImage": "https://www.investopedia.com/thmb/wDEOuq1JzkWwuYHMtjyHv6ZCiAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2295231797-af940bc928cf4ac89cf3fe00e7df316a.jpg",
+        "publishedAt": "2026-09-30T13:17:00Z",
+        "content": "<ul><li>Micron Technology is due to report earnings after markets close Wednesday.</li><li>Options pricing suggests traders see the stock swinging up to 6.5% by the end of the week.</li><li>Analysts \u2026 [+1673 chars]"
     },
     {
         "source": {
@@ -226,37 +96,154 @@
             "name": "Yahoo Entertainment"
         },
         "author": "Claire Boston",
-        "title": "Job openings and hiring hold steady as 'low hire, low fire' market drags on - Yahoo Finance",
-        "description": "Hiring and layoffs held steady between July and August.",
-        "url": "https://finance.yahoo.com/economy/article/job-openings-and-hiring-hold-steady-as-low-hire-low-fire-market-drags-on-143313164.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/324e059846f4298e967f6b4d4c714b6e4ba832cf40d20cc5c433b94ab1550e36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F4d184073-c5b6-4d5a-a381-aa7d1ecd38a3",
-        "publishedAt": "2026-09-29T14:33:13Z",
-        "content": "Job openings and hiring were little changed in August, according to the Labor Department's monthly Job Openings and Labor Turnover Survey, yet another data point that suggests the economy remains in \u2026 [+1034 chars]"
+        "title": "'It's a strong report': US private sector added 90,000 jobs in September - Yahoo Finance",
+        "description": "Private companies added 90,000 jobs last month, besting expectations.",
+        "url": "https://finance.yahoo.com/economy/article/a-strong-report-us-private-sector-added-90000-jobs-in-september-123259060.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/01a72a0e9f93b73b7d859aca9576af38c17170dbebbd0b6fa9feb4a03a25b751/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-04%2Fb56f04a3-b02f-4150-b2ba-47b800095455",
+        "publishedAt": "2026-09-30T12:32:59Z",
+        "content": "Private sector hiring picked up in September, according to payroll processor ADP, helped by continued strength in fields like education and healthcare.\r\nPrivate companies added 90,000 jobs this month\u2026 [+1443 chars]"
     },
     {
         "source": {
-            "id": "cnn",
-            "name": "CNN"
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
         },
-        "author": "Alicia Wallace",
-        "title": "AI could force 11 million US workers into new careers by 2035 - CNN",
-        "description": "Millions of Americans may need to find an entirely new career in the next decade, according to research released Tuesday.",
-        "url": "https://www.cnn.com/2026/09/29/economy/us-economy-jobs-consumer-confidence-ai-jolts",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2297112294.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-09-29T14:25:57Z",
-        "content": "Millions of Americans may need to find an entirely new career in the next decade, according to research released Tuesday.\r\nAn estimated 11 million workers, or about 6.5% of the current labor force, m\u2026 [+4648 chars]"
+        "author": "Usaid Siddiqui",
+        "title": "\u2018Economic war\u2019: Is Iran losing its leverage over the Strait of Hormuz? - Al Jazeera",
+        "description": "Crude flows through Hormuz have recovered, but tanker insurance costs and geopolitical risks remain barriers to a return to normality.",
+        "url": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2294402020-1-1789463522.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-09-30T12:08:45Z",
+        "content": "As Iran and the United States work with mediators to end seven months of hostilities, the reality in the Strait of Hormuz is shifting in ways that could prove to be a game-changer in ongoing negotiat\u2026 [+10587 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Tanaya Macheel",
+        "title": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop - CNBC",
+        "description": "Robinhood is broadening its offerings in a bid for more active traders who may be seeking trading access beyond traditional U.S. stock market hours.",
+        "url": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108085863-1736804484870-gettyimages-2190756210-PSWAT_DSC03180.jpeg?v=1772209908&w=1920&h=1080",
+        "publishedAt": "2026-09-30T12:00:00Z",
+        "content": "Robinhood is broadening its offerings in a bid for more active traders who may be seeking trading access beyond traditional U.S. stock market hours.\r\nThe brokerage is expanding trading hours, adding \u2026 [+2560 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Diana Olick",
+        "title": "Mortgage rates jump for the sixth straight week, hitting both refinance and homebuyer demand hard - CNBC",
+        "description": "Mortgage demand dropped for the 7th straight week, as rates surged well over 7% on the 30-year fixed.",
+        "url": "https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108277970-1773428205924-gettyimages-2261059902-260213_to_air_118.jpeg?v=1790717145&w=1920&h=1080",
+        "publishedAt": "2026-09-30T11:00:01Z",
+        "content": "Mortgage rates continued to climb for the sixth straight week, reaching the highest level since November 2023. That caused weekly demand to drop 6%, according to the Mortgage Bankers Association's se\u2026 [+2077 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Regulating AI 'not the right place to start' says Bailey - BBC",
+        "description": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+        "url": "https://www.bbc.com/news/articles/cvzez7k0pn40o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e249/live/7e528b30-bcb4-11f1-a3e9-bbda6f9b9e25.jpg",
+        "publishedAt": "2026-09-30T10:20:20Z",
+        "content": "The idea of a slowdown, however, has been rejected by the likes of President Donald Trump who has said the US is leading the AI race ahead of China, adding: \"And, frankly, I want to keep it that way \u2026 [+30 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Hamza Shaban",
+        "title": "Anthropic IPO documents show there really is only one risk with AI - Yahoo Finance",
+        "description": "Untold future profits outweigh the biggest hypothetical fears.",
+        "url": "https://finance.yahoo.com/technology/article/anthropic-ipo-documents-show-there-really-is-only-one-risk-with-ai-100000742.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/0ce31d0efd633c28bcb45f973541edece670f3cb16478f0e4472d43f246c2f13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F9e98c70a-9cdb-4834-96c0-4818ac0e7ee5",
+        "publishedAt": "2026-09-30T10:00:00Z",
+        "content": "Of all the risks Anthropic (ANTH.PVT) lists in 80-ish pages of warnings, amounting to almost a third of its IPO prospectus, there really is only one: not investing.\r\nThat's the resounding message in \u2026 [+2320 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Eric Revell",
+        "title": "More homes, more price cuts \u2013 but buyers still aren't biting as mortgage rates climb - Fox Business",
+        "description": "Record price cuts hit 20.8% of listings in September, but rising mortgage rates are keeping buyers on the sidelines as pending sales fall 4.1%.",
+        "url": "https://www.foxbusiness.com/economy/more-homes-more-price-cuts-but-buyers-still-arent-biting-mortgage-rates-climb",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/real-estate-agent-outside-home.jpg?ve=1&tl=1",
+        "publishedAt": "2026-09-30T10:00:00Z",
+        "content": "Homebuyers are still facing affordability headwinds due to elevated mortgage rates despite sellers increasingly cutting prices, a new report from Realtor.com shows.\r\nRealtor.com's latest monthly hous\u2026 [+3488 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Annika Kim Constantino",
+        "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study - cnbc.com",
+        "description": "The data on Novo's Wegovy pill suggests that patients may not need to take weekly injections forever, but can instead opt for more convenient treatments.",
+        "url": "https://www.cnbc.com/2026/09/30/novo-wegovy-pill-weight-loss-injections.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108263203-1770658167761-108263203-1770641277948-gettyimages-2257461669-64393_48_ms_4246.jpg?v=1777920059&w=1920&h=1080",
+        "publishedAt": "2026-09-30T09:45:01Z",
+        "content": "People who switched from obesity injections to Novo's new Wegovy pill continued to lose weight after three months, according to an analysis of real-world data the company presented on Wednesday.\u00a0\r\nRe\u2026 [+5076 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Geoff Brumfiel",
+        "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah - NPR",
+        "description": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project.",
+        "url": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3813x2145+0+239/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2F8d%2Fdfada92447689b6490f5d6f578de%2Fap26050704729644.jpg",
+        "publishedAt": "2026-09-30T09:01:00Z",
+        "content": "A startup whose founder has vowed to \"make nuclear great again\" is planning to place hundreds of reactors on federal land in Utah, according to documents reviewed exclusively by NPR.\r\nValar Atomics i\u2026 [+5488 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Willa Rubin",
+        "title": "One year after the end of the EV tax credit, is the future still electric? - NPR",
+        "description": "Congress got rid of a $7,500 federal tax credit for new electric vehicle buyers. One year later, are people still buying EVs?",
+        "url": "https://www.npr.org/2026/09/30/nx-s1-5979915/ev-hybrid-sales-2026-federal-tax-credit",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+530/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F5b%2Fffb3088b4808a3a4eda68e950e6a%2Fgettyimages-2269134749.jpg",
+        "publishedAt": "2026-09-30T09:00:00Z",
+        "content": "Stay up to date with our \r\nUp First\r\n newsletter, sent every weekday morning.\r\nOne year ago today, the auto industry bid farewell to a hefty federal tax credit that helped bring down the cost of elec\u2026 [+11429 chars]"
     },
     {
         "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
-        "author": "wsj.com",
-        "title": "Exclusive | Piper Sandler Holds Talks to Buy Perella Weinberg - wsj.com",
+        "author": "WSJ",
+        "title": "Oil Prices Slip Further as Gulf Exports Recover - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/business/deals/piper-sandler-holds-talks-to-buy-perella-weinberg-633bae65",
+        "url": "https://www.wsj.com/business/energy-oil/oil-prices-slip-further-as-gulf-exports-recover-0cf48ca2",
         "urlToImage": null,
-        "publishedAt": "2026-09-29T13:50:00Z",
+        "publishedAt": "2026-09-30T08:09:00Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "White House holds crunch talks on diesel export ban as midterms near - Financial Times",
+        "description": "Trump at centre of lobbying fight between Big Oil and top Republicans warning of voter anger at high fuel prices",
+        "url": "https://www.ft.com/content/562f2988-0c04-4669-b0b7-2c16d3821926?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcab2cc32-707d-4eaf-ac30-de82f3302859.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-09-30T07:04:04Z",
+        "content": "Get 2 months free with an annual subscription at was $59.88now $49. Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on \u2026 [+91 chars]"
     }
 ]
