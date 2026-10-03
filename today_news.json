@@ -1,146 +1,42 @@
 [
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "WSJ",
-        "title": "Stock Market Today: Global Bond Selloff Resumes; Yields Remain at Highs \u2014 Live Updates - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-01-2026",
-        "urlToImage": null,
-        "publishedAt": "2026-10-01T17:35:00Z",
-        "content": null
+        "author": "Zoe Malin",
+        "title": "Early October Prime Day deals are live 4 days before the sale officially starts \u2014 these 53+ are actually worth it - NBC News",
+        "description": "Prime Big Deal Days is back October 6 to 7, but you can shop early deals today. Our editors are finding new discounts live from iRobot, Ninja, Lego and more.",
+        "url": "https://www.nbcnews.com/select/shopping/early-october-prime-day-deals-2026-rcna601060",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261001-PBDD-EARLY-DEALS-kb-social-3d3261.jpg",
+        "publishedAt": "2026-10-02T14:10:59Z",
+        "content": "October Prime Day (a.k.a. Prime Big Deal Days) is less than a week away: The Prime member-exclusive sale runs from October 6 to 7, but you dont need to wait until then to shop. Amazon is already drop\u2026 [+14563 chars]"
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": "Bailey Lipschultz",
-        "title": "Anthropic Said to Target Mega-IPO Before Thanksgiving Holiday - Bloomberg.com",
-        "description": "Anthropic PBC is seeking to go public as soon as the middle of November, according to people familiar with the matter, after the artificial intelligence model maker pushed back plans to list.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-said-to-target-mega-ipo-before-thanksgiving-holiday",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaq0YnaRbmmY/v1/1200x824.jpg",
-        "publishedAt": "2026-10-01T17:27:45Z",
-        "content": "Anthropic PBC is seeking to go public as soon as the middle of November, according to people familiar with the matter, after the artificial intelligence model maker pushed back plans to list.\r\nThe fi\u2026 [+252 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": "Ted Johnson, Jill Goldsmith",
-        "title": "David Ellison Wants CEO Mark Thompson To Remain At CNN After Paramount-Warner Bros. Discovery Deal Closes - Deadline",
-        "description": "Paramount CEO David Ellison wants CEO Mark Thompson to remain at CNN after the Warner Bros Discovery deal closes.",
-        "url": "http://deadline.com/2026/10/paramount-cnn-david-ellison-mark-thompson-1237144440/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2024/07/Mark-Thompson.jpg?w=1024",
-        "publishedAt": "2026-10-01T16:03:00Z",
-        "content": "Paramount CEO David Ellison wants CEO Mark Thompson to remain at CNN after the Warner Bros Discovery deal closes, a move that would settle at least some of the speculation over the future of the netw\u2026 [+1828 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Brian Sozzi",
-        "title": "Former Disney CEO Bob Chapek on talking to Bob Iger: 'I wouldn't forecast that' - Yahoo Finance",
-        "description": "Bob Chapek isn't waiting for a call from Bob Iger.",
-        "url": "https://finance.yahoo.com/markets/article/former-disney-ceo-bob-chapek-on-talking-to-bob-iger-i-wouldnt-forecast-that-160000315.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/9a0c4bbaafb123ba8ddb9cef88324b82261d5b6ee1a30ed4a3dfc870b76322d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F79567161-7894-44bb-ba92-412871aac4f6",
-        "publishedAt": "2026-10-01T16:00:00Z",
-        "content": "Listen and subscribe to Power Players with Brian Sozzi on Apple Podcasts\r\n, Amazon Music\r\n, Spotify\r\n, YouTube\r\n, or wherever you find your favorite podcasts.\r\nLife is too short for hate, guys.\r\nForm\u2026 [+2711 chars]"
+        "author": "Anne D'Innocenzio",
+        "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts - AP News",
+        "description": "Amazon is investing more than $1 billion over the next five years into communities where it operates data centers for education, job training, water preservation projects and other local priorities as it reacts to a growing backlash from politicians and consu\u2026",
+        "url": "https://apnews.com/article/amazon-data-centers-1-billion-investment-91b65ba1729540c1c0d92e35deef35d8",
+        "urlToImage": "https://dims.apnews.com/dims4/default/07475fb/2147483647/strip/true/crop/8176x5448+232+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb2%2F91%2F48cb7432550492bf9dd6a0a73190%2F2d88e47858044b379674cc7852d122b2",
+        "publishedAt": "2026-10-02T13:50:00Z",
+        "content": "NEW YORK (AP) Amazon is investing more than $1 billion over the next five years into communities where it operates data centers for education, job training, water and energy preservation projects and\u2026 [+2705 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Catriona Marangi, Michael Wayland",
-        "title": "GM reports 5.5% decline in third-quarter U.S. sales as EV sales drop - cnbc.com",
-        "description": "GM's sales of all-electric vehicles are down across the board, as enthusiasm for electric vehicles wanes.",
-        "url": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108297748-1777306663678-108297748-1777306612467-gettyimages-2257773075-GM_EARNS.jpg?v=1777306674&w=1920&h=1080",
-        "publishedAt": "2026-10-01T15:30:45Z",
-        "content": "General Motors on Thursday reported a year-over-year sales decline of 5.5%, with 670,974 new vehicles sold during the third quarter.\r\nGM's sales of all-electric vehicles are down across the board, as\u2026 [+3167 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Michael B. Kelley",
-        "title": "Micron stock dips after earnings despite answer to analyst's key question - Yahoo Finance",
-        "description": "Demand wasn't the question for Micron when it reported earnings after the bell on Wednesday, according to Creative Strategies CEO and principal analyst Ben B...",
-        "url": "https://finance.yahoo.com/technology/article/micron-stock-dips-after-earnings-despite-answer-to-analysts-key-question-134446610.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/bcfe338c167eed80d6f32c6af734f6dd5d141dfa8b3603acc4b9e410fe06946d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2025-04%2F10e30d10-1475-11f0-bfed-0b259610d958",
-        "publishedAt": "2026-10-01T15:06:17Z",
-        "content": "Going into Micron's (MU) Q4 earnings on Wednesday, analysts weren't too concerned about demand for the company's memory and storage.\r\nAfter all, data center builders are buying up chips so fast that \u2026 [+2131 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Minneapolis Star Tribune"
-        },
-        "author": "Christopher Snowbeck",
-        "title": "Blue Cross and other insurers eliminate Medicare plans for 320K Minnesotans - Star Tribune",
-        "description": "HealthPartners, Medica and UnitedHealthcare are also overhauling their plans for 2027 amid a tumultuous Medicare Advantage market.",
-        "url": "https://www.startribune.com/blue-cross-medica-unitedhealthcare-healthpartners-medicare-advantage-rates-2027/601893967",
-        "urlToImage": "https://arc.stimg.co/startribunemedia/MJ3BX52CQFCQTJHHETUBRJNWS4.jpg?&w=1200&ar=1.91:1&fit=crop",
-        "publishedAt": "2026-10-01T15:01:12Z",
-        "content": "At Blue Cross, which has by far the largest number of seniors changing plans, the insurer is sending notices to about 250,000 people that amount to termination letters, Minnesota Blue Cross CEO Dana \u2026 [+1109 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Jessica Dickler, Kate Dore, CFP\u00ae, EA",
-        "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says - cnbc.com",
-        "description": "More than 60 million children have been automatically enrolled in Trump Accounts,\u00a0according to a Treasury Department announcement exclusively provided to CNBC.",
-        "url": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108357000-1788963978101-108357000-1788269525139-gettyimages-2291336155-AA_24082026_2926685.jpg?v=1788963985&w=1920&h=1080",
-        "publishedAt": "2026-10-01T14:39:56Z",
-        "content": "U.S. Treasury Secretary Scott Bessent speaks during a press conference at the Cash Room of the Treasury Department in Washington, as he announces a new set of sanctions against Iran, Aug. 24, 2026.\r\n\u2026 [+7472 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Michael B. Kelley",
-        "title": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal - Yahoo Finance",
-        "description": "Reuters, which got its hands on Anthropic's IPO prospectus, reports that the AI juggernaut's most notable partnership with big tech firms is with Broadcom.",
-        "url": "https://finance.yahoo.com/technology/article/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-chips-in-latest-circular-investing-deal-121617505.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/878725f250718468d9a52001ce65bf646d8a917e973c88ca303b2273bd45f7e9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcd6d153b-ae9f-4d29-a697-a59b1c7093d2_f84368ace62bf60ff4f0a4816ed75864419a6808a2a8938a30f6c6b41a94a6cb.jpg",
-        "publishedAt": "2026-10-01T14:37:32Z",
-        "content": "Anthropic (ANTH.PVT) has inked a series of deals with tech heavyweights ranging from Amazon to Microsoft to both finance and provide computing capacity for the company's AI models.\r\nAll three have ra\u2026 [+2153 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Hayden Field",
-        "title": "OpenAI\u2019s new agent is a shot at Meta \u2014 but can it compete with free? - The Verge",
-        "description": "OpenAI and Meta\u2019s cutesy AI agents are about to fight to the death.",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&strip=all&crop=0%2C10.754010807628%2C100%2C78.491978384743&w=1200",
-        "publishedAt": "2026-10-01T14:36:50Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAIs new agent is a shot at Meta but can it compete with free?\r\nOpenAI and Metas cutesy AI agents are about to fight to the death.\r\nby\r\nHayden FieldClose\r\nPos\u2026 [+8332 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Allie Yang",
-        "title": "\u2018Triple-G\u2019 weight loss drug update: Even on the lowest dose, trial patients lost 12.7% of their weight - New York Post",
-        "description": "The drug, the first of its kind to target three metabolic receptors (GLP-1, GIP, and glucagon), is nearing the end of clinical trials and is expected to be submitted to the FDA for approval early n\u2026",
-        "url": "https://nypost.com/2026/10/01/health/even-on-the-lowest-dose-of-triple-g-drug-patients-lost-nearly-30-pounds/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143292254.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-10-01T14:18:00Z",
-        "content": "We\u2019re learning more about the super-effective \u201ctriple-G\u201d weight loss drug retatrutide.\r\nThe drug, the first of its kind to target three metabolic receptors (GLP-1, GIP, and glucagon), is nearing the \u2026 [+3489 chars]"
+        "author": "Michael Wayland",
+        "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter - CNBC",
+        "description": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
+        "url": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108249039-1767735279750-gettyimages-2254968033-dji_20260106114613_0557_d_iywbkfqk.jpeg?v=1767735374&w=1920&h=1080",
+        "publishedAt": "2026-10-02T13:15:05Z",
+        "content": "DETROIT Ford Motor retained its No. 3 U.S. sales position during the third quarter by a narrow margin over Hyundai Motor, which had been forecast to overtake the Detroit automaker.\r\nFord on Friday re\u2026 [+2265 chars]"
     },
     {
         "source": {
@@ -148,25 +44,38 @@
             "name": "Barron's"
         },
         "author": "Al Root",
-        "title": "Corteva Stock Isn\u2019t Really Down 80%. It Spun Off Vylor. - Barron's",
-        "description": "Corteva is now two companies, Corteva and Vylor. Corteva sells crop protection chemicals. Vylor sells seeds to farmers.",
-        "url": "https://www.barrons.com/articles/corteva-stock-price-vylor-spinoff-81e019e7",
-        "urlToImage": "https://images.barrons.com/im-62301253/social",
-        "publishedAt": "2026-10-01T14:17:00Z",
-        "content": "U.S. Treasury yields pulled back Thursday, but long-term borrowing costs in Britain and France continued to climb."
+        "title": "Tesla Is Winning the New EV Race. Here\u2019s How. - Barron's",
+        "description": "Tesla delivers 486,532 cars in the third quarter, up 1% from the second quarter and down 2% year over year.",
+        "url": "https://www.barrons.com/articles/tesla-delivery-results-d05dff64",
+        "urlToImage": "https://images.barrons.com/im-13361243/social",
+        "publishedAt": "2026-10-02T13:13:00Z",
+        "content": "With many benefits, its use-it-or-lose it. Americans collectively forfeit billions of dollars annually in unused benefits, which often expire at the end of the calendar year."
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Laya Neelakandan",
-        "title": "Walmart is using light-up digital shelf labels to help shoppers and employees find items - CNBC",
-        "description": "Walmart is rolling out a light-up shelf label feature connected to its app to help customers better find the items they're looking for.",
-        "url": "https://www.cnbc.com/2026/10/01/walmart-digital-shelf-label-tools.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108360356-1788956259375-gettyimages-2293743470-schneider-walmartc260908_npGSG.jpeg?v=1788956283&w=1920&h=1080",
-        "publishedAt": "2026-10-01T13:00:01Z",
-        "content": "Walmart is aiming to make it as easy as possible for its customers to find exactly what they want.\r\nThe retailer is leveraging three new tools tied to its digital shelf labels for both customers and \u2026 [+5854 chars]"
+        "author": "Sarah Min, Davis Giangiulio, Chloe Taylor, Lee Ying Shan, Ananya Chetia",
+        "title": "Dow jumps 400 points after weak jobs data sends yields tumbling: Live updates - CNBC",
+        "description": "The Dow was headed for a losing week.",
+        "url": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108368839-17906098212026-09-28t153554z_61414151_rc2dsnapy77x_rtrmadp_0_usa-stocks.jpeg?v=1790609915&w=1920&h=1080",
+        "publishedAt": "2026-10-02T13:03:04Z",
+        "content": "Stocks jumped Friday, as yields retreated following a surprisingly weak jobs report that raised hopes the Federal Reserve will hold rates steady in October. \r\nThe Dow Jones Industrial Average rose 30\u2026 [+2183 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Gerrit De Vynck, Miriam Waldvogel",
+        "title": "The volunteer internet sleuths hunting down rogue AI agents - The Washington Post",
+        "description": "An informal network of hackers and researchers is exposing new details about misbehaving AI that meddled with corporate and government websites.",
+        "url": "https://www.washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BH56WJ7TUQ3OHJDQM6HDKPG3JY_size-normalized.JPG&w=1440",
+        "publishedAt": "2026-10-02T12:36:12Z",
+        "content": "SAN FRANCISCO Selena Zhang had a hunch.\r\nOpenAI, the maker of ChatGPT, had recently disclosed astonishing details about how its artificial intelligence agents had broken out of their systems, hacked \u2026 [+154 chars]"
     },
     {
         "source": {
@@ -174,89 +83,154 @@
             "name": "Investor's Business Daily"
         },
         "author": null,
-        "title": "Elon Musk Slashes Starship Launch Schedule For Next Year - Investor's Business Daily",
-        "description": "SpaceX CEO Elon Musk this week slashed expectations for the number of Starship launches next year following the flight 14 mission.",
-        "url": "https://www.investors.com/news/starship-launch-forecast-elon-musk-cuts-target-spacex-stock-rocketlab-electron/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/02/Stock-ElonMusk-conference-01-shutt.jpg",
-        "publishedAt": "2026-10-01T12:53:00Z",
+        "title": "Western Digital, Seagate Stock Slide On AI Hard-Drive Competition Report - Investor's Business Daily",
+        "description": "Seagate stock and Western Digital stock slid early Friday following a report that Toshiba is ramping up production of hard-disk drives.",
+        "url": "https://www.investors.com/news/technology/seagate-stock-western-digital-stock-toshiba-ai-hard-drives/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-WesternDigital-02-company.jpg",
+        "publishedAt": "2026-10-02T12:31:00Z",
         "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Amelia Lucas",
+        "title": "Burger King is betting on local franchisees to fuel its U.S. comeback - CNBC",
+        "description": "Burger King is refranchising hundreds of its company-owned restaurants as part of its turnaround, while prioritizing local operators.",
+        "url": "https://www.cnbc.com/2026/10/02/burger-king-refranchising-turnaround.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108346884-1786133357383-gettyimages-2274828794-_73a1058_97frlf1o.jpeg?v=1786134020&w=1920&h=1080",
+        "publishedAt": "2026-10-02T11:00:01Z",
+        "content": "A car goes through the drive-thru at a Burger King restaurant on May 6, 2026 in Burbank, California. \r\nWhen Jeremy Kline was 15, he started as a crew member at Taco Bell. In the decades since then, h\u2026 [+10865 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Michael B. Kelley",
+        "title": "Leaked Anthropic IPO prospectus: The US government could hurt our business - Yahoo Finance",
+        "description": "Anthropic (ANTH.PVT) understands that the US government could affect how customers of all kinds view their business.",
+        "url": "https://finance.yahoo.com/technology/article/leaked-anthropic-ipo-prospectus-the-us-government-could-hurt-our-business-105326368.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/93850a4c8ccfecfcd9806da072c4420b67ff51f6041c57d60e1c9a9a6a1cef13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Ff20e3e24-a650-4591-a35a-488752382e0a",
+        "publishedAt": "2026-10-02T10:53:26Z",
+        "content": "Anthropic (ANTH.PVT) understands that the US government could affect how customers of all kinds view their business.\r\nAccording to Reuters, which obtained Anthropic's IPO prospectus, the AI giant's d\u2026 [+1378 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Brian Sozzi",
+        "title": "Nike warning hits stocks prices of Lululemon, On, Under Armour and Hoku maker Deckers Outdoor - Yahoo Finance",
+        "description": "Nike sends sportswear stocks lower.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/nike-warning-hits-stocks-prices-of-lululemon-on-under-armour-and-hoka-maker-deckers-outdoor-103149353.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/005f3a4a8bce09db6fdb557c2a3f065a605d4639b3920d477522c12c0400af76/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F0e518a83-7752-4159-8090-834a5251a9e3",
+        "publishedAt": "2026-10-02T10:31:49Z",
+        "content": "Nike's (NKE\r\n) latest dreadful quarter just freaked out investors in other top sportswear stocks.\r\nShares of Nike rivals Lululemon (LULU\r\n), On (ONON\r\n), Under Armour (UAA\r\n), and Hoka maker Deckers \u2026 [+2291 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Hugh Son",
+        "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721% - CNBC",
+        "description": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" \u2014 the ability to coordinate teams of specialized agents.",
+        "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108266487-1771358653704-gettyimages-2262167514-emaz-1_em21067.jpeg?v=1790895472&w=1920&h=1080",
+        "publishedAt": "2026-10-02T10:00:01Z",
+        "content": "A person walks around the JPMorgan Chase &amp; Co. headquarters in New York, Feb. 17, 2026.\r\nBefore artificial intelligence can take Wall Street jobs, it is first creating them.\r\nPosts for AI-related\u2026 [+4878 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Brian Sozzi",
+        "title": "Micron is about to do something that would surprise most Magnificent 7 investors - Yahoo Finance",
+        "description": "Micron is indeed on a roll.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/micron-is-about-to-do-something-that-would-surprise-most-magnificent-7-investors-094730623.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/97189ce7b51e5445a43ee62857499e4c6c9d4640567dec4644e9b981ca97a899/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc78b75ba-d1f6-4022-8d12-a6155e657e83",
+        "publishedAt": "2026-10-02T09:47:30Z",
+        "content": "It's the year of Micron (MU\r\n) in tech not Nvidia (NVDA).\r\nOff-the-charts demand for its memory chips during the AI boom has totally recast the company's financial results. That is nicely captured in\u2026 [+1411 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "wsj.com",
+        "title": "My Week in a $15,000 Microcar: Joy, Guilt and 25-MPH Road Rage - wsj.com",
+        "description": null,
+        "url": "https://www.wsj.com/lifestyle/cars/fiat-topolino-dolce-vita-small-car-a6bf18bf",
+        "urlToImage": null,
+        "publishedAt": "2026-10-02T09:30:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
+        "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+        "url": "https://www.bbc.com/news/articles/c6y9z9r4ejzwo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
+        "publishedAt": "2026-10-02T08:20:32Z",
+        "content": "On Tuesday, US President Donald Trump hosted a meeting of top technology bosses - including leaders from OpenAI, Anthropic, Nvidia, SpaceX, Meta and Google - to discuss AI."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Sarah Min, Sawdah Bhaimiya",
+        "title": "Treasury yields hold flat as investors await key jobs report - CNBC",
+        "description": "U.S. Treasury yields fell after the September jobs report came in much weaker than expected.",
+        "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363665-1789568651170-gettyimages-2295586459-mms19512_dnx4op25.jpeg?v=1789568741&w=1920&h=1080",
+        "publishedAt": "2026-10-02T07:47:49Z",
+        "content": "Treasury yields tumbled Friday after an unexpectedly weak September jobs report likely put the brakes on a Federal Reserve rate hike in October. \r\nThe benchmark 10-year Treasury yield fell nearly 6 b\u2026 [+1549 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Motley Fool"
+        },
+        "author": "Dominic Basulto",
+        "title": "Here's What a $500 Investment in Bitcoin Could Be Worth by 2030 - The Motley Fool",
+        "description": "If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000.",
+        "url": "https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/",
+        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889127%2Fsurprised-investor-with-phone.jpg&w=1200&op=resize",
+        "publishedAt": "2026-10-02T06:00:00Z",
+        "content": "After a dreadful start to the year, Bitcoin(BTC+2.37%) has rallied over the past two months. This has raised investor hopes that Bitcoin might have already hit bottom, and is about to go on another o\u2026 [+2980 chars]"
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Brian W Smith, Caleb Mutua, Gowri Gurumurthy",
-        "title": "Angry Bondholders Flood Wall Street With Complaints on Paramount Losses - Bloomberg.com",
-        "description": "Just hours after Paramount Skydance Corp. issued $52 billion of debt to fund the biggest Hollywood buyout ever, investors were nursing hundreds of millions of dollars in losses, triggering a flurry of angry calls from money managers to Wall Street banks that \u2026",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-01/paramount-s-41-billion-of-m-a-bonds-slump-as-trading-begins",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDVlGWIMlfuU/v0/1200x799.jpg",
-        "publishedAt": "2026-10-01T12:35:35Z",
-        "content": "Just hours after Paramount Skydance Corp. issued $52 billion of debt to fund the biggest Hollywood buyout ever, investors were nursing hundreds of millions of dollars in losses, triggering a flurry o\u2026 [+490 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Stacy Meichtry, Chelsey Dulaney",
-        "title": "France Is Ground Zero in the Global Bond Rout - WSJ",
-        "description": "The country\u2019s finance ministry outlined tens of billions in cuts and cost savings",
-        "url": "https://www.wsj.com/finance/france-is-ground-zero-in-the-global-bond-rout-4b743eb2",
-        "urlToImage": "https://images.wsj.net/im-85187007/social",
-        "publishedAt": "2026-10-01T12:29:00Z",
-        "content": "PARISThe French government aims to cut tens of billions of euros in spending next year as it seeks to calm investor worries that have driven the countrys borrowing costs to their highest levels in de\u2026 [+221 chars]"
+        "author": "Preeti Singh, Dina Bass",
+        "title": "Broadcom Starts Amassing $60 Billion to Fund Chips for Anthropic - bloomberg.com",
+        "description": "Broadcom Inc.\u2019s Wall Street syndicate is starting to gather $60 billion of fresh AI chip financing to benefit Anthropic PBC and other companies, according to people with knowledge of the matter.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1vmxDaePyhE/v0/1200x800.jpg",
+        "publishedAt": "2026-10-02T04:12:00Z",
+        "content": "Broadcom Inc.s Wall Street syndicate is starting to gather $60 billion of fresh AI chip financing to benefit Anthropic PBC and other companies, according to people with knowledge of the matter.\r\nBank\u2026 [+227 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Investor's Business Daily"
+            "name": "Deadline"
         },
-        "author": null,
-        "title": "Stock Market Today: Dow Gains As Yields Waffle; Micron Stock Drops On Earnings (Live Coverage) - Investor's Business Daily",
-        "description": "Stock Market Today: The Dow Jones index climbs Thursday as Treasury yields extend their gains. Micron stock slides on earnings.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-micron-stock-mu-earnings/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2017/02/stock-wallStreet-1-shutter.jpg",
-        "publishedAt": "2026-10-01T12:18:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "Accenture shares surge 22% as consultancy confounds AI fears - ft.com",
-        "description": "Group says revenues could accelerate in the coming year despite worries over demand for its services",
-        "url": "https://www.ft.com/content/e1074ce0-cd16-4a91-9934-50df917b3b20?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc83bf9d7-2401-4af0-b3be-6a5674ececc2.png?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-10-01T11:20:59Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Arabella Bennett",
-        "title": "Mike Rowe warns US workforce facing \u2018problem of the decade\u2019 - Fox Business",
-        "description": "Mike Rowe says CEOs are \"freaking out\" over the skilled labor shortage, calling the workforce crisis the \"problem of the decade\" with no easy fix.",
-        "url": "https://www.foxbusiness.com/media/mike-rowe-warns-us-workforce-facing-problem-decade",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/mike-rowe.png?ve=1&tl=1",
-        "publishedAt": "2026-10-01T10:57:00Z",
-        "content": "America's skilled trades shortage has major employers sounding the alarm\u00a0as companies face mounting demand for workers needed to build, maintain and power the country's infrastructure.\r\nmikeroweWORKS\u2026 [+1950 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "This Datapoint Could Explain Soaring Bond Yields - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/finance/investing/this-datapoint-could-explain-soaring-bond-yields-d8ec5be0",
-        "urlToImage": null,
-        "publishedAt": "2026-10-01T09:54:34Z",
-        "content": null
+        "author": "Dade Hayes",
+        "title": "Paramount-WBD Deal Architect Gerry Cardinale Says Most Of $6B In Expected Cost Savings Will Not Be Layoffs - Deadline",
+        "description": "Gerry Cardinale, a key architect of Paramount's merger with Warner Bros. Discovery, insists that most of the deal's cost savings will not come from layoffs.",
+        "url": "http://deadline.com/2026/10/paramount-warner-bros-merger-layoffs-1237144978/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2024/07/david-ellison-and-gerry-cardinale.jpg?w=1024",
+        "publishedAt": "2026-10-01T23:56:00Z",
+        "content": "Gerry Cardinale, Paramount board member and principal architect of the company\u2019s imminent merger with Warner Bros. Discovery, insists that most of the deal\u2019s cost savings will not come from layoffs.\r\u2026 [+3840 chars]"
     }
 ]
