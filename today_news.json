@@ -1,236 +1,262 @@
 [
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Zoe Malin",
-        "title": "Early October Prime Day deals are live 4 days before the sale officially starts \u2014 these 53+ are actually worth it - NBC News",
-        "description": "Prime Big Deal Days is back October 6 to 7, but you can shop early deals today. Our editors are finding new discounts live from iRobot, Ninja, Lego and more.",
-        "url": "https://www.nbcnews.com/select/shopping/early-october-prime-day-deals-2026-rcna601060",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261001-PBDD-EARLY-DEALS-kb-social-3d3261.jpg",
-        "publishedAt": "2026-10-02T14:10:59Z",
-        "content": "October Prime Day (a.k.a. Prime Big Deal Days) is less than a week away: The Prime member-exclusive sale runs from October 6 to 7, but you dont need to wait until then to shop. Amazon is already drop\u2026 [+14563 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Anne D'Innocenzio",
-        "title": "Amazon to invest $1B into data center communities amid backlash against data center rollouts - AP News",
-        "description": "Amazon is investing more than $1 billion over the next five years into communities where it operates data centers for education, job training, water preservation projects and other local priorities as it reacts to a growing backlash from politicians and consu\u2026",
-        "url": "https://apnews.com/article/amazon-data-centers-1-billion-investment-91b65ba1729540c1c0d92e35deef35d8",
-        "urlToImage": "https://dims.apnews.com/dims4/default/07475fb/2147483647/strip/true/crop/8176x5448+232+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb2%2F91%2F48cb7432550492bf9dd6a0a73190%2F2d88e47858044b379674cc7852d122b2",
-        "publishedAt": "2026-10-02T13:50:00Z",
-        "content": "NEW YORK (AP) Amazon is investing more than $1 billion over the next five years into communities where it operates data centers for education, job training, water and energy preservation projects and\u2026 [+2705 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Michael Wayland",
-        "title": "Ford fends off Hyundai to retain No. 3 U.S. sales position in third quarter - CNBC",
-        "description": "Ford on Friday reported a year-over-year sales decline of 6.6% during the third quarter to 507,395 light-duty vehicles.",
-        "url": "https://www.cnbc.com/2026/10/02/ford-q3-sales.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108249039-1767735279750-gettyimages-2254968033-dji_20260106114613_0557_d_iywbkfqk.jpeg?v=1767735374&w=1920&h=1080",
-        "publishedAt": "2026-10-02T13:15:05Z",
-        "content": "DETROIT Ford Motor retained its No. 3 U.S. sales position during the third quarter by a narrow margin over Hyundai Motor, which had been forecast to overtake the Detroit automaker.\r\nFord on Friday re\u2026 [+2265 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Al Root",
-        "title": "Tesla Is Winning the New EV Race. Here\u2019s How. - Barron's",
-        "description": "Tesla delivers 486,532 cars in the third quarter, up 1% from the second quarter and down 2% year over year.",
-        "url": "https://www.barrons.com/articles/tesla-delivery-results-d05dff64",
-        "urlToImage": "https://images.barrons.com/im-13361243/social",
-        "publishedAt": "2026-10-02T13:13:00Z",
-        "content": "With many benefits, its use-it-or-lose it. Americans collectively forfeit billions of dollars annually in unused benefits, which often expire at the end of the calendar year."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Sarah Min, Davis Giangiulio, Chloe Taylor, Lee Ying Shan, Ananya Chetia",
-        "title": "Dow jumps 400 points after weak jobs data sends yields tumbling: Live updates - CNBC",
-        "description": "The Dow was headed for a losing week.",
-        "url": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108368839-17906098212026-09-28t153554z_61414151_rc2dsnapy77x_rtrmadp_0_usa-stocks.jpeg?v=1790609915&w=1920&h=1080",
-        "publishedAt": "2026-10-02T13:03:04Z",
-        "content": "Stocks jumped Friday, as yields retreated following a surprisingly weak jobs report that raised hopes the Federal Reserve will hold rates steady in October. \r\nThe Dow Jones Industrial Average rose 30\u2026 [+2183 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Gerrit De Vynck, Miriam Waldvogel",
-        "title": "The volunteer internet sleuths hunting down rogue AI agents - The Washington Post",
-        "description": "An informal network of hackers and researchers is exposing new details about misbehaving AI that meddled with corporate and government websites.",
-        "url": "https://www.washingtonpost.com/technology/2026/10/02/independent-researchers-are-revealing-new-details-about-rogue-ai-agents/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BH56WJ7TUQ3OHJDQM6HDKPG3JY_size-normalized.JPG&w=1440",
-        "publishedAt": "2026-10-02T12:36:12Z",
-        "content": "SAN FRANCISCO Selena Zhang had a hunch.\r\nOpenAI, the maker of ChatGPT, had recently disclosed astonishing details about how its artificial intelligence agents had broken out of their systems, hacked \u2026 [+154 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Western Digital, Seagate Stock Slide On AI Hard-Drive Competition Report - Investor's Business Daily",
-        "description": "Seagate stock and Western Digital stock slid early Friday following a report that Toshiba is ramping up production of hard-disk drives.",
-        "url": "https://www.investors.com/news/technology/seagate-stock-western-digital-stock-toshiba-ai-hard-drives/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2017/10/stock-WesternDigital-02-company.jpg",
-        "publishedAt": "2026-10-02T12:31:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Amelia Lucas",
-        "title": "Burger King is betting on local franchisees to fuel its U.S. comeback - CNBC",
-        "description": "Burger King is refranchising hundreds of its company-owned restaurants as part of its turnaround, while prioritizing local operators.",
-        "url": "https://www.cnbc.com/2026/10/02/burger-king-refranchising-turnaround.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108346884-1786133357383-gettyimages-2274828794-_73a1058_97frlf1o.jpeg?v=1786134020&w=1920&h=1080",
-        "publishedAt": "2026-10-02T11:00:01Z",
-        "content": "A car goes through the drive-thru at a Burger King restaurant on May 6, 2026 in Burbank, California. \r\nWhen Jeremy Kline was 15, he started as a crew member at Taco Bell. In the decades since then, h\u2026 [+10865 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Michael B. Kelley",
-        "title": "Leaked Anthropic IPO prospectus: The US government could hurt our business - Yahoo Finance",
-        "description": "Anthropic (ANTH.PVT) understands that the US government could affect how customers of all kinds view their business.",
-        "url": "https://finance.yahoo.com/technology/article/leaked-anthropic-ipo-prospectus-the-us-government-could-hurt-our-business-105326368.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/93850a4c8ccfecfcd9806da072c4420b67ff51f6041c57d60e1c9a9a6a1cef13/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Ff20e3e24-a650-4591-a35a-488752382e0a",
-        "publishedAt": "2026-10-02T10:53:26Z",
-        "content": "Anthropic (ANTH.PVT) understands that the US government could affect how customers of all kinds view their business.\r\nAccording to Reuters, which obtained Anthropic's IPO prospectus, the AI giant's d\u2026 [+1378 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Brian Sozzi",
-        "title": "Nike warning hits stocks prices of Lululemon, On, Under Armour and Hoku maker Deckers Outdoor - Yahoo Finance",
-        "description": "Nike sends sportswear stocks lower.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nike-warning-hits-stocks-prices-of-lululemon-on-under-armour-and-hoka-maker-deckers-outdoor-103149353.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/005f3a4a8bce09db6fdb557c2a3f065a605d4639b3920d477522c12c0400af76/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F0e518a83-7752-4159-8090-834a5251a9e3",
-        "publishedAt": "2026-10-02T10:31:49Z",
-        "content": "Nike's (NKE\r\n) latest dreadful quarter just freaked out investors in other top sportswear stocks.\r\nShares of Nike rivals Lululemon (LULU\r\n), On (ONON\r\n), Under Armour (UAA\r\n), and Hoka maker Deckers \u2026 [+2291 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Hugh Son",
-        "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721% - CNBC",
-        "description": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" \u2014 the ability to coordinate teams of specialized agents.",
-        "url": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108266487-1771358653704-gettyimages-2262167514-emaz-1_em21067.jpeg?v=1790895472&w=1920&h=1080",
-        "publishedAt": "2026-10-02T10:00:01Z",
-        "content": "A person walks around the JPMorgan Chase &amp; Co. headquarters in New York, Feb. 17, 2026.\r\nBefore artificial intelligence can take Wall Street jobs, it is first creating them.\r\nPosts for AI-related\u2026 [+4878 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Brian Sozzi",
-        "title": "Micron is about to do something that would surprise most Magnificent 7 investors - Yahoo Finance",
-        "description": "Micron is indeed on a roll.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/micron-is-about-to-do-something-that-would-surprise-most-magnificent-7-investors-094730623.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/97189ce7b51e5445a43ee62857499e4c6c9d4640567dec4644e9b981ca97a899/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc78b75ba-d1f6-4022-8d12-a6155e657e83",
-        "publishedAt": "2026-10-02T09:47:30Z",
-        "content": "It's the year of Micron (MU\r\n) in tech not Nvidia (NVDA).\r\nOff-the-charts demand for its memory chips during the AI boom has totally recast the company's financial results. That is nicely captured in\u2026 [+1411 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "wsj.com",
-        "title": "My Week in a $15,000 Microcar: Joy, Guilt and 25-MPH Road Rage - wsj.com",
-        "description": null,
-        "url": "https://www.wsj.com/lifestyle/cars/fiat-topolino-dolce-vita-small-car-a6bf18bf",
-        "urlToImage": null,
-        "publishedAt": "2026-10-02T09:30:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "OpenAI fires workers for 'mishandling sensitive information' - BBC",
-        "description": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-        "url": "https://www.bbc.com/news/articles/c6y9z9r4ejzwo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
-        "publishedAt": "2026-10-02T08:20:32Z",
-        "content": "On Tuesday, US President Donald Trump hosted a meeting of top technology bosses - including leaders from OpenAI, Anthropic, Nvidia, SpaceX, Meta and Google - to discuss AI."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Sarah Min, Sawdah Bhaimiya",
-        "title": "Treasury yields hold flat as investors await key jobs report - CNBC",
-        "description": "U.S. Treasury yields fell after the September jobs report came in much weaker than expected.",
-        "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363665-1789568651170-gettyimages-2295586459-mms19512_dnx4op25.jpeg?v=1789568741&w=1920&h=1080",
-        "publishedAt": "2026-10-02T07:47:49Z",
-        "content": "Treasury yields tumbled Friday after an unexpectedly weak September jobs report likely put the brakes on a Federal Reserve rate hike in October. \r\nThe benchmark 10-year Treasury yield fell nearly 6 b\u2026 [+1549 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Motley Fool"
-        },
-        "author": "Dominic Basulto",
-        "title": "Here's What a $500 Investment in Bitcoin Could Be Worth by 2030 - The Motley Fool",
-        "description": "If Bitcoin can grow at a brisk 47% clip over the next four years, it could hit a price of $400,000.",
-        "url": "https://www.fool.com/investing/2026/10/02/heres-what-a-500-investment-in-crypto-could-be-wor/",
-        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889127%2Fsurprised-investor-with-phone.jpg&w=1200&op=resize",
-        "publishedAt": "2026-10-02T06:00:00Z",
-        "content": "After a dreadful start to the year, Bitcoin(BTC+2.37%) has rallied over the past two months. This has raised investor hopes that Bitcoin might have already hit bottom, and is about to go on another o\u2026 [+2980 chars]"
+        "author": "Seth Fiegerman",
+        "title": "OpenAI Safety Employee Quits, Calls for Nuclear-Level Safeguards - Bloomberg.com",
+        "description": "An OpenAI employee focused on AI safety has quit the company and warned that top artificial intelligence firms aren\u2019t doing enough to mitigate the technology\u2019s risks, joining a growing chorus of employees raising alarms from within the industry.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWAyQGvRxMUE/v1/1200x800.jpg",
+        "publishedAt": "2026-10-03T15:54:42Z",
+        "content": "An OpenAI employee focused on AI safety has quit the company and warned that top artificial intelligence firms arent doing enough to mitigate the technologys risks, joining a growing chorus of employ\u2026 [+442 chars]"
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Preeti Singh, Dina Bass",
-        "title": "Broadcom Starts Amassing $60 Billion to Fund Chips for Anthropic - bloomberg.com",
-        "description": "Broadcom Inc.\u2019s Wall Street syndicate is starting to gather $60 billion of fresh AI chip financing to benefit Anthropic PBC and other companies, according to people with knowledge of the matter.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1vmxDaePyhE/v0/1200x800.jpg",
-        "publishedAt": "2026-10-02T04:12:00Z",
-        "content": "Broadcom Inc.s Wall Street syndicate is starting to gather $60 billion of fresh AI chip financing to benefit Anthropic PBC and other companies, according to people with knowledge of the matter.\r\nBank\u2026 [+227 chars]"
+        "author": "Davide Barbuscia",
+        "title": "Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges - Bloomberg.com",
+        "description": "As Paramount Skydance Corp. and Oracle Corp. vault into the ranks of corporate America\u2019s biggest borrowers, their links to the same man \u2014 billionaire Larry Ellison \u2014 are starting to stir angst on Wall Street.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-03/larry-ellison-risk-exposed-by-paramount-and-oracle-debt-binges",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iz2CZo0GiWC4/v2/1200x800.jpg",
+        "publishedAt": "2026-10-03T13:00:00Z",
+        "content": "As Paramount Skydance Corp. and Oracle Corp. vault into the ranks of corporate Americas biggest borrowers, their links to the same man billionaire Larry Ellison are starting to stir angst on Wall Str\u2026 [+482 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Deadline"
+            "name": "Forbes"
         },
-        "author": "Dade Hayes",
-        "title": "Paramount-WBD Deal Architect Gerry Cardinale Says Most Of $6B In Expected Cost Savings Will Not Be Layoffs - Deadline",
-        "description": "Gerry Cardinale, a key architect of Paramount's merger with Warner Bros. Discovery, insists that most of the deal's cost savings will not come from layoffs.",
-        "url": "http://deadline.com/2026/10/paramount-warner-bros-merger-layoffs-1237144978/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2024/07/david-ellison-and-gerry-cardinale.jpg?w=1024",
-        "publishedAt": "2026-10-01T23:56:00Z",
-        "content": "Gerry Cardinale, Paramount board member and principal architect of the company\u2019s imminent merger with Warner Bros. Discovery, insists that most of the deal\u2019s cost savings will not come from layoffs.\r\u2026 [+3840 chars]"
+        "author": "forbes.com",
+        "title": "Trump Confirms Shocking $40 Trillion Plan That Could Be About To Explode The Bitcoin Price - forbes.com",
+        "description": null,
+        "url": "https://www.forbes.com/sites/digital-assets/2026/10/03/trump-just-gave-everyone-a-shocking-40-trillion-reason-to-buy-bitcoin-and-quickly/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-03T11:30:02Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Sarah Whitten",
+        "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz - cnbc.com",
+        "description": "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
+        "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108010356-1721737934014-gettyimages-2158591030-canneslions_240621_101017_rbord_lyvayzuu.jpeg?v=1790982865&w=1920&h=1080",
+        "publishedAt": "2026-10-03T11:00:01Z",
+        "content": "Entertainment Person of the Year, Mattel's Chairman and CEO Ynon Kreiz speaks during the \"Entertainment Person of the Year Seminar: Mattels Ynon Kreiz\" session at Debussy Theatre during the Cannes Li\u2026 [+9729 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lora Kolodny",
+        "title": "Tesla\u2019s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding - CNBC",
+        "description": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
+        "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108358937-1788526931980-gettyimages-2292811784-AFP_C7B323M.jpeg?v=1788526959&w=1920&h=1080",
+        "publishedAt": "2026-10-03T11:00:01Z",
+        "content": "A Tesla's \"Cybercab\" is displayed in downtown Austin, Texas, on September 3, 2026. \r\nIn the month since Tesla's Cybercab rollout in Austin, the company has almost quadrupled the number of its driverl\u2026 [+7269 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Daniel de Vise\u0301",
+        "title": "Americans say inflation has put the FIRE movement out of reach - USA Today",
+        "description": "Has inflation doused the FIRE movement?",
+        "url": "https://www.usatoday.com/story/money/personal-finance/2026/10/03/fire-movement-inflation-prices-early-retirement/92042254007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/02/USAT/82780204007-b-9316481965-z-1-20150305193323-000-gdra-4-vc-8310.jpg?crop=1599,900,x0,y344&width=1599&height=900&format=pjpg&auto=webp",
+        "publishedAt": "2026-10-03T10:03:00Z",
+        "content": "Has inflation doused the FIRE movement?\u00a0\r\nPopularized in the 1990s, the Financial Independence, Retire Early movement inspires workers to maximize savings, spend modestly and stop working well before\u2026 [+5076 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Sydney Lake",
+        "title": "MacKenzie Scott's novel is being called 'baffling'\u2014critics are asking what message she's trying to send - Fortune",
+        "description": "The billionaire philanthropist who\u2019s donated $26 billion gave away Last Days in Two Nations for free on Substack, noticeably not on Amazon.",
+        "url": "https://fortune.com/2026/10/03/mackenzie-scott-novel-reviews-substack/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2100039841-10-e1790970599508.jpg?resize=1200,600",
+        "publishedAt": "2026-10-03T09:56:00Z",
+        "content": "MacKenzie Scott isnt like many billionaire philanthropists. Shes given away more than $26 billion while saying almost nothing in public. So when Amazon\u00a0founder Jeff Bezoss ex-wife finished publishing\u2026 [+3695 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The-independent.com"
+        },
+        "author": "Caitlin Hornik",
+        "title": "Elon Musk\u2019s longtime partner Shivon Zilis announces he ended relationship with \u2018no warning\u2019 - The Independent",
+        "description": "Zilis and Musk share four children together",
+        "url": "https://www.the-independent.com/life-style/elon-musk-shivon-zilis-relationship-breakup-children-b3060763.html",
+        "urlToImage": "https://static.the-independent.com/2026/05/06/23/2258844337.jpg?width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-10-03T09:27:00Z",
+        "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+3717 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Medora Lee",
+        "title": "Americans feel more and more glum, data shows. Economists are over it - usatoday.com",
+        "description": "Americans feel gloomy but keep spending, leaving economists to rethink how they predict the nation's economic health.",
+        "url": "https://www.usatoday.com/story/money/personal-finance/2026/10/03/consumer-sentiment-weakening-economic-indicator/92044934007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/01/USAT/92045199007-20120330-t-120000-z-607290219-gm-1-e-83-u-1-soq-01-rtrmadp-3-usaeconomysentiment.JPG?crop=3483,1958,x8,y0&width=3200&height=1799&format=pjpg&auto=webp",
+        "publishedAt": "2026-10-03T09:04:00Z",
+        "content": "Six years after the COVID-19 pandemic, Americans still feel gloomy and no once-a-month economic report seems to make them happy.\r\nSince the pandemic, the economy and jobs market have recovered but co\u2026 [+5025 chars]"
+    },
+    {
+        "source": {
+            "id": "mashable",
+            "name": "Mashable"
+        },
+        "author": "Haley Henschel",
+        "title": "21 early October Prime Day tech deals, hand-picked by our gadget-obsessed experts - Mashable",
+        "description": "These early deals erase some of the price hikes we've seen amid the RAM crisis. They're so good, we'd add them to our own carts.",
+        "url": "https://mashable.com/tech/best-early-october-prime-day-tech-deals-2026",
+        "urlToImage": "https://helios-i.mashable.com/imagery/articles/04szEBsjLNil9IRTJrsXm8U/hero-image.fill.size_1200x675.v1790686777.png",
+        "publishedAt": "2026-10-03T09:01:01Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Catherina Gioino",
+        "title": "AI will create more jobs than it kills, McKinsey says. The catch: 11 million Americans may need new careers - Fortune",
+        "description": "Only one in seven displaced workers has a direct path to a growing job, and most new work in healthcare and construction can't be done remotely.",
+        "url": "https://fortune.com/2026/10/03/ai-job-displacement-creation-new-careers-11-million-americans-workforce-mobility/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-50379000.jpg?resize=1200,600",
+        "publishedAt": "2026-10-03T08:00:00Z",
+        "content": "AI and automation will cut demand for about 36 million U.S. jobs by 2035 while growth elsewhere creates about 41 million, according to a new report from the McKinsey Global Institute.The jobs will ex\u2026 [+4856 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Neal Templin",
+        "title": "Why So Many Americans Have Trouble Spending Their Retirement Savings - barrons.com",
+        "description": "For a variety of reasons, Americans who spend decades building nest eggs are reluctant to spend them down in retirement.",
+        "url": "https://www.barrons.com/articles/financial-planning-retirement-savings-276015a7",
+        "urlToImage": "https://images.barrons.com/im-36356929/social",
+        "publishedAt": "2026-10-03T07:30:00Z",
+        "content": "Beijing is cracking down on unlicensed offshore trading while opening controlled channels into global funds holding Nvidia, Amazon, Treasuries, and gold."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Michael Sinkewicz",
+        "title": "FDA concludes investigation into Cyclospora outbreak tied to recalled Taylor Farms iceberg lettuce - Fox Business",
+        "description": "The FDA concluded its Cyclospora outbreak investigation, finding strong evidence linking recalled iceberg lettuce from Taylor Farms de Mexico to over 12,800 cases.",
+        "url": "https://www.foxbusiness.com/lifestyle/fda-concludes-investigation-cyclospora-outbreak-tied-recalled-taylor-farms-iceberg-lettuce",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/taylor-farms-002.jpg?ve=1&tl=1",
+        "publishedAt": "2026-10-03T06:22:00Z",
+        "content": "The Food and Drug Administration (FDA) said Friday that it concluded its investigation into the Cyclospora outbreak associated with iceberg lettuce from Mexico, finding \"strong\" evidence linking the \u2026 [+3578 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WRGB"
+        },
+        "author": "Stephanie Ryan",
+        "title": "Stewart's recalls half gallons in two flavors, for possible presence of metal - WRGB",
+        "description": "Stewart\u2019s Shops Corp. of Saratoga Springs, NY is recalling half gallons of two flavors, Heavenly Medley and Vanilla-Chocolate-Strawberry, due to the potential p",
+        "url": "https://cbs6albany.com/news/local/stewarts-recalls-half-gallons-in-two-flavors-for-possible-presence-of-metal",
+        "urlToImage": "https://cbs6albany.com/resources/media2/16x9/1191/1320/10x1/90/0632e7b2-cb2e-40d5-a39a-37cbfbdd6faa-Stewartsrecall.png",
+        "publishedAt": "2026-10-03T05:10:34Z",
+        "content": "CAPITAL REGION, NY (WRGB) Stewarts Shops Corp. of Saratoga Springs, NY is recalling half gallons of two flavors, Heavenly Medley and Vanilla-Chocolate-Strawberry, due to the potential presence of met\u2026 [+633 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Josh Boak",
+        "title": "A gut punch in Ohio: Nearly 1,400 laid off at truck factory just days before Trump rally - apnews.com",
+        "description": "President Donald Trump is trying to rally voters in the Dayton, Ohio, area on Saturday. But days ago, 1,400 workers were laid off from a truck factory there. The November midterms are a test for the working-class coalition that lifted Trump into the White Hou\u2026",
+        "url": "https://apnews.com/article/trump-ohio-midterms-factory-workers-7c8dc7901de15a22a909bcd9c8b78a3e",
+        "urlToImage": "https://dims.apnews.com/dims4/default/c90b94b/2147483647/strip/true/crop/5325x3548+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2Fda%2F782bfa29106ad7de0359d12bf3b4%2F14cdfd5af72a4d5e93a1e6671fb5e7d0",
+        "publishedAt": "2026-10-03T04:02:00Z",
+        "content": "SPRINGFIELD, Ohio (AP) Sipping tea from beer mugs with his co-workers, Kyle Bos listed the ways his life is changing.\r\nBos has two daughters, with a third due in January. At the grocery store, five i\u2026 [+8913 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Daniel Cody",
+        "title": "Texas barber found $128K in cash on top of bank ATM \u2014 then he returned it all: police - nypost.com",
+        "description": "\u201cI\u2019ve never had a case like this before, ever,\u201d Lewisville police detective Gina Miller said.",
+        "url": "https://nypost.com/2026/10/02/us-news/texas-barber-found-128k-in-cash-on-top-of-bank-atm-returned-it-all/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/COMP-money.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-10-03T01:32:00Z",
+        "content": "A North Texas barber found a small fortune resting right on top of a bank ATM last month and returned every single cent, according to authorities.\r\nThe good Samaritan, who did not identify himself to\u2026 [+1921 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ScienceAlert"
+        },
+        "author": "Esra \u00d6z",
+        "title": "Ozempic Rival Delivers 25% Weight Loss at Highest Dose in Phase 3 Trial - ScienceAlert",
+        "description": "A flight of stairs can become a challenge for aching knees.",
+        "url": "https://www.sciencealert.com/ozempic-rival-delivers-25-weight-loss-at-highest-dose-in-phase-3-trial",
+        "urlToImage": "https://www.sciencealert.com/images/2026/10/Person-Stepping-onto-a-Weighing-Scale.jpg",
+        "publishedAt": "2026-10-03T01:02:30Z",
+        "content": "A flight of stairs can become a challenge for aching knees. Sleep can be broken by repeated breathing problems. For people living with obesity, the effects of the disease can reach far beyond the num\u2026 [+5244 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WPVI-TV"
+        },
+        "author": "6abc Digital Staff",
+        "title": "Philadelphia City Council becomes 1st city to officially back the Starbucks Workers United boycott - 6abc Philadelphia",
+        "description": "The union says it is no longer possible to be both a Starbucks customer and support workers.",
+        "url": "https://6abc.com/post/philadelphia-city-council-becomes-1st-officially-back-starbucks-workers-united-boycott/19900326/",
+        "urlToImage": "https://cdn.abcotvs.com/dip/images/19900331_100226-wpvi-phila-starbucks-5avo-video-vid.jpg?w=1600",
+        "publishedAt": "2026-10-03T00:22:30Z",
+        "content": "PHILADELPHIA (WPVI) -- Philadelphia City Council is calling for a boycott of Starbucks until the company reaches a contract with its unionized baristas.\r\nA resolution passed on Thursday makes Philade\u2026 [+727 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Theurbanist.org"
+        },
+        "author": "Ryan Packer",
+        "title": "Scores Turn Out To Celebrate Sound Transit's First Infill Station - The Urbanist",
+        "description": "Throngs of transit fans packed onto the station plaza near I-5 and NE 130th Street Wednesday to check out the new station, which had initially been scheduled to open in 2031. Criticized for a high price tag and bad adjacent land use, Pinehurst is a catalyst f\u2026",
+        "url": "https://www.theurbanist.org/scores-turn-out-to-celebrate-sound-transits-first-infill-station/",
+        "urlToImage": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/size/w1200/2026/09/IMG_8764.JPG",
+        "publishedAt": "2026-10-02T22:21:04Z",
+        "content": "What had been billed as a \"small community event\" turned into a major party Wednesday as hundreds of transit fans converged on Sound Transit's newest light rail station in North Seattle to celebrate \u2026 [+7499 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Catherina Gioino",
+        "title": "'We can't trust them completely': AI research fellows warn that labs are running models with the safeguards off behind closed doors - Fortune",
+        "description": "Alan Chan and Sam Manning, co-authors with OpenAI's and Anthropic's top researchers, say that many times, \"internal safeguards have not been deployed.\"",
+        "url": "https://fortune.com/2026/10/02/we-cant-trust-them-completely-labs-safeguards/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-1260011941-e1790887171834.jpg?resize=1200,600",
+        "publishedAt": "2026-10-02T22:05:00Z",
+        "content": "The most powerful AI models are often run inside the labs that build them with key safeguards switched off. And the safety tests those labs publish may not reflect how the models are actually used. T\u2026 [+4903 chars]"
     }
 ]
