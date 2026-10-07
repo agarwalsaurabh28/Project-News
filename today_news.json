@@ -1,42 +1,68 @@
 [
     {
         "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Zoe Malin",
+        "title": "We\u2019re live tracking the best October Prime Day deals \u2014 these 113+ are worth shopping - NBC News",
+        "description": "NBC Selected editors are tracking the best October Prime Day deals live, with prices and recommendations updated throughout the event. Here\u2019s what\u2019s worth buying.",
+        "url": "https://www.nbcnews.com/select/shopping/october-prime-day-deals-2026-rcna601203",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/260930-prime-day-hero-kb-social-v1-02d59f.jpg",
+        "publishedAt": "2026-10-06T19:45:11Z",
+        "content": "October Prime Day (technically called Prime Big Deal Days) is happening now through October 7, offering discounts across categories, exclusive to Prime members. Some of the top newly added deals are \u2026 [+22793 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Sheetal Banchariya",
+        "title": "Planes collide on LAX runway - New York Post",
+        "description": "Two planes were involved in a minor ground collision at Los Angeles International Airport on Tuesday when a Delta winglet hit an Air Canada plane.",
+        "url": "https://nypost.com/2026/10/06/us-news/delta-and-air-canada-planes-involved-in-lax-runway-collision/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/comp-9.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-10-06T19:36:00Z",
+        "content": "Two planes collided on the runway at Los Angeles International Airport Tuesday morning.\r\nDelta Air Lines Flight 7 was taxiing for departure when its left wingtip clipped the horizontal stabilizer of \u2026 [+1846 chars]"
+    },
+    {
+        "source": {
             "id": "associated-press",
             "name": "Associated Press"
         },
-        "author": "Stan Choe",
-        "title": "US stocks are rising near their records, with the Nasdaq composite on track for an all-time high - AP News",
-        "description": "U.S. stocks are rising near their records after a couple buyout announcements helped lift the market. The S&P 500 added 0.5% Monday and pulled within 0.5% of its all-time high, which was set during the summer. The Dow Jones Industrial Average dipped 30 points\u2026",
-        "url": "https://apnews.com/article/stock-markets-jobs-fed-rates-inflation-f83cf147deaf5a2361b1ae7eee74a627",
-        "urlToImage": "https://dims.apnews.com/dims4/default/55c63ba/2147483647/strip/true/crop/3321x2213+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2F83%2F9d83bfc2d23d84559ff196f4b1e3%2F1d1a1dbcf045411bbc27b197f5ac52db",
-        "publishedAt": "2026-10-05T16:08:00Z",
-        "content": "NEW YORK (AP) U.S. stocks are rising near their records on Monday after a couple buyout announcements helped lift the market. \r\nThe S&amp;P 500 added 0.5% and pulled within 0.5% of its all-time high,\u2026 [+3815 chars]"
+        "author": "Wyatte Grantham-Philips",
+        "title": "CNN now has a new owner. What will the future of the network be under Skydance? - AP News",
+        "description": "CNN has a new owner: Skydance. After a tumultuous, roughly yearlong process, Skydance-owned Paramount closed its $81 billion buyout of Warner Bros. Discovery on Tuesday. And beyond Hollywood, the mega merger brings two titans of the American TV news landscape\u2026",
+        "url": "https://apnews.com/article/cnn-cbs-skydance-merger-david-ellison-a0b39dd71b3fa6361058357835b2b76e",
+        "urlToImage": "https://dims.apnews.com/dims4/default/b22c062/2147483647/strip/true/crop/3284x2188+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2Fd8%2F25a23ad5243f4750e150c24a5ca6%2Fc9ff27ce769740c89ba3867e2dd009e1",
+        "publishedAt": "2026-10-06T19:23:00Z",
+        "content": "CNN has a new owner: Skydance.\r\nAfter a tumultuous, roughly yearlong process, Skydance-owned Paramount closed its $81 billion buyout of Warner Bros. Discovery on Tuesday. And beyond Hollywood, the me\u2026 [+6623 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Techfundingnews.com"
+            "name": "Yahoo Entertainment"
         },
-        "author": "Abhinaya Prabhu",
-        "title": "Europe\u2019s new robotics unicorn: Germany\u2019s RobCo hits $1B valuation - Tech Funding News",
-        "description": "Munich-based RobCo has surpassed a $1 billion valuation through an employee secondary share sale, doubling its valuation in just nine months",
-        "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-        "urlToImage": "https://techfundingnews.com/wp-content/uploads/2026/01/RobCo.jpg",
-        "publishedAt": "2026-10-05T15:29:08Z",
-        "content": "<ul><li>Munich-based RobCo has surpassed a $1 billion valuation through an employee secondary share sale, doubling its valuation in just nine months.</li></ul><ul><li>Existing investors including Seq\u2026 [+4226 chars]"
+        "author": "Rory Halperin",
+        "title": "There are thousands of discounts at the Walmart Deals event \u2014 here are the 17 our editors are eyeing - Yahoo",
+        "description": "From comfy fall sweaters to a bestselling Bissell vacuum, these are the can't-miss finds we're adding to our carts ASAP.",
+        "url": "https://shopping.yahoo.com/deals/breaking-news/article/there-are-thousands-of-discounts-at-the-walmart-deals-event--here-are-the-17-our-editors-are-eyeing-202040199.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/170abb28f0db07fa39a1ed5a492d3e37e54f0a051bb005bbba0eb31f7e8b6028/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcenter-frame-2_3559.png",
+        "publishedAt": "2026-10-06T18:49:05Z",
+        "content": "This story is sponsored by Walmart.\r\nAs a shopping editor, friends and family have a lot of questions for me during big sale events: \"Should I buy now or wait?\" or \"Which deals are too good to pass u\u2026 [+10048 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "WYFF4 Greenville"
+            "name": "Fox Business"
         },
-        "author": "Annie Jennemann",
-        "title": "Home affordability gap for first-time buyers widens as costs rise - WYFF",
-        "description": "Most young buyers can't afford a typical starter home, and about 80% of metro areas fall below affordability for first-time buyers.",
-        "url": "https://www.wyff4.com/article/starter-home-costs-first-time-buyers/73981709",
-        "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/0665dd51-886e-4016-b432-f1e56aa64508.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-        "publishedAt": "2026-10-05T14:36:57Z",
-        "content": "WASHINGTONAs the rise in home prices outpaces income, many first-time buyers don't earn enough to afford a starter home.\r\nThe latest data from the National Association of Realtors showed that the mon\u2026 [+2416 chars]"
+        "author": "Bradford Betz",
+        "title": "Starbucks sued for allegedly mislabeling 'sugar-free' protein drinks - Fox Business",
+        "description": "A proposed class-action lawsuit alleges eight Starbucks \"Sugar-Free\" protein beverages contain 13 to 21 grams of sugar",
+        "url": "https://www.foxbusiness.com/lifestyle/starbucks-sued-allegedly-mislabeling-sugar-free-protein-drinks",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/0/0/starbucks-.jpg?ve=1&tl=1",
+        "publishedAt": "2026-10-06T18:00:00Z",
+        "content": "Starbucks is facing a proposed class-action lawsuit alleging the coffee giant misleadingly markets eight protein beverages as \"Sugar-Free\" despite the drinks containing naturally occurring sugar from\u2026 [+4365 chars]"
     },
     {
         "source": {
@@ -44,77 +70,25 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "C.H. Robinson to Buy RXO for About $5.3 Billion - WSJ",
+        "title": "Stock Market Today: S&P 500 Hits New Record High - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/business/deals/c-h-robinson-to-buy-rxo-for-about-5-billion-80a73ba1",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026",
         "urlToImage": null,
-        "publishedAt": "2026-10-05T14:12:00Z",
+        "publishedAt": "2026-10-06T18:00:00Z",
         "content": null
     },
     {
         "source": {
-            "id": null,
-            "name": "STAT"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Bob Herman",
-        "title": "Hospital and pharmaceutical prices are smothering America\u2019s businesses - statnews.com",
-        "description": "Workers and employers are drowning in their health insurance premiums. The reason for that deluge: the health care industry\u2019s high and inscrutable prices.",
-        "url": "https://www.statnews.com/2026/10/05/hospital-bills-drug-prices-insurance-premiums-spiral-part-5-out-of-pocket-series/",
-        "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/10/260921_GK_GerardAnderson009-2-1024x576.jpg",
-        "publishedAt": "2026-10-05T13:50:59Z",
-        "content": "Workers and employers are drowning in their health insurance premiums. The reason for that deluge: the health care industrys high and inscrutable prices.\r\nHealth insurers dont set their premiums in a\u2026 [+1030 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "George Glover",
-        "title": "Intel Stock Drops as Elon Musk Signals Setback for the Chip Maker - Barron's",
-        "description": "Intel stock takes a hit after SpaceX and Tesla CEO Elon Musk signals rival Taiwan Semi may muscle into his Terafab chip venture.",
-        "url": "https://www.barrons.com/articles/intel-stock-musk-spacex-tesla-chips-313b87c6",
-        "urlToImage": "https://images.barrons.com/im-35906748/social",
-        "publishedAt": "2026-10-05T13:50:00Z",
-        "content": "Japan, Europe, and the U.S. were feeling the fallout from France, where yields on its benchmark 10-year note climbed closer to 5%, the highest since 2002."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Seeking Alpha"
-        },
-        "author": "Preeti Singh",
-        "title": "Most shorted stocks on Wall Street - Seeking Alpha",
-        "description": "October short interest watchlist: 39 heavily shorted mid- to mega-cap stocks (biotech, AI, crypto) plus top names\u2014see the list and track.",
-        "url": "https://seekingalpha.com/news/4650074-most-shorted-stocks-on-wall-street",
-        "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/504904265/image_504904265.jpg?io=getty-c-w630",
-        "publishedAt": "2026-10-05T13:35:10Z",
-        "content": "abluecup\r\nAs October begins, investors are keeping a close eye on heavily shorted stocks that could see heightened volatility.\r\nThe latest mid- to mega-cap screen shows 39 stocks with short interest \u2026 [+124 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": "Peter White, Jill Goldsmith",
-        "title": "Paramount WBD Executive Structure Unveiled As Deal Set To Close - Deadline",
-        "description": "This comes a year after Paramount explored a deal to acquire Warner Bros. Discovery, a month after Skydance closed its deal to buy Paramount.",
-        "url": "http://deadline.com/2026/10/paramount-wbd-executive-structure-org-chart-1237143859/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Casey-Bloys-George-Cheeks-Dana-Goldberg-Josh-Greenstein-James-Gunn-Peter-Safran-JB-Perette-Mark-Thompson-Bari-Weiss.jpg?w=1024",
-        "publishedAt": "2026-10-05T13:11:00Z",
-        "content": "After a year of negotiations, false starts, and internal and external politicking, the question of who will run the combined media and entertainment giant created by Paramount acquiring Warner Bros. \u2026 [+6519 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WGN TV Chicago"
-        },
-        "author": "wgntv.com",
-        "title": "Nationwide Gatorade recall receives risk warning: FDA - wgntv.com",
-        "description": null,
-        "url": "https://wgntv.com/news/nationwide-gatorade-recall-receives-risk-warning-fda/",
-        "urlToImage": null,
-        "publishedAt": "2026-10-05T12:59:01Z",
-        "content": null
+        "author": "Chris Hacker",
+        "title": "Kratom, an opioid-like drug linked to deaths, remains legal in most states - The Washington Post",
+        "description": "The deaths of two college students have renewed calls to ban the addictive drug.",
+        "url": "https://www.washingtonpost.com/nation/2026/10/06/kratom-an-opioid-like-drug-linked-deaths-remains-legal-most-states/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TQGH6LHZFAVMF4GONDZ2IT7UN4.jpg&w=1440",
+        "publishedAt": "2026-10-06T16:18:10Z",
+        "content": "The deaths of two University of Mississippi students potentially linked to synthetic kratom triggered renewed calls to ban the addictive drug. But it remains legal, both federally and in most states,\u2026 [+195 chars]"
     },
     {
         "source": {
@@ -122,25 +96,12 @@
             "name": "Investor's Business Daily"
         },
         "author": null,
-        "title": "Elon Musk Proposes Renaming SpaceX Unit To Match Trump's View On AI - Investor's Business Daily",
-        "description": "SpaceX CEO Elon Musk said the company will rename its xAI business to conform with President Donald Trump's name for AI.",
-        "url": "https://www.investors.com/news/spacex-elon-musk-donald-trump-ai-openai-anthropic/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/03/Stock-SpaceX-magnif-adobe.jpg",
-        "publishedAt": "2026-10-05T12:56:00Z",
+        "title": "Seagate And Western Digital Stocks Fall. There's A New Twist To Toshiba Competition Fears. - Investor's Business Daily",
+        "description": "Seagate stock and Western Digital slumped further after Bloomberg reported there's a bidding war for a maker of hard-disk drive components.",
+        "url": "https://www.investors.com/news/technology/seagate-stock-western-digital-stock-toshiba-tdk-hard-disk-drives-ai/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2018/09/Stock-Seagate-04-Company.jpg",
+        "publishedAt": "2026-10-06T16:12:00Z",
         "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Brian Stelter",
-        "title": "Mark Thompson to remain CNN chairman as Ellisons take control of Warner Bros. Discovery - CNN",
-        "description": "Mark Thompson, who has led CNN for the past three years, will remain at the helm as the Ellison family acquires the news network\u2019s parent company, Warner Bros. Discovery.",
-        "url": "https://www.cnn.com/2026/10/05/media/cnn-ellison-mark-thompson-paramount-skydance-wbd",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2153092202-copy.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-10-05T12:52:29Z",
-        "content": "Mark Thompson, who has led CNN for the past three years, will remain at the helm as the Ellison family acquires the news networks parent company, Warner Bros. Discovery.\r\nWith the merger of Paramount\u2026 [+6492 chars]"
     },
     {
         "source": {
@@ -148,11 +109,11 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Exclusive | GE HealthCare to Buy Sofie for Nearly $1 Billion to Grow Medical-Imaging Business - WSJ",
+        "title": "A Data-Center Crunch is Coming - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/health/healthcare/ge-healthcare-to-buy-sofie-for-nearly-1-billion-to-grow-medical-imaging-business-cfca0318",
+        "url": "https://www.wsj.com/tech/ai/a-data-center-crunch-is-coming-58fcad64",
         "urlToImage": null,
-        "publishedAt": "2026-10-05T12:35:00Z",
+        "publishedAt": "2026-10-06T16:00:00Z",
         "content": null
     },
     {
@@ -160,39 +121,104 @@
             "id": null,
             "name": "CNBC"
         },
-        "author": "Michael Wayland",
-        "title": "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers' - CNBC",
-        "description": "Hybrids are growing in popularity, as sales of the vehicles keep climbing.",
-        "url": "https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/102610030-107210413.jpg?v=1429714716&w=1920&h=1080",
-        "publishedAt": "2026-10-05T12:30:01Z",
-        "content": "2024 Chevrolet Corvette E-Ray hybrid sports car\r\nDETROIT General Motors plans to introduce hybrid models into its U.S. lineup as sales of the vehicles continue to grow amid inflated gas prices and a \u2026 [+4737 chars]"
+        "author": "Leslie Josephs",
+        "title": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets - CNBC",
+        "description": "British Airways is ripping out coach-class seats and building a giant premium economy and business class in a bet on the high-end travel boom.",
+        "url": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108373389-1791300011182-British_Airways-British_Airways-evolution_of_its_Club_Suite-1280x721-ref211884.jpg?v=1791309066&w=1920&h=1080",
+        "publishedAt": "2026-10-06T15:40:05Z",
+        "content": "British Airways is building what it calls the \"world's largest\" business-class cabin and ripping out dozens of coach-class seats, the starkest example yet of how airlines are betting their future on \u2026 [+1772 chars]"
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Emily Peck",
-        "title": "Why France's debt crisis matters - Axios",
-        "description": "The situation is drawing comparisons to the sovereign debt crises that roiled Europe more than a decade ago.",
-        "url": "https://www.axios.com/2026/10/05/france-debt-yields-politics",
-        "urlToImage": "https://images.axios.com/r5DotZw4Qfwv7UuCJz3lvC2DUIM=/0x0:1920x1080/1366x768/2026/10/02/1790959904351.jpeg",
-        "publishedAt": "2026-10-05T11:00:49Z",
-        "content": "Where it stands: Yields on government debt are rising across Europe and in the U.S., but the situation in France is worse.\r\n<ul><li>Investors are demanding higher yields to hold French debt, compared\u2026 [+3035 chars]"
+        "author": "Emma Burleigh",
+        "title": "Elon Musk is a trillionaire again\u2014and he'd still be the richest person on the planet even if he gave everyone $90 - Fortune",
+        "description": "Musk could buy everyone on the planet a pair of Apple AirPods or Levi\u2019s jeans, and he\u2019d still be the world\u2019s richest with $298 billion.",
+        "url": "https://fortune.com/2026/10/06/elon-musk-trillionaire-again-still-be-richest-person-on-planet-gave-everyone-90/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2158243807-e1791299358315.jpg?resize=1200,600",
+        "publishedAt": "2026-10-06T15:17:00Z",
+        "content": "Elon Musk is a trillionaire again following a surge in SpaceX stock. Hes the richest person in the world by a landslideand even if he were to give everyone in the world a chunk of his fortune, hed st\u2026 [+3586 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "KOMO News"
         },
-        "author": "Leslie Josephs",
-        "title": "Why airfares could rise even more, but airline profits won't - CNBC",
-        "description": "Airlines are trimming capacity as jet fuel prices keep climbing and travelers keep booking.",
-        "url": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108300006-1777561346540-gettyimages-2272481063-260425_sangas_044.jpeg?v=1790982120&w=1920&h=1080",
-        "publishedAt": "2026-10-05T11:00:01Z",
-        "content": "Gas prices are displayed at a Shell gas station as an airplane approaches San Diego International Airport in California, April 24, 2026.\r\nVolatile fuel prices and resilient travel demand are threaten\u2026 [+5853 chars]"
+        "author": "JESSICA A. BOTELHO | The National News Desk",
+        "title": "Drunk woman allegedly masturbated & made 'inappropriate sounds' during flight: report - KOMO",
+        "description": "A Maryland woman is reportedly under FBI review after authorities said she removed her pants and engaged in a sexual act during an American Airlines flight.",
+        "url": "https://komonews.com/news/nation-world/drunk-woman-allegedly-masturbated-made-inappropriate-sounds-during-flight-report-american-airplanes-plane-maryland-florida-boston-alcohol-drinking-intoxication-fbi-review-miami-international-airport",
+        "urlToImage": "https://komonews.com/resources/media2/16x9/4721/1320/497x1/90/48ab8c8a-e8de-464f-a151-af6510254ba2-GettyImages2246419760.jpg",
+        "publishedAt": "2026-10-06T15:08:05Z",
+        "content": "MIAMI (TNND) A Maryland woman is reportedly under FBI review after authorities said she removed her pants and engaged in a sexual act during an American Airlines flight from Baltimore to Miami. \r\nKat\u2026 [+1273 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": null,
+        "title": "2 S&P 500 AI Nuclear Energy Plays Soar Above Key Resitance - Investor's Business Daily",
+        "description": "A $4.2 billion federal loan will help Vistra upgrade nuclear plants in 2 states.",
+        "url": "https://www.investors.com/news/vistra-stock-pops-4-billion-fed-financing-nuclear-stocks-rally/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/05/stock-vistra-power-company.jpg",
+        "publishedAt": "2026-10-06T15:07:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "U.S. Trade Deficit Widens to Largest Level in More Than a Year - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/economy/trade/u-s-trade-deficit-widens-to-largest-level-in-more-than-a-year-32618af7",
+        "urlToImage": null,
+        "publishedAt": "2026-10-06T14:48:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Al Root",
+        "title": "SpaceX Stock Keeps Getting \u2018Cheaper and Cheaper\u2019 - Barron's",
+        "description": "Morgan Stanley analyst Adam Jonas reiterates his bullish view of SpaceX in a recent Wall Street research report.",
+        "url": "https://www.barrons.com/articles/spacex-stock-is-cheap-576fe803",
+        "urlToImage": "https://images.barrons.com/im-98519982/social",
+        "publishedAt": "2026-10-06T14:02:00Z",
+        "content": "A Redburn analyst sees opportunities for Lockheed Martin, Northrop Grumman, and Kratos as militaries invest in advanced weapons and lower-cost technology."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "McKesson and CD&R strike $5.8bn deal to buy infusion services provider - Financial Times",
+        "description": "Acquisition of Option Care Health is latest buyout of a healthcare services company trading below historic valuation multiples",
+        "url": "https://www.ft.com/content/0bc54eaf-d545-4591-bb7c-ec3cbc1cb89a?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31cb4eaa-1cad-40ac-a2fb-3021884a51b6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-10-06T13:52:19Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Brody Ford, Dina Bass, Will Wade",
+        "title": "Google, Constellation Energy Strike Deal for Nuclear Power - Bloomberg.com",
+        "description": "Google parent Alphabet Inc. agreed to buy nuclear power from Constellation Energy Corp. in a deal that will spur the addition of 890 megawatts of new reactor capacity. The power producer\u2019s stock soared.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-06/google-constellation-near-billion-dollar-deal-for-nuclear-power",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inujQaItYdt4/v0/1200x800.jpg",
+        "publishedAt": "2026-10-06T13:43:16Z",
+        "content": "Google parent Alphabet Inc. agreed to buy nuclear power from Constellation Energy Corp. in a deal that will spur the addition of 890 megawatts of new reactor capacity. The power producers stock soare\u2026 [+373 chars]"
     },
     {
         "source": {
@@ -200,37 +226,24 @@
             "name": "Fox News"
         },
         "author": null,
-        "title": "Nike CEO may have just admitted the company went too woke as stock hits 12-year low - Fox News",
-        "description": "Nike CEO Elliott Hill's memo acknowledged the need to refocus on sport after years of political campaigns featuring Colin Kaepernick and others.",
-        "url": "https://www.foxnews.com/outkick-sports/nike-ceo-may-have-admitted-company-went-woke-stock-hits-12-year-low",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/colin-kaepernick-nike-ad-campaign.jpg",
-        "publishedAt": "2026-10-05T10:47:16Z",
-        "content": "The Nike CEO's memo to his\u00a0employees was 860 words.\u00a0\r\nBut here were the 33 that stuck out: \"Over the past year, we've put sport at the center of everything we do. We're seeing encouraging signs of pr\u2026 [+4454 chars]"
+        "title": "Millions saved by blocking dead people payouts as Trump Treasury drops hammer on federal fraud - Fox News",
+        "description": "Treasury's \"Do Not Pay\" program screened over 1.1 billion payments worth $3.7 trillion, catching 13,500 improper payments to deceased people.",
+        "url": "https://www.foxnews.com/politics/millions-saved-blocking-dead-people-payouts-trump-treasury-drops-hammer-federal-fraud",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/bessent-trump-talk.png",
+        "publishedAt": "2026-10-06T13:00:50Z",
+        "content": "FIRST ON FOX: The Treasury Department blocked $175 million in federal payments tied to deceased recipients in fiscal year 2026, up sharply from the $99 million identified just months earlier as the T\u2026 [+4165 chars]"
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": "ars-technica",
+            "name": "Ars Technica"
         },
-        "author": "Dylan Sloan, Jack Witzig",
-        "title": "The Only Billionaires Making Money This Year Are In Tech - Bloomberg.com",
-        "description": "If 2026 feels like a banner year for the world\u2019s tech billionaires, the numbers bear it out.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-05/bloomberg-billionaires-index-ai-boom-puts-musk-zuckerberg-in-top-10-of-ranking",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4HBUNEX2F.c/v1/1200x800.jpg",
-        "publishedAt": "2026-10-05T10:30:00Z",
-        "content": "If 2026 feels like a banner year for the worlds tech billionaires, the numbers bear it out.\r\nThe roughly 100 technology fortunes among the worlds 500 richest people gained a combined $845 billion thr\u2026 [+111 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Hugh Leask",
-        "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system - CNBC",
-        "description": "Beijing shuttered 670 mainly rural banks last year in a bid to create fewer, larger and better-capitalized lenders.",
-        "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107315141-1697028387928-gettyimages-1415687424-yuanybandera1.jpeg?v=1699958546&w=1920&h=1080",
-        "publishedAt": "2026-10-05T10:20:38Z",
-        "content": "China is accelerating its consolidation of smaller, mostly rural banks in a bid to shore up its financial system, amid ongoing concerns over an economic slowdown in the country.\r\nBeijing's policy-led\u2026 [+1571 chars]"
+        "author": "Dan Goodin",
+        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic - Ars Technica",
+        "description": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
+        "publishedAt": "2026-10-06T12:21:53Z",
+        "content": null
     }
 ]
