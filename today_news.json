@@ -1,210 +1,93 @@
 [
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Zoe Malin",
-        "title": "We\u2019re live tracking the best October Prime Day deals \u2014 these 113+ are worth shopping - NBC News",
-        "description": "NBC Selected editors are tracking the best October Prime Day deals live, with prices and recommendations updated throughout the event. Here\u2019s what\u2019s worth buying.",
-        "url": "https://www.nbcnews.com/select/shopping/october-prime-day-deals-2026-rcna601203",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/260930-prime-day-hero-kb-social-v1-02d59f.jpg",
-        "publishedAt": "2026-10-06T19:45:11Z",
-        "content": "October Prime Day (technically called Prime Big Deal Days) is happening now through October 7, offering discounts across categories, exclusive to Prime members. Some of the top newly added deals are \u2026 [+22793 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Sheetal Banchariya",
-        "title": "Planes collide on LAX runway - New York Post",
-        "description": "Two planes were involved in a minor ground collision at Los Angeles International Airport on Tuesday when a Delta winglet hit an Air Canada plane.",
-        "url": "https://nypost.com/2026/10/06/us-news/delta-and-air-canada-planes-involved-in-lax-runway-collision/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/comp-9.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-10-06T19:36:00Z",
-        "content": "Two planes collided on the runway at Los Angeles International Airport Tuesday morning.\r\nDelta Air Lines Flight 7 was taxiing for departure when its left wingtip clipped the horizontal stabilizer of \u2026 [+1846 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Wyatte Grantham-Philips",
-        "title": "CNN now has a new owner. What will the future of the network be under Skydance? - AP News",
-        "description": "CNN has a new owner: Skydance. After a tumultuous, roughly yearlong process, Skydance-owned Paramount closed its $81 billion buyout of Warner Bros. Discovery on Tuesday. And beyond Hollywood, the mega merger brings two titans of the American TV news landscape\u2026",
-        "url": "https://apnews.com/article/cnn-cbs-skydance-merger-david-ellison-a0b39dd71b3fa6361058357835b2b76e",
-        "urlToImage": "https://dims.apnews.com/dims4/default/b22c062/2147483647/strip/true/crop/3284x2188+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2Fd8%2F25a23ad5243f4750e150c24a5ca6%2Fc9ff27ce769740c89ba3867e2dd009e1",
-        "publishedAt": "2026-10-06T19:23:00Z",
-        "content": "CNN has a new owner: Skydance.\r\nAfter a tumultuous, roughly yearlong process, Skydance-owned Paramount closed its $81 billion buyout of Warner Bros. Discovery on Tuesday. And beyond Hollywood, the me\u2026 [+6623 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Rory Halperin",
-        "title": "There are thousands of discounts at the Walmart Deals event \u2014 here are the 17 our editors are eyeing - Yahoo",
-        "description": "From comfy fall sweaters to a bestselling Bissell vacuum, these are the can't-miss finds we're adding to our carts ASAP.",
-        "url": "https://shopping.yahoo.com/deals/breaking-news/article/there-are-thousands-of-discounts-at-the-walmart-deals-event--here-are-the-17-our-editors-are-eyeing-202040199.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/170abb28f0db07fa39a1ed5a492d3e37e54f0a051bb005bbba0eb31f7e8b6028/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcenter-frame-2_3559.png",
-        "publishedAt": "2026-10-06T18:49:05Z",
-        "content": "This story is sponsored by Walmart.\r\nAs a shopping editor, friends and family have a lot of questions for me during big sale events: \"Should I buy now or wait?\" or \"Which deals are too good to pass u\u2026 [+10048 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Bradford Betz",
-        "title": "Starbucks sued for allegedly mislabeling 'sugar-free' protein drinks - Fox Business",
-        "description": "A proposed class-action lawsuit alleges eight Starbucks \"Sugar-Free\" protein beverages contain 13 to 21 grams of sugar",
-        "url": "https://www.foxbusiness.com/lifestyle/starbucks-sued-allegedly-mislabeling-sugar-free-protein-drinks",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/0/0/starbucks-.jpg?ve=1&tl=1",
-        "publishedAt": "2026-10-06T18:00:00Z",
-        "content": "Starbucks is facing a proposed class-action lawsuit alleging the coffee giant misleadingly markets eight protein beverages as \"Sugar-Free\" despite the drinks containing naturally occurring sugar from\u2026 [+4365 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Stock Market Today: S&P 500 Hits New Record High - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026",
-        "urlToImage": null,
-        "publishedAt": "2026-10-06T18:00:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Chris Hacker",
-        "title": "Kratom, an opioid-like drug linked to deaths, remains legal in most states - The Washington Post",
-        "description": "The deaths of two college students have renewed calls to ban the addictive drug.",
-        "url": "https://www.washingtonpost.com/nation/2026/10/06/kratom-an-opioid-like-drug-linked-deaths-remains-legal-most-states/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TQGH6LHZFAVMF4GONDZ2IT7UN4.jpg&w=1440",
-        "publishedAt": "2026-10-06T16:18:10Z",
-        "content": "The deaths of two University of Mississippi students potentially linked to synthetic kratom triggered renewed calls to ban the addictive drug. But it remains legal, both federally and in most states,\u2026 [+195 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Seagate And Western Digital Stocks Fall. There's A New Twist To Toshiba Competition Fears. - Investor's Business Daily",
-        "description": "Seagate stock and Western Digital slumped further after Bloomberg reported there's a bidding war for a maker of hard-disk drive components.",
-        "url": "https://www.investors.com/news/technology/seagate-stock-western-digital-stock-toshiba-tdk-hard-disk-drives-ai/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2018/09/Stock-Seagate-04-Company.jpg",
-        "publishedAt": "2026-10-06T16:12:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "A Data-Center Crunch is Coming - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/tech/ai/a-data-center-crunch-is-coming-58fcad64",
-        "urlToImage": null,
-        "publishedAt": "2026-10-06T16:00:00Z",
-        "content": null
+        "author": "Grace O'Donnell",
+        "title": "Stock market today: Dow falls 500 points, S&P 500 and Nasdaq retreat from records as Treasury yields hit 24-year high - Yahoo Finance",
+        "description": "US stocks fell Wednesday morning as investors awaited minutes from the Fed's September meeting.",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/88a72f5134ca394086098603458678a3a651cb0d794bcbae1bd125b2d7e7bb37/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F0ff40c2f-a6ff-4817-87df-900133f75e15",
+        "publishedAt": "2026-10-07T18:12:23Z",
+        "content": "US stocks fell on Wednesday morning as global bond yields rose, while investors assessed the minutes from the Federal Reserve's September meeting.\r\nThe Dow Jones Industrial Average (^DJI\r\n) dropped 0\u2026 [+12097 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Leslie Josephs",
-        "title": "British Airways plans record 106-seat business class on Airbus A380 jumbo jets - CNBC",
-        "description": "British Airways is ripping out coach-class seats and building a giant premium economy and business class in a bet on the high-end travel boom.",
-        "url": "https://www.cnbc.com/2026/10/06/british-airways-business-class-a380.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108373389-1791300011182-British_Airways-British_Airways-evolution_of_its_Club_Suite-1280x721-ref211884.jpg?v=1791309066&w=1920&h=1080",
-        "publishedAt": "2026-10-06T15:40:05Z",
-        "content": "British Airways is building what it calls the \"world's largest\" business-class cabin and ripping out dozens of coach-class seats, the starkest example yet of how airlines are betting their future on \u2026 [+1772 chars]"
+        "author": "Jeff Cox",
+        "title": "Fed officials see another hike coming, but no sign as to when, minutes show - CNBC",
+        "description": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
+        "url": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363920-1789584172531-gettyimages-2295044570-WARSH_FOMC.jpeg?v=1789584195&w=1920&h=1080",
+        "publishedAt": "2026-10-07T18:00:37Z",
+        "content": "Federal Reserve officials expect they will raise interest rates again before the end of the year to head off inflation that has run above target for more than five years, according to meeting minutes\u2026 [+3768 chars]"
     },
     {
         "source": {
-            "id": "fortune",
-            "name": "Fortune"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Emma Burleigh",
-        "title": "Elon Musk is a trillionaire again\u2014and he'd still be the richest person on the planet even if he gave everyone $90 - Fortune",
-        "description": "Musk could buy everyone on the planet a pair of Apple AirPods or Levi\u2019s jeans, and he\u2019d still be the world\u2019s richest with $298 billion.",
-        "url": "https://fortune.com/2026/10/06/elon-musk-trillionaire-again-still-be-richest-person-on-planet-gave-everyone-90/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2158243807-e1791299358315.jpg?resize=1200,600",
-        "publishedAt": "2026-10-06T15:17:00Z",
-        "content": "Elon Musk is a trillionaire again following a surge in SpaceX stock. Hes the richest person in the world by a landslideand even if he were to give everyone in the world a chunk of his fortune, hed st\u2026 [+3586 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KOMO News"
-        },
-        "author": "JESSICA A. BOTELHO | The National News Desk",
-        "title": "Drunk woman allegedly masturbated & made 'inappropriate sounds' during flight: report - KOMO",
-        "description": "A Maryland woman is reportedly under FBI review after authorities said she removed her pants and engaged in a sexual act during an American Airlines flight.",
-        "url": "https://komonews.com/news/nation-world/drunk-woman-allegedly-masturbated-made-inappropriate-sounds-during-flight-report-american-airplanes-plane-maryland-florida-boston-alcohol-drinking-intoxication-fbi-review-miami-international-airport",
-        "urlToImage": "https://komonews.com/resources/media2/16x9/4721/1320/497x1/90/48ab8c8a-e8de-464f-a151-af6510254ba2-GettyImages2246419760.jpg",
-        "publishedAt": "2026-10-06T15:08:05Z",
-        "content": "MIAMI (TNND) A Maryland woman is reportedly under FBI review after authorities said she removed her pants and engaged in a sexual act during an American Airlines flight from Baltimore to Miami. \r\nKat\u2026 [+1273 chars]"
+        "author": "Cameron Faulkner, Brad Bourque",
+        "title": "The best October Prime Day deals from Apple, Sony, Google, and more - The Verge",
+        "description": "Amazon Prime Big Deal Days is now into day two, lasting through October 8th at 3AM ET, and we\u2019ve found nearly 100 tech deals we think Verge readers will love.",
+        "url": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268775_October_Prime_Day_DAY_2_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-10-07T17:45:47Z",
+        "content": "Ending soon<ul><li></li><li></li><li></li></ul>\r\nOur team is focused on finding new ways to save during the second (and final) day of the sale.\r\nOur team is focused on finding new ways to save during\u2026 [+2447 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Investor's Business Daily"
+            "name": "CNBC"
         },
-        "author": null,
-        "title": "2 S&P 500 AI Nuclear Energy Plays Soar Above Key Resitance - Investor's Business Daily",
-        "description": "A $4.2 billion federal loan will help Vistra upgrade nuclear plants in 2 states.",
-        "url": "https://www.investors.com/news/vistra-stock-pops-4-billion-fed-financing-nuclear-stocks-rally/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/05/stock-vistra-power-company.jpg",
-        "publishedAt": "2026-10-06T15:07:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+        "author": "Brandon Gomez",
+        "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens - CNBC",
+        "description": "Constellation Brands beat earnings and revenue expectations as beer brands gained share, while inventory rebuilding and consumer caution clouded demand.",
+        "url": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108104289-17399715182025-02-18t160441z_1704028396_rc2uwcacnx1r_rtrmadp_0_usa-trump-tariffs-mexico.jpeg?v=1739971599&w=1920&h=1080",
+        "publishedAt": "2026-10-07T16:38:08Z",
+        "content": "Constellation Brands beat quarterly earnings and revenue expectations as its beer brands gained market share, but continued consumer caution tempered results.\r\nAs it navigates high food and fuel pric\u2026 [+4937 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Eleanor Duncan, Reshmi Basu, Katherine Schwartz",
+        "title": "Paramount\u2019s Monster Debt Deal Offers Few Safeguards to Investors - Bloomberg.com",
+        "description": "Bond investors backing David Ellison\u2019s audacious $110 billion takeover of Warner Bros. Discovery Inc. are making a bold bet of their own \u2014 lending tens of billions of dollars while forgoing many of the legal safeguards typical in debt-laden buyouts.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-07/paramount-s-monster-debt-deal-offers-few-safeguards-to-investors",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYBBHnycgKHA/v1/1200x800.jpg",
+        "publishedAt": "2026-10-07T16:30:52Z",
+        "content": "Bond investors backing David Ellisons audacious $110 billion takeover of Warner Bros. Discovery Inc. are making a bold bet of their own lending tens of billions of dollars while forgoing many of the \u2026 [+316 chars]"
+    },
+    {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Jonathan M. Gitlin",
+        "title": "Jaguar makes its controversial all-EV return with the Type 01 - Ars Technica",
+        "description": "Car design sure riles people up on the Internet these days. Goes double for EVs.",
+        "url": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ext_Macro_Headlight_Blue-1152x648.jpg",
+        "publishedAt": "2026-10-07T15:48:01Z",
+        "content": null
     },
     {
         "source": {
             "id": "the-wall-street-journal",
             "name": "The Wall Street Journal"
         },
-        "author": "WSJ",
-        "title": "U.S. Trade Deficit Widens to Largest Level in More Than a Year - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/economy/trade/u-s-trade-deficit-widens-to-largest-level-in-more-than-a-year-32618af7",
-        "urlToImage": null,
-        "publishedAt": "2026-10-06T14:48:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Al Root",
-        "title": "SpaceX Stock Keeps Getting \u2018Cheaper and Cheaper\u2019 - Barron's",
-        "description": "Morgan Stanley analyst Adam Jonas reiterates his bullish view of SpaceX in a recent Wall Street research report.",
-        "url": "https://www.barrons.com/articles/spacex-stock-is-cheap-576fe803",
-        "urlToImage": "https://images.barrons.com/im-98519982/social",
-        "publishedAt": "2026-10-06T14:02:00Z",
-        "content": "A Redburn analyst sees opportunities for Lockheed Martin, Northrop Grumman, and Kratos as militaries invest in advanced weapons and lower-cost technology."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "McKesson and CD&R strike $5.8bn deal to buy infusion services provider - Financial Times",
-        "description": "Acquisition of Option Care Health is latest buyout of a healthcare services company trading below historic valuation multiples",
-        "url": "https://www.ft.com/content/0bc54eaf-d545-4591-bb7c-ec3cbc1cb89a?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31cb4eaa-1cad-40ac-a2fb-3021884a51b6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-10-06T13:52:19Z",
+        "author": "Dylan Tokar",
+        "title": "Exclusive | Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership - WSJ",
+        "description": "Trump\u2019s Housing and Urban Development seeks to crack down on race-based lending, calling it a potential violation of Fair Housing Act",
+        "url": "https://www.wsj.com/finance/banking/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-a337b46e",
+        "urlToImage": "https://images.wsj.net/im-88246066/social",
+        "publishedAt": "2026-10-07T15:40:00Z",
         "content": null
     },
     {
@@ -212,38 +95,129 @@
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Brody Ford, Dina Bass, Will Wade",
-        "title": "Google, Constellation Energy Strike Deal for Nuclear Power - Bloomberg.com",
-        "description": "Google parent Alphabet Inc. agreed to buy nuclear power from Constellation Energy Corp. in a deal that will spur the addition of 890 megawatts of new reactor capacity. The power producer\u2019s stock soared.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-06/google-constellation-near-billion-dollar-deal-for-nuclear-power",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inujQaItYdt4/v0/1200x800.jpg",
-        "publishedAt": "2026-10-06T13:43:16Z",
-        "content": "Google parent Alphabet Inc. agreed to buy nuclear power from Constellation Energy Corp. in a deal that will spur the addition of 890 megawatts of new reactor capacity. The power producers stock soare\u2026 [+373 chars]"
+        "author": "Caleb Mutua",
+        "title": "SpaceX Credit-Risk Gauge Hits Fresh High on Fundraising Reports - Bloomberg.com",
+        "description": "A measure of SpaceX\u2019s credit risk surged to a fresh high and the company\u2019s bonds weakened in the secondary market on Wednesday, following reports the company is in talks with banks and investors to raise $40 billion to buy chips from Nvidia Corp.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-07/spacex-credit-risk-gauge-hits-record-high-on-fundraising-reports",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKo29UjSwbfg/v0/1200x800.jpg",
+        "publishedAt": "2026-10-07T15:02:03Z",
+        "content": "A measure of SpaceXs credit risk surged to a fresh high and the companys bonds weakened in the secondary market on Wednesday, following reports the company is in talks with banks and investors to rai\u2026 [+427 chars]"
     },
     {
         "source": {
-            "id": "fox-news",
-            "name": "Fox News"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": null,
-        "title": "Millions saved by blocking dead people payouts as Trump Treasury drops hammer on federal fraud - Fox News",
-        "description": "Treasury's \"Do Not Pay\" program screened over 1.1 billion payments worth $3.7 trillion, catching 13,500 improper payments to deceased people.",
-        "url": "https://www.foxnews.com/politics/millions-saved-blocking-dead-people-payouts-trump-treasury-drops-hammer-federal-fraud",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/bessent-trump-talk.png",
-        "publishedAt": "2026-10-06T13:00:50Z",
-        "content": "FIRST ON FOX: The Treasury Department blocked $175 million in federal payments tied to deceased recipients in fiscal year 2026, up sharply from the $99 million identified just months earlier as the T\u2026 [+4165 chars]"
+        "author": "Jeff Cox",
+        "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023 - CNBC",
+        "description": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+        "url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108374148-1791388061460-108374148-1791387933444-gettyimages-2297102806-US_DIESEL.jpeg?v=1791388074&w=1920&h=1080",
+        "publishedAt": "2026-10-07T15:00:26Z",
+        "content": "Inflation fears intensified in September, pushing the near-term outlook in the New York Federal Reserve's monthly survey to its highest level in nearly 3\u00bd years.\r\nThe central bank's Survey of Consume\u2026 [+2336 chars]"
     },
     {
         "source": {
-            "id": "ars-technica",
-            "name": "Ars Technica"
+            "id": "nbc-news",
+            "name": "NBC News"
         },
-        "author": "Dan Goodin",
-        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic - Ars Technica",
-        "description": "The reports of OpenAI agents harming 3rd party sites keep coming.",
-        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
-        "publishedAt": "2026-10-06T12:21:53Z",
+        "author": "Steve Kopack",
+        "title": "Global bond sell-off pushes U.S. Treasury yields to fresh 24-year highs - NBC News",
+        "description": "The yield on key U.S. Treasury bonds rose to fresh 24-year highs Wednesday, as the latest global bond sell-off picked up steam.",
+        "url": "https://www.nbcnews.com/business/markets/treasury-yields-hit-24-year-highs-global-sell-accelerates-rcna602045",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261007-Treasury-Department-Building-ch-0952-13faef.jpg",
+        "publishedAt": "2026-10-07T14:47:17Z",
+        "content": "The yield on key U.S. Treasury bonds rose to fresh 24-year highs Wednesday, as the latest global bond sell-off picked up steam.\r\nBenchmark government bonds in France and Italy also rose sharply and w\u2026 [+3141 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Rachel Hale, Alyssa Goldberg",
+        "title": "A teen account shared suicidal thoughts with ChatGPT. New protections failed - USA Today",
+        "description": "Researchers tested ChatGPT\u2019s new teen safety protections with teen profiles in crisis. They found gaps in parental alerts and other safeguards.",
+        "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/07/chatgpt-teen-account-safety-features-testing/92133273007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/07/USAT/92133942007-getty-images-844064120.jpg?crop=723,408,x0,y37&width=723&height=408&format=pjpg&auto=webp",
+        "publishedAt": "2026-10-07T14:34:00Z",
+        "content": "Amaras mother died when she was 8. She lives with an abusive father. And now, at 14, shes learned her boyfriend is cheating on her.\u00a0\r\nShe turns to ChatGPT.\u00a0\r\nWhat starts as a conversation about her b\u2026 [+7755 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Bilin Lin",
+        "title": "How much you need to retire in every state after Social Security - Fortune",
+        "description": "There's no magic retirement number. Here's what you need in every state after Social Security.",
+        "url": "https://fortune.com/2026/10/07/how-much-you-need-to-retire-in-every-state-after-social-security/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-1372549405.jpg?resize=1200,600",
+        "publishedAt": "2026-10-07T14:34:00Z",
+        "content": "$1.2 million. Thats how much Americans in workplace retirement plans say theyll need to retire comfortably, according to Schroders 2026 U.S. Retirement Survey.If that number makes you check your 401(\u2026 [+7296 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Ellie Conley",
+        "title": "The Walmart Deals event is heating up, and we're eyeing 25+ discounts that rival October Prime Day - Yahoo",
+        "description": "Major markdowns include a fire pit at the lowest price we've seen in months, over $60 off a Shark vac and a bestselling flannel shirt for just $14.",
+        "url": "https://shopping.yahoo.com/deals/breaking-news/article/the-walmart-deals-event-is-heating-up-and-were-eyeing-25-discounts-that-rival-october-prime-day-150755759.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/99fff8f1a1c418fbede31d5d4ec9ec8492ce346227f62b99821692a913af55a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcopy-of-today-s-best-sales-lead-image-template-9_5076.png",
+        "publishedAt": "2026-10-07T14:30:29Z",
+        "content": "This story is sponsored by Walmart.\r\nAmazon Prime Day may be wrapping up today, but Walmart Deals is still going strong on day two with major markdowns running through Sunday, Oct. 11. I'm taking adv\u2026 [+17470 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Callum Keown",
+        "title": "Intel Stock Defies Chip Slump as Musk Explains SpaceX AI Chip Project - Barron's",
+        "description": "Intel stock was rebounding ahead of the open Wednesday after CEO Lip-Bu Tan and SpaceX\u2019s Elon Musk clarified the company\u2019s role in the gigantic Terafab AI chip project.",
+        "url": "https://www.barrons.com/articles/intel-stock-price-musk-ai-chips-tsmc-087aeb46",
+        "urlToImage": "https://images.barrons.com/im-35906748/social",
+        "publishedAt": "2026-10-07T13:56:00Z",
+        "content": "A widening gap between stock and bond volatility gauges suggests equities could be overlooking inflation, borrowing, and interest-rate risks."
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "They Paid $50,000 and Waited Nine Years. Will Tesla\u2019s Roadster Live Up to the Hype? - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/autos/they-paid-50-000-and-waited-nine-years-will-teslas-roadster-live-up-to-the-hype-fae975c0",
+        "urlToImage": null,
+        "publishedAt": "2026-10-07T13:44:06Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Emma Roth",
+        "title": "Amazon uses its tracking data to guess whether shoppers have a flat butt and no friends - The Verge",
+        "description": "Amazon\u2019s \u201cAbout You\u201d section is going viral after one user found that the ecommerce giant thinks she has \u201cflat buttocks\u201d based on her shopping history.",
+        "url": "https://www.theverge.com/tech/1006712/amazon-about-you-shopping-data",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-10-07T13:40:02Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nSome users have flat buttocks, cannot keep real plants alive, and treat cats as biological children, according to Amazon.\r\nSome users have flat buttocks, cannot \u2026 [+2610 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Chloe Taylor",
+        "title": "France is caught between angry students and unforgiving bond markets - CNBC",
+        "description": "France's student protests took a breather on Wednesday after weeks of unrest, but market pressure on the French government intensified ahead of budget talks.",
+        "url": "https://www.cnbc.com/2026/10/07/french-student-protests-budget-deadlock.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210403-1760076268432-gettyimages-2239147271-AFP_77U3372.jpeg?v=1760076286&w=1920&h=1080",
+        "publishedAt": "2026-10-07T13:23:31Z",
+        "content": "Outgoing French Prime Minister Sebastien Lecornu delivers a statement at the Hotel Matignon in Paris, on Oct. 6, 2025. \r\nFrance's student protests took a breather on Wednesday after weeks of unrest, \u2026 [+5197 chars]"
     }
 ]
