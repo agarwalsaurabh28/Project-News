@@ -1,185 +1,107 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Grace O'Donnell",
-        "title": "Stock market today: Dow falls 500 points, S&P 500 and Nasdaq retreat from records as Treasury yields hit 24-year high - Yahoo Finance",
-        "description": "US stocks fell Wednesday morning as investors awaited minutes from the Fed's September meeting.",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/88a72f5134ca394086098603458678a3a651cb0d794bcbae1bd125b2d7e7bb37/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F0ff40c2f-a6ff-4817-87df-900133f75e15",
-        "publishedAt": "2026-10-07T18:12:23Z",
-        "content": "US stocks fell on Wednesday morning as global bond yields rose, while investors assessed the minutes from the Federal Reserve's September meeting.\r\nThe Dow Jones Industrial Average (^DJI\r\n) dropped 0\u2026 [+12097 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Jeff Cox",
-        "title": "Fed officials see another hike coming, but no sign as to when, minutes show - CNBC",
-        "description": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
-        "url": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363920-1789584172531-gettyimages-2295044570-WARSH_FOMC.jpeg?v=1789584195&w=1920&h=1080",
-        "publishedAt": "2026-10-07T18:00:37Z",
-        "content": "Federal Reserve officials expect they will raise interest rates again before the end of the year to head off inflation that has run above target for more than five years, according to meeting minutes\u2026 [+3768 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Cameron Faulkner, Brad Bourque",
-        "title": "The best October Prime Day deals from Apple, Sony, Google, and more - The Verge",
-        "description": "Amazon Prime Big Deal Days is now into day two, lasting through October 8th at 3AM ET, and we\u2019ve found nearly 100 tech deals we think Verge readers will love.",
-        "url": "https://www.theverge.com/gadgets/1006610/best-amazon-october-prime-day-tech-deals-day-two",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268775_October_Prime_Day_DAY_2_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-10-07T17:45:47Z",
-        "content": "Ending soon<ul><li></li><li></li><li></li></ul>\r\nOur team is focused on finding new ways to save during the second (and final) day of the sale.\r\nOur team is focused on finding new ways to save during\u2026 [+2447 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Brandon Gomez",
-        "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens - CNBC",
-        "description": "Constellation Brands beat earnings and revenue expectations as beer brands gained share, while inventory rebuilding and consumer caution clouded demand.",
-        "url": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108104289-17399715182025-02-18t160441z_1704028396_rc2uwcacnx1r_rtrmadp_0_usa-trump-tariffs-mexico.jpeg?v=1739971599&w=1920&h=1080",
-        "publishedAt": "2026-10-07T16:38:08Z",
-        "content": "Constellation Brands beat quarterly earnings and revenue expectations as its beer brands gained market share, but continued consumer caution tempered results.\r\nAs it navigates high food and fuel pric\u2026 [+4937 chars]"
+        "author": "Josephine Walker",
+        "title": "Trump's foreign worker crackdown comes for Microsoft, Adobe, IT firms - Axios",
+        "description": "The White House is cracking down on a major route to permanent residency.",
+        "url": "https://www.axios.com/2026/10/08/trumps-foreign-worker-crackdown-comes-for-microsoft-adobe-it-firms",
+        "urlToImage": "https://images.axios.com/ZF0LnudPIW9y_aUWP64Y6IV2ueM=/0x72:4105x2381/1366x768/2026/10/08/1791471658703.jpg",
+        "publishedAt": "2026-10-08T15:46:59Z",
+        "content": "What they're saying: \"We want people to invest in the United States of America, particularly the American technology sector,\" Vance said during a Thursday news conference. \r\n<ul><li>\"We're the bigges\u2026 [+2139 chars]"
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Eleanor Duncan, Reshmi Basu, Katherine Schwartz",
-        "title": "Paramount\u2019s Monster Debt Deal Offers Few Safeguards to Investors - Bloomberg.com",
-        "description": "Bond investors backing David Ellison\u2019s audacious $110 billion takeover of Warner Bros. Discovery Inc. are making a bold bet of their own \u2014 lending tens of billions of dollars while forgoing many of the legal safeguards typical in debt-laden buyouts.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-07/paramount-s-monster-debt-deal-offers-few-safeguards-to-investors",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYBBHnycgKHA/v1/1200x800.jpg",
-        "publishedAt": "2026-10-07T16:30:52Z",
-        "content": "Bond investors backing David Ellisons audacious $110 billion takeover of Warner Bros. Discovery Inc. are making a bold bet of their own lending tens of billions of dollars while forgoing many of the \u2026 [+316 chars]"
-    },
-    {
-        "source": {
-            "id": "ars-technica",
-            "name": "Ars Technica"
-        },
-        "author": "Jonathan M. Gitlin",
-        "title": "Jaguar makes its controversial all-EV return with the Type 01 - Ars Technica",
-        "description": "Car design sure riles people up on the Internet these days. Goes double for EVs.",
-        "url": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ext_Macro_Headlight_Blue-1152x648.jpg",
-        "publishedAt": "2026-10-07T15:48:01Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Dylan Tokar",
-        "title": "Exclusive | Wells Fargo Faces Regulator Probe Over Efforts to Boost Black Homeownership - WSJ",
-        "description": "Trump\u2019s Housing and Urban Development seeks to crack down on race-based lending, calling it a potential violation of Fair Housing Act",
-        "url": "https://www.wsj.com/finance/banking/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-a337b46e",
-        "urlToImage": "https://images.wsj.net/im-88246066/social",
-        "publishedAt": "2026-10-07T15:40:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Caleb Mutua",
-        "title": "SpaceX Credit-Risk Gauge Hits Fresh High on Fundraising Reports - Bloomberg.com",
-        "description": "A measure of SpaceX\u2019s credit risk surged to a fresh high and the company\u2019s bonds weakened in the secondary market on Wednesday, following reports the company is in talks with banks and investors to raise $40 billion to buy chips from Nvidia Corp.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-07/spacex-credit-risk-gauge-hits-record-high-on-fundraising-reports",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKo29UjSwbfg/v0/1200x800.jpg",
-        "publishedAt": "2026-10-07T15:02:03Z",
-        "content": "A measure of SpaceXs credit risk surged to a fresh high and the companys bonds weakened in the secondary market on Wednesday, following reports the company is in talks with banks and investors to rai\u2026 [+427 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Jeff Cox",
-        "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023 - CNBC",
-        "description": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
-        "url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108374148-1791388061460-108374148-1791387933444-gettyimages-2297102806-US_DIESEL.jpeg?v=1791388074&w=1920&h=1080",
-        "publishedAt": "2026-10-07T15:00:26Z",
-        "content": "Inflation fears intensified in September, pushing the near-term outlook in the New York Federal Reserve's monthly survey to its highest level in nearly 3\u00bd years.\r\nThe central bank's Survey of Consume\u2026 [+2336 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Steve Kopack",
-        "title": "Global bond sell-off pushes U.S. Treasury yields to fresh 24-year highs - NBC News",
-        "description": "The yield on key U.S. Treasury bonds rose to fresh 24-year highs Wednesday, as the latest global bond sell-off picked up steam.",
-        "url": "https://www.nbcnews.com/business/markets/treasury-yields-hit-24-year-highs-global-sell-accelerates-rcna602045",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261007-Treasury-Department-Building-ch-0952-13faef.jpg",
-        "publishedAt": "2026-10-07T14:47:17Z",
-        "content": "The yield on key U.S. Treasury bonds rose to fresh 24-year highs Wednesday, as the latest global bond sell-off picked up steam.\r\nBenchmark government bonds in France and Italy also rose sharply and w\u2026 [+3141 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Rachel Hale, Alyssa Goldberg",
-        "title": "A teen account shared suicidal thoughts with ChatGPT. New protections failed - USA Today",
-        "description": "Researchers tested ChatGPT\u2019s new teen safety protections with teen profiles in crisis. They found gaps in parental alerts and other safeguards.",
-        "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/07/chatgpt-teen-account-safety-features-testing/92133273007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/07/USAT/92133942007-getty-images-844064120.jpg?crop=723,408,x0,y37&width=723&height=408&format=pjpg&auto=webp",
-        "publishedAt": "2026-10-07T14:34:00Z",
-        "content": "Amaras mother died when she was 8. She lives with an abusive father. And now, at 14, shes learned her boyfriend is cheating on her.\u00a0\r\nShe turns to ChatGPT.\u00a0\r\nWhat starts as a conversation about her b\u2026 [+7755 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Bilin Lin",
-        "title": "How much you need to retire in every state after Social Security - Fortune",
-        "description": "There's no magic retirement number. Here's what you need in every state after Social Security.",
-        "url": "https://fortune.com/2026/10/07/how-much-you-need-to-retire-in-every-state-after-social-security/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-1372549405.jpg?resize=1200,600",
-        "publishedAt": "2026-10-07T14:34:00Z",
-        "content": "$1.2 million. Thats how much Americans in workplace retirement plans say theyll need to retire comfortably, according to Schroders 2026 U.S. Retirement Survey.If that number makes you check your 401(\u2026 [+7296 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Ellie Conley",
-        "title": "The Walmart Deals event is heating up, and we're eyeing 25+ discounts that rival October Prime Day - Yahoo",
-        "description": "Major markdowns include a fire pit at the lowest price we've seen in months, over $60 off a Shark vac and a bestselling flannel shirt for just $14.",
-        "url": "https://shopping.yahoo.com/deals/breaking-news/article/the-walmart-deals-event-is-heating-up-and-were-eyeing-25-discounts-that-rival-october-prime-day-150755759.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/99fff8f1a1c418fbede31d5d4ec9ec8492ce346227f62b99821692a913af55a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcopy-of-today-s-best-sales-lead-image-template-9_5076.png",
-        "publishedAt": "2026-10-07T14:30:29Z",
-        "content": "This story is sponsored by Walmart.\r\nAmazon Prime Day may be wrapping up today, but Walmart Deals is still going strong on day two with major markdowns running through Sunday, Oct. 11. I'm taking adv\u2026 [+17470 chars]"
+        "author": "Redd Brown",
+        "title": "Chipotle Jumps on Report Starbucks Has Explored Takeover - Bloomberg.com",
+        "description": "Chipotle Mexican Grill Inc. shares jumped after the Financial Times reported that Starbucks Corp. has worked with advisers in recent months on a takeover proposal for the burrito chain.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-08/chipotle-jumps-after-report-that-starbucks-has-explored-takeover",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXob48Ozj9MM/v1/1200x800.jpg",
+        "publishedAt": "2026-10-08T14:15:55Z",
+        "content": "Chipotle Mexican Grill Inc. shares jumped after the Financial Times reportedBloomberg Terminal\r\nthat Starbucks Corp. has worked with advisers in recent months on a takeover proposal for the burrito c\u2026 [+354 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Barron's"
         },
-        "author": "Callum Keown",
-        "title": "Intel Stock Defies Chip Slump as Musk Explains SpaceX AI Chip Project - Barron's",
-        "description": "Intel stock was rebounding ahead of the open Wednesday after CEO Lip-Bu Tan and SpaceX\u2019s Elon Musk clarified the company\u2019s role in the gigantic Terafab AI chip project.",
-        "url": "https://www.barrons.com/articles/intel-stock-price-musk-ai-chips-tsmc-087aeb46",
-        "urlToImage": "https://images.barrons.com/im-35906748/social",
-        "publishedAt": "2026-10-07T13:56:00Z",
-        "content": "A widening gap between stock and bond volatility gauges suggests equities could be overlooking inflation, borrowing, and interest-rate risks."
+        "author": "Al Root, Mackenzie Tatananni",
+        "title": "Palantir Stock Has a Secret Weapon in the AI Boom, Goldman Sachs Says - Barron's",
+        "description": "Goldman Sachs upgrades Palantir Technologies stock to Buy from Neutral, citing an explosion of demand for sovereign and bespoke AI.",
+        "url": "https://www.barrons.com/articles/palantir-stock-price-upgrade-goldman-ab22d7cb",
+        "urlToImage": "https://images.barrons.com/im-92670184/social",
+        "publishedAt": "2026-10-08T14:10:00Z",
+        "content": "Palantir Technologieshas long been dogged by concerns over its rich valuation, but Wall Streets view is shifting in its favor amid surging demand for custom, localized artificial-intelligence softwar\u2026 [+101 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Connor Hart",
+        "title": "PepsiCo Trims Outlook as North American Unit Underperforms - WSJ",
+        "description": "The snacks and soda maker\u2019s net revenue climbed 5.6% to $25.27 billion in the fiscal third quarter",
+        "url": "https://www.wsj.com/business/retail/pepsico-posts-higher-profit-sales-as-turnaround-continues-aa219b31",
+        "urlToImage": "https://images.wsj.net/im-34803099/social",
+        "publishedAt": "2026-10-08T14:08:00Z",
+        "content": "PepsiCoPEP2.32%increase; up pointing triangle\r\ncut its full-year earnings outlook as it faces inflation, higher advertising costs and continued weakness in its North American business, even as the co\u2026 [+379 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Luke Fountain",
+        "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August - CNBC",
+        "description": "Trump disclosed 517 August trades, including up to $5 million in debt from SpaceX, a major Pentagon contractor and NASA launch provider.",
+        "url": "https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108374283-17913956922026-10-07t174636z_1565939135_rc2hynao0axo_rtrmadp_0_usa-trump.jpeg?v=1791395737&w=1920&h=1080",
+        "publishedAt": "2026-10-08T13:18:47Z",
+        "content": "President Donald Trump disclosed more than 500 securities transactions in August, including a purchase of up to $25 million in Meta stock and an investment of as much as $5 million in SpaceX debt two\u2026 [+4221 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Chrysler Building to get its crown restored after being sold - BBC",
+        "description": "The distinctive Manhattan skyscraper will undergo a major renovation and provide a new supply of offices.",
+        "url": "https://www.bbc.com/news/articles/c8g47z3r4dzvo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9bdc/live/e92e06b0-c325-11f1-bc2e-018d645d8d21.jpg",
+        "publishedAt": "2026-10-08T12:49:12Z",
+        "content": "The skyscraper, opened in New York nearly 100 years ago, will see its Art Deco crown polished and restored during a refurbishment that will also involve the restoration of the building's 77-storey fa\u2026 [+4 chars]"
+    },
+    {
+        "source": {
+            "id": "mashable",
+            "name": "Mashable"
+        },
+        "author": "Haley Henschel, Tabitha Britt, Timothy Beck Werth, Lauren Allain",
+        "title": "The 15+ best Prime Day tech deals still live: Last chance deals on MacBooks, TVs, headphones, and more - Mashable",
+        "description": "These deals erase some of the price hikes we've seen amid the RAM crisis. They're so good, we'd add them to our own carts.",
+        "url": "https://mashable.com/tech/best-october-prime-day-tech-deals-still-live-2026",
+        "urlToImage": "https://helios-i.mashable.com/imagery/articles/060YYjPFaOQ1uSBc98eGTOr/hero-image.fill.size_1200x675.v1791447924.png",
+        "publishedAt": "2026-10-08T12:44:31Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Alex Harring",
+        "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says - CNBC",
+        "description": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+        "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138159-1745946378116-gettyimages-2207589702-AFP_38VT4KD.jpeg?v=1783025629&w=1920&h=1080",
+        "publishedAt": "2026-10-08T12:05:16Z",
+        "content": "President Donald Trump speaks about his new tariff plan at the White House, in Washington, April 2, 2025.\r\nThe cost of many everyday items would have declined last year and early this year without Pr\u2026 [+2352 chars]"
     },
     {
         "source": {
@@ -187,37 +109,154 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "They Paid $50,000 and Waited Nine Years. Will Tesla\u2019s Roadster Live Up to the Hype? - WSJ",
+        "title": "Electric-Truck Drivers Struggle to Compete, Even as Diesel Prices Surge - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/business/autos/they-paid-50-000-and-waited-nine-years-will-teslas-roadster-live-up-to-the-hype-fae975c0",
+        "url": "https://www.wsj.com/logistics-report/electric-truck-drivers-struggle-to-compete-even-as-diesel-prices-surge-65fea007",
         "urlToImage": null,
-        "publishedAt": "2026-10-07T13:44:06Z",
+        "publishedAt": "2026-10-08T11:04:00Z",
         "content": null
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": "usa-today",
+            "name": "USA Today"
         },
-        "author": "Emma Roth",
-        "title": "Amazon uses its tracking data to guess whether shoppers have a flat butt and no friends - The Verge",
-        "description": "Amazon\u2019s \u201cAbout You\u201d section is going viral after one user found that the ecommerce giant thinks she has \u201cflat buttocks\u201d based on her shopping history.",
-        "url": "https://www.theverge.com/tech/1006712/amazon-about-you-shopping-data",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-10-07T13:40:02Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nSome users have flat buttocks, cannot keep real plants alive, and treat cats as biological children, according to Amazon.\r\nSome users have flat buttocks, cannot \u2026 [+2610 chars]"
+        "author": "Medora Lee",
+        "title": "Social Security 2027 COLA may outpace Medicare cost but not much else - USA Today",
+        "description": "2027 Social Security COLA may rise to 3.5%, above the expected Medicare Part B premium increase. But other rising costs may eat up the rest of COLA.",
+        "url": "https://www.usatoday.com/story/money/personal-finance/retirement/social-security/2026/10/08/social-security-2027-cola-estimate-medicare/92124213007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/06/USAT/92127101007-20260921-t-130805-z-993604214-mt-1-usatoday-29879313-rtrmadp-3-agneshollanderisawidowtryingtosurviveonlyonsocial.JPG?crop=6541,3681,x0,y284&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2026-10-08T10:44:00Z",
+        "content": "Oct. 14 marks the long-awaited event of the year for about 75 million Americans it's the day they find out how big Social Security's cost-of-living adjustment will be for 2027.\r\nSo far, analysts esti\u2026 [+5117 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Sridhar Natarajan, Todd Gillespie",
+        "title": "Goldman\u2019s Top Leaders Set to Score More Than $500 Million With Special Bonus - Bloomberg.com",
+        "description": "Goldman Sachs Group Inc.\u2019s most senior leaders are set to unlock a special bonus that will rank among the biggest such payouts the firm has ever awarded.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-08/goldman-sachs-ceo-david-solomon-top-executives-to-earn-massive-bonus-payouts",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6HJNJbUIu3g/v3/1200x747.jpg",
+        "publishedAt": "2026-10-08T10:38:45Z",
+        "content": "Goldman Sachs Group Inc.s most senior leaders are set to unlock a special bonus that will rank among the biggest such payouts the firm has ever awarded. \r\nAbout 20 executives are in line for equity a\u2026 [+240 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Julia Fioretti, Sangmi Cha and Manuel Baigorri",
+        "title": "Nvidia-Backed IPO\u2019s Cratering Demand Sends Warning on AI Funding - Yahoo Finance",
+        "description": "The sudden plunge in demand for an Nvidia-backed data center company\u2019s initial public offering is revealing fresh cracks in the AI funding boom.",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-ipo-cratering-demand-102043878.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/32f40f371fd163f13d7fc35f99a7f8a9a6d99f1cf28944083b9b1a4f4427da3f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F2d14c633bce3a4e432f14dd5d3a60609.jpg",
+        "publishedAt": "2026-10-08T10:20:43Z",
+        "content": "(Bloomberg) -- The sudden plunge in demand for an Nvidia-backed data center company's initial public offering is revealing fresh cracks in the AI funding boom.\r\nMost Read from Bloomberg\r\nThe planned \u2026 [+6723 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Ty Roush",
+        "title": "Applied Digital\u2019s Earnings Show Its Data Center Bet Is Starting to Pay Off - Barron's",
+        "description": "Applied Digital reports a 322% year-over-year jump in revenue.",
+        "url": "https://www.barrons.com/articles/applied-digital-earnings-stock-price-40be1857",
+        "urlToImage": "https://images.barrons.com/im-37533378/social",
+        "publishedAt": "2026-10-08T09:56:00Z",
+        "content": "Applied Digitaldelivered surging revenue in its latest quarter as its artificial-intelligence data center buildout began translating into business, offering investors a potential bright spot.\r\nCopyri\u2026 [+91 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Bradley Olson",
+        "title": "OpenAI's math breakthrough points beyond math - Axios",
+        "description": "AI disruption is coming for mathematics.",
+        "url": "https://www.axios.com/2026/10/08/openai-math-proofs-ai-model",
+        "urlToImage": "https://images.axios.com/uDvkiTHqDr_kfSreMeJvQvyac-I=/1366x768/smart/2024/05/19/154408-1716133448708.jpg",
+        "publishedAt": "2026-10-08T09:42:11Z",
+        "content": "Catch up quick: OpenAI on Tuesday released 722 manuscripts organized into 372 groups of findings (\"families\") on long-standing mathematical problems, inviting academics and researchers to examine and\u2026 [+2888 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Madison Mills",
+        "title": "\"The Axios Show\": Inside Bryan Johnson's quest to make 300 the new 70 - Axios",
+        "description": "Longevity guru Bryan Johnson says his ultimate goal is health over wealth.",
+        "url": "https://www.axios.com/2026/10/08/bryan-johnson-dont-die-longevity",
+        "urlToImage": "https://images.axios.com/ORgvptAOzPDIny0yKc9Vg5djpyo=/0x0:1920x1080/1366x768/2026/10/07/1791396623227.png",
+        "publishedAt": "2026-10-08T09:30:06Z",
+        "content": "What they're saying: In his interview with The Axios Show, he offered some advice for Elon Musk, said he'd love to help President Trump with his health and revealed his ultimate goal.\r\n<ul><li>\"Will \u2026 [+3473 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Michael Sinkewicz",
+        "title": "Amazon to cut nearly 1,000 white-collar jobs across stores division and other units: report - Fox Business",
+        "description": "Amazon's stores division bears the brunt of the latest cuts affecting employees in the U.S., India and the United Kingdom across divisions.",
+        "url": "https://www.foxbusiness.com/economy/amazon-cut-nearly-1000-white-collar-jobs-across-stores-division-other-units-report",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/amazon.png?ve=1&tl=1",
+        "publishedAt": "2026-10-08T08:54:00Z",
+        "content": "Amazon is cutting fewer than 1,000 white-collar jobs, mainly in its stores division, which oversees the company's main e-commerce website, according to Reuters.\r\nThe reported cuts come as Amazon wrap\u2026 [+2535 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Jennifer Schonberger",
+        "title": "Fed\u2019s Waller sees additional rate hikes to get inflation down faster - Yahoo Finance",
+        "description": "Federal Reserve Governor Chris Waller said in a speech Thursday that he expects the Fed will need to enact more interest rate hikes to bring down inflation f...",
+        "url": "https://finance.yahoo.com/economy/policy/article/feds-waller-sees-additional-rate-hikes-to-get-inflation-down-faster-083000282.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/b1ba97fa393afa0f77f723058fa1d4a47dfa2b92fb9d242b757d13e1f95cfee4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-05%2F92192210-f01a-11ed-8beb-5da9c44eaeb5",
+        "publishedAt": "2026-10-08T08:30:00Z",
+        "content": "Federal Reserve Governor Chris Waller said in a speech Thursday that he expects the Fed will need to enact more interest rate hikes to bring down inflation faster if economic data comes in as he expe\u2026 [+3360 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Chloe Taylor",
-        "title": "France is caught between angry students and unforgiving bond markets - CNBC",
-        "description": "France's student protests took a breather on Wednesday after weeks of unrest, but market pressure on the French government intensified ahead of budget talks.",
-        "url": "https://www.cnbc.com/2026/10/07/french-student-protests-budget-deadlock.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210403-1760076268432-gettyimages-2239147271-AFP_77U3372.jpeg?v=1760076286&w=1920&h=1080",
-        "publishedAt": "2026-10-07T13:23:31Z",
-        "content": "Outgoing French Prime Minister Sebastien Lecornu delivers a statement at the Hotel Matignon in Paris, on Oct. 6, 2025. \r\nFrance's student protests took a breather on Wednesday after weeks of unrest, \u2026 [+5197 chars]"
+        "author": "Hugh Leask, Lee Ying Shan, Sarah Min",
+        "title": "Stock futures move lower after S&P 500 retreats from record: Live updates - CNBC",
+        "description": "Stock futures edged lower early Thursday as higher yields dent investor appetite.",
+        "url": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369467-1790695898141-gettyimages-2297721790-anotherday276803029_y0jj9gxn.jpeg?v=1790696070&w=1920&h=1080",
+        "publishedAt": "2026-10-08T07:56:47Z",
+        "content": "U.S. stock futures were lower early Thursday, after the S&amp;P 500 retreated from its record as yields spiked to multidecade highs. \r\nDow Jones Industrial Average futures fell 132 basis points, or 0\u2026 [+2258 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Levin Stamm and Sagarika Jaisinghani",
+        "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says - Yahoo Finance UK",
+        "description": "The head of market strategy at a London investment bank has a stark warning for investors: the artificial-intelligence trade may soon be over in what could t...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-risks-worst-p-061638441.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/3519d40dfa2564f59ed1796845b7c3b08474ab271e11e58cc946dcc629024619/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F978a3e8c4800bfa981929afb790f6fc3.jpg",
+        "publishedAt": "2026-10-08T06:16:00Z",
+        "content": "(Bloomberg) -- The head of market strategy at a London investment bank has a stark warning for investors: the artificial-intelligence trade may soon be over in what could trigger the most severe mark\u2026 [+3418 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "New electric car 'make or break for Jaguar' - BBC",
+        "description": "Prof David Bailey says there is a lot riding on the Type 01 in terms of jobs and investment.",
+        "url": "https://www.bbc.com/news/articles/cwvgrx5ner6go",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b2d4/live/d69c5b20-c305-11f1-a64c-550be9e3c66b.png",
+        "publishedAt": "2026-10-08T05:08:56Z",
+        "content": "Last month, it emerged Jaguar Land Rover, which has manufacturing sites in Solihull, Wolverhampton and Halewood on Merseyside, is to cut 4,000 jobs as it struggles with Chinese competition, US tariff\u2026 [+32 chars]"
     }
 ]
