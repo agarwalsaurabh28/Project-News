@@ -1,107 +1,16 @@
 [
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "politico",
+            "name": "Politico"
         },
-        "author": "Josephine Walker",
-        "title": "Trump's foreign worker crackdown comes for Microsoft, Adobe, IT firms - Axios",
-        "description": "The White House is cracking down on a major route to permanent residency.",
-        "url": "https://www.axios.com/2026/10/08/trumps-foreign-worker-crackdown-comes-for-microsoft-adobe-it-firms",
-        "urlToImage": "https://images.axios.com/ZF0LnudPIW9y_aUWP64Y6IV2ueM=/0x72:4105x2381/1366x768/2026/10/08/1791471658703.jpg",
-        "publishedAt": "2026-10-08T15:46:59Z",
-        "content": "What they're saying: \"We want people to invest in the United States of America, particularly the American technology sector,\" Vance said during a Thursday news conference. \r\n<ul><li>\"We're the bigges\u2026 [+2139 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Redd Brown",
-        "title": "Chipotle Jumps on Report Starbucks Has Explored Takeover - Bloomberg.com",
-        "description": "Chipotle Mexican Grill Inc. shares jumped after the Financial Times reported that Starbucks Corp. has worked with advisers in recent months on a takeover proposal for the burrito chain.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-08/chipotle-jumps-after-report-that-starbucks-has-explored-takeover",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXob48Ozj9MM/v1/1200x800.jpg",
-        "publishedAt": "2026-10-08T14:15:55Z",
-        "content": "Chipotle Mexican Grill Inc. shares jumped after the Financial Times reportedBloomberg Terminal\r\nthat Starbucks Corp. has worked with advisers in recent months on a takeover proposal for the burrito c\u2026 [+354 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Al Root, Mackenzie Tatananni",
-        "title": "Palantir Stock Has a Secret Weapon in the AI Boom, Goldman Sachs Says - Barron's",
-        "description": "Goldman Sachs upgrades Palantir Technologies stock to Buy from Neutral, citing an explosion of demand for sovereign and bespoke AI.",
-        "url": "https://www.barrons.com/articles/palantir-stock-price-upgrade-goldman-ab22d7cb",
-        "urlToImage": "https://images.barrons.com/im-92670184/social",
-        "publishedAt": "2026-10-08T14:10:00Z",
-        "content": "Palantir Technologieshas long been dogged by concerns over its rich valuation, but Wall Streets view is shifting in its favor amid surging demand for custom, localized artificial-intelligence softwar\u2026 [+101 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Connor Hart",
-        "title": "PepsiCo Trims Outlook as North American Unit Underperforms - WSJ",
-        "description": "The snacks and soda maker\u2019s net revenue climbed 5.6% to $25.27 billion in the fiscal third quarter",
-        "url": "https://www.wsj.com/business/retail/pepsico-posts-higher-profit-sales-as-turnaround-continues-aa219b31",
-        "urlToImage": "https://images.wsj.net/im-34803099/social",
-        "publishedAt": "2026-10-08T14:08:00Z",
-        "content": "PepsiCoPEP2.32%increase; up pointing triangle\r\ncut its full-year earnings outlook as it faces inflation, higher advertising costs and continued weakness in its North American business, even as the co\u2026 [+379 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Luke Fountain",
-        "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August - CNBC",
-        "description": "Trump disclosed 517 August trades, including up to $5 million in debt from SpaceX, a major Pentagon contractor and NASA launch provider.",
-        "url": "https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108374283-17913956922026-10-07t174636z_1565939135_rc2hynao0axo_rtrmadp_0_usa-trump.jpeg?v=1791395737&w=1920&h=1080",
-        "publishedAt": "2026-10-08T13:18:47Z",
-        "content": "President Donald Trump disclosed more than 500 securities transactions in August, including a purchase of up to $25 million in Meta stock and an investment of as much as $5 million in SpaceX debt two\u2026 [+4221 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Chrysler Building to get its crown restored after being sold - BBC",
-        "description": "The distinctive Manhattan skyscraper will undergo a major renovation and provide a new supply of offices.",
-        "url": "https://www.bbc.com/news/articles/c8g47z3r4dzvo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9bdc/live/e92e06b0-c325-11f1-bc2e-018d645d8d21.jpg",
-        "publishedAt": "2026-10-08T12:49:12Z",
-        "content": "The skyscraper, opened in New York nearly 100 years ago, will see its Art Deco crown polished and restored during a refurbishment that will also involve the restoration of the building's 77-storey fa\u2026 [+4 chars]"
-    },
-    {
-        "source": {
-            "id": "mashable",
-            "name": "Mashable"
-        },
-        "author": "Haley Henschel, Tabitha Britt, Timothy Beck Werth, Lauren Allain",
-        "title": "The 15+ best Prime Day tech deals still live: Last chance deals on MacBooks, TVs, headphones, and more - Mashable",
-        "description": "These deals erase some of the price hikes we've seen amid the RAM crisis. They're so good, we'd add them to our own carts.",
-        "url": "https://mashable.com/tech/best-october-prime-day-tech-deals-still-live-2026",
-        "urlToImage": "https://helios-i.mashable.com/imagery/articles/060YYjPFaOQ1uSBc98eGTOr/hero-image.fill.size_1200x675.v1791447924.png",
-        "publishedAt": "2026-10-08T12:44:31Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Alex Harring",
-        "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says - CNBC",
-        "description": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
-        "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138159-1745946378116-gettyimages-2207589702-AFP_38VT4KD.jpeg?v=1783025629&w=1920&h=1080",
-        "publishedAt": "2026-10-08T12:05:16Z",
-        "content": "President Donald Trump speaks about his new tariff plan at the White House, in Washington, April 2, 2025.\r\nThe cost of many everyday items would have declined last year and early this year without Pr\u2026 [+2352 chars]"
+        "author": "Grace Yarrow, Myah Ward",
+        "title": "Trump\u2019s beef gamble isn\u2019t paying off - Politico",
+        "description": "Agriculture industry leaders who\u2019ve traditionally backed Trump are pushing the president to roll back his import plan.",
+        "url": "https://www.politico.com/news/2026/10/09/trumps-beef-gamble-isnt-paying-off-01112692",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fcd%2F20%2F9a03f7f84040a9f66174da4c1d69%2Ftrump-159-4.jpg",
+        "publishedAt": "2026-10-09T16:00:00Z",
+        "content": "President Donald Trump gambled that importing more beef would lower prices enough to mitigate the political hit from angry ranchers.\r\nHis bet hasnt paid off.\r\nPrices have barely budged, ranchers rema\u2026 [+398 chars]"
     },
     {
         "source": {
@@ -109,12 +18,116 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Electric-Truck Drivers Struggle to Compete, Even as Diesel Prices Surge - WSJ",
+        "title": "Stock Market Today: Nasdaq Opens Higher After Trump Vows Not to Strike Iran Before Midterms \u2014 Live Updates - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/logistics-report/electric-truck-drivers-struggle-to-compete-even-as-diesel-prices-surge-65fea007",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026",
         "urlToImage": null,
-        "publishedAt": "2026-10-08T11:04:00Z",
+        "publishedAt": "2026-10-09T15:45:00Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Rory Halperin",
+        "title": "Out of thousands of discounts at the Walmart Deals event \u2014 here are the 17 editor-favorite picks - Yahoo",
+        "description": "From comfy fall sweaters to a bestselling Bissell vacuum, these are the can't-miss finds we're adding to our carts ASAP.",
+        "url": "https://shopping.yahoo.com/deals/breaking-news/article/out-of-thousands-of-discounts-at-the-walmart-deals-event--here-are-the-17-editor-favorite-picks-150749880.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/170abb28f0db07fa39a1ed5a492d3e37e54f0a051bb005bbba0eb31f7e8b6028/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcenter-frame-2_3559.png",
+        "publishedAt": "2026-10-09T15:07:49Z",
+        "content": "This story is sponsored by Walmart.\r\nAs a shopping editor, I'm always fielding questions from friends and family during big sale events: \"Should I buy now or wait?\" or \"Which deals are too good to pa\u2026 [+9563 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Variety"
+        },
+        "author": "Todd Spangler",
+        "title": "Netflix Gearing Up to Lay Off 5% of Workforce: Report - Variety",
+        "description": "Netflix is reportedly planning a major round of layoffs coming as soon as next week that would cut about 5% of its headcount.",
+        "url": "https://variety.com/2026/biz/news/netflix-mass-layoffs-1236906567/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2024/06/Netflix-LA-Building.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-10-09T14:52:00Z",
+        "content": "Netflix is planning a major round of layoffs coming as soon as next week that would cut about 5% of its headcount, according to a new report.\r\nThe streaming giant plans a significant restructuring th\u2026 [+1916 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Chinese Auto Giant Geely Announces Canada Entry in 2027 as U.S. Seeks Ban - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/autos/chinese-auto-giant-geely-announces-canada-entry-in-2027-as-u-s-seeks-ban-5fc6681c",
+        "urlToImage": null,
+        "publishedAt": "2026-10-09T14:36:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Brooke DiPalma",
+        "title": "Consumer sentiment falls to 5-month low as frustration mounts over higher costs - Yahoo Finance",
+        "description": "Americans are growing more concerned about higher borrowing costs.",
+        "url": "https://finance.yahoo.com/economy/article/consumer-sentiment-falls-to-5-month-low-as-frustration-mounts-over-higher-costs-143114047.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/84dbe3b9532a8c2d313f6baa9cbb0e8c1f1f6d3231ea54907fb15ff9828b2c31/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F9f7f1d49-08de-4710-801f-462425f789d2",
+        "publishedAt": "2026-10-09T14:31:14Z",
+        "content": "Consumer sentiment fell in October as frustration over the higher cost of living weighed on Americans' views of the economy, according to a survey from the University of Michigan.\r\nOverall consumer s\u2026 [+2475 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Julia Fioretti, Sangmi Cha, Manuel Baigorri",
+        "title": "Data Center Darling\u2019s $30 Billion IPO Dream Crushed in 48 Hours - Bloomberg.com",
+        "description": "In 48 hours, Firmus Grid Ltd. went from a rising star of the artificial intelligence data center boom to one of the biggest deal flops in recent memory.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-09/data-center-darling-s-30-billion-ipo-dream-crushed-in-48-hours",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifrd12Ftuzkg/v0/1200x798.jpg",
+        "publishedAt": "2026-10-09T14:25:04Z",
+        "content": "In 48 hours, Firmus Grid Ltd. went from a rising star of the artificial intelligence data center boom to one of the biggest deal flops in recent memory.\r\nAfter months of touting itself as an essentia\u2026 [+324 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Jeff Cox",
+        "title": "Americans' debt problems are flashing a warning not seen since the Great Recession - CNBC",
+        "description": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+        "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108334692-1784035346683-gettyimages-2280676197-US-VIRGINIA-ARLINGTON-CPI-MAY-RISE.jpeg?v=1784046329&w=1920&h=1080",
+        "publishedAt": "2026-10-09T14:03:24Z",
+        "content": "The ability of U.S. families to stay current on their debts worsened over the past three years, hitting levels not seen since the aftermath of the global financial crisis, the Federal Reserve reporte\u2026 [+3376 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Sophia Compton",
+        "title": "Trucking industry hit by string of bankruptcy filings as diesel costs surge - Fox Business",
+        "description": "At least eight transportation-related companies sought Chapter 11 protection in September as the trucking industry grapples with higher fuel costs.",
+        "url": "https://www.foxbusiness.com/lifestyle/trucking-industry-hit-string-bankruptcy-filings-diesel-costs-surge",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/trucks-rest-area.jpg?ve=1&tl=1",
+        "publishedAt": "2026-10-09T13:49:00Z",
+        "content": "A string of trucking and freight companies filed for Chapter 11 bankruptcy protection in September.\r\nAt least eight transportation-related companies sought Chapter 11 protection during the month, acc\u2026 [+4641 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Daniel Howley",
+        "title": "Apple stock falls on report that company is cutting component orders on soft iPhone 18 Pro demand - Yahoo Finance",
+        "description": "Apple is reportedly cutting component orders on slowing iPhone 18 Pro demand.",
+        "url": "https://finance.yahoo.com/technology/article/apple-stock-falls-on-report-that-company-is-cutting-component-orders-on-soft-iphone-18-pro-demand-132655752.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/02eef4f68878d151ef1d5ed2af95487c74304d7591ad1fff7e25c8479c16f688/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F8399e84f-970e-4a81-975f-7968cff0a39e",
+        "publishedAt": "2026-10-09T13:26:55Z",
+        "content": "Apple's (AAPL) iPhone 18 Pro demand is reportedly slowing due to higher prices, forcing the company to tell its suppliers to cut back on component production for the phones.\r\nAccording to Nikkei Asia\u2026 [+2104 chars]"
     },
     {
         "source": {
@@ -122,141 +135,102 @@
             "name": "USA Today"
         },
         "author": "Medora Lee",
-        "title": "Social Security 2027 COLA may outpace Medicare cost but not much else - USA Today",
-        "description": "2027 Social Security COLA may rise to 3.5%, above the expected Medicare Part B premium increase. But other rising costs may eat up the rest of COLA.",
-        "url": "https://www.usatoday.com/story/money/personal-finance/retirement/social-security/2026/10/08/social-security-2027-cola-estimate-medicare/92124213007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/06/USAT/92127101007-20260921-t-130805-z-993604214-mt-1-usatoday-29879313-rtrmadp-3-agneshollanderisawidowtryingtosurviveonlyonsocial.JPG?crop=6541,3681,x0,y284&width=3200&height=1801&format=pjpg&auto=webp",
-        "publishedAt": "2026-10-08T10:44:00Z",
-        "content": "Oct. 14 marks the long-awaited event of the year for about 75 million Americans it's the day they find out how big Social Security's cost-of-living adjustment will be for 2027.\r\nSo far, analysts esti\u2026 [+5117 chars]"
+        "title": "Student loan forgiveness is a ticking tax bomb again, study warns - USA Today",
+        "description": "A tax exemption for student loan forgiveness expired, meaning borrowers could face a big, surprise bill from the IRS.",
+        "url": "https://www.usatoday.com/story/money/personal-finance/2026/10/09/student-loan-cancellation-forgiveness-taxes/92133480007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/07/USAT/92133507007-20251016-t-184011-z-302366304-mt-1-usatoday-27337121-rtrmadp-3-feb-282023-washingtondcusaprotestorsgatheroutside.JPG?crop=1999,1126,x0,y103&width=1999&height=1126&format=pjpg&auto=webp",
+        "publishedAt": "2026-10-09T12:56:00Z",
+        "content": "Student loan forgiveness will cost you, again.\r\nIn 2021, Congress had exempted canceled federal student debt, including balances canceled under income-driven repayment (IDR) plans, from being subject\u2026 [+5800 chars]"
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": "fox-news",
+            "name": "Fox News"
         },
-        "author": "Sridhar Natarajan, Todd Gillespie",
-        "title": "Goldman\u2019s Top Leaders Set to Score More Than $500 Million With Special Bonus - Bloomberg.com",
-        "description": "Goldman Sachs Group Inc.\u2019s most senior leaders are set to unlock a special bonus that will rank among the biggest such payouts the firm has ever awarded.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-08/goldman-sachs-ceo-david-solomon-top-executives-to-earn-massive-bonus-payouts",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6HJNJbUIu3g/v3/1200x747.jpg",
-        "publishedAt": "2026-10-08T10:38:45Z",
-        "content": "Goldman Sachs Group Inc.s most senior leaders are set to unlock a special bonus that will rank among the biggest such payouts the firm has ever awarded. \r\nAbout 20 executives are in line for equity a\u2026 [+240 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Julia Fioretti, Sangmi Cha and Manuel Baigorri",
-        "title": "Nvidia-Backed IPO\u2019s Cratering Demand Sends Warning on AI Funding - Yahoo Finance",
-        "description": "The sudden plunge in demand for an Nvidia-backed data center company\u2019s initial public offering is revealing fresh cracks in the AI funding boom.",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-ipo-cratering-demand-102043878.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/32f40f371fd163f13d7fc35f99a7f8a9a6d99f1cf28944083b9b1a4f4427da3f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F2d14c633bce3a4e432f14dd5d3a60609.jpg",
-        "publishedAt": "2026-10-08T10:20:43Z",
-        "content": "(Bloomberg) -- The sudden plunge in demand for an Nvidia-backed data center company's initial public offering is revealing fresh cracks in the AI funding boom.\r\nMost Read from Bloomberg\r\nThe planned \u2026 [+6723 chars]"
+        "author": null,
+        "title": "Severe turbulence diverts New York City flight to Miami, 8 injured - Fox News",
+        "description": "Eight people were hospitalized after an Avianca flight from Medellin to New York City was forced to divert to Miami due to severe turbulence",
+        "url": "https://www.foxnews.com/us/severe-turbulence-hospitalizes-8-diverted-new-york-city-flight",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/air-india-interior-plane.jpg",
+        "publishedAt": "2026-10-09T12:35:26Z",
+        "content": "Eight people were hospitalized after a New York City-bound flight was diverted following severe turbulence on Friday, a spokesperson for the Miami-Dade Aviation Department told Fox News Digital.\u00a0\r\nAv\u2026 [+1387 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Barron's"
         },
-        "author": "Ty Roush",
-        "title": "Applied Digital\u2019s Earnings Show Its Data Center Bet Is Starting to Pay Off - Barron's",
-        "description": "Applied Digital reports a 322% year-over-year jump in revenue.",
-        "url": "https://www.barrons.com/articles/applied-digital-earnings-stock-price-40be1857",
-        "urlToImage": "https://images.barrons.com/im-37533378/social",
-        "publishedAt": "2026-10-08T09:56:00Z",
-        "content": "Applied Digitaldelivered surging revenue in its latest quarter as its artificial-intelligence data center buildout began translating into business, offering investors a potential bright spot.\r\nCopyri\u2026 [+91 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Bradley Olson",
-        "title": "OpenAI's math breakthrough points beyond math - Axios",
-        "description": "AI disruption is coming for mathematics.",
-        "url": "https://www.axios.com/2026/10/08/openai-math-proofs-ai-model",
-        "urlToImage": "https://images.axios.com/uDvkiTHqDr_kfSreMeJvQvyac-I=/1366x768/smart/2024/05/19/154408-1716133448708.jpg",
-        "publishedAt": "2026-10-08T09:42:11Z",
-        "content": "Catch up quick: OpenAI on Tuesday released 722 manuscripts organized into 372 groups of findings (\"families\") on long-standing mathematical problems, inviting academics and researchers to examine and\u2026 [+2888 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Madison Mills",
-        "title": "\"The Axios Show\": Inside Bryan Johnson's quest to make 300 the new 70 - Axios",
-        "description": "Longevity guru Bryan Johnson says his ultimate goal is health over wealth.",
-        "url": "https://www.axios.com/2026/10/08/bryan-johnson-dont-die-longevity",
-        "urlToImage": "https://images.axios.com/ORgvptAOzPDIny0yKc9Vg5djpyo=/0x0:1920x1080/1366x768/2026/10/07/1791396623227.png",
-        "publishedAt": "2026-10-08T09:30:06Z",
-        "content": "What they're saying: In his interview with The Axios Show, he offered some advice for Elon Musk, said he'd love to help President Trump with his health and revealed his ultimate goal.\r\n<ul><li>\"Will \u2026 [+3473 chars]"
+        "author": "Al Root, George Glover",
+        "title": "AT&T, Verizon, and T-Mobile Are Dropping on Starlink Fears. Analysts Say Buy. - Barron's",
+        "description": "AT&T, Verizon, and T-Mobile are having a nightmarish end to the week, but it could be a chance to buy their beaten-down shares.",
+        "url": "https://www.barrons.com/articles/att-verizon-tmobile-stock-drop-spacex-buy-the-dip-46454489",
+        "urlToImage": "https://images.barrons.com/im-72558120/social",
+        "publishedAt": "2026-10-09T12:25:00Z",
+        "content": "OpenAI, Anthropic, and other AI developers need rapid revenue growth to sustain the infrastructure buildout, according to 22V Research."
     },
     {
         "source": {
             "id": null,
             "name": "Fox Business"
         },
-        "author": "Michael Sinkewicz",
-        "title": "Amazon to cut nearly 1,000 white-collar jobs across stores division and other units: report - Fox Business",
-        "description": "Amazon's stores division bears the brunt of the latest cuts affecting employees in the U.S., India and the United Kingdom across divisions.",
-        "url": "https://www.foxbusiness.com/economy/amazon-cut-nearly-1000-white-collar-jobs-across-stores-division-other-units-report",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/06/0/0/amazon.png?ve=1&tl=1",
-        "publishedAt": "2026-10-08T08:54:00Z",
-        "content": "Amazon is cutting fewer than 1,000 white-collar jobs, mainly in its stores division, which oversees the company's main e-commerce website, according to Reuters.\r\nThe reported cuts come as Amazon wrap\u2026 [+2535 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Jennifer Schonberger",
-        "title": "Fed\u2019s Waller sees additional rate hikes to get inflation down faster - Yahoo Finance",
-        "description": "Federal Reserve Governor Chris Waller said in a speech Thursday that he expects the Fed will need to enact more interest rate hikes to bring down inflation f...",
-        "url": "https://finance.yahoo.com/economy/policy/article/feds-waller-sees-additional-rate-hikes-to-get-inflation-down-faster-083000282.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/b1ba97fa393afa0f77f723058fa1d4a47dfa2b92fb9d242b757d13e1f95cfee4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-05%2F92192210-f01a-11ed-8beb-5da9c44eaeb5",
-        "publishedAt": "2026-10-08T08:30:00Z",
-        "content": "Federal Reserve Governor Chris Waller said in a speech Thursday that he expects the Fed will need to enact more interest rate hikes to bring down inflation faster if economic data comes in as he expe\u2026 [+3360 chars]"
+        "author": "Sophia Compton",
+        "title": "Hershey changes Reese\u2019s Pumpkins packaging after lawsuit over design - Fox Business",
+        "description": "A new disclaimer is appearing on Reese\u2019s Peanut Butter Pumpkins after litigation over claims that the decorative designs shown on the packaging did not match the actual candy.",
+        "url": "https://www.foxbusiness.com/retail/hershey-changes-reeses-pumpkins-packaging-after-lawsuit-over-design",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/reeses-peanut-butter-pumpkins.jpg?ve=1&tl=1",
+        "publishedAt": "2026-10-09T12:03:00Z",
+        "content": "The Hershey Co. has added a new disclaimer to Reese\u2019s Peanut Butter Pumpkins following a legal battle over claims that images on the packaging did not match the actual candy.\r\nPackages of the seasona\u2026 [+2759 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Hugh Leask, Lee Ying Shan, Sarah Min",
-        "title": "Stock futures move lower after S&P 500 retreats from record: Live updates - CNBC",
-        "description": "Stock futures edged lower early Thursday as higher yields dent investor appetite.",
-        "url": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369467-1790695898141-gettyimages-2297721790-anotherday276803029_y0jj9gxn.jpeg?v=1790696070&w=1920&h=1080",
-        "publishedAt": "2026-10-08T07:56:47Z",
-        "content": "U.S. stock futures were lower early Thursday, after the S&amp;P 500 retreated from its record as yields spiked to multidecade highs. \r\nDow Jones Industrial Average futures fell 132 basis points, or 0\u2026 [+2258 chars]"
+        "author": "Jenni Reid",
+        "title": "Nobel winner Krugman says France may have become 'too big to save' - CNBC",
+        "description": "Economist Paul Krugman sounded the alarm on a looming \"ugly crisis,\" while former ECB head Jean-Claude Trichet said French politicians must compromise.",
+        "url": "https://www.cnbc.com/2026/10/09/nobel-krugman-france-debt.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108380607-1791534375907-gettyimages-2298585875-AFP_D2MC8LX.jpeg?v=1791534388&w=1920&h=1080",
+        "publishedAt": "2026-10-09T11:33:48Z",
+        "content": "Writing in a Substack blog post on Thursday, Krugman said France was on a \"fiscally unsustainable path,\" facing mounting interest on its government debt while exacerbating its high debt-to-GDP ratio \u2026 [+3792 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
         },
-        "author": "Levin Stamm and Sagarika Jaisinghani",
-        "title": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says - Yahoo Finance UK",
-        "description": "The head of market strategy at a London investment bank has a stark warning for investors: the artificial-intelligence trade may soon be over in what could t...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-risks-worst-p-061638441.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/3519d40dfa2564f59ed1796845b7c3b08474ab271e11e58cc946dcc629024619/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F978a3e8c4800bfa981929afb790f6fc3.jpg",
-        "publishedAt": "2026-10-08T06:16:00Z",
-        "content": "(Bloomberg) -- The head of market strategy at a London investment bank has a stark warning for investors: the artificial-intelligence trade may soon be over in what could trigger the most severe mark\u2026 [+3418 chars]"
+        "author": "Stephen Quillen",
+        "title": "\u2018Indentured servants\u2019: US green card move will hit thousands of IT workers - Al Jazeera",
+        "description": "The US is suspending top tech firms, including Microsoft, from a key programme to sponsor foreign workers\u2019 green cards.",
+        "url": "https://www.aljazeera.com/news/2026/10/9/indentured-servants-us-green-card-move-will-hit-thousands-of-it-workers",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac8ae5c07f7b-1791536732.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-10-09T11:15:17Z",
+        "content": "The United States government has moved to exclude some of the worlds top tech companies from a programme that allows them to sponsor skilled foreign workers for permanent residency.\r\nVice President J\u2026 [+8738 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "CNBC"
+        },
+        "author": "Leslie Josephs",
+        "title": "Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight - CNBC",
+        "description": "Delta is weighing whether to continue with its Riyadh, Saudi Arabia flight debut as planned.",
+        "url": "https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107409569-1714667126496-107409569-1714666951042-gettyimages-2150563183-AFP_34QN2VN.jpeg?v=1714667145&w=1920&h=1080",
+        "publishedAt": "2026-10-09T11:07:54Z",
+        "content": "Delta Air Lines CEO Ed Bastian said his carrier is weighing whether to go ahead with debuting a flight between Atlanta and Riyadh, Saudi Arabia, after attacks claimed by Iran-backed Houthi rebels in \u2026 [+904 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
         },
         "author": null,
-        "title": "New electric car 'make or break for Jaguar' - BBC",
-        "description": "Prof David Bailey says there is a lot riding on the Type 01 in terms of jobs and investment.",
-        "url": "https://www.bbc.com/news/articles/cwvgrx5ner6go",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b2d4/live/d69c5b20-c305-11f1-a64c-550be9e3c66b.png",
-        "publishedAt": "2026-10-08T05:08:56Z",
-        "content": "Last month, it emerged Jaguar Land Rover, which has manufacturing sites in Solihull, Wolverhampton and Halewood on Merseyside, is to cut 4,000 jobs as it struggles with Chinese competition, US tariff\u2026 [+32 chars]"
+        "title": "Man loses 15 stubborn pounds after age 50 without giving up pizza or donuts - Fox News",
+        "description": "Carl Daikeler lost 15 pounds by swapping breakfast for a 250-calorie shake and eating a big salad for lunch, then enjoying total dinner freedom.",
+        "url": "https://www.foxnews.com/health/man-loses-15-stubborn-pounds-after-age-50-without-giving-up-pizza-donuts",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/man-eating-pizza.jpg",
+        "publishedAt": "2026-10-09T11:00:56Z",
+        "content": "Maintaining weight loss in midlife doesnt necessarily require strict dietary bans or extreme fasting protocols.\r\nCarl Daikeler, co-founder and CEO of the fitness and nutrition company BODi, says a si\u2026 [+4175 chars]"
     }
 ]
