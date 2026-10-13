@@ -1,172 +1,16 @@
 [
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad",
-        "urlToImage": null,
-        "publishedAt": "2026-10-11T20:26:00Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": null,
-            "name": "Fox Business"
+            "name": "Hollywood Reporter"
         },
-        "author": "Sophia Compton",
-        "title": "Baby sleep product recalled after FDA finds 3 types of alcohol not listed on label - Fox Business",
-        "description": "The recalled baby gripe water was sold through online retailers and found to contain ethanol, methanol and isopropanol that were not disclosed on the product label.",
-        "url": "https://www.foxbusiness.com/lifestyle/baby-sleep-product-recalled-fda-finds-3-types-alcohol-not-listed-label",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/baby-in-crib-and-mom.jpg?ve=1&tl=1",
-        "publishedAt": "2026-10-11T20:17:00Z",
-        "content": "Parents and caregivers are being urged to stop using a recalled lot of a baby product sold online after federal testing found undeclared alcohol.\r\nPacific Health Sciences is voluntarily recalling one\u2026 [+3053 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TMZ"
-        },
-        "author": "TMZ Staff",
-        "title": "Bill Gates Warns A.I. Is Most Dangerous Technology Ever, Wants Trump Meeting - TMZ",
-        "description": "Bill Gates is sounding the alarm on artificial intelligence ... warning the technology is more dangerous than cars, planes and drugs ... and trusting the companies developing it to police themselves is a terrible idea.",
-        "url": "https://www.tmz.com/2026/10/11/bill-gates-warning-about-artificial-intelligence/",
-        "urlToImage": "https://imagez.tmz.com/image/01/16by9/2026/10/11/0120196b3e824157a84d2c2d817f620f_xl.png",
-        "publishedAt": "2026-10-11T18:15:07Z",
-        "content": "Bill Gates is sounding the alarm on artificial intelligence ... warning the technology is more dangerous than cars, planes and drugs ... and trusting the companies developing it to police themselves \u2026 [+1779 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Jason Ma",
-        "title": "Bond yields closely track diesel prices now, and Trump's deal with Putin may be too little too late - Fortune",
-        "description": "\"Ultimately, diesel and gasoline drive inflation, not crude oil.\"",
-        "url": "https://fortune.com/2026/10/11/diesel-prices-10-year-bond-yields-crude-oil-inflation-trump-fuel-deal-putin-midterms/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2229471059-e1791737744994.jpg?resize=1200,600",
-        "publishedAt": "2026-10-11T17:12:00Z",
-        "content": "Diesel prices have come off their all-time highs in recent weeks, but the key industrial fuel has already moved the needle across the economy and financial markets, making affordability a more potent\u2026 [+4100 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Motor1 "
-        },
-        "author": "Roland Hildebrandt",
-        "title": "The Citro\u00ebn 2CV Is Back As An Ultra-Affordable City Car - Motor1.com",
-        "description": "The tiny electric city car blends classic 2CV design with modern tech, practical touches, and a potential \u20ac15,000 starting price.",
-        "url": "https://www.motor1.com/news/811439/new-citroen-2cv-ev-debut-price-details/",
-        "urlToImage": "https://cdn.motor1.com/images/mgl/0epgy3/s1/citroen-2cv-concept.jpg",
-        "publishedAt": "2026-10-11T17:00:00Z",
-        "content": "Fiat set the template with the 500, and Renault followed with the latest Twingo. Now, Citro\u00ebn wants in on the retro city-car revival with a modern take on one of Frances most recognizable cars: the 2\u2026 [+6355 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Motor1 "
-        },
-        "author": "Jeff Perez",
-        "title": "Alfa Romeo Previews Its Future With A Gorgeous Four-Door V6 Concept - Motor1.com",
-        "description": "With a 2.9-liter twin-turbo V6 and an unmistakable new design, the Cuorerosso offers a glimpse at Alfa Romeo\u2019s next chapter.",
-        "url": "https://www.motor1.com/news/811441/alfa-romeo-cuorerosso-concept-debut-paris/",
-        "urlToImage": "https://cdn.motor1.com/images/mgl/pb8J2Y/s1/alfa-romeo-cuorerosso.jpg",
-        "publishedAt": "2026-10-11T17:00:00Z",
-        "content": "Alfa Romeo is ushering in its new eranot with another SUV, but with a gorgeous GT concept instead. The Italian automaker is unveiling its new performance car concept at the 2026 Paris Motor Show with\u2026 [+4474 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Claire Boston",
-        "title": "Is 8% next? Why mortgage rates have surged, and may stay higher for longer - Yahoo Finance",
-        "description": "Strong economic growth, high oil prices, and a rush of AI spending mean mortgage rates may be stuck at high levels.",
-        "url": "https://finance.yahoo.com/real-estate/article/is-8-next-why-mortgage-rates-have-surged-and-may-stay-higher-for-longer-163029048.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/018ec1490ca00e056ae8d6fdcbcc26ca65e39767625c6d6885b10dd3e33fa86a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2Ffa692740-f231-11f0-bffd-7cbb4bf43ce7",
-        "publishedAt": "2026-10-11T16:30:29Z",
-        "content": "Mortgage rates are on a rough ride. In just over a month, they're up a full percentage point to around 7.5%, a three-year high. Buyers are pulling back in response, and September home sales look pois\u2026 [+6510 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Bradford Betz",
-        "title": "Canadian ransomware negotiator arrested on federal charges amid FBI hacking probe - Fox Business",
-        "description": "A Canadian ransomware negotiator was arrested in Pennsylvania on federal extortion-related charges amid an FBI investigation into hacking group ShinyHunters",
-        "url": "https://www.foxbusiness.com/fox-news-tech/canadian-ransomware-negotiator-arrested-federal-charges-amid-fbi-hacking-probe",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/kash-patel-hearing.jpg?ve=1&tl=1",
-        "publishedAt": "2026-10-11T15:57:00Z",
-        "content": "A Canadian cybersecurity executive who specializes in negotiating with ransomware hackers has reportedly been arrested on federal charges in Pennsylvania.\r\nEdward Dubrovsky, 54, was arrested Thursday\u2026 [+3021 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "SlashGear"
-        },
-        "author": "Alvin Wanjala",
-        "title": "How Much It Costs To Replace A Honda CR-V Hybrid Battery - SlashGear",
-        "description": "Hybrid batteries have changed the automotive game, including adding a new, expensive-to-replace component to your ride. Here's what it costs in a CR-V.",
-        "url": "https://www.slashgear.com/2278783/honda-cr-v-hybrid-battery-replacement-cost/",
-        "urlToImage": "https://www.slashgear.com/img/gallery/how-much-it-costs-to-replace-a-honda-cr-v-hybrid-battery/l-intro-1791298650.jpg",
-        "publishedAt": "2026-10-11T15:45:00Z",
-        "content": "Honda added a hybrid powertrain to its popular compact SUV back in 2020. Hybrid powertrains are great for fuel efficiency, and the company is promising EPA estimates of up to 43 mpg city and 36 mpg c\u2026 [+1354 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Ellie Conley",
-        "title": "The Walmart Deals event ends today \u2014 40+ major last-chance discounts to shop now - Yahoo",
-        "description": "It's your last chance to save big at the popular retailer. Score a fire pit for the lowest price we've seen in months and save over $60 on a Shark vac.",
-        "url": "https://shopping.yahoo.com/deals/breaking-news/article/the-walmart-deals-event-ends-today--40-major-last-chance-discounts-to-shop-now-153407568.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/99fff8f1a1c418fbede31d5d4ec9ec8492ce346227f62b99821692a913af55a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fcopy-of-today-s-best-sales-lead-image-template-9_5076.png",
-        "publishedAt": "2026-10-11T15:34:07Z",
-        "content": "Sponsored by Walmart\r\nThis past week was a big one for saving money, between Prime Day and other retailers' rival sales. Now, some of the last big sales before Black Friday are wrapping up \u00a0and today\u2026 [+17205 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Bradford Betz",
-        "title": "Halloween candy prices jump 8.1% as Americans prepare to spend billions on treats - Fox Business",
-        "description": "Americans are expected to spend $4.1 billion on Halloween candy despite an 8.1% increase in prices, with shoppers turning to discounts and early purchases to save.",
-        "url": "https://www.foxbusiness.com/lifestyle/halloween-candy-prices-jump-8-1-americans-prepare-spend-billions-treats",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/halloween-candy-bags.jpg?ve=1&tl=1",
-        "publishedAt": "2026-10-11T15:20:00Z",
-        "content": "Halloween candy is getting more expensive this year, but Americans aren't letting higher prices stop them from stocking up on treats.\r\nPrices for candy and chewing gum rose 8.1% in August from a year\u2026 [+2824 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "AL.com"
-        },
-        "author": "AL.com",
-        "title": "Social Security announcing benefits change on Oct. 14 - AL.com",
-        "description": null,
-        "url": "https://www.al.com/news/2026/10/social-security-announcing-benefits-change-on-oct-14.html",
-        "urlToImage": null,
-        "publishedAt": "2026-10-11T15:02:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Jake Conley",
-        "title": "Welcome back to earnings season: What to watch this week - Yahoo Finance",
-        "description": "Earnings are back in session this week as the Big Banks open their books. We are also seeing the return of the telecom wars and a key inflation reading that...",
-        "url": "https://finance.yahoo.com/markets/article/welcome-back-to-earnings-season-what-to-watch-this-week-100000102.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/9d98dadc9e69a54459d06f32df9aed37f35ef08fcdc0df4f996f8c00d471248d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F08d43d3d-6ee3-4467-ba0f-f1b6b99b0ce7",
-        "publishedAt": "2026-10-11T14:38:28Z",
-        "content": "Buckle your seatbelts and keep all hands and feet inside the vehicle, because earnings season is back.\r\nStarting on Tuesday, Q3 earnings will properly get underway, led by the major Bulge Bracket ban\u2026 [+9468 chars]"
+        "author": "Erik Hayden",
+        "title": "Getty Images to File for Bankruptcy, Go Private In Restructuring Deal - The Hollywood Reporter",
+        "description": "Affiliates of Charles Koch's investment firm and the Getty family have pledged up to $533 million of new equity for the photo provider.",
+        "url": "http://www.hollywoodreporter.com/business/business-news/getty-images-to-file-for-bankruptcy-go-private-1236727902/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2025/01/GettyImages-2153502773.jpg?w=1440&h=810&crop=1",
+        "publishedAt": "2026-10-12T18:33:45Z",
+        "content": "After abandoning a $3.7 billion merger with rival Shutterstock in late June over a regulatory roadblock, Getty Images now plans to file for Chapter 11 bankruptcy and go private in partnership with Ch\u2026 [+3363 chars]"
     },
     {
         "source": {
@@ -174,76 +18,232 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying - WSJ",
+        "title": "Exclusive | Dating App Bumble in Advanced Talks to Go Private at $1 Billion Valuation - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/finance/investing/beth-hammack-cleveland-fed-inflation-7751c731",
+        "url": "https://www.wsj.com/business/deals/dating-app-bumble-in-advanced-talks-to-go-private-at-1-billion-valuation-fcc8c6ef",
         "urlToImage": null,
-        "publishedAt": "2026-10-11T14:00:00Z",
+        "publishedAt": "2026-10-12T18:10:00Z",
         "content": null
     },
     {
         "source": {
-            "id": null,
-            "name": "Newser"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "John Johnson",
-        "title": "Most Popular Halloween Candy, Ranked - Newser",
-        "description": "Reese's is tops, but look out for rising Haribo gummies",
-        "url": "https://www.newser.com/story/397860/most-popular-halloween-candy-ranked.html",
-        "urlToImage": "https://cdn.newser.com/image/1717231-12-20261011090848.jpeg",
-        "publishedAt": "2026-10-11T13:45:00Z",
-        "content": "Reese's rules the plastic pumpkin, at least according to DoorDash metrics. The food delivery company dug into 2025 Halloween orders and found that the peanut butter cups were America's top candy for \u2026 [+352 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "John Csiszar",
-        "title": "Thinking of retiring at 65? Here\u2019s what it could cost you. - The Washington Post",
-        "description": "Waiting to retire may make sense on paper, but the mathematics and personal considerations can vary dramatically from household to household.",
-        "url": "https://www.washingtonpost.com/business/2026/10/11/thinking-retiring-65-here-what-it-could-cost-you/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PTLPNSR3YTY2F27NBG7QO2O7KM_size-normalized.jpg&w=1440",
-        "publishedAt": "2026-10-11T13:32:36Z",
-        "content": "Retirement at 65 can seem like a no-brainer to many Americans, as eligibility for Medicare, combined with a Social Security check, can feel like the payoff after decades of hard work.\r\nBut selecting \u2026 [+273 chars]"
+        "author": "Jenny Che, Ryan Gallagher",
+        "title": "French Supermarket Refrigeration Sites Hit by Cyberattacks - Bloomberg.com",
+        "description": "Hundreds of supermarkets in France were hit by cyberattacks on Sunday night that disabled refrigeration systems and forced stores to throw out damaged food, following warnings that hackers are seeking to cause physical damage.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-12/french-supermarket-refrigeration-sites-hit-by-cyberattacks",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQeayu4XTLGk/v1/1200x800.jpg",
+        "publishedAt": "2026-10-12T17:57:07Z",
+        "content": "Hundreds of supermarkets in France were hit by cyberattacks on Sunday night that disabled refrigeration systems and forced stores to throw out damaged food, following warnings that hackers are seekin\u2026 [+320 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Corynn Winston",
-        "title": "AI is automating coding. So why are software developer job postings on the rise? - CNBC",
-        "description": "Software developer job postings are rebounding, led by senior and AI-focused roles, even as AI automates more coding and entry-level hiring weakens.",
-        "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108366108-1790078284606-gettyimages-2200018679-mfz1_111.jpeg?v=1790086927&w=1920&h=1080",
-        "publishedAt": "2026-10-11T13:30:01Z",
-        "content": "U.S. software development job postings have risen since February 2025, the launch date for Anthropic's Claude Code, even as overall job postings fell, complicating predictions that AI would rapidly e\u2026 [+6535 chars]"
+        "author": "Alex Harring",
+        "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack - CNBC",
+        "description": "The Cleveland Fed president said that tighter monetary policy would be needed to bring down inflation.",
+        "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220143-1761932982247-gettyimages-2243837894-DALLAS_FED_SPEAK.jpeg?v=1761933060&w=1920&h=1080",
+        "publishedAt": "2026-10-12T17:08:43Z",
+        "content": "Cleveland Federal Reserve President Beth Hammack said Monday that tighter monetary policy might be needed to bring down inflation and the central bank should make fast, incremental adjustments.\r\n\"Whe\u2026 [+2021 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Seeking Alpha"
+            "name": "Financial Times"
         },
-        "author": "Rob Williams",
-        "title": "Are markets open on Columbus/Indigenous Peoples' Day? (US10Y:) - Seeking Alpha",
-        "description": "U.S. markets Columbus Day hours: NYSE/Nasdaq open, bonds & Fed closed, futures/crypto trading.",
-        "url": "https://seekingalpha.com/news/4651921-are-markets-open-on-columbus-indigenous-peoples-day",
-        "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1355916844/image_1355916844.jpg?io=getty-c-w630",
-        "publishedAt": "2026-10-11T13:22:44Z",
-        "content": "Ryan Rahman/iStock Editorial via Getty Images\r\nU.S. stock investors can expect business as usual on Monday, October 12, even as the federal government and much of the banking system take the day off \u2026 [+78 chars]"
+        "author": null,
+        "title": "Mark Zuckerberg says Meta has reached AI \u2018frontier\u2019 and rejects calls for slowdown - Financial Times",
+        "description": "FT interview: tech billionaire touts release of new Muse Wonder model after vast spending to challenge rivals in AI race",
+        "url": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F894fd51e-9d81-4678-974b-e89c631a1eb9.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-10-12T17:00:02Z",
+        "content": "was $540now $299 for your first year.\r\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October."
     },
     {
         "source": {
             "id": null,
-            "name": "MarketWatch"
+            "name": "New York Post"
         },
-        "author": "Isabel Wang",
-        "title": "The bull market is turning 4 years old \u2014 but yields could crash the party - MarketWatch",
-        "description": "For four years, tech has been the answer to almost every question about this bull market",
-        "url": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c",
-        "urlToImage": "https://images.mktw.net/im-78943724/social",
-        "publishedAt": "2026-10-11T13:00:00Z",
-        "content": "Market Snapshot\r\nFor four years, tech has been the answer to almost every question about this bull market\r\nOct. 11, 2026, 9:00a.m. ET\r\nU.S. stocks have spent four years charging higher on the promise\u2026 [+477 chars]"
+        "author": "Zain Khan",
+        "title": "Terrifying moment massive Boeing 747 bounces off runway at LAX as tail scrapes ground - New York Post",
+        "description": "Dramatic footage captures a Lufthansa Boeing 747-8 aborting its landing at Los Angeles International Airport, pitching sharply upward as its tail appears to narrowly clear the runway.",
+        "url": "https://nypost.com/2026/10/12/us-news/massive-passenger-airplane-aborts-landing-on-lax-runway/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/COMP-1-7.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-10-12T16:37:00Z",
+        "content": "A massive Lufthansa Boeing 747 came perilously close to disaster during a dramatic landing attempt at LAX when the jumbo jet pitched sharply upward and its tail appeared to narrowly miss the runway.\r\u2026 [+3210 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Lvmh.com"
+        },
+        "author": null,
+        "title": "Continued growth in the third quarter of 2026 - LVMH",
+        "description": "LVMH Mo\u00ebt Hennessy Louis Vuitton, the world\u2019s leading high-quality products group, recorded revenue of \u20ac57.1\u00a0billion in the first nine months of 2026. -...",
+        "url": "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026",
+        "urlToImage": null,
+        "publishedAt": "2026-10-12T15:52:28Z",
+        "content": "Paris, October\u00a012, 2026\r\nLVMH Mo\u00ebt Hennessy Louis Vuitton, the worlds leading high-quality products group, recorded revenue of 57.1\u00a0billion in the first nine months of 2026. Organic revenue growth ca\u2026 [+10617 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Hardware Stores Have a Secret Weapon for Wooing Customers - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/lifestyle/hardware-stores-secret-weapon-cats-05fecb1e",
+        "urlToImage": null,
+        "publishedAt": "2026-10-12T15:21:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "PCMag.com"
+        },
+        "author": null,
+        "title": "Microsoft CEO Satya Nadella Calls for an AI 'Emergency Brake' - PCMag UK",
+        "description": "All models should be treated as 'compromised' from the start of development, he says.",
+        "url": "https://uk.pcmag.com/ai/167871/microsoft-ceo-satya-nadella-calls-for-an-ai-emergency-brake",
+        "urlToImage": "https://sm.pcmag.com/t/pcmag_uk/news/m/microsoft-/microsoft-ceo-satya-nadella-calls-for-an-ai-emergency-brake_4xq9.1200.jpg",
+        "publishedAt": "2026-10-12T15:13:19Z",
+        "content": "Microsoft CEO Satya Nadella has been quieter than his counterparts in recent weeks as the heads of Anthropic, Google, OpenAI, and others discuss the risks of artificial intelligence. Now, he's callin\u2026 [+1659 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Daniel Howley",
+        "title": "Nvidia, AMD, Google, and Meta team up on global blueprint for data center design - Yahoo Finance",
+        "description": "Nvidia is teaming up with AMD, Google, Meta to establish standards related to data center construction.",
+        "url": "https://finance.yahoo.com/technology/article/nvidia-amd-google-and-meta-team-up-on-global-blueprint-for-data-center-design-150000023.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/fdb917782b1855d9c544cfa9291f57fca6bb138d0824e10ea650867ae03fa16e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F9d1fc1c2-e102-41a6-9c92-b0ed4f355e5a",
+        "publishedAt": "2026-10-12T15:00:00Z",
+        "content": "Nvidia (NVDA) is joining rival AMD (AMD) along with partners Google (GOOG, GOOGL) and Meta (META) to establish a new open specification for data center design.\r\nCalled the Open Data Center Specificat\u2026 [+2165 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Brandon Gomez",
+        "title": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task - CNBC",
+        "description": "McDonald's is targeting growth in chicken and beverages, but Consumer Edge data shows Chick-fil-A and coffee chains gaining in customer spending.",
+        "url": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108382523-1791567898694-gettyimages-1316692189-dsc07975_2021050643341036.jpeg?v=1791579865&w=1920&h=1080",
+        "publishedAt": "2026-10-12T14:56:42Z",
+        "content": "McDonald's is betting on chicken and beverages to fuel its next phase of growth, but new consumer spending\u00a0data suggests the fast-food giant faces stiff competition from rivals that specialize in tho\u2026 [+3451 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Mackenzie Tatananni",
+        "title": "Why IonQ Is Betting Big on Quantum Cybersecurity With $1.3 Billion Elisity Acquisition - Barron's",
+        "description": "IonQ agrees to buy the venture-backed start-up in a deal expected to bolster its quantum cybersecurity portfolio.",
+        "url": "https://www.barrons.com/articles/ionq-stock-elisity-cybersecurity-acquisition-571558ce",
+        "urlToImage": "https://images.barrons.com/im-60657339/social",
+        "publishedAt": "2026-10-12T14:37:00Z",
+        "content": "With lean teams, many small-caps can adopt AI tools quickly, automate workflows, and expand capacity without proportionally growing head count."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Leslie Josephs",
+        "title": "Delta delays debut of Saudi Arabia service until March after Riyadh airport attacks - CNBC",
+        "description": "Delta planned to begin the route on Oct. 23, in what would have marked the first nonstop commercial flight between the U.S. and Saudi Arabia.",
+        "url": "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106888705-16220487132021-05-26t162811z_1002148950_rc2snn9wtlzb_rtrmadp_0_usa-refinery-delta-air.jpeg?v=1791734745&w=1920&h=1080",
+        "publishedAt": "2026-10-12T14:12:07Z",
+        "content": "Delta Air Lines said it will delay the launch of its nonstop service between Atlanta and the Saudi capital Riyadh until March after several deadly attacks hit the city's airport there.\r\nDelta planned\u2026 [+1764 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Top Gear"
+        },
+        "author": "Top Gear",
+        "title": "Stop the press: there's a gorgeous new V6 Alfa Romeo, and it's the 'Cuorerosso' - Top Gear",
+        "description": "Hybrid, 4WD, and a pointer for the future of the Italian carmaker",
+        "url": "https://www.topgear.com/car-news/concept/stop-press-theres-a-gorgeous-new-v6-alfa-romeo-and-its-cuorerosso",
+        "urlToImage": "https://www.topgear.com/sites/default/files/images/news-article/2026/10/230422293d0c73838d2f5b36d7249469/00-hp-alfa-romeo-cuorerosso.jpg?w=1280&h=720",
+        "publishedAt": "2026-10-12T14:10:00Z",
+        "content": "ConceptHybrid, 4WD, and a pointer for the future of the Italian carmaker\r\nAlfa Romeo's new-car pipeline has been a bit threadbare over the past decade. But over the next three years more more launche\u2026 [+1851 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Cory Fernandez",
+        "title": "Your dryer does need to be cleaned \u2014 here\u2019s how to do it and what to use, according to experts - NBC News",
+        "description": "For the best way to clean a dryer, and to learn more about how often to do it, I talked to home cleaning experts for their recommendations and guidance.",
+        "url": "https://www.nbcnews.com/select/shopping/how-to-clean-dryer-rcna602956",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-HOW-TO-clean-dryer-bd-main-3be3e1.jpg",
+        "publishedAt": "2026-10-12T14:00:42Z",
+        "content": "With all the content available online these days, it can be hard to figure out whats real and whats hype.Whilewe dont always have the answers, we have a direct line to people who do which is why we p\u2026 [+8337 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
+        },
+        "author": null,
+        "title": "Salesforce Climbs Amid Bank Of America Upgrade To Buy On Improved AI Trends - Investor's Business Daily",
+        "description": "Bank of America upgraded CRM based on improving AI product monetization trends.",
+        "url": "https://www.investors.com/news/technology/salesforce-climbs-bank-of-america-double-upgrade-buy-improved-ai-trends/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/05/stock-salesforce-building-adobe.jpg",
+        "publishedAt": "2026-10-12T13:43:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Brian Sozzi",
+        "title": "A handful of tech stocks are masking an ugly S&P 500 problem - Yahoo Finance",
+        "description": "Without gains from Nvidia, Micron, and a few other high-profile tech stocks, the S&P 500 would be looking ugly.",
+        "url": "https://finance.yahoo.com/markets/article/a-handful-of-tech-stocks-are-masking-an-ugly-sp-500-problem-133611321.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/d853571aee38a67afd40cc1036851b2e86a96b169ae1779ba5b0e4de3758ef2b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fe0d1e755-8542-4597-80e2-229de74556ce",
+        "publishedAt": "2026-10-12T13:36:11Z",
+        "content": "Thank goodness for the likes of Nvidia (NVDA), Micron (MU), and a few other high-profile tech stocks in the S&amp;P 500 (^GSPC).\r\nWithout their strong gains, the S&amp;P 500 would be looking ugly and\u2026 [+2231 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Al Root",
+        "title": "Why SpaceX\u2019s Spectrum Purchase Is Good for AST SpaceMobile Stock - Barron's",
+        "description": "Deutsche Bank upgraded AST SpaceMobile to Buy, arguing that SpaceX\u2019s spectrum purchase could strengthen AST\u2019s appeal to wireless carriers.",
+        "url": "https://www.barrons.com/articles/ast-spacemobile-stock-spacex-spectrum-upgrade-5c491ff3",
+        "urlToImage": "https://images.barrons.com/im-24956812/social",
+        "publishedAt": "2026-10-12T13:29:00Z",
+        "content": "Cleveland Fed President Beth Hammack has spent over a year warning about the risks of persistently high inflation.\u00a0Asked about Octobers meeting, she tells Barrons that policy needs to be restrictive,\u2026 [+61 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Daniel Howley",
+        "title": "AMD launches Helion rack server for agentic AI - Yahoo Finance",
+        "description": "AMD is diving further into the agentic AI race with its new AMD Helion data center rack server.",
+        "url": "https://finance.yahoo.com/technology/article/amd-launches-helion-rack-server-for-agentic-ai-132423849.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/bd453b9781f8f3e4719766cb6f4cc40e032f6f61fbd42718a24e980752ce0dd0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fscreenshot-2026-10-12-at-90957-am_9285.png",
+        "publishedAt": "2026-10-12T13:24:23Z",
+        "content": "AMD (AMD) is diving further into the agentic AI race with its new AMD Helion data center rack server.\r\nUnveiled at the OCP Global Summit in San Jose, Calif., on Monday, Helion is designed to be outfi\u2026 [+2153 chars]"
     }
 ]
