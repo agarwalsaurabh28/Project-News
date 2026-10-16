@@ -1,93 +1,132 @@
 [
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "Reuters",
-        "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges - Reuters",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjgxdHhRZV9nbnF4cVNBbkg0ZGJGWXFTZ2hDa2dTMXVCT3R4OWF6aDNZSjVnaDJEYm5pbUJqSzdtaDhPei1VbXU1SGlsZHFIOFhBNEVsaUZ1WlFsYjJ6ZGNPc1NVNk9fVVVQTVlYMEtPbjdKZ2hNcG9xM0VBLUpTVFlHSi0yTVZtNGpTODA2SGpOb3JLUXQ1S1E3WHZ6RzRldnZkeF8tamJodUZjMUc1OXN2dWI2QmhfUUk3bkZzR0ZaXzZnd2lNMndLMUZGamRhMHo3LUVfdm8?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2026-10-14T15:49:08Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Steve Kopack",
-        "title": "Inflation jumps to 3.7% as gas and diesel prices squeeze consumers ahead of the midterms - NBC News",
-        "description": "Prices rose across broad swaths of the economy in September, as high energy costs triggered by the Iran war pushed up costs in many major consumer categories.",
-        "url": "https://www.nbcnews.com/business/economy/inflation-jumped-september-gas-diesel-prices-squeezed-consumers-ahead-rcna603202",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261013-supermarket-ch-1136-55ffea.jpg",
-        "publishedAt": "2026-10-14T15:47:53Z",
-        "content": "Prices rose across broad swaths of the U.S. economy in September, as high energy costs triggered by the Iran war pushed up prices in many major consumer categories.\r\nThe Bureau of Labor Statistics sa\u2026 [+1779 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Hollywood Reporter"
-        },
-        "author": "Borys Kit, Erik Hayden",
-        "title": "Netflix Film VP Doug Belgrad Out In Layoffs - The Hollywood Reporter",
-        "description": "The exec had been at the streaming giant since 2024, when he was hired by film chief Dan Lin.",
-        "url": "http://www.hollywoodreporter.com/movies/movie-news/netflix-film-vp-doug-belgrad-layoffs-1236729799/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-1198132457.jpg?w=1440&h=810&crop=1",
-        "publishedAt": "2026-10-14T15:35:11Z",
-        "content": "As part of Netflix\u2018s largest restructuring in four years, film division executive Doug Belgrad has been laid off, sources tell The Hollywood Reporter.\r\nBelgrad had served as a right hand man to film \u2026 [+2469 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "Chicago Tribune",
-        "title": "Endeavor Health and Rush University System for Health announce plans to merge - Chicago Tribune",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMVNmSHUyQ3hySTViYnVScUNtN1FFamphS3cwZ0gybzZGUGxnTnpQclBTT3ItTXhUMDVnUFl6SldQNk5KVHhzSzk1YzdOUDBrVTFaeUVJQjVqZGFUdGNOWFRacHhJNVJLc3VJSFBib09ZN0QxeTNrSDRHVk1WVHdhWFFzc29zX0Zv?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2026-10-14T15:07:28Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "Yahoo Finance",
-        "title": "'Yikes': CoreWeave stock sinks after its bond yield touched 15% - Yahoo Finance",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUTREV2tRTU9idzFHQnRpQUp6dFhMR250NVE4UHNiSk5mbWJiRDF3bkxHT21FMEpnY0V0Wk9uZ2VSbGFObVp6OXUtQWNPUjFwMlVhVVNla2c3QjlvWHZCNkZRSVNlc2V3QmdpQkNtOG96MWtOQmJYUmZwX1p2bV9FZGhQUy1mNXR1b2Q2VEVWMHN1ZWN2Qmw0OHJnTG81WkstT1ZINGlkMGdmYzg4OHVCRFVZcUJsZk1ERWhB?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2026-10-14T15:00:57Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": null,
             "name": "Fox Business"
         },
-        "author": "Eric Revell",
-        "title": "Social Security announces cost-of-living adjustment for 2027 - Fox Business",
-        "description": "The Social Security Administration announced new the new cost-of-living adjustment after the latest consumer inflation data was released on Wednesday.",
-        "url": "https://www.foxbusiness.com/economy/social-security-announces-cost-of-living-adjustment-2027",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/social-security-office-detroit-getty.jpg?ve=1&tl=1",
-        "publishedAt": "2026-10-14T14:51:00Z",
-        "content": "The Social Security Administration on Wednesday announced a 3.6% cost-of-living adjustment (COLA) for 2027.\r\nThe COLA is determined using the consumer price index for urban wage earners and clerical \u2026 [+2589 chars]"
+        "author": "Bradford Betz",
+        "title": "Social Security cost-of-living increase sparks debate over looming funding shortfall - Fox Business",
+        "description": "Social Security's 3.6% COLA will raise retirement benefits in 2027, but a projected 2032 trust fund shortfall could trigger 22% cuts without congressional action.",
+        "url": "https://www.foxbusiness.com/personal-finance/social-security-cost-of-living-increase-sparks-debate-over-looming-funding-shortfall",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/03/0/0/social-security-office-1.jpg?ve=1&tl=1",
+        "publishedAt": "2026-10-15T15:42:00Z",
+        "content": "Social Security beneficiaries could face a 22% across-the-board benefit reduction in 2032 without congressional action, according to the Committee for a Responsible Federal Budget (CRFB), as a new co\u2026 [+3690 chars]"
     },
     {
         "source": {
             "id": "google-news",
             "name": "Google News"
         },
-        "author": "Financial Times",
-        "title": "Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons - Financial Times",
+        "author": "CNBC",
+        "title": "Dow jumps 400 points, Nasdaq slides as investors rotate out of tech shares: Live updates - CNBC",
         "description": null,
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSjVUUGdCU2tGb1FkNzZqanBNWTBJcDd4TWZpcHJ5ZUQ4eDJ0am9zcjNSci1OYjIxUUtLTDk0Slh1aG9VcFZsUFJmbkhYV2MxRWdlUzJoTjluMEc4QTd0THFSYnJiWlc1MGhMZTVRbzVidnFBenFod2pkOFpuZ25TNXFjaDA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pUGoyb2Q2c1FvdW5RZUNXMGQ4Vk55SWZ1RGlEZ2xocGYwZkRlbGU5WUtNNzB0N1ZUdUxGank2bFFkcUpwVWtYcTNLUUhLUG12SUVpX0txZkdiamtWZXB0SHVQLW83dUM0cFI4YnpScHdmVmE3SjVv0gF8QVVfeXFMTnI4TmlaWHJ3endjbXZvUXlYOHRhV3lyb1lvNjNrYnVDVmYwUmxxQ0M4Vm42WDR2WUxZWE5CRnRhaExSY1prYkNlOUNId3R6akpzcUdlUUxfZmEzdFZCZnc4bjAwZDhYVnpVR1lBMTNHa0JGREd3NUQtaDlUeA?oc=5",
         "urlToImage": null,
-        "publishedAt": "2026-10-14T13:36:39Z",
+        "publishedAt": "2026-10-15T15:27:03Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "AP News",
+        "title": "The number of Americans filing for jobless aid remain at historically low levels below 200,000 - AP News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ29UTGE0VXRaR3hRTkhuUzJWVFlYMXZqS1kyWU9nNGVVOVNuQlpkY1FJMGdLajNndE1OZ2xMaE9Gck5WN2U4dFRtWXZiVkJRZW9qelYxUnlUcXNoWTk1aG92YWd3LXdjVjJKcS0yWlZqMDJMZEZQRTJYbTZnaVdlU0Fya3QySUVaY1lTMVplcERvMVZLZkhSdU00UQ?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2026-10-15T15:17:01Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "MarketWatch",
+        "title": "Stock Market Today: S&P 500 and Nasdaq fall as tech stocks struggle; Dow rises as Treasury yields drop - MarketWatch",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQem16UFhoRWMtTXFaVlg3emJLd2c3eUJkeFBWZU94dk8yczZCeGRoVEpLNEhRaDV0NmJ0d1N2UnJrWGd2SXhQdkVrNGx0RHVTdTZzUVlRcHdHeFNWVlZXa3RGS2pZOTQ5c2hvSTZwTy1NWnFmdVktb2VQRnBZR2dXRjNWZFJ1TkMtMEtxQWRqSHBxRkZNX0g0Z1NQVG1DakMwZnk0czBMSkUyeGxRMnZXVnRaNW9XMFBsNzRPY1hhclNjQXVUTEE?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2026-10-15T15:02:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "WSJ",
+        "title": "Investors Turn to Safety of Treasurys as Tech Stocks Extend Selloff - WSJ",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlJqX1VNMzFROWFHQWtMOXlXTVkxX1d5dTQtQUVvbGNHTHZMNmxiNGdjQmlNNkxUYm1ucTNlaURJY1MtU2czWjdUQzFUMnpTODVvbC1fb1hIN2J3eS03RFE1em4wLV8wTzFSQ1kwYWJ0YW45bHJZUnRUeWZIV0pqMlhac08yeDhLNWpZU0NmRzkzZ09lQ1NGOVdBYk16SnM?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2026-10-15T14:49:42Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Leslie Josephs",
+        "title": "Southwest is overhauling its frequent flyer program. Here's what's changing - CNBC",
+        "description": "Southwest Airlines is overhauling its loyalty program and replacing A-List and A-List Preferred with three new tiers.",
+        "url": "https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108313063-1779968970407-gettyimages-2277877363-260527_san_137.jpeg?v=1792016572&w=1920&h=1080",
+        "publishedAt": "2026-10-15T14:25:01Z",
+        "content": "A Southwest Airlines Boeing 737 airplane departs from San Diego International Airport on May 27, 2026.\r\nGoodbye, A-List and A-List Preferred.\r\nSouthwest Airlines is scrapping its two-tier loyalty pro\u2026 [+4899 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "The Washington Post",
+        "title": "An FBI arrest revives fears that U.S. tech companies are hiring spies - The Washington Post",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSW5QanFiUFNJZEN3SVpkSzdXWFNDVzRxdzNaMTVmTFVWOHdXV2RHVnZmRTc1QWJZT09GOTZjbmZfUmNXSEMyQlZ2V2pEendMLWlnMUtveUMySkF2a3pDeTlma204dmJUbmZrN2UwVi1nVnhtbmFEV2RLbXFJbVRNNWo5d1U4TzdiVUJDdEYtMU1qUUI3U2xERjZyM3Myd0VzZW4xNnhYWjlDUktRa2h6SnlxTmJGM0U?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2026-10-15T13:32:56Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "AP News",
+        "title": "Wholesale inflation jumped last month by most in four years as gas prices soared - AP News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNExzSHEyWDFGWnpSTkR2V3NndkhQTmU1dzE3M2pTWENyU3RPRTAyb0JQQXNqbENPTjJneHRsYWpMMXFPUXg3dnZfekhEM1VoSFNIRTM4U29QR1l0TGhzeVd6WkZIamdXWDkwcmdlR3k5eExLZFd3SUc0MHFQc1NoQlIwRWw5MzM5OVpndWJKa3NIZFNJRGx5YQ?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2026-10-15T12:43:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "CNBC",
+        "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries - CNBC",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUkVqRjgwNHV5dlVabXVfMTAxS3dWaTNvY2VteVo0MnlENXFheFZQY3BUWGllajdxcC1oZGxqblVvQkVoXzg3VW8zZnlWZTRTRkRNRVl4Z1RWcEd5ejcxNUNGOUJtRHVkZ3NURmJJRDRCMHdPY3BtY3FMMmd2ckVJdWQ2X3Z0LUXSAYwBQVVfeXFMTjB4SDdXN2pCUWk4YkN5cm96TFdmdDJNekg2eXhUWHlSb3lUMGYyT0p6ZWxwc2VmNldCV2VuOFBnWGpOWklyendVSTJMZm14RVRuVlZFX3JIMVFNa2prWmZ1dDloOU1DMUpLQ2ZCaE04aGxtcG9pVlJuWnBQRkpMNWZKSU1Ibm9QcE4xT1Y?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2026-10-15T12:15:09Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "The Guardian",
+        "title": "Online ads weaponised to deliver \u2018zero-click\u2019 spyware, researchers say - The Guardian",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR1RpeTl2ZWhPMDFLZndVR2V4bUJ2U2g4UHN3MXFKN0JaOGdnVnZ1dmJ6RUcxUXd5M3VOakJyV2UtemlGWWhjaTEwR1NmRGVXei1BZnp2eko0V3JReFB3NzFwYmsxNzFaYTFYSFNTSGlJa3pUMC1tM2c0d2dhbUZlZzc5aWloR3U5eHJWUW9WNVcxaWUwb2NueUM1bkRJVGZuRWFiVlU1RTU5VlNHREI1WmduRnNwaHg5ZmhSRTVWanhIaDhqeW4xYXJpMHoxTHdw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2026-10-15T12:15:00Z",
         "content": null
     },
     {
@@ -96,25 +135,38 @@
             "name": "Investor's Business Daily"
         },
         "author": null,
-        "title": "China's Competitive Threat To Micron Called 'Paper Tiger' - Investor's Business Daily",
-        "description": "Micron stock investors overreacted to news this week that China's CXMT had made \"key progress\" on a new memory chip, an analyst said.",
-        "url": "https://www.investors.com/news/technology/micron-stock-china-cxmt-called-paper-tiger/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/05/stock-Micron-HBM-4-company.jpg",
-        "publishedAt": "2026-10-14T13:07:00Z",
+        "title": "Rocket Lab Stock Tumbles On Latest Neutron Launch Delay - Investor's Business Daily",
+        "description": "The SpaceX rival announced another delay to its medium-lift Neutron rocket.",
+        "url": "https://www.investors.com/news/rocket-lab-stock-neutron-launch-vehicle-delay-2027-rklb/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2021/08/Stock-RocketLabs-F2-29-company.jpg",
+        "publishedAt": "2026-10-15T12:15:00Z",
         "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "Investor's Business Daily"
         },
-        "author": "David Hollerith",
-        "title": "Bank of America Q3 profit tumbles 17% as $1.2 billion fine and soft trading weigh on results - Yahoo Finance",
-        "description": "Bank of America said Wednesday that its third quarter profit fell 17% from a year earlier as a $1.2 billion regulatory penalty and a slowdown in its Wall Str...",
-        "url": "https://finance.yahoo.com/markets/article/bank-of-america-stock-on-track-for-worst-day-since-2025-as-12-billion-fine-weighs-on-q3-earnings-135327799.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/f9fd2e3e7bf3bd37e02c997c09ddfa68a2f2b5369d4217d83b283cce1a1aac69/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc9c5443e-7b7e-4544-89c2-e5fbddaccf57",
-        "publishedAt": "2026-10-14T13:03:49Z",
-        "content": "Bank of America's (BAC) stock dropped more than 7% Wednesday, putting shares for the nation's second largest bank on track for its worst single-day move since April 2025 as a $1.2 billion regulatory \u2026 [+2634 chars]"
+        "author": null,
+        "title": "Dow Jones Futures Rise, But AI Sell-Off Continues On Anthropic News; Taiwan Semiconductor Earnings Strong - Investor's Business Daily",
+        "description": "Anthropic revenue underwhelms. Taiwan Semi beats views, guides higher.",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-amd-coreweave-ai-fears-anthropic-taiwan-semiconductor-due/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2023/12/Stock-EyeAIgen-adobe.jpg",
+        "publishedAt": "2026-10-15T12:10:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "Fox Business",
+        "title": "Lisa Cook's lawyer challenges impartiality of Trump panel reviewing Fed mortgage allegations - Fox Business",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmliQTR0R2lTUTN1a1ZYb3ZscWo5ckp2a3F2cF82ZGhYM1pOQjY4WlJKVGZ2SnpqQk5WYVVQQ0NZMktydXZLSnNnUkg5VGhEVGVyQm4xVmVhSDVEWU1rNHIwYU9XNnRWUHhYTlFoblJRcDdwWmNKcnFWWmRPdHdiWFBGUGdJSFpJMGZHTmxsWXZZMHQ4eVpiX2pId0Yyc1Z4OFp4YzJodTMxbWliUHpz0gG0AUFVX3lxTE40T3JrX0RSYXZQTDl0c0JReGYyLXg4R0t0Y0c5OHBnQzlpY3F5aldnS0x3YUhnVHItbUdxaGhVUGxTaXhEU2o2ODg3Rlc4LXh5YWFmUVVUR2p6M1c5b1Qya0R3dGluYnBxSWN6cTdnY0hiZlpFRjM5dG5VOHFncGtpaHZBRnRHSTVScE5SOVNWeVNrNEJSRWtDX2pzQ2U5QURJTHlVTHU0U1Fnbi1BQmtRUWhPTQ?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2026-10-15T11:52:00Z",
+        "content": null
     },
     {
         "source": {
@@ -122,141 +174,76 @@
             "name": "Financial Times"
         },
         "author": null,
-        "title": "He linked Saudi Arabia to Silicon Valley. Then OpenAI found a bug wrapped in toilet paper - Financial Times",
-        "description": "Arrest of computer engineer Abdulrahman Alfozan has shocked tech figures in Saudi Arabia, where he is deeply connected",
-        "url": "https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F239d96ec-e7ec-40ac-8591-06082cbd3548.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-10-14T12:56:25Z",
+        "title": "Credit Suisse bankers denied bonuses stripped after UBS takeover - Financial Times",
+        "description": "Switzerland\u2019s top court sides with government decision, overturning ruling of lower court",
+        "url": "https://www.ft.com/content/6607f0e4-6f99-46d1-a994-decafda46e16?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F71aba71b-f1fe-44d4-83ce-793a5252ec01.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-10-15T11:46:19Z",
         "content": "was $540now $299 for your first year.\r\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October."
     },
     {
         "source": {
-            "id": "google-news",
-            "name": "Google News"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Yahoo Finance",
-        "title": "Stock market today: Dow gains, S&P 500, and Nasdaq decline on hot inflation data - Yahoo Finance",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmNfYW1YU2h6RkdxZGI0Sk1Obko1aUlMT1FydzFhRFR6ZzJ6c2R0YllDOFlDYzBjaTVsVFlucHFDWkhSc3kzNnBpSTJWb1JXb1ZHTGg4eXRCZG42MWJfUTdSQzJic1BDc3A4cHp6MUhDQVlaRU8zWXdXVlRBT3ZybEJlVU5naE5jNjBYR2FwNWt5SE5mbUdTby1mVlZqU0lSbjZrYzV3WnBNSHpKemNZZg?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2026-10-14T12:54:32Z",
-        "content": null
+        "author": "Preeti Singh",
+        "title": "Blackstone\u2019s Jon Gray Plots Once-in-a-Century Bet on the AI Boom - Bloomberg.com",
+        "description": "From data centers and chip financing to AI advice on potential deals, the technology is everywhere at the alternative-investment giant",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-15/blackstone-s-huge-ai-bet-runs-from-data-centers-to-google-and-nvidia-deals",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSm4KjEs7kOw/v3/1200x800.jpg",
+        "publishedAt": "2026-10-15T11:45:32Z",
+        "content": "An AI rendering of a 19th-century Jon Gray, complete with pitchfork, waistcoat and straw hat, flashed up behind the Blackstone Inc. president at a recent meeting with investors.\r\nThe image, placing t\u2026 [+171 chars]"
     },
     {
         "source": {
             "id": "google-news",
             "name": "Google News"
         },
-        "author": "The Independent",
-        "title": "US families are behind on bills at rate not seen since Great Recession of 2008 - The Independent",
+        "author": "CNBC",
+        "title": "How lower fuel economy targets could boost pickups and V-8 engines - CNBC",
         "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLXctRkt5NmhSaDZCNWxkcC1WN3Z2VDc0b2s2N2NDRW5rMmIxdnlZdk96Ml82NmVEVWM5a0RxRTlDVnZOSm9FRmthenBoaXZQcEJpZTlvM3ZCX0NnQzR5OW1BZUdMU29lcVg2YzVjVGtnVVMwdDVVOXNUTjQ5V0hleEc0cTB2RG92Mm5j?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16S2JNV2VLSWpRcmlScFRoN1A4OEo0aE14aG96aFc5S0NjNHZIX3FteFlWRjZ6SldITkVqTkp4cjc0NnlUNzBUS2hkRzR6b0RxbmVwZjd4YnF0cHltV1RmLURxeERQWUR0Y0EwWmNzOG9FUdIBd0FVX3lxTE9kWEFNSnByd0xjMjIzbXdIcG8xd0NCZWlEMUdyWHpSdHdhRGk4ZGd4bEJwaFBDdGNvcV9TYi0wRU5RZHlsT2ZOTjJLclpOaC1mT3JQZll0WGd1VkYzNDFKQnZsOHFMMTFJdGFsZFlaMEt1Q0EzdGNz?oc=5",
         "urlToImage": null,
-        "publishedAt": "2026-10-14T12:47:00Z",
+        "publishedAt": "2026-10-15T11:30:01Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Brendan Bordelon",
+        "title": "Microsoft\u2019s president warns White House against skilled immigration crackdown - Politico",
+        "description": "In an exclusive interview, Brad Smith said discouraging skilled immigrants could undermine the \u201cwealth and standard of living\u201d of all Americans.",
+        "url": "https://www.politico.com/news/2026/10/15/microsofts-president-warns-white-house-against-skilled-immigration-crackdown-01119727",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fjit%2F1155968404%2F9b248b84-6416-4fda-86ed-4ea94d4d8ff5%2Fmain%2F1280x720%2F44s874ms%2Fmatch%2Fimage.jpg",
+        "publishedAt": "2026-10-15T11:00:00Z",
+        "content": "DUBLIN, Ireland Microsoft vice chair and president Brad Smith delivered a broadside Wednesday against President Donald Trumps push to block the path to permanent residency for highly-skilled immigran\u2026 [+1010 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Jim Edwards",
+        "title": "Suddenly, Wall Street is worried that the U.S. economy is more \u2018vulnerable\u2019 than it looks - Fortune",
+        "description": "The stock market is up 13% this year, unemployment is low, and U.S. GDP is growing, but suddenly it seems like Wall Street thinks this glass is half empty rather than half full.",
+        "url": "https://fortune.com/2026/10/15/suddenly-wall-street-is-worried-that-the-u-s-economy-is-more-vulnerable-than-it-looks/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2300173652-e1792059378136.jpg?resize=1200,600",
+        "publishedAt": "2026-10-15T10:19:00Z",
+        "content": "Bespoke Investment Group spotted something it did not like in the most recent National Federation of Independent Business survey this week: That small businesses increasingly report their number one \u2026 [+4478 chars]"
     },
     {
         "source": {
             "id": "google-news",
             "name": "Google News"
         },
-        "author": "NBC News",
-        "title": "Chick-fil-A bet on chicken 60 years ago. Now it\u2019s America\u2019s third largest restaurant chain - NBC News",
+        "author": "https://www.derekthompson.org/",
+        "title": "I Know Why the Mathematicians Weep - https://www.derekthompson.org/",
         "description": null,
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkkzdHllaFpfWXNDMnRSYjh1RHhMVTFBeUk0Q0FDRDVSRVdubE54ODhTMFF3dWhyZmhjcDd4TUpIUjA3RVFMS3ZidDh3SWdqajVWMW16aU45aTNid1BCLURpNnJ4TEJCaDdRN2hCdksxWVJiZUxMMTcwVHVQY29tVjZOaHFwdldpQlZJeTVDb1Y1ZW90cWhaWTRWcFFNb0k?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nQ2tEVENlNDJZcERGQm91VW9PUThoNE5ZUTlPMGxoUFoyc0NWWjFESVRycHBIVlN4SU5yUW55Z21qWThPVFp0UEYwa2diM2k0VEpaQ2VOUXQ2dGROdDE4NDJ3WEp3WElFcVBkVzFsakhOc01D?oc=5",
         "urlToImage": null,
-        "publishedAt": "2026-10-14T12:09:06Z",
+        "publishedAt": "2026-10-15T10:02:37Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Miranda Devine",
-        "title": "Exclusive | Banks closed accounts of MAGA, pro-life and other conservative groups disfavored by Biden admin - New York Post",
-        "description": "The banks also restricted financing for \u201cdisfavored\u201d industries such as firearms makers and retailers, Arctic oil and gas, coal, detention facilities, tobacco and e-cigarettes.",
-        "url": "https://nypost.com/2026/10/14/us-news/banks-closed-accounts-of-maga-pro-life-and-other-conservative-groups-disfavored-by-biden-admin/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144986151.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-10-14T11:54:00Z",
-        "content": "Major banks closed accounts and refused credit to MAGA merchants, pro-life causes, religious groups, conservative organizations and sectors disfavored by the Biden administration, such as firearms, o\u2026 [+8775 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Hugh Son",
-        "title": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million - CNBC",
-        "description": "Morgan Stanley topped expectations on the top and bottom lines for the third quarter.",
-        "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108091506-1737654883210-1U8A2251.JPG?v=1737655004&w=1920&h=1080",
-        "publishedAt": "2026-10-14T11:16:28Z",
-        "content": "Morgan Stanley posted third-quarter results that beat expectations on blockbuster results in its equities trading franchise. \r\nHere's what the company reported:\r\n<ul><li>Earnings per share: $3.03 vs.\u2026 [+2015 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Adam Clark",
-        "title": "ASML Stock Slips as Earnings Point to a Scramble for Chipmaking Machines - Barron's",
-        "description": "ASML stock was falling even after it raised its sales guidance and said it can't keep up with customer demand for lithography tools.",
-        "url": "https://www.barrons.com/articles/asml-earnings-stock-price-d0973c5c",
-        "urlToImage": "https://images.barrons.com/im-372856/social",
-        "publishedAt": "2026-10-14T11:10:00Z",
-        "content": "ASML Holdingkicked off earnings season for technology companies with raised guidance. The Dutch chipmaking equipment company is scrambling to keep up with customer demand, as the artificial-intellige\u2026 [+140 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Points Guy"
-        },
-        "author": "Sean Cudahy",
-        "title": "Delta One gets a boozy upgrade with $200 wines, luxe dining and new suites on the way - The Points Guy",
-        "description": "The Atlanta-based carrier announced an overhaul to the menus it\u2019ll offer in its flagship Delta One suites.",
-        "url": "https://thepointsguy.com/news/delta-air-lines-premium-food-drink-overhaul/",
-        "urlToImage": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/01/delta-new-interior-delta-one-cabin.jpeg",
-        "publishedAt": "2026-10-14T11:04:17Z",
-        "content": "Two years ago, Delta Air Lines raised the bar on what airport luxury could look like in America when it cut the ribbon on its first-ever Delta One Lounge in New York.\r\nThere was a luxurious check-in \u2026 [+5682 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "CNN",
-        "title": "Thousands of refrigerators were hacked across France. How worried should you be? - CNN",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1FIemJmYWM4cnV6MzZ3RS05QmtuZjZXT0V4ei0xV0x3R1Y4ZTZ5M1NGaS1UeEYySGxQSmtuMlNBWFFTMVNEa29ldFpXUnZzbmFfajVaa1NKNjhMTG5POFpDcnFwbE9xSzY5eWhtUTlxSHljUlBzaXpUUzJSTXBHamFIU3BYNFk5?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2026-10-14T11:02:44Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Fund Managers Are Bullish\u2014Watch Out - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/finance/investing/fund-managers-are-bullishwatch-out-0597c06b",
-        "urlToImage": null,
-        "publishedAt": "2026-10-14T10:39:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WFSB"
-        },
-        "author": "Rob Polansky",
-        "title": "Breeze announces new southern destination from New Haven - WFSB",
-        "description": "Breeze Airways on Tuesday announced a new destination out of New Haven.",
-        "url": "https://www.wfsb.com/2026/10/14/breeze-announces-new-southern-destination-new-haven/",
-        "urlToImage": "https://gray-wfsb-prod.gtv-cdn.com/resizer/v2/Q7GOI2JB55EMTICFIG22MYOPAE.jpg?auth=a34770002ee8270ee595dba892da65537cb9ce246eb0a1ed63c15c3b18b78b7a&width=1200&height=600&smart=true",
-        "publishedAt": "2026-10-14T10:28:00Z",
-        "content": "NEW HAVEN, Conn. (WFSB) - Breeze Airways on Tuesday announced a new destination out of New Haven.\r\nThe airline said nonstop service to Myrtle Beach, SC will fly Wednesdays and Saturdays starting May \u2026 [+633 chars]"
     }
 ]
