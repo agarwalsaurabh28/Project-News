@@ -2,28 +2,106 @@
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "CNBC"
         },
-        "author": "Brian Sozzi",
-        "title": "Elon Musk says he's giving SpaceX stock to every kid in America - Yahoo Finance",
-        "description": "Kids will soon have a financial interest in the future of space.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-says-hes-giving-spacex-stock-to-every-kid-in-america-131435467.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/fa1c5af5a1841e8078e0f6790da271c19e133f54f134f1b0b96d243973e522ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fcb539bcd-2c5e-4306-8d73-5ce28232da39",
-        "publishedAt": "2026-10-19T17:52:09Z",
-        "content": "Kids will soon have a financial interest in the future of space.\r\n\"Next year, I will give one of my SpaceX (SPCX) shares to every kid in America. This will be the first of many,\" SpaceX founder and C\u2026 [+1083 chars]"
+        "author": "Hayley Cuccinello",
+        "title": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch - CNBC",
+        "description": "Elon Musk's planned SpaceX stock donation could come with strings attached if he uses Trump Accounts. New Treasury rules limit when shares can be sold.",
+        "url": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+        "publishedAt": "2026-10-20T17:10:37Z",
+        "content": "SpaceX CEO Elon Musk speaks to reporters as President Donald Trump looks on outside the White House in Washington, Sept. 29, 2026.\r\nElon Musk said on Monday that he will give every kid in America a s\u2026 [+8294 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Vulture"
+            "name": "CNBC"
         },
-        "author": "Josef Adalian, Chris Lee, Nicholas Quah",
-        "title": "Netflix Fired Everyone. Now What? - Vulture",
-        "description": "CCO Bela Bajaria is out, film boss Dan Lin is out, and so are about 1,000 other employees. Problems solved? Let\u2019s discuss what comes next as Netflix readies its quarterly earnings report tomorrow.",
-        "url": "http://www.vulture.com/article/netflix-bela-bajaria-layoffs-dan-lin-q3-earnings-report.html",
-        "urlToImage": "https://pyxis.nymag.com/v1/imgs/568/d0f/b4787594b7cac4d93a60cc4d908a6e96f6-netflix-bela.1x.rsocial.w1200.jpg",
-        "publishedAt": "2026-10-19T17:06:40Z",
-        "content": "This story is featured in Buffering, Vultures newsletter about the entertainment industry. Sign up at vulture.com/buffering!\r\nEven after news broke that Netflix was laying off 1,000 employees, or abo\u2026 [+17145 chars]"
+        "author": "Sean Conlon, Lee Ying Shan, Fred Imbert",
+        "title": "Dow jumps 500 points as solid earnings, falling crude oil stir rebound: Live updates - CNBC",
+        "description": "A number of upbeat earnings reports and a drop in oil prices overshadowed recent pressure seen among artificial intelligence-related stocks.",
+        "url": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108232526-1764791894488-108232526-1764171508892-gettyimages-2248555747-anotherday153732181_e40jwrlr.jpg?v=1770051127&w=1920&h=1080",
+        "publishedAt": "2026-10-20T16:37:38Z",
+        "content": "The Dow Jones Industrial Average rose on Tuesday as a number of upbeat earnings reports and a drop in oil prices overshadowed recent pressure seen among artificial intelligence-related stocks.\r\nThe b\u2026 [+2215 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Neil Irwin",
+        "title": "Homebuilder sentiment is at a 14-year low - Axios",
+        "description": "All signs point to housing affordability getting worse.",
+        "url": "https://www.axios.com/2026/10/20/housing-construction-ai-rates",
+        "urlToImage": "https://images.axios.com/Undx6-JHi4FgN82PgRFJ7zXsDWk=/1366x768/smart/2021/05/06/234208-1620344528682.jpg",
+        "publishedAt": "2026-10-20T16:19:33Z",
+        "content": "By the numbers: The number of housing units started by builders fell 5.2% last month, the Census Bureau said, to 1.22 million. It's down 7.4% year over year and near post-pandemic lows.\r\n<ul><li>Star\u2026 [+2659 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "James Pollard, Wyatte Grantham-Philips",
+        "title": "Ahead of massive IPOs, AI companies are sketching plans to share their wealth - AP News",
+        "description": "As they steam toward massive public offerings on Wall Street, the companies at the forefront of artificial intelligence have begun sketching plans to share their wealth with the public. Executives at Anthropic and OpenAI have long argued the technology\u2019s arri\u2026",
+        "url": "https://apnews.com/article/anthropic-openai-public-benefit-fund-fc16c0ff997c8334dcd71e65d726aadc",
+        "urlToImage": "https://dims.apnews.com/dims4/default/7fcf88d/2147483647/strip/true/crop/8476x5651+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd2%2F0d%2F3d472f82025c7659ed7ac0d40c72%2F9a6f62e8832442a6b135f38820880a96",
+        "publishedAt": "2026-10-20T16:16:00Z",
+        "content": "NEW YORK (AP) As they steam toward massive public offerings on Wall Street, the companies at the forefront of artificial intelligence have begun sketching plans to share their wealth with the public \u2026 [+6843 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Josh Funk, Rio Yamat",
+        "title": "US certifying Boeing\u2019s largest 737 Max after years of delays, AP source says - AP News",
+        "description": "The U.S. government is set to announce that it has approved Boeing\u2019s 737 Max 10 airliner for passenger service after years of delays. A Transportation Department official told The Associated Press that Transportation Secretary Sean Duffy plans to announce the\u2026",
+        "url": "https://apnews.com/article/boeing-737-max-10-certification-faa-duffy-a18eb4a039f37a6f67d40edceb28f52c",
+        "urlToImage": "https://dims.apnews.com/dims4/default/a993b12/2147483647/strip/true/crop/6738x4492+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff2%2F7c%2F21dfc60ab4dece1a4c5739d318ef%2Fc27b3bdad0e245ae8724827bf440475b",
+        "publishedAt": "2026-10-20T16:13:00Z",
+        "content": "The U.S. government is set to announce Tuesday that it has approved Boeings 737 Max 10 airliner for passenger service after years of delays, a Transportation Department official told The Associated P\u2026 [+3979 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lora Kolodny",
+        "title": "SpaceX earnings live updates: Here's why analysts are bullish ahead of the report - CNBC",
+        "description": "Follow SpaceX\u2019s Q3 2026 earnings live, with updates on revenue, Starlink, AI spending, Starship, guidance and SPCX stock.",
+        "url": "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344752-1785869234686-gettyimages-2289079342-_73a7123_tubi9bwl.jpeg?v=1786556960&w=1920&h=1080",
+        "publishedAt": "2026-10-20T16:10:00Z",
+        "content": "SpaceX is set to announce third-quarter results after the bell on Tuesday, the second earnings report for Elon Musk's defense tech conglomerate since its record IPO in June. \r\nHere's what analysts ar\u2026 [+1259 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Mike Allen",
+        "title": "Exclusive: Joel Kaplan leaving Meta after 15 years as policy chief - Axios",
+        "description": "Kaplan built Facebook's U.S. policy team from scratch.",
+        "url": "https://www.axios.com/2026/10/20/joel-kaplan-meta",
+        "urlToImage": "https://images.axios.com/0CjMH_2StAaJBHYy2ZmC4GsjSqY=/0x162:6000x3537/1366x768/2026/10/20/1792513563572.jpg",
+        "publishedAt": "2026-10-20T16:03:09Z",
+        "content": "Joel Kaplan, Meta's chief global affairs officer, will leave Meta next year after 15+ years as Mark Zuckerberg's top Washington adviser.\r\n<ul><li>Kaplan a Harvard Law graduate and former Marine artil\u2026 [+2903 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Caitlin Owens",
+        "title": "Exclusive: HHS releases new kidney care plan - Axios",
+        "description": "It calls for reforms across the chronic kidney disease care ecosystem.",
+        "url": "https://www.axios.com/2026/10/20/kidney-care-plan-kennedy",
+        "urlToImage": "https://images.axios.com/u0liJaOrs_H4UioRzsLpLe9KGLw=/1366x768/smart/2024/04/04/203954-1712263194896.jpg",
+        "publishedAt": "2026-10-20T16:02:54Z",
+        "content": "A new Trump administration plan for kidney care, provided first to Axios, calls for injecting more competition into treatment markets, incentivizing innovation and focusing more on preventive care.\r\n\u2026 [+2164 chars]"
     },
     {
         "source": {
@@ -31,219 +109,141 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Oil Futures Pare Losses From Russia Sanctions Waiver - WSJ",
+        "title": "GM Plans $20 Billion in Buybacks, but Warns of Bumpy 2027 - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-possible-correction-but-drop-may-be-limited-by-geopolitical-tensions-21ff1c15",
+        "url": "https://www.wsj.com/business/autos/general-motors-plans-20-billion-in-buybacks-to-shore-up-share-price-a857e6fe",
         "urlToImage": null,
-        "publishedAt": "2026-10-19T16:30:00Z",
+        "publishedAt": "2026-10-20T15:39:00Z",
         "content": null
     },
     {
         "source": {
-            "id": null,
-            "name": "Financial Times"
+            "id": "associated-press",
+            "name": "Associated Press"
         },
-        "author": null,
-        "title": "US prosecutors allege Saudi royal links in OpenAI bugging case - Financial Times",
-        "description": "Prosecutors argue Abdulrahman Alfozan should continue to be detained in the US due to his \u2018considerable support from a foreign government\u2019",
-        "url": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F418581fb-efdc-4d80-a2fe-0aa3c4b779e4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-10-19T16:13:28Z",
-        "content": "was $540now $299 for your first year.\r\nSave now on essential digital access to trusted FT journalism on any device. Savings based on monthly annualised price, offer ends 28th October."
+        "author": "Kade Heather/block Club Chicago",
+        "title": "Delivery Robots Accused Of Scanning Customers\u2019 Faces, Sharing Biometric Data - AP News",
+        "description": "The battle over Chicago\u2019s food delivery robots has reached the courts, with two customers accusing the companies behind them of collecting their biometric data without consent.",
+        "url": "https://apnews.com/article/chicago-food-delivery-robots-biometric-data-lawsuits-16ead54eb7dc7c6eacbf011c53b9b20d",
+        "urlToImage": "https://dims.apnews.com/dims4/default/6cdc736/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F71%2F2a%2F72df3738bef6751abde002eb8961%2Ff8ad8d8d5bd241749f5c9cfeadf43ea4",
+        "publishedAt": "2026-10-20T15:25:02Z",
+        "content": "The battle over Chicagos food delivery robots has reached the courts, with two customers accusing the companies behind them of collecting their biometric data without consent.\r\nThe men filed separate\u2026 [+5981 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Hollywood Reporter"
+            "name": "The-independent.com"
         },
-        "author": "Georg Szalai",
-        "title": "Netflix Earnings Preview: Not the Time to Chill - The Hollywood Reporter",
-        "description": "A C-suite reshuffle has led at least one Wall Street analyst to cut his financial forecasts. Another echoes a widely held sentiment: \"A new path is being laid; it may take time.\"",
-        "url": "http://www.hollywoodreporter.com/business/business-news/netflix-earnings-preview-near-term-pain-long-term-gain-layoffs-1236734764/",
-        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/02/GettyImages-2259773471.jpg?w=1440&h=810&crop=1",
-        "publishedAt": "2026-10-19T16:10:57Z",
-        "content": "Netflix doesn\u2019t need its third-quarter earnings report on Tuesday to get anyone\u2019s attention. It already has had all sorts of eyes and ears in Hollywood and on Wall Street on it for days. After all, t\u2026 [+11903 chars]"
+        "author": "Caitlin Hornik",
+        "title": "Hot dogs, bacon, and sausage among 1.5M pounds of recalled meat over serious health concerns - The Independent",
+        "description": "Hot dogs, bacon and deli meat are among the recalled products shipped across the US and Hong Kong",
+        "url": "https://www.the-independent.com/life-style/meat-recall-usda-kayem-foods-b3070046.html",
+        "urlToImage": "https://static.the-independent.com/2026/10/19/17/16/Screenshot-2026-10-19-at-1-21-09-PM.png?trim=75,0,31,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-10-20T15:00:00Z",
+        "content": "A Massachusetts-based manufacturer has recalled more than 1.5 million pounds of various meat products over serious potential health concerns.\r\nKayem Foods Inc. initiated the recall after learning tha\u2026 [+2615 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Michael B. Kelley",
-        "title": "Amazon stock pops after Morgan Stanley details 5 catalysts, lifts price target - Yahoo Finance",
-        "description": "Amazon stock rose in early trading on Monday after Morgan Stanley named it a top pick and raised its price target.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-pops-after-morgan-stanley-details-5-catalysts-lifts-price-target-140841569.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/080357f314708f536322bcb913ea65935a1bdba8e2547ce8384621a4697fb207/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fa5356147-1a88-4343-9af4-000d3ae259b2",
-        "publishedAt": "2026-10-19T16:07:24Z",
-        "content": "Amazon (AMZN) stock rose as much as 5% on Monday after Morgan Stanley named it a top pick and raised its price target to $350 from $335, outlining five catalysts that could drive the stock higher.\r\nT\u2026 [+2515 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Shaun  Raviv",
-        "title": "The AI doom scenario you've never heard of may be the hardest to stop - CBS News",
-        "description": "The time to prepare for \"gradual disempowerment\" is now, according to researchers. One calls it \"a civilization-scale problem.\"",
-        "url": "https://www.cbsnews.com/news/ai-doom-scenario-gradual-disempowerment/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/19/2871e3cb-c135-4878-a8f1-162a5c627aa4/thumbnail/1200x630/37172b2d82439afb580652162c72b471/gettyimages-2213179432.jpg",
-        "publishedAt": "2026-10-19T15:33:00Z",
-        "content": "It seems that almost daily, a big tech company releases a new AI-driven digital assistant. Muse by Meta, Gemini by Google, dots by OpenAI. By the time this article is published, a new one from [inser\u2026 [+12170 chars]"
+        "author": "Ines Ferr\u00e9",
+        "title": "AI jitters clobber South Korea's Elice as stock sinks 32% in trading debut - Yahoo Finance",
+        "description": "The rocky debut of South Korean data center provider Elice underscores lingering jitters over the AI trade.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/ai-jitters-clobber-south-koreas-elice-as-stock-sinks-32-in-trading-debut-145032999.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/f3490009fbdd977aa23a31f0700757fb61b3575e87d92f70732c7dac32d6bdcc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fbfc6c2bd-40c1-45a0-8808-d744716b3232_7cd2bb0e71918ca0b95628c75d31b05277a782f1829e25d018ee5febe7caadbf.jpg",
+        "publishedAt": "2026-10-20T14:50:32Z",
+        "content": "Concerns over the AI trade resurfaced after South Korean data center provider Elice's (0158S0.KQ) stock plunged 32% on its first day of trading.\r\nElice,\u00a0which rents out AI compute capacity, raised ro\u2026 [+1362 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Health.com"
+            "name": "Barron's"
         },
-        "author": "https://www.facebook.com/Health/",
-        "title": "USDA Announces Nationwide Meat Recall\u2014More Than 1.5 Million Pounds of Hot Dogs, Bacon, Deli Meat, and More Affected - Health.com",
-        "description": "Check your fridge and freezer: Dozens of meat products have been recalled due to unsafe storage temperatures.",
-        "url": "https://www.health.com/meat-recall-october-2026-12181766",
-        "urlToImage": "https://www.health.com/thmb/_9ab0wvwFlzlhb8KTI-CQ4ceniA=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-meat-recall-7cf37aa3273e484ebcf9d92c7611da18.jpg",
-        "publishedAt": "2026-10-19T15:05:19Z",
-        "content": "More than 1.5 million pounds of fully cooked meat and poultry products have been recalled nationwide, the USDAs Food Safety and Inspection Service (FSIS) announced Saturday. The recall includes hot d\u2026 [+5225 chars]"
+        "author": "Jack Denton",
+        "title": "Micron Stock Rises to Defy 3 Warning Signals - Barron's",
+        "description": "Chip stocks have come under intense pressure of late with valuations that had been stretched by an AI-fueled rally.",
+        "url": "https://www.barrons.com/articles/micron-stock-ai-warning-signals-83c3ae95",
+        "urlToImage": "https://images.barrons.com/im-88978474/social",
+        "publishedAt": "2026-10-20T14:45:00Z",
+        "content": "Micron stock rose Tuesday, reversing initial losses as the tech rebound suddenly burst back into life.\r\nCopyright \u00a92026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cd\u2026 [+2 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "KTLA Los Angeles"
+        },
+        "author": "KTLA",
+        "title": "Southern California favorite Porto\u2019s expands into Inland Empire - KTLA",
+        "description": null,
+        "url": "https://ktla.com/news/california/portos-bakery-ontario-inland-empire-location/",
+        "urlToImage": null,
+        "publishedAt": "2026-10-20T14:27:58Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Al Root",
+        "title": "GE Aerospace Keeps Beating Earnings, GE Stock Keeps Falling - Barron's",
+        "description": "GE Aerospace stock fell after the company reported third-quarter earnings per share of $2.25 from sales of $13.3 billion.",
+        "url": "https://www.barrons.com/articles/ge-aerospace-earnings-beat-stock-falling-aftermarket-fears-336f8329",
+        "urlToImage": "https://images.barrons.com/im-54992688/social",
+        "publishedAt": "2026-10-20T14:14:00Z",
+        "content": "Positive trial data for Rapports lead pipeline candidate, RAP-219, a treatment for bipolar mania, points to a potential $1 billion peak sales opportunity, Jefferies says."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Diana Olick",
+        "title": "September data shows housing market in a deep freeze - CNBC",
+        "description": "New data on the housing market's performance in September is bleak, with sales, construction and sentiment all falling more than expected.",
+        "url": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108316060-1780500478814-gettyimages-2277390306-260523_tohomes_110.jpeg?v=1792504243&w=1920&h=1080",
+        "publishedAt": "2026-10-20T14:00:03Z",
+        "content": "Fast-rising mortgage rates in September took a harsh toll on the housing market, according to new monthly data released today.\r\nPending home sales, a measure of signed contracts on existing homes, dr\u2026 [+2166 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Rob Wile",
+        "title": "Oil prices move higher as traders adjust to a new normal in the Middle East - NBC News",
+        "description": "Oil prices surged in early trading Tuesday, as energy markets adjusted to a new normal in the Middle East.",
+        "url": "https://www.nbcnews.com/business/energy/oil-prices-new-normal-gas-midterms-rcna604542",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-strait-hormuz-mn-0850-bb983e.jpg",
+        "publishedAt": "2026-10-20T13:48:59Z",
+        "content": "Oil prices surged in early trading Tuesday, as energy markets adjusted to a new normal in the Middle East. The increase in crude prices threatened to drive up the cost of gas in the United States jus\u2026 [+2655 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Jared Blikre",
-        "title": "Micron, Intel lead chip recovery, adding nearly $250B as most of Wall Street falls: Chart of the Day - Yahoo Finance",
-        "description": "Chip stocks were last week's drag and this week's big hope.",
-        "url": "https://finance.yahoo.com/markets/article/micron-intel-lead-chip-recovery-adding-nearly-250b-as-most-of-wall-street-falls-chart-of-the-day-144315957.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/e26062a819ca4c4b89570d8447eeaa8a250d345dda86d619f1623df7a3209069/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fvideo-frame-1792417105323_1717.jpg",
-        "publishedAt": "2026-10-19T14:43:02Z",
-        "content": "Last week, chip stocks helped drag Wall Street lower. Monday, they're lifting the indexes while most stocks keep falling.\r\nA Yahoo Finance basket of 60 chip-related stocks is recovering nearly $250 b\u2026 [+2374 chars]"
+        "author": "Ines Ferr\u00e9",
+        "title": "Chips lead Nasdaq lower, oil tops 5-month high: AlphaCheck - Yahoo Finance",
+        "description": "Stocks were mixed on Tuesday.",
+        "url": "https://finance.yahoo.com/markets/article/chips-lead-nasdaq-lower-oil-tops-5-month-high-alphacheck-134325052.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/81d926e90ba6617ffe542923db863817de13c48f59b4b9d9aa25da2318cdf5c1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F748df620-13df-452d-b7fe-114485eadd92",
+        "publishedAt": "2026-10-20T13:43:25Z",
+        "content": "Good morning. Stocks were mixed on Tuesday as semiconductor names gave up the prior session's rebound and oil prices rose.\r\nBrent crude oil futures (BZ=F) hovered near a five-month high at $110 per b\u2026 [+1245 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "TheStreet"
+            "id": "ign",
+            "name": "IGN"
         },
-        "author": "TheStreet",
-        "title": "Something shifted in the housing market, and sellers felt it first - TheStreet",
-        "description": null,
-        "url": "https://www.thestreet.com/real-estate/seller-paid-buydown-housing-market-shift",
-        "urlToImage": null,
-        "publishedAt": "2026-10-19T14:33:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "10TV"
-        },
-        "author": "10TV",
-        "title": "New nonstop Lufthansa flight announced from Columbus to Frankfurt - 10TV",
-        "description": null,
-        "url": "https://www.10tv.com/article/news/local/nonstop-lufthansa-flight-columbus-frankfurt/530-05f6bffc-803d-40ed-8394-dadaaaceef0b",
-        "urlToImage": null,
-        "publishedAt": "2026-10-19T14:21:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MarketWatch"
-        },
-        "author": "Tomi Kilgore, Steve Goldstein, Jamie Chisholm, Jules Rimmer, Nora Redmond",
-        "title": "Stock Market Today: Dow turns up, S&P 500 and Nasdaq rally as tech stocks bounce; oil prices slip while yields tick up - MarketWatch",
-        "description": "Follow all the latest U.S. market action for Monday here.",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-bounce-back-teach-earnings-third-quarter",
-        "urlToImage": "https://images.mktw.net/im-51746529/social",
-        "publishedAt": "2026-10-19T14:20:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "U.S. Home-Builder Sentiment Sinks to 14-Year Low - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/economy/housing/u-s-home-builder-sentiment-sinks-to-14-year-low-120d5cb6",
-        "urlToImage": null,
-        "publishedAt": "2026-10-19T14:10:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Electrek"
-        },
-        "author": "Fred Lambert",
-        "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger - Electrek",
-        "description": "Tesla's 2026 proxy has 3 ballot items, a pay committee chair on SpaceX's board, and Musk awards that pay out fast on a SpaceX merger.",
-        "url": "http://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/",
-        "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Elon-Musk-self-dealing-Tesla-Spa.jpg?quality=82&strip=all&resize=1200,628",
-        "publishedAt": "2026-10-19T14:07:00Z",
-        "content": "Teslas proxy for its 2026 annual meeting, filed today, confirms that one of its supposedly independent directors now sits on SpaceXs board. Ira Ehrenpreis, who chairs both Teslas compensation committ\u2026 [+8095 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Uber wins bid to throw out \u00a3200m black cab claims - BBC",
-        "description": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
-        "url": "https://www.bbc.com/news/articles/cv5ynp1j45x2o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/55c0/live/e258cdd0-0819-11ef-8205-3fa833ece17b.jpg",
-        "publishedAt": "2026-10-19T12:58:39Z",
-        "content": "About 13,000 drivers were seeking nearly \u00a3200m in damages, Reuters reported, while a claim on behalf of Kabbie and Iride, two private hire firms that have since closed, sought about \u00a3140m."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Brian Sozzi",
-        "title": "SpaceX surprises Wall Street with Oct. 20 earnings date \u2014 here's why - Yahoo Finance",
-        "description": "Get ready for a SpaceX EPS.",
-        "url": "https://finance.yahoo.com/technology/article/spacex-surprises-wall-street-with-oct-20-earnings-date--heres-why-123059651.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/673f1e9f3a16a6acda6282061109d257dd97a5e67a6b8277c2d918475241a10d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fe62c12a3-270a-41dd-b441-4aff6c598725",
-        "publishedAt": "2026-10-19T12:30:59Z",
-        "content": "While Wall Street was still in a state of disbelief late last week that Elon Musk made a flying Tesla (TSLA) Roadster, his SpaceX (SPCX) team came out with a not-so-small note on its investor relatio\u2026 [+2012 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Exclusive | Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215",
-        "urlToImage": null,
-        "publishedAt": "2026-10-19T12:00:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "CLF Stock Flashes Buy Signal On Steelmaker's Massive $4 Bil Outlook - Investor's Business Daily",
-        "description": "CLF stock surged as the steelmaker turns profitable and delivers a huge outlook for 2027 EBITDA.",
-        "url": "https://www.investors.com/news/clf-stock-cleveland-cliffs-q3-earnings/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2018/03/stock-steel-11-adobe.jpg",
-        "publishedAt": "2026-10-19T11:56:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Yazhou Sun",
-        "title": "Vinted Faces Influx of Suspected Looted Goods After French Riots - Bloomberg.com",
-        "description": "Vinted, a secondhand online marketplace that counts France as its largest market, has seen an influx of listings suspected to contain looted items after riots broke out across the country.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZbPASmfW6h4/v1/1200x800.jpg",
-        "publishedAt": "2026-10-19T11:08:54Z",
-        "content": "Vinted, a secondhand online marketplace that counts France as its largest market, has seen an influx of listings suspected to contain looted items after riots broke out across the country.\r\nThe compa\u2026 [+269 chars]"
+        "author": "Chris Reed",
+        "title": "Signing Up for Best Buy's New Gamers Program Gets You a Free $5 Reward Certificate, While Supplies Last - IGN",
+        "description": "Signing up for Best Buy's new Gamers program gets you a free $5 reward certificate, but only while supplies last.",
+        "url": "https://www.ign.com/articles/free-5-gift-card-new-best-buy-gamers-program",
+        "urlToImage": "https://assets-prd.ignimgs.com/2026/10/20/untitled-design-1-1792502337214.png?width=1280&format=jpg&auto=webp&quality=80",
+        "publishedAt": "2026-10-20T13:24:13Z",
+        "content": "Best Buy is kicking off a new program called Best Buy Gamers. If youre among the first 200,000 people to sign up (you can do so here for free), youll get a free $5 gift certificate, no strings attach\u2026 [+1738 chars]"
     }
 ]
