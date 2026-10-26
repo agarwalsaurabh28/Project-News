@@ -1,81 +1,29 @@
 [
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Six Flags to Add Seat Belts to Rides Following Death - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/business/hospitality/six-flags-to-add-seat-belts-to-rides-following-death-1c1fa20d",
-        "urlToImage": null,
-        "publishedAt": "2026-10-24T10:38:08Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": null,
-            "name": "NPR"
+            "name": "CarBuzz"
         },
-        "author": "Emily Pisacreta",
-        "title": "Is your Medicare Advantage plan ending next year? Here's what to know - NPR",
-        "description": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
-        "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb7%2F32%2F0a4ebbfe4f2dbabf8c9657e981f6%2Fgettyimages-2297178413.jpg",
-        "publishedAt": "2026-10-24T10:00:00Z",
-        "content": "A slew of Medicare Advantage plans are disappearing for next year, leaving seniors in many areas with fewer options. In 193 counties across the country, no plans are offered at all.\r\nMedicare's annua\u2026 [+5651 chars]"
+        "author": "Tom Murphy",
+        "title": "US Automakers Face Dilemma As Chinese Rival Eyes American Factories - CarBuzz",
+        "description": "Chery is knocking on America\u2019s door, hoping to partner with a domestic carmaker to produce vehicles here. Could its relationship with Ford bear fruit?",
+        "url": "https://carbuzz.com/chinese-brand-chery-us-auto-partnership-october-2026/",
+        "urlToImage": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2026/02/chery_dsc05848_cropped_processed_by_imagy.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-10-25T16:00:00Z",
+        "content": "It's a question that keeps nagging the US auto industry: Will the door open for Chinese-built vehicles to be sold in the US, or will Chinese automakers be allowed within American borders to build veh\u2026 [+4233 chars]"
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Maria Curi",
-        "title": "Washington's message to AI execs: Please shut up - Axios",
-        "description": "Washington is losing patience with AI leaders.",
-        "url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
-        "urlToImage": "https://static.axios.com/img/axios-site/axios-placeholder-16x9.png",
-        "publishedAt": "2026-10-24T09:41:23Z",
-        "content": "State of play: Rather than leading the charge to persuade Americans about the benefits of AI, and the potential for shared prosperity the core elements of any winning political campaign industry lead\u2026 [+4653 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Daniel de Vise\u0301",
-        "title": "Still sending checks in the mail? It's time to stop - USA Today",
-        "description": "Check fraud is rising even as the number of checks in circulation is declining. If you're still sending them in the mail, it may be time to stop.",
-        "url": "https://www.usatoday.com/story/money/personal-finance/2026/10/24/is-it-safe-to-mail-checks-fraud-risk/92380337007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/USAT/91595876007-20240327-t-205826-z-201923544-mt-1-usatoday-22880038-rtrmadp-3-asurgeincheckfraudhasledtonewtipsabouthowtomail.JPG?crop=1886,1060,x240,y0&width=1886&height=1060&format=pjpg&auto=webp",
-        "publishedAt": "2026-10-24T09:03:00Z",
-        "content": "If you're still sending paper checks in the mail, consumer advocates say, it's time to stop.\r\nEvery time you drop a check\u00a0in the mailbox, fraud experts say, you put your bank account at risk.\u00a0Check f\u2026 [+6132 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Motley Fool"
-        },
-        "author": "Sean Williams",
-        "title": "President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus, and Things Could Get Ugly for Wall Street - The Motley Fool",
-        "description": "The public feud between President Trump and the central bank may be heating up.",
-        "url": "https://www.fool.com/investing/2026/10/24/donald-trump-just-threw-fed-chair-kevin-warsh-under-bus-things-get-ugly-for-wall-street/",
-        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff6434ad1dc71be1c74033b64bd60649a8799d039-3000x2000.jpg&w=1200&op=resize",
-        "publishedAt": "2026-10-24T08:39:22Z",
-        "content": "Since the late 1890s, roughly three-quarters of all presidential terms have overseen stock market gains. But under President Donald Trump's two non-consecutive terms, the time-tested Dow Jones Indust\u2026 [+7160 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Substack.com"
-        },
-        "author": "Heather Cox Richardson",
-        "title": "October 23, 2026 - Letters from an American | Heather Cox Richardson",
-        "description": "Despite Trump\u2019s statement yesterday that billionaire Elon Musk had removed the restrictions from Starlink and Starshield that are crippling Ukraine\u2019s ability to protect itself from Russia, Ukraine president Volodymyr Zelensky said today the restrictions conti\u2026",
-        "url": "https://heathercoxrichardson.substack.com/p/october-23-2026",
-        "urlToImage": "https://substackcdn.com/image/fetch/$s_!9Zq0!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fheathercoxrichardson.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1871472435%26version%3D9",
-        "publishedAt": "2026-10-24T07:22:03Z",
-        "content": "Despite Trumps statement yesterday that billionaire Elon Musk had removed the restrictions from Starlink and Starshield that are crippling Ukraines ability to protect itself from Russia, Ukraine pres\u2026 [+5039 chars]"
+        "author": "Lucas Shaw",
+        "title": "Netflix Users Are Watching Less, Not Opening the App as Often - Bloomberg.com",
+        "description": "Netflix Inc. users are watching the streaming service less than they once did, the latest sign of engagement woes for the world\u2019s most valuable entertainment company, according to people familiar with the matter.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-25/netflix-users-are-watching-less-not-opening-the-app-as-often",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isnrV4VF6bPc/v1/1200x801.jpg",
+        "publishedAt": "2026-10-25T15:46:41Z",
+        "content": "Netflix Inc. users are watching the streaming service less than they once did, the latest sign of engagement woes for the worlds most valuable entertainment company, according to people familiar with\u2026 [+293 chars]"
     },
     {
         "source": {
@@ -87,125 +35,190 @@
         "description": null,
         "url": "https://www.wsj.com/pro/bankruptcy/jetblue-creditors-huddle-with-restructuring-adviser-as-bonds-shares-sink-43866c42",
         "urlToImage": null,
-        "publishedAt": "2026-10-24T02:35:00Z",
+        "publishedAt": "2026-10-25T14:51:21Z",
         "content": null
     },
     {
         "source": {
-            "id": "al-jazeera-english",
-            "name": "Al Jazeera English"
+            "id": "fortune",
+            "name": "Fortune"
         },
-        "author": "Al Jazeera Staff",
-        "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal - Al Jazeera",
-        "description": "President Javier Milei\u2019s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says.",
-        "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal",
-        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adbf52f2605-1792800047.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-10-24T01:32:15Z",
-        "content": "An Argentinian federal judge has dropped a criminal investigation into President Javier Milei and his sister Karina Milei over the collapse of a cryptocurrency he promoted online.\r\nJudge Marcelo Mart\u2026 [+2528 chars]"
+        "author": "Emma Burleigh",
+        "title": "Airbnb CEO Brian Chesky warns two types of people won\u2019t survive the AI era - Fortune",
+        "description": "Brian Chesky, the cofounder and CEO of short-term rental giant Airbnb, says managers need to do more than meetings to stay afloat in the AI era.",
+        "url": "https://fortune.com/article/airbnb-ceo-brian-chesky-warns-two-types-of-people-wont-survive-the-ai-era-pure-people-managers-and-workers-who-resist-change/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2217178973-2-e1778164748263.jpg?resize=1200,600",
+        "publishedAt": "2026-10-25T14:23:00Z",
+        "content": "Tech leaders have spent the past few years warning workers that AI will threaten every single job, from computer programming and customer service to law and finance. But according to Airbnb CEO Brian\u2026 [+4670 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "STAT"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Elaine Chen",
-        "title": "Patient dies in Bristol Myers Squibb autoimmune CAR-T trial - STAT",
-        "description": "Where should the safety bar be for studies investigating CAR-T therapies for autoimmune conditions?",
-        "url": "https://www.statnews.com/2026/10/23/bristol-myers-squibb-car-t-therapy-autoimmune-trial-death/",
-        "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_1846705681_Editorial_Use_Only-1024x576.jpeg",
-        "publishedAt": "2026-10-23T23:49:48Z",
-        "content": "Bristol Myers Squibb on Friday reported that one patient died after receiving its investigational CAR-T therapy in an early autoimmune trial, adding to safety concerns about a growing field of resear\u2026 [+804 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Gothamist"
-        },
-        "author": "https://gothamist.com/staff/ramsey-khalifeh",
-        "title": "MTA suspending bus fare enforcement teams after altercations emerge - Gothamist",
-        "description": "MTA Chair Janno Lieber said he needed to confirm protocols are being followed.",
-        "url": "https://gothamist.com/news/mta-suspending-bus-fare-enforcement-teams-after-altercations-emerge",
-        "urlToImage": "https://api-prod.gothamist.com/images/362096/fill-1200x650|format-webp|webpquality-85/",
-        "publishedAt": "2026-10-23T23:49:00Z",
-        "content": "The MTA is temporarily shutting down its bus fare enforcement teams after a Brooklyn school dean was roughed up by agents who suspected he hadnt paid, MTA Chair Janno Lieber announced at a news confe\u2026 [+2708 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Tim Fernholz",
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d - TechCrunch",
-        "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-        "publishedAt": "2026-10-23T23:05:49Z",
-        "content": "On Friday, OpenAI said that it will train its models using cached copies and simulated versions of the internet instead of the live web because the models are too unpredictable to be trusted with liv\u2026 [+3394 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WGN TV Chicago"
-        },
-        "author": "WGN-TV",
-        "title": "New stretch of I-490 opening in Chicago\u2019s suburbs - WGN-TV",
+        "author": "WSJ",
+        "title": "These Mini Power Plants Aim to Make Green Fuel, Using the Air Around Them - WSJ",
         "description": null,
-        "url": "https://wgntv.com/news/traffic/new-stretch-of-i-490-opening-in-chicagos-suburbs/",
+        "url": "https://www.wsj.com/business/energy-oil/green-power-plants-synthetic-natural-gas-3b572b1c",
         "urlToImage": null,
-        "publishedAt": "2026-10-23T21:54:27Z",
+        "publishedAt": "2026-10-25T14:00:00Z",
         "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "Motley Fool"
+            "name": "The Takeout"
         },
-        "author": "Bram Berkowitz, The Motley Fool",
-        "title": "Elon Musk Says a SpaceX-Tesla Merger Is a \u201cGood Idea.\u201d Here\u2019s What Stands in the Way. - Yahoo Finance",
-        "description": "Musk recently added fuel to already rampant rumors about a future SpaceX-Tesla merger.",
-        "url": "https://www.fool.com/investing/2026/10/23/elon-musk-says-a-spacex-tesla-merger-is-a-good-idea-here-s-what-stands-in-the-way/",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/cecef2e59179a25e9fdabaea5c8fe5e983c714abc23b13eaa7d0d9c4fc134b08/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F452089e46d6b6f8e9bbbd292e5817ae4.jpg",
-        "publishedAt": "2026-10-23T21:54:02Z",
-        "content": "It's no secret that a merger between Space Exploration Technologies Corp (NASDAQ:SPCX) and Tesla could be in the works.\r\nThe prediction markets platform Kalshi places the odds of such a tie-up happen\u2026 [+5208 chars]"
+        "author": "Diane Bobis",
+        "title": "7 Kirkland Signature Cheeses To Buy At Costco And 3 To Skip - The Takeout",
+        "description": "Some Kirkland Signature cheeses such as the Coastal Rugged Mature English Cheddar are worth buying from Costco, but others are not such good value.",
+        "url": "https://www.thetakeout.com/2289874/kirkland-signature-cheese-costco-buy-skip/",
+        "urlToImage": "https://www.thetakeout.com/img/gallery/7-kirkland-signature-cheeses-to-buy-at-costco-and-3-to-skip/l-intro-1792129121.jpg",
+        "publishedAt": "2026-10-25T13:40:00Z",
+        "content": "I purchased 10 different Kirkland Signature cheeses from my Chicagoland Costco and tasted each one plain no crackers, toppings, or other accompaniments to give it a boost. With sips of water and brea\u2026 [+991 chars]"
     },
     {
         "source": {
-            "id": "politico",
-            "name": "Politico"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Casey He",
-        "title": "Texas sues OpenAI, Sam Altman over product safety - Politico",
-        "description": "The state\u2019s attorney general in court documents alleges OpenAI falsely marketed ChatGPT as safe and that it has harmed Texans, including children.",
-        "url": "https://www.politico.com/news/2026/10/23/texas-sues-openai-over-product-safety-01134162",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F20%2F63%2F98371096426b81a2728268ccfcbe%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1236279010",
-        "publishedAt": "2026-10-23T21:46:00Z",
-        "content": "Texas Attorney General Ken Paxton on Friday launched a lawsuit against OpenAI and CEO Sam Altman, alleging they misled consumers about the safety of the companys artificial intelligence chatbot and f\u2026 [+832 chars]"
+        "author": "Jim VandeHei",
+        "title": "Chain-reaction chaos threatens to unleash new risks on the world - Axios",
+        "description": "As a nation and as a globe, we're facing a record number of wild risks that are way outside our control.",
+        "url": "https://www.axios.com/2026/10/25/ai-cybersecurity-politics-risks-2028",
+        "urlToImage": "https://images.axios.com/jDGCDhy3ZhFAoeTTLf93eaZJeys=/0x0:1920x1080/1366x768/2026/04/28/1777405683282.jpeg",
+        "publishedAt": "2026-10-25T13:11:59Z",
+        "content": "What we're facing: We've navigated single-shot crises like the financial meltdown of 2008 and the pandemic of 2020. This next year will be different. The real risk is a chain reaction: One shock sets\u2026 [+5595 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "9News.com KUSA"
+            "id": "google-news",
+            "name": "Google News"
         },
-        "author": "9News",
-        "title": "Supersonic jet maker unveils $150M factory expansion that could create 500 jobs in Centennial - 9News",
+        "author": "Bloomberg.com",
+        "title": "AI Spending Fears Threaten to Swamp Big Tech\u2019s Strong Earnings - Bloomberg.com",
         "description": null,
-        "url": "https://www.9news.com/article/news/local/boom-supersonic-colorado-expansion-jobs/73-ffbd44b7-5180-48ef-9fdd-1385f4383405",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0l3bHQyejdhX0oxSnVaMDl0TTRTQlF2M25FUE1fZV96VVFXSUdjXzFGblEwOWdOYkM4OWFjV0VVck4yWlVfSVVxemJVUG5PRTVnZHZXMHVSeVJMSUUzNjZTM041MTlyVjd6QUF3ckVDUlVJSFVCcF8xSi1aNWdndVdhd1lSaWNQUUJZNE5VWUQtRjJJampiRlkzRWczOFZyU1dtamtXVWpFdDdxVnFNTWRGSQ?oc=5",
         "urlToImage": null,
-        "publishedAt": "2026-10-23T21:35:00Z",
+        "publishedAt": "2026-10-25T13:00:00Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Alex Veiga",
+        "title": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market - AP News",
+        "description": "A stagnant housing market hampered by surging mortgage rates, years of soaring home prices and an economy undercut by rising inflation has many sellers stuck in limbo as homes go months without an offer. Many have put their life on hold, unable to relocate fo\u2026",
+        "url": "https://apnews.com/article/housing-sellers-buyers-mortgage-rates-down-payment-183721a64d3fc45b6385e60e56a5413a",
+        "urlToImage": "https://dims.apnews.com/dims4/default/0c7bcc6/2147483647/strip/true/crop/7734x5156+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2F07%2Ff9faa35167f4724b702a9ce13999%2F705e9eb9e1594197a9a169944ebbcdf5",
+        "publishedAt": "2026-10-25T12:59:00Z",
+        "content": "LOS ANGELES (AP) Not long ago, a homeowner in America might reasonably wager they could sell their home fairly quickly, and for more than their asking price. Thats unlikely to be a winning bet now.\r\n\u2026 [+6507 chars]"
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Carmen Arroyo, Laura Benitez",
-        "title": "SpaceX $40 Billion Off-Balance Sheet Debt Snarled by AI Turmoil - Bloomberg",
-        "description": "SpaceX\u2019s efforts to finalize a $40 billion off-balance-sheet debt structure for its artificial intelligence buildout have been roiled by recent market turmoil that\u2019s driven up sector-wide borrowing costs and complicated price talks.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-23/spacex-40-billion-off-balance-sheet-debt-snarled-by-ai-turmoil",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iw6_r0sBxKIk/v0/1200x800.jpg",
-        "publishedAt": "2026-10-23T21:12:14Z",
-        "content": "SpaceXs efforts to finalize a $40 billion off-balance-sheet debt structure for its artificial intelligence buildout have been roiled by recent market turmoil thats driven up sector-wide borrowing cos\u2026 [+294 chars]"
+        "author": null,
+        "title": "Emerging Debt Outruns Treasuries as Rich-World Fiscal Fears Grow - Bloomberg.com",
+        "description": "Investors from JPMorgan Asset Management to Generali and Ninety One SA are loading up on emerging-market debt, defying a surge in Treasury yields that would once have sent them running for the exits.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-25/emerging-debt-outruns-treasuries-as-rich-world-fiscal-fears-grow",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikkCVDK0QZkk/v1/1200x800.jpg",
+        "publishedAt": "2026-10-25T12:30:00Z",
+        "content": "Investors from JPMorgan Asset Management to Generali and Ninety One SA are loading up on emerging-market debt, defying a surge in Treasury yields that would once have sent them running for the exits.\u2026 [+267 chars]"
+    },
+    {
+        "source": {
+            "id": "buzzfeed",
+            "name": "Buzzfeed"
+        },
+        "author": "Michele Bird",
+        "title": "27 Things People Have Stopped Buying In 2026, Because Life Is Way, Way, Way Too Expensive Now - BuzzFeed",
+        "description": "\"For something I could make cheaply at home, it's not worth it.\"",
+        "url": "https://www.buzzfeed.com/michelelbird/what-people-stopped-buying-in-2026",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/23/17/thumb/c2aQWQ8wf.jpg?crop=3000:1571;0,3%26downsize=1250:*",
+        "publishedAt": "2026-10-25T12:01:01Z",
+        "content": "Anonymous, 71, Chicago, Illinois"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Ben Werschkul",
+        "title": "Inflation under Trump is only about half the rate under Biden. Voters are still just as mad. - Yahoo Finance",
+        "description": "Prices in the US have risen only about half as fast in President Trump's second term compared to Biden's. Yet Trump risks paying a steep political price with...",
+        "url": "https://finance.yahoo.com/economy/policy/article/inflation-under-trump-is-only-about-half-the-rate-under-biden-voters-are-still-just-as-mad-120043933.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/449f57b875ceb7b0dd815acb1fd3140a1d6af93b1f4530e0a9aa2364c9d8c9d3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fce9ab1c7-e71d-4101-9975-ffd0be8af185",
+        "publishedAt": "2026-10-25T12:00:43Z",
+        "content": "So far in President Trump's second term, prices in the US have risen only about half as quickly compared to his predecessor's four years in office. Yet Trump has a 72% disapproval rating on the issue\u2026 [+4701 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Amelia Lucas",
+        "title": "Marc Lore\u2019s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO - CNBC",
+        "description": "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
+        "url": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108448204-1792698576376-gettyimages-2235177281-McGregor250915NYCbusinesses04.jpeg?v=1792698756&w=1920&h=1080",
+        "publishedAt": "2026-10-25T12:00:01Z",
+        "content": "Less than a decade after its founding, food startup Wonder has seen its footprint and valuation soar. \r\nStill, the company has even more ambitious plans ahead, like a subscription program to let dine\u2026 [+10588 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Caleigh Keating",
+        "title": "Earnings playbook: Alphabet, Microsoft, Amazon and more report this week. Here's what to expect - CNBC",
+        "description": "The megacaps are some of the 160 S&P 500 companies expected to report at a critical time for tech and the market.",
+        "url": "https://www.cnbc.com/2026/10/25/earnings-week-alphabet-microsoft-amazon.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108374356-1791402610911-gettyimages-2298479544-MICROSOFT_NVIDIA.jpeg?v=1791402731&w=1920&h=1080",
+        "publishedAt": "2026-10-25T11:54:08Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Taylor Ardrey",
+        "title": "Thanksgiving-inspired Lay's chips to hit stores. See festive flavors - USA Today",
+        "description": "Lay's is dropping limited-time flavors inspired by Thanksgiving meals and popular chocolate desserts. Here are the new festive flavors.",
+        "url": "https://www.usatoday.com/story/money/food/2026/10/25/lays-thanksgiving-holiday-inspired-flavors-debuting/92396385007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/19/USAT/92333727007-picture-1.jpg?crop=415,234,x0,y21&width=415&height=234&format=pjpg&auto=webp",
+        "publishedAt": "2026-10-25T11:04:00Z",
+        "content": "The \"Holi-LAYS\" are here.\r\nLay's is kicking off the jolliest time of the year with its limited-time holiday flavors inspired by traditional Thanksgiving meals.\r\nFirst up are the Cheddar Scalloped-Sty\u2026 [+1389 chars]"
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "The Growing Battle Between Credit-Card Firms and Points Junkies - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/articles/the-growing-battle-between-credit-card-firms-and-points-junkies-e840b792",
+        "urlToImage": null,
+        "publishedAt": "2026-10-25T11:04:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Edward Russell",
+        "title": "Why aviation\u2019s strangest four-engine giant passenger plane is vanishing from the skies - CNN",
+        "description": "The A340-600 is loved by flyers for its eccentricities, but airlines don\u2019t share the passion \u2014 and the record-breaking jetliner is running out of time.",
+        "url": "https://www.cnn.com/travel/airbus-a340-600-vanishing-lufthansa",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-94868672.JPG?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-10-25T11:00:15Z",
+        "content": "For most of the three decades its been flying, the Airbus A340-600 has been seen as a commercial flop an uneconomical aircraft that was bettered by rivals soon after its launch. Its four engines were\u2026 [+6871 chars]"
     },
     {
         "source": {
@@ -213,50 +226,24 @@
             "name": "TheStreet"
         },
         "author": "TheStreet",
-        "title": "Another AI power stock plunges 11% despite earnings beat - TheStreet",
+        "title": "Tesla stock sellers should pump their brakes, 5-star analyst says - TheStreet",
         "description": null,
-        "url": "https://www.thestreet.com/investing/stocks/another-ai-power-stock-plunges-11-despite-earnings-beat-bloom-energy-be",
+        "url": "https://www.thestreet.com/investing/tesla-stock-sellers-should-pump-their-brakes-5-star-analyst-says",
         "urlToImage": null,
-        "publishedAt": "2026-10-23T20:37:52Z",
+        "publishedAt": "2026-10-25T10:33:00Z",
         "content": null
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Katherine Hamilton",
-        "title": "Archer to Launch Air Taxis in Texas - WSJ",
-        "description": "Air taxi networks are slated for Austin, Houston and the Dallas-Fort Worth area",
-        "url": "https://www.wsj.com/business/archer-aviation-launches-air-taxi-fleets-in-texas-38b697e6",
-        "urlToImage": "https://images.wsj.net/im-75686447/social",
-        "publishedAt": "2026-10-23T20:07:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kate Dore, CFP\u00ae, EA",
-        "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers - CNBC",
-        "description": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
-        "url": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108373149-1791286265422-gettyimages-2298202572-AFP_D2BR273.jpeg?v=1792793646&w=1920&h=1080",
-        "publishedAt": "2026-10-23T19:53:13Z",
-        "content": "President Donald Trump has signed an executive order that aims to reduce mortgage costs as rising interest rates and inflation make homeownership less affordable.\r\nThe order, titled \"Decreasing Housi\u2026 [+4636 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "WBUR"
-        },
-        "author": null,
-        "title": "ICE wants robot dogs. Boston Dynamics' workers urge company to 'cancel the sale' - WBUR",
-        "description": "Dozens of employees at Boston Dynamics have petitioned the company to stop the sale of its robot dogs to U.S. Immigration and Customs Enforcement.",
-        "url": "https://www.wbur.org/news/2026/10/23/boston-dynamics-employees-petition-dhs",
-        "urlToImage": "https://media.wbur.org/wp/2024/06/Dancing_Robots_Tech_21020745272999-1000x667.jpg",
-        "publishedAt": "2026-10-23T19:34:13Z",
-        "content": "Dozens of Boston Dynamics employees are calling on the company to stop the sale of its AI-powered robot dogs to U.S. Immigration and Customs Enforcement.\r\nKnown as \"Spot,\" Boston Dynamics' robots are\u2026 [+2652 chars]"
+        "author": "Jennifer Sor",
+        "title": "\u2018Supercharging bras\u2019: The story behind Victoria's Secret\u2019s $6 billion turnaround - Business Insider",
+        "description": "Victoria's Secret is in the midst of a comeback, with sales surging and its stock on track to notch its best year ever.",
+        "url": "https://www.businessinsider.com/victorias-secret-business-turnaround-vsxy-stock-price-bra-sales-2026-10#article",
+        "urlToImage": "https://i.insider.com/6adba4698e95884e1ca82be6?width=1200&format=jpeg",
+        "publishedAt": "2026-10-25T10:20:00Z",
+        "content": "There was a stretch of time in recent history when Victoria's Secret was deeply unloved by consumers and investors alike.\r\nScarlett Frazer, a 26-year-old fashion influencer who spends thousands at th\u2026 [+9367 chars]"
     }
 ]
