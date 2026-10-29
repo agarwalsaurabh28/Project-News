@@ -2,28 +2,28 @@
     {
         "source": {
             "id": null,
-            "name": "MarketWatch"
+            "name": "Investor's Business Daily"
         },
-        "author": "Isabel Wang, Steve Goldstein, Jamie Chisholm, Nora Redmond",
-        "title": "Stock Market Today: Dow flat, Nasdaq and S&P 500 edge higher as oil prices fall and chip stocks bounce - MarketWatch",
-        "description": "Follow all the latest U.S. market action for Tuesday here.",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-dow-mixed-tech-stocks-fall-after-rebound",
-        "urlToImage": "https://images.mktw.net/im-51746529/social",
-        "publishedAt": "2026-10-27T16:39:55Z",
-        "content": null
+        "author": null,
+        "title": "Stock Market Today: Dow Holds Thin Gains; These Stocks Get Bashed On Earnings (Live Coverage) - Investor's Business Daily",
+        "description": "Stock Market Today: The Dow Jones index trimmed its gain Wednesday after the Fed held its key interest rate steady. Robinhood slid on earnings.",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-federal-reserve-interest-rate-decision-kevin-warsh/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/08/Stock-DataCenter-BlueBox-adobe.jpg",
+        "publishedAt": "2026-10-28T18:14:29Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "Bloomberglaw.com"
         },
-        "author": "Shira Ovide",
-        "title": "There\u2019s not enough money in the world to pay for the AI boom - The Washington Post",
-        "description": "AI  companies have been borrowing hundreds of billions of dollars, selling fresh stock, and cooking up novel and potentially risky methods of financing.",
-        "url": "https://www.washingtonpost.com/technology/2026/10/27/ai-companies-are-desperate-cash-dont-know-where-it-will-come/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/I2YOW3DE3RBH3F4N3CDP2OCRSU.jpg&w=1440",
-        "publishedAt": "2026-10-27T16:00:00Z",
-        "content": "The biggest bet in the history of the United States keeps getting bigger and were all hanging on for the ride. \r\nTechnology companies recently launched a record scramble for cash to pay for data cent\u2026 [+310 chars]"
+        "author": "Meghan Tribe",
+        "title": "Weil Practice Head Tells Lawyers to Find Jobs as Firm Struggles - Bloomberg Law News",
+        "description": "The leader of a Weil Gotshal &amp; Manges practice group told his junior lawyers to look for employment, underscoring the firm\u2019s perilous state as it consults with a restructuring lawyer.",
+        "url": "https://news.bloomberglaw.com/business-and-practice/weil-practice-head-tells-lawyers-to-find-jobs-as-firm-struggles",
+        "urlToImage": "https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2Fe1%2Fde%2F58d576c441c29c3f6876073a73ad%2Fblw-biglaw-weil.png&width=1200&height=630&fit=cover&removeAnimation=true",
+        "publishedAt": "2026-10-28T17:06:00Z",
+        "content": "The leader of a Weil Gotshal &amp; Manges practice group told his junior lawyers to look for employment, underscoring the firms perilous state as it consults with a restructuring lawyer.\r\nAlex Lynch,\u2026 [+1787 chars]"
     },
     {
         "source": {
@@ -31,194 +31,51 @@
             "name": "CNBC"
         },
         "author": "Michael Wayland",
-        "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry - CNBC",
-        "description": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
-        "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122414-17431043312025-03-27t193607z_820098562_rc2tldaijr6i_rtrmadp_0_usa-trump-tariffs-autos.jpeg?v=1743104555&w=1920&h=1080",
-        "publishedAt": "2026-10-27T15:45:57Z",
-        "content": "DETROIT The automotive industry faces a \"catastrophic\" scenario if the U.S. and Canada cannot reach a new trade deal by the end of this year, an executive with Honda Motor warned Tuesday. \r\nPresident\u2026 [+2548 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Leslie Josephs",
-        "title": "American Airlines hikes annual fees on rewards cards for first time since 2018 - CNBC",
-        "description": "American Airlines joined other airlines and banks in raising their airline credit card fee for one of their major cards.",
-        "url": "https://www.cnbc.com/2026/10/27/american-airlines-citi-aadvantage-card-fee.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108437672-1792506957192-gettyimages-2276591210-urbanandsport-diversea260429_np9T3.jpeg?v=1792507007&w=1920&h=1080",
-        "publishedAt": "2026-10-27T15:39:51Z",
-        "content": "American Airlines is raising the annual fee for two of its rewards credit cards for the first time since 2018 and adding new benefits like a TSA PreCheck credit and points from spending on hotels.\r\nT\u2026 [+1202 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Joshua Nelken-Zitser",
-        "title": "A 'never-ending' cruise has halted operations and told residents to disembark in Cambodia after fuel costs rose over 300% - Business Insider",
-        "description": "Villa Vie's promise of a live-in, continuous voyage around the world has hit choppy waters after surging fuel prices squeezed its finances.",
-        "url": "https://www.businessinsider.com/villa-vie-cruise-never-ending-halt-fuel-prices-surge-2026-10#article",
-        "urlToImage": "https://i.insider.com/6ae0ab2c3ae265b597b0277e?width=1200&format=jpeg",
-        "publishedAt": "2026-10-27T15:23:00Z",
-        "content": "A cruise ship selling the promise of a permanent life at sea has come to an abrupt stop.\r\nVilla Vie Residences, which operates the residential cruise ship Villa Vie Odyssey, announced on Tuesday that\u2026 [+2731 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Al Root",
-        "title": "UPS Earnings Deliver Good News for the U.S. Economy - Barron's",
-        "description": "UPS stock rises after the delivery giant reported third-quarter earnings per share of $1.69 from sales of $22.9 billion.",
-        "url": "https://www.barrons.com/articles/ups-earnings-stock-price-4afc92ba",
-        "urlToImage": "https://images.barrons.com/im-71122981/social",
-        "publishedAt": "2026-10-27T14:49:00Z",
-        "content": "Stocks typically turn the corner on Oct. 27, and head for solid gains into the holiday season. This year, though, could be a tad less clear cut ."
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Matt Ott",
-        "title": "US consumer confidence recovers in October as gas prices eased a bit - AP News",
-        "description": "American confidence in the economy rebounded somewhat in October as gas prices fell modestly but remain elevated. The Conference Board said Tuesday that its consumer confidence index jumped 7.5 points to 91.7 in October from 84.2 last month. September\u2019s readi\u2026",
-        "url": "https://apnews.com/article/consumer-confidence-inflation-gasoline-tariffs-10aae13e93501c1c7f8803d44316eb28",
-        "urlToImage": "https://dims.apnews.com/dims4/default/36aed67/2147483647/strip/true/crop/4904x3269+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2F04%2F89bc1ecfe25166f801fbec996898%2F2d2c5289ff414beb8e94e095eaaae962",
-        "publishedAt": "2026-10-27T14:25:36Z",
-        "content": "WASHINGTON (AP) American confidence in the economy rebounded somewhat in October as gas prices fell modestly, though it remains much more expensive to fill up a tank than last year at this time. \r\nTh\u2026 [+3702 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Newsnationnow.com"
-        },
-        "author": "Zach Kaplan",
-        "title": "United \u2018hijack\u2019 text scare forces plane to turn back - NewsNation",
-        "description": "The flight was bound for Newark Liberty International Airport in New Jersey.",
-        "url": "https://www.newsnationnow.com/crime/united-flight-turn-back-hijacking-text/",
-        "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/10/Untitled-October-27-2026-at-07.38.24-2-1.png?w=1280",
-        "publishedAt": "2026-10-27T14:16:08Z",
-        "content": "(NewsNation) A United Airlines flight from Las Vegas to New Jersey on Saturday turned back shortly after takeoff when a flight attendant noticed a passenger sending a troubling text.\r\nThe flight atte\u2026 [+1114 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Adam Clark",
-        "title": "Nvidia and AMD Take $4B Chunk of Meta\u2019s Equity. They Are Fighting Custom Chips. - Barron's",
-        "description": "Nvidia stock and AMD were moving after the companies said they would invest in Meta Platforms' stock offering. Here's what that means for Broadcom.",
-        "url": "https://www.barrons.com/articles/nvidia-stock-equity-meta-broadcom-804a8f5a",
-        "urlToImage": "https://images.barrons.com/im-48254719/social",
-        "publishedAt": "2026-10-27T14:05:00Z",
-        "content": "Ares Capital is purchasing MidCap Financial Investment, which is run by an affiliate of Apollo Global Management. for $2.6 billion including debt."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Al Root",
-        "title": "SpaceX Stock: Elon Musk Just Gave Verizon, AT&T, Other Telecoms Some Great News - Barron's",
-        "description": "Verizon believes it will take up to eight years for SpaceX to have the required infrastructure to compete in the mobile wireless business. Elon Musk disagrees.",
-        "url": "https://www.barrons.com/articles/spacex-stock-musk-verizon-telecoms-great-news-5ca52621",
-        "urlToImage": "https://images.barrons.com/im-39569415/social",
-        "publishedAt": "2026-10-27T13:52:00Z",
-        "content": "Meta also plans to issue as much as $60 billion of nonvoting class C common shares in an at-the-market equity offering when those shares are issued in a one-for-one distribution to Metas class A and \u2026 [+37 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Yahoo Finance",
-        "title": "Earnings live updates: SoFi stock surges on 'exceptional' quarter, raised outlook - Yahoo Finance",
-        "description": "Third quarter earnings season is in full swing this week. Follow along for live updates.",
-        "url": "https://finance.yahoo.com/markets/stocks/live/earnings-live-updates-boeing-stock-falls-on-mixed-q3-turnaround-picture-sofi-surges-135427408.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/21789eccf0b93d65d1dfb559b2ec357ea3256b7e19eca52cddd952d671efeee7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F66ced85c-1dc8-4f87-b97b-6e558f2272bf",
-        "publishedAt": "2026-10-27T13:51:55Z",
-        "content": "Whirlpool posted another mixed quarter as inflation and lower demand in North America took a toll.\r\n\"What is new and different is the increasingly inflationary environment that has happened from Q2 i\u2026 [+1292 chars]"
+        "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects - CNBC",
+        "description": "Ford Motor is set to report third-quarter results after markets close Wednesday.",
+        "url": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108452225-1792771283223-gettyimages-2292365225-schneider-fordcomm260830_np9iA.jpeg?v=1792771304&w=1920&h=1080",
+        "publishedAt": "2026-10-28T16:00:01Z",
+        "content": "DETROIT Ford Motor is set to announce third-quarter earnings after the markets close Wednesday.\r\nHere's what Wall Street expects, based on average analysts' estimates compiled by LSEG:\r\n<ul><li>Earni\u2026 [+1400 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Fox Business"
         },
-        "author": "Bradford Betz",
-        "title": "General Motors to move stock listing from NYSE to Nasdaq in technology-focused shift - Fox Business",
-        "description": "GM will move its shares from the New York Stock Exchange to Nasdaq, a change that could make the Detroit automaker eligible for inclusion in the Nasdaq-100 Index",
-        "url": "https://www.foxbusiness.com/markets/general-motors-move-stock-listing-nyse-nasdaq-technology-focused-shift",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/gm-president-marc-reuss.jpg?ve=1&tl=1",
-        "publishedAt": "2026-10-27T13:26:00Z",
-        "content": "General Motors announced Tuesday that it will transfer its stock listing from the New York Stock Exchange to Nasdaq next month, a move the Detroit automaker said reflects its growing focus on technol\u2026 [+1975 chars]"
+        "author": "Eric Revell",
+        "title": "Nelson Peltz-led group offers to buy Wendy\u2019s for $1.4B - Fox Business",
+        "description": "Nelson Peltz's Trian Fund Management offered $7.35 per share to take Wendy's private, a 20% premium as the burger chain faces a critical turnaround.",
+        "url": "https://www.foxbusiness.com/markets/nelson-peltz-led-group-offers-buy-wendys-1-4b",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/wendys-brampton-ontario.jpg?ve=1&tl=1",
+        "publishedAt": "2026-10-28T15:25:00Z",
+        "content": "Nelson Peltz's Trian Fund Management on Wednesday made an offer to buy Wendy's for roughly $1.4 billion in a move that would make the fast-food chain a privately held company.\r\nTrian has been a long-\u2026 [+2727 chars]"
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Carmen Reinicke",
-        "title": "Anthropic IPO Filing Calms Nerves With Signs of Healthy Growth - Bloomberg.com",
-        "description": "Anthropic PBC set itself a challenge by opening its books to prospective IPO investors right after a punishing week for the artificial intelligence trade. When Wall Street took a close look, it generally liked what it saw.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-ipo-filing-calms-nerves-with-signs-of-healthy-growth",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/it_3FK.tk7R8/v0/1200x800.jpg",
-        "publishedAt": "2026-10-27T13:00:02Z",
-        "content": "Anthropic PBC set itself a challenge by opening its books to prospective IPO investors right after a punishing week for the artificial intelligence trade. When Wall Street took a close look, it gener\u2026 [+355 chars]"
+        "author": "Oliver Renick",
+        "title": "Here's what options traders see before Alphabet, Microsoft report after the bell - CNBC",
+        "description": "The market's mini rally faces a key test after the bell when tech giants Alphabet and Microsoft report.",
+        "url": "https://www.cnbc.com/2026/10/28/alphabet-microsoft-report-after-the-bell-what-options-trader-see.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108285958-1775048847413-gettyimages-2269291716-6e6a0716_copy_dwyr67au.jpeg?v=1789052684&w=1920&h=1080",
+        "publishedAt": "2026-10-28T15:12:09Z",
+        "content": "Options traders took contrasting views on Alphabet as the hyperscaler gets set to report earnings after the close.\r\nCurrent options prices are implying a nearly 6% move, well about its eight quarter \u2026 [+2694 chars]"
     },
     {
         "source": {
             "id": "the-verge",
             "name": "The Verge"
         },
-        "author": "Andrew J. Hawkins",
-        "title": "Ford\u2019s sub-$30K electric truck puts the home backup inverter right inside the vehicle - The Verge",
-        "description": "The sub-$30k Ford Fathom features built-in bidirectional charging, offering affordable whole-home backup power and simplified utility grid integration.",
-        "url": "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ford-Fathom-Camo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-10-27T13:00:00Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nFords upcoming electric truck integrates an onboard inverter to dramatically slash the cost, hardware, and utility red tape of home backup power.\r\nFords upcoming\u2026 [+4483 chars]"
-    },
-    {
-        "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Julie Bort",
-        "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop - TechCrunch",
-        "description": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-        "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/Palmer-Luckey.jpg?resize=1200,800",
-        "publishedAt": "2026-10-27T13:00:00Z",
-        "content": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. And by that, he doesn\u2019t just mean assembly, but the production of every individual component, some of which ar\u2026 [+4367 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Motley Fool"
-        },
-        "author": "Adam Spatacco",
-        "title": "Prediction: The Stock Market Could Crash in 2027, and Elon Musk Just Explained Why - The Motley Fool",
-        "description": "Elon Musk just issued a blunt warning about the artificial intelligence (AI) infrastructure boom.",
-        "url": "https://www.fool.com/investing/2026/10/27/prediction-the-stock-market-could-crash-in-2027-an/",
-        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892329%2Fgettyimages-1262327358-1400x933-5064d69.jpg&w=1200&op=resize",
-        "publishedAt": "2026-10-27T12:46:59Z",
-        "content": "The S&amp;P 500 (^GSPC+0.29%) has delivered unusually high returns over the last few years, largely thanks to the artificial intelligence (AI) revolution. Companies such as Microsoft(MSFT-0.13%), Alp\u2026 [+5286 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "HuffPost"
-        },
-        "author": null,
-        "title": "Donald Trump Hammered Joe Biden Over Gas Prices. Now His Average Is Higher. - HuffPost",
-        "description": "Surging fuel prices are a major thorn in Trump\u2019s side as midterm elections loom.",
-        "url": "https://www.huffpost.com/entry/donald-trump-price-gasoline-biden_n_6ae08d2fe4b065fbf4c23544",
-        "urlToImage": "https://img.huffingtonpost.com/asset/6ae08dbd1400005f82e01716.jpeg?cache=A4XzBuk7ST&ops=500_281%2Cscalefit_1200_630",
-        "publishedAt": "2026-10-27T11:47:03Z",
-        "content": "HOUSTON, Oct 26 (Reuters) - Americans have paid more for their gasoline and diesel at the pump on average during President Donald Trumps second term than they did under his Democratic predecessor, Jo\u2026 [+3022 chars]"
+        "author": "Emma Roth",
+        "title": "xAI is buying out homeowners who promise not to sue over data center noise - The Verge",
+        "description": "Elon Musk\u2019s xAI has offered to buy homes in the Southaven, Mississippi neighborhood, as long as they don\u2019t join a lawsuit targeting its nearby data center and power plant.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289399619.jpg?quality=90&strip=all&crop=0%2C10.738447150137%2C100%2C78.523105699726&w=1200",
+        "publishedAt": "2026-10-28T14:44:00Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nxAI and its subsidiary MZX are reportedly offering to buy hundreds of homes around Southaven, Mississippi.\r\nxAI and its subsidiary MZX are reportedly offering to\u2026 [+4348 chars]"
     },
     {
         "source": {
@@ -226,24 +83,180 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Coca-Cola Raises Outlook as Increased Volumes, Prices Boost Results - WSJ",
+        "title": "Exclusive | Drug Middlemen Will Soon Have to Share Details on How They Are Paid - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/business/earnings/coca-cola-raises-outlook-as-increased-volumes-prices-boost-results-323f3710",
+        "url": "https://www.wsj.com/health/healthcare/drug-middlemen-will-soon-have-to-share-details-on-how-they-are-paid-9dd31447",
         "urlToImage": null,
-        "publishedAt": "2026-10-27T11:35:00Z",
+        "publishedAt": "2026-10-28T14:22:49Z",
         "content": null
     },
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
+            "id": null,
+            "name": "Barron's"
         },
-        "author": "Michael J. Coren",
-        "title": "Column | I saw the future of driving in Mexico. It\u2019s off-limits to Americans. - The Washington Post",
-        "description": "Mexico is a showroom for electric cars you can\u2019t buy in the United States, with a growing fleet of sleek new vehicles from Chinese brands unknown to Americans.",
-        "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LKUJHJRCMT5OGZJEUNR6XUQ4ZI.jpg&w=1440",
-        "publishedAt": "2026-10-27T10:32:22Z",
-        "content": "I went to Mexico City this spring to test-drive the future.\r\nWhat I saw was a split screen between a familiar past and a future of luxurious, space-age cars that cost far less than comparable models \u2026 [+7 chars]"
+        "author": "Adam Clark",
+        "title": "Micron Stock Pops as Rival SK Hynix Fuels AI Frenzy With Two Bombshells - Barron's",
+        "description": "Micron stock was rising as SK Hynix earnings fueled enthusiasm for memory-chip companies.",
+        "url": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-earnings-b93ad2b8",
+        "urlToImage": "https://images.barrons.com/im-77384770/social",
+        "publishedAt": "2026-10-28T14:14:00Z",
+        "content": "Firms with agreements to use the new service include Bank of America, JPMorgan Chase, Morgan Stanley and State Street."
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Stellantis Confirms Guidance as Turnaround Progress Continues - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/stellantis-confirms-guidance-as-turnaround-progress-continues-a098f805",
+        "urlToImage": null,
+        "publishedAt": "2026-10-28T13:53:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Oil Prices Rise as Houthi Militants Target Saudi Energy - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/world/middle-east/oil-prices-rise-as-houthi-militants-target-saudi-energy-45c38fe0",
+        "urlToImage": null,
+        "publishedAt": "2026-10-28T13:53:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Leslie Josephs",
+        "title": "America's largest budget airline reports 71% jump in airfare - CNBC",
+        "description": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
+        "url": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108304675-1778354492260-gettyimages-2253909846-260102_lax_109.jpeg?v=1778354555&w=1920&h=1080",
+        "publishedAt": "2026-10-28T13:50:38Z",
+        "content": "Frontier Airlines reported a 71% increase in airfare in the third quarter as the country's largest budget airline tried to pass along an even bigger jump in jet fuel prices. \r\nFrontier's fare revenue\u2026 [+1255 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Kat McGowan",
+        "title": "What\u2019s gone up even faster than gas or rent? The cost of caregiving - NPR",
+        "description": "A new study from AARP shows caregivers' out-of-pocket costs rose about 60% in the last five years.",
+        "url": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5806x3266+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F1a%2F26df17f442faa51d363191f960df%2Fgettyimages-2261783223.jpg",
+        "publishedAt": "2026-10-28T13:05:33Z",
+        "content": "As prices have ticked up in recent years, the cost to caregivers has skyrocketed. A study, released Wednesday by AARP and shared first with NPR, finds that family caregivers people helping out disabl\u2026 [+7316 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Motor1 "
+        },
+        "author": "Jeff Glucker",
+        "title": "Nissan Built A 300-HP Sentra Concept With A Manual. Please Make It - Motor1.com",
+        "description": "Nissan revives the Sentra Spec-V for SEMA 2026 with a 300-hp turbo engine, six-speed manual, GT-R brakes, and Nismo upgrades.",
+        "url": "https://www.motor1.com/news/813479/nissan-sentra-spec-v-concept-sema-2026/",
+        "urlToImage": "https://cdn.motor1.com/images/mgl/NG6xq2/s1/nissan-sentra-spec-v-concept.jpg",
+        "publishedAt": "2026-10-28T12:59:21Z",
+        "content": "Remember the Nissan Sentra SE-R? It was a fun, sporty little thing with BMW-like performance for significantly less dough. Mind you, I'm talking BMW 318, not M3. Still, the SE-R was a fantastic barga\u2026 [+2722 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "TSA finds sharp object straight out of horror movie at airport security checkpoint - Fox News",
+        "description": "TSA officers at Seattle-Tacoma International Airport spotted Wolverine-style claws on an X-ray, calling it the most unusual find they've made in two years.",
+        "url": "https://www.foxnews.com/travel/tsa-finds-sharp-object-straight-out-horror-movie-airport-security-checkpoint",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/TSA-WOLVERINE-KRUEGER-CARRY-ON-CONFISCATED-TRAVEL-1.jpg",
+        "publishedAt": "2026-10-28T12:53:39Z",
+        "content": "Officers conducting a routine security screening at Seattle-Tacoma International Airport (SEA) uncovered a chilling object that seemed straight out of a horror movie.\r\nWhile reviewing X-ray images, T\u2026 [+3375 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Eric Revell",
+        "title": "How much income Americans need to retire comfortably in every state - Fox Business",
+        "description": "MoneyLion's analysis reveals the annual income needed to retire comfortably in all 50 states, ranging from $40,627 to $64,504 amid inflation.",
+        "url": "https://www.foxbusiness.com/economy/how-much-income-americans-need-retire-comfortably-every-state",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/retirement-planning-couple-home.jpg?ve=1&tl=1",
+        "publishedAt": "2026-10-28T12:40:00Z",
+        "content": "Households around the country are facing financial stress amid persistent inflation, and retirees facing rising expenses need to ensure their income streams can cover costs.\r\nAmericans derive their r\u2026 [+2781 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Jeff Cox",
+        "title": "Fed meeting live updates: No hike expected, but all eyes on Warsh for what's next - CNBC",
+        "description": "Markets are pricing in less than a 10% chance that the FOMC follows up its quarter--point hike in September with another increase.",
+        "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363926-1793187988419-108363926-1789584267133-gettyimages-2295044524-WARSH_FOMC.jpg?v=1793187996&w=1920&h=1080",
+        "publishedAt": "2026-10-28T12:09:00Z",
+        "content": "The Federal Reserve's interest rate decision Wednesday likely will be short on suspense, with markets expecting the central bank to stay on hold even with inflation tracking well above target.\r\nMarke\u2026 [+1397 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": null,
+        "title": "U.S. cruise ship suspends 3-year around-the-world voyage in Cambodia due to fuel costs - CBS News",
+        "description": "The U.S. cruise ship MV Odyssey suspended its three-year, around-the-world voyage in Cambodia due to fuel costs, forcing hundreds of passengers to disembark.",
+        "url": "https://www.cbsnews.com/news/us-cruise-ship-suspends-3-year-around-the-world-voyage-cambodia-fuel-costs/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/28/4ce11a62-2114-496f-b8f9-a6a88b782a72/thumbnail/1200x630/06dca002f0c205b62ef9cf8edb34e003/ap26301303684400.jpg",
+        "publishedAt": "2026-10-28T11:51:10Z",
+        "content": "Sihanoukville, Cambodia \u2014 A U.S. cruise ship on an around-the-world voyage that touted its cabins as floating homes suspended its three-year voyage in Cambodia due to fuel costs, forcing hundreds of \u2026 [+3576 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Hilary Brueck",
+        "title": "Bye bye Ozempic: Eli Lilly says its new drug retatrutide more than doubles weight loss - Business Insider",
+        "description": "In the first head-to-head trial of Ozempic versus Eli Lilly's new \"King Kong\" drug retatrutide, the next-generation drug led to more weight loss.",
+        "url": "https://www.businessinsider.com/retatrutide-ozempic-weight-loss-comparison-side-effects-eli-lilly-results-2026-10#article",
+        "urlToImage": "https://i.insider.com/6ae0e1af876163ee6ce56171?width=1200&format=jpeg",
+        "publishedAt": "2026-10-28T11:45:00Z",
+        "content": "Gym bros call it \"reta.\" Eli Lilly is calling it the winner.\r\nOn Wednesday, the pharmaceutical giant announced the results of the first clinical trial pitting Ozempic against its newest, most powerfu\u2026 [+3177 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Newser"
+        },
+        "author": "Jenn Gidman",
+        "title": "Ross Perot Jr. Issues Warning on Sites for Data Centers - Newser",
+        "description": "Hillwood chair says there aren't many giant warehouses left to accommodate AI boom",
+        "url": "https://www.newser.com/story/398950/ross-perot-jr-us-is-running-out-of-warehouses-for-ai.html",
+        "urlToImage": "https://cdn.newser.com/image/1720720-12-20261028070048.jpeg",
+        "publishedAt": "2026-10-28T11:30:00Z",
+        "content": "America's warehouse supply is colliding head-on with the AI surge, Ross Perot Jr. warns. The Hillwood chairman, son of former presidential candidate Ross Perot, said the US now has only 15 to 20 empt\u2026 [+248 chars]"
+    },
+    {
+        "source": {
+            "id": "the-hill",
+            "name": "The Hill"
+        },
+        "author": "Ben Mitchell",
+        "title": "Recalled butter sold in 10 states receives risk warning: FDA - The Hill",
+        "description": "A popular plant-based butter has been recalled due to yeast, mold and E. coli, and the U.S. Food and Drug Administration has now assigned it a risk level.",
+        "url": "https://thehill.com/homenews/state-watch/6175447-miyokos-creamery-butter-recalled/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/10/GettyImages-506715010.jpg?w=1280",
+        "publishedAt": "2026-10-28T11:29:00Z",
+        "content": "Skip to content\r\nby Ben Mitchell - 10/28/26 6:29 AM ET\r\nby Ben Mitchell - 10/28/26 6:29 AM ET\r\nNEW JERSEY (WPIX) \u2014 A popular plant-based butter has been recalled due to yeast, mold and E. coli, and t\u2026 [+969 chars]"
     }
 ]
