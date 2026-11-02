@@ -2,119 +2,132 @@
     {
         "source": {
             "id": null,
-            "name": "TheStreet"
+            "name": "New York Post"
         },
-        "author": "TheStreet",
-        "title": "Chipotle is leaning on new menu items to bring diners back - TheStreet",
-        "description": null,
-        "url": "https://www.thestreet.com/investing/stocks/chipotle-is-leaning-on-new-menu-items-to-bring-diners-back",
-        "urlToImage": null,
-        "publishedAt": "2026-10-31T15:33:00Z",
-        "content": null
+        "author": "Sheetal Banchariya",
+        "title": "California school staffers busted in $300K embezzlement scheme after massive Costco breakfast order blew their cover - New York Post",
+        "description": "Two employees at the International School of Monterey in Seaside allegedly embezzled nearly $300,000 in school funds to pay for personal expenses.",
+        "url": "https://nypost.com/2026/11/01/us-news/california-school-staffers-busted-in-huge-fraud-after-costco-breakfast-run-blows-their-cover/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-5tajptwk9-1793568392616.jpg?quality=75&strip=all&1793550493&w=1200",
+        "publishedAt": "2026-11-01T21:37:00Z",
+        "content": "Two staffers at a Central Coast charter school have been arrested after allegedly embezzling nearly $300,000 from school funds.\r\nThe International School of Monterey in Seaside were alerted to the il\u2026 [+2948 chars]"
+    },
+    {
+        "source": {
+            "id": "the-jerusalem-post",
+            "name": "The Jerusalem Post"
+        },
+        "author": "RICHARD OFFENBACHER",
+        "title": "AI investors hedge against losses amid tech stock selloff - The Jerusalem Post",
+        "description": "As AI stocks tumble and borrowing costs rise, investors turn to put options and credit-default swaps to protect gains and limit potential losses.",
+        "url": "https://www.jpost.com/business-and-innovation/banking-and-finance/article-913489",
+        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/744477",
+        "publishedAt": "2026-11-01T20:38:11Z",
+        "content": "Investor enthusiasm for artificial intelligence's potential to transform the global economy has fueled massive bets on the sector; however, growing concerns about a possible downturn are prompting in\u2026 [+3635 chars]"
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Jeran Wittenstein, Ryan Vlastelica",
-        "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse - Bloomberg.com",
-        "description": "The last two weeks were supposed to bring some clarity to a stock market wobbling on a series of risks, particularly doubts about heavy spending on artificial intelligence, as a series of technology giants reported their earnings.",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-31/ai-enthusiasm-is-collapsing-and-tech-earnings-just-made-it-worse",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i070FnutOGJ4/v1/1200x800.jpg",
-        "publishedAt": "2026-10-31T13:00:00Z",
-        "content": "The last two weeks were supposed to bring some clarity to a stock market wobbling on a series of risks, particularly doubts about heavy spending on artificial intelligence, as a series of technology \u2026 [+142 chars]"
+        "author": "Greg Ritchie, Ye Xie",
+        "title": "Wall Street Braces for Biggest Treasury Sales Overhaul in Years - Bloomberg",
+        "description": "After Treasury Secretary Scott Bessent surprised dealers with his willingness to intervene in the bond market to drive down yields in recent months, Wall Street is now girding for the biggest revamp in guidance for US Treasuries issuance since early 2024.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-01/wall-street-braces-for-biggest-treasury-sales-overhaul-in-years",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2ZF_Y6jwyZY/v1/1200x800.jpg",
+        "publishedAt": "2026-11-01T20:00:01Z",
+        "content": "After Treasury Secretary Scott Bessent surprised dealers with his willingness to intervene in the bond market to drive down yields in recent months, Wall Street is now girding for the biggest revamp \u2026 [+428 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Cristian  Benavides",
+        "title": "Creditor has \"taken control\" of forever cruise, message to residents shows - CBS News",
+        "description": "Residents of Villa Vie Odyssey, which remains stuck in Cambodia, have been informed the cruise ship is now under control of its lender, CBS News has learned.",
+        "url": "https://www.cbsnews.com/news/creditor-taken-control-forever-cruise-message-to-residents/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/29/843ce3d8-ef58-4304-a1a0-11e05f15fb50/thumbnail/1200x630/f1373230e96edc8aae8c5ea497dbb31d/gettyimages-2301851494.jpg",
+        "publishedAt": "2026-11-01T19:42:09Z",
+        "content": "Residents of Villa Vie Odyssey \u2014 which remains stuck in Cambodia \u2014 have been informed the cruise ship is now under control of its lender, according to a message sent to residents and obtained by CBS \u2026 [+4571 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Kelly Hooper",
+        "title": "The trust-busters going after CVS are Republicans - Politico",
+        "description": "The GOP has joined Democrats in blaming pharmacy conglomerates for high drug prices.",
+        "url": "https://www.politico.com/news/2026/11/01/trust-busters-going-after-cvs-are-republicans-01144204",
+        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fad%2Fd3%2Fcb95a5c2431db19e2666d44128de%2Fcvs-pharmacy-logo-17918.jpg",
+        "publishedAt": "2026-11-01T19:00:00Z",
+        "content": "A burgeoning crackdown on pharmacy monopolies that could force CVS to sell off hundreds of its stores is coming from an unexpected place.\r\nThe deep red South.\r\nA number of red states, as well as some\u2026 [+778 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Forbes"
         },
-        "author": "Spencer Kimball",
-        "title": "Trump promised to slash energy costs \u2014 but gasoline, diesel and jet fuel all soared instead - CNBC",
-        "description": "President Donald Trump promised voters who were angry about inflation that he would slash gasoline prices below $2 a gallon in his first year in office.",
-        "url": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108476948-1793221677843-gettyimages-2302435509-kbd11695_irgge0gh.jpeg?v=1793221769&w=1920&h=1080",
-        "publishedAt": "2026-10-31T12:49:58Z",
-        "content": "President Donald Trump promised voters angry about inflation that he would slash gas prices below $2 a gallon within his first year in office.\r\n\"My plan will cut energy prices in half or more than th\u2026 [+4471 chars]"
+        "author": "Forbes",
+        "title": "Why Small Business Owners Who Took Covid Loans Face Collection Now - Forbes",
+        "description": null,
+        "url": "https://www.forbes.com/sites/johnschroyer/2026/11/01/they-took-small-business-loans-during-covid-now-the-government-is-coming-to-collect/",
+        "urlToImage": null,
+        "publishedAt": "2026-11-01T18:08:37Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Newser"
         },
-        "author": "Michael Wayland",
-        "title": "Automakers like Rivian and Ford are \u2018democratizing 3D printing\u2019 to reduce costs and increase speed - CNBC",
-        "description": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
-        "url": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108410434-1792008079105-IMG_6557.jpeg?v=1793391159&w=1920&h=1080",
-        "publishedAt": "2026-10-31T12:00:01Z",
-        "content": "DETROIT Automakers including Ford Motor and Rivian Automotive are leaning into a new type of manufacturing line: 3D printing.\r\nManufacturers say it's helping them reduce costs and increase speed. The\u2026 [+6257 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Nancy Keates",
-        "title": "The Surf Communities Selling Man-Made Waves to Homeowners - WSJ",
-        "description": "Developers in states like Texas, Utah, and Arizona are betting that man-made surf lagoons will lure wealthy buyers, despite high construction costs and steep monthly fees",
-        "url": "https://www.wsj.com/real-estate/luxury-homes/artificial-wave-pools-residential-communities-a2aa4070",
-        "urlToImage": "https://images.wsj.net/im-00450952/social",
-        "publishedAt": "2026-10-31T12:00:00Z",
-        "content": "In search of a vacation spot for surfing with his family, Clint Tasset put down a $600,000 deposit last year on a $1.8 million lot in Los Cabos, Mexico, a place renowned for its coastline.\u00a0\r\nBut Tass\u2026 [+331 chars]"
+        "author": "John Johnson",
+        "title": "Best Places to Retire in the US - Newser",
+        "description": "US News & World Report puts Midland, Michigan, on top",
+        "url": "https://www.newser.com/story/399093/best-places-to-retire-in-the-us.html",
+        "urlToImage": "https://cdn.newser.com/image/1721276-12-20261101123505.jpeg",
+        "publishedAt": "2026-11-01T18:05:00Z",
+        "content": "A new ranking of the best places to retire in the US gives its top honor to a city not in the sunny climes of Florida but in Michigan. Midland is No. 1 in the US News &amp; World Report ranking, whic\u2026 [+342 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Gizmodo.com"
         },
-        "author": "Ashley Capoot",
-        "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
-        "description": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March.",
-        "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369821-1793036487413-108369821-1790713166683-gettyimages-2297246422-AFP_C9Q98QH.jpg?v=1793397881&w=1920&h=1080",
-        "publishedAt": "2026-10-31T11:00:01Z",
-        "content": "Co-founder and CEO of Anthropic Dario Amodei looks on as President Donald Trump speaks to the press after a meeting with technology executives about artificial intelligence at the White House in Wash\u2026 [+5866 chars]"
+        "author": "Kyle Torpey",
+        "title": "Masks Off: Crypto Industry Responds to Binance Hack by Acting Like Banks - Gizmodo",
+        "description": "Crypto is only \"decentralized\" until something goes wrong.",
+        "url": "https://gizmodo.com/masks-off-crypto-industry-responds-to-binance-hack-by-acting-like-banks-2000833496",
+        "urlToImage": "https://gizmodo.com/app/uploads/2023/02/eb45d843fe2d3efc91f6485dc57ddf62.jpg",
+        "publishedAt": "2026-11-01T16:20:54Z",
+        "content": "The crypto industry has spent the past day congratulating itself for the speed with which stablecoin issuers and other parties froze portions of the roughly $6.3 billion that left Binance wallets in \u2026 [+9605 chars]"
+    },
+    {
+        "source": {
+            "id": "mashable",
+            "name": "Mashable"
+        },
+        "author": "Chase DiBenedetto",
+        "title": "Voice cloning scams: How to protect yourself from audio deepfakes - Mashable",
+        "description": "Number one tip: Hang up the phone.",
+        "url": "https://mashable.com/tech/how-to-protect-yourself-voice-clones-audio-deepfake",
+        "urlToImage": "https://helios-i.mashable.com/imagery/articles/04VuTgXTGC38HnE2K3SxfBX/hero-image.fill.size_1200x675.v1791572487.jpg",
+        "publishedAt": "2026-11-01T15:53:24Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "Futurism"
+            "name": "Allrecipes.com"
         },
-        "author": "Joe Wilkins",
-        "title": "Investor Says We're Rapidly Approaching the Point At Which Economic Systems Collapse Under the Weight of AI - Futurism",
-        "description": "Investor and finance media guru Raoul Pal has begun warning of a vague AI-driven cataclysm that will change life as we know it.",
-        "url": "https://futurism.com/future-society/investor-economy-collapse-ai-raoul-pal",
-        "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/investor-economy-collapse-ai-raoul-pal.jpg?quality=85&w=1200",
-        "publishedAt": "2026-10-31T10:53:00Z",
-        "content": "Can\u2019t-miss innovations from the bleeding edge of science and tech\r\nAt this point, the parade of doomsayers warning of the collapse of the AI bubble is almost endless.\r\nRenowned financial commentators\u2026 [+2913 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Substack.com"
-        },
-        "author": "Paul Krugman",
-        "title": "Azeem Azhar on the Explosion of Hacking and Other AI Issues - Paul Krugman | Substack",
-        "description": "The threats just keep coming",
-        "url": "https://paulkrugman.substack.com/p/azeem-azhar-on-the-explosion-of-hacking",
-        "urlToImage": "https://substackcdn.com/image/fetch/$s_!UiP9!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F222847425%2Fa3aca936-2f43-4752-b979-059ffc42f3bd%2Ftranscoded-00001.png",
-        "publishedAt": "2026-10-31T10:30:56Z",
-        "content": "...\r\nTRANSCRIPT: Paul Krugman in Conversation with Azeem Azhar\r\n(recorded 10/29/26)\r\nPaul Krugman: Hi everyone. I am talking today with Azeem Azhar, writer, researcher, investor with Exponential View\u2026 [+44894 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "ScienceAlert"
-        },
-        "author": "Carly Cassella",
-        "title": "Does It Matter if Men Pee Sitting or Standing? A Randomized Test Has an Answer - ScienceAlert",
-        "description": "It's a question that many men may have pondered: Should they pee sitting down or standing up? The best option may not be the same for everyone.",
-        "url": "https://www.sciencealert.com/does-it-matter-if-men-pee-sitting-or-standing-a-randomized-test-has-an-answer",
-        "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-591401607-2560x1440-1.jpg",
-        "publishedAt": "2026-10-31T10:00:14Z",
-        "content": "It's a question that many men may have pondered: Should they pee sitting down or standing up?\r\nThe best option may not be the same for everyone.\r\nPast research suggests that men with enlarged prostat\u2026 [+4776 chars]"
+        "author": "Andrea Lobas",
+        "title": "The 21 Recipes We Can\u2019t Wait To Make This November - AOL.com",
+        "description": "Before and after Thanksgiving, that is.",
+        "url": "https://www.allrecipes.com/recipes-we-cant-wait-to-make-november-2026-12200488",
+        "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/01/5d79d9e0-8351-358a-9835-5ac0998e005c/a9a35c63-dee2-42dd-9f18-57229e2d290c.jpg",
+        "publishedAt": "2026-11-01T15:00:00Z",
+        "content": "We know November is all about foods favorite holiday. But we have to keep in mind that there are 29 other days we need to feed ourselves this month, too. So, in between planning your Thanksgiving men\u2026 [+7060 chars]"
     },
     {
         "source": {
@@ -122,128 +135,128 @@
             "name": "Financial Times"
         },
         "author": null,
-        "title": "Rating agency Fitch hits France with unscheduled outlook downgrade - Financial Times",
-        "description": "Move comes hours after data showed an unexpected contraction in third-quarter economic output",
-        "url": "https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fafce0244-f465-4a85-9b2a-38a2c26df7c5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-10-31T09:36:34Z",
+        "title": "Junk debt rout sparks \u2018bloodbath\u2019 for credit investors - Financial Times",
+        "description": "Aggressive tactics to shift assets beyond reach of creditors have added fuel to sell-off",
+        "url": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3004436-de9c-48af-8563-f512ac743375.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-11-01T14:54:55Z",
         "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "WSJ",
-        "title": "Kia Has Perfected the Three-Row Family Cruiser - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/lifestyle/cars/2027-kia-telluride-review-9cba2c7e",
-        "urlToImage": null,
-        "publishedAt": "2026-10-31T09:30:00Z",
-        "content": null
+        "author": "Matthew Boesler, Craig Stirling",
+        "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again - Bloomberg",
+        "description": "Jobs week lies ahead for the US, which means a heavy slate of data ahead of the capstone monthly employment report from the Bureau of Labor Statistics on Friday.",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZmTvP0Tpn6c/v0/1200x800.jpg",
+        "publishedAt": "2026-11-01T14:41:31Z",
+        "content": "Jobs week lies ahead for the US, which means a heavy slate of data ahead of the capstone monthly employment report from the Bureau of Labor Statistics on Friday. \r\nForecasters expect the report to sh\u2026 [+240 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "TheStreet"
+            "name": "24/7 Wall St."
         },
-        "author": "TheStreet",
-        "title": "Amazon CEO Andy Jassy makes a strong prediction on Amazon stock - TheStreet",
-        "description": null,
-        "url": "https://www.thestreet.com/investing/stocks/amazon-ceo-andy-jassy-predicts-two-trillion-dollar-businesses-amazon-stock",
-        "urlToImage": null,
-        "publishedAt": "2026-10-31T09:03:00Z",
-        "content": null
+        "author": "Gerelyn Terzo",
+        "title": "At 75, the IRS Will Set the Withdrawal Amount on a $900,000 401(k). Affluent Investors Over 60 Are Making Sure It's Empty by Then - 24/7 Wall St.",
+        "description": "The IRS gets to decide how much comes out of your 401(k) at 75, and the tax cascade that follows can push your effective marginal rate past 40 percent. There is a narrow window before that clock runs out, and the math on using it looks nothing like convention\u2026",
+        "url": "https://247wallst.com/personal-finance/2026/11/01/at-75-the-irs-will-set-the-withdrawal-amount-on-a-900000-401k-affluent-investors-over-60-are-making-sure-its-empty-by-then/",
+        "urlToImage": "https://247wallst.com/wp-content/uploads/2022/07/imageForEntry2-8fR.jpg",
+        "publishedAt": "2026-11-01T14:36:00Z",
+        "content": "The IRS gets to decide how much comes out of your 401(k) at 75, and the tax cascade that follows can push your effective marginal rate past 40 percent. There is a narrow window before that clock runs\u2026 [+4443 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Gerrit De Vynck",
+        "title": "\u2018Anyone can be a super-hacker now\u2019: The world faces a cybersecurity reckoning - The Washington Post",
+        "description": "Recent breaches at major banks are likely to be the work of a 26-year-old amateur who got help from chatbots.",
+        "url": "https://www.washingtonpost.com/technology/2026/11/01/wave-new-cyberattacks-is-just-getting-started/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6DGOKH4ZFJDFTLEBVNAWIAOEZA.jpg&w=1440",
+        "publishedAt": "2026-11-01T14:32:24Z",
+        "content": "Tens of thousands of South Koreans had their financial data exposed online in recent weeks after at least nine major banks there suffered cyberattacks that suggested a dark future for online security."
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Preston Fore",
+        "title": "Anthropic\u2019s $2T IPO could create millionaires\u2014but it\u2019s asking candidates what they\u2019d do if stock hit zero - Fortune",
+        "description": "Anthropic CEO Dario Amodei, who has a net worth of $13.6 billion, has reportedly expressed concerns that AI workers are prioritizing money over mission.",
+        "url": "https://fortune.com/article/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-billionaire-ceo-dario-amodei/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2280291162-e1787668428608.jpg?resize=1200,600",
+        "publishedAt": "2026-11-01T14:15:00Z",
+        "content": "As Anthropic targets a November IPO at a $1.5 trillion to $2 trillion valuationpotentially eclipsing SpaceXs recordthe blockbuster debut could mint a new class of wealthy tech workers among its more \u2026 [+4331 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Financebuzz.com"
+            "name": "Eatthis.com"
         },
-        "author": "Chris Lewis",
-        "title": "Social Security Just Had Its Biggest Makeover in Years - Here's What Changed Under Trump - FinanceBuzz",
-        "description": "Social Security has seen major changes, from benefit restorations to tax relief and service cuts. Here's what changed and what it means for retirees going forward.",
-        "url": "https://financebuzz.com/social-security-changed-under-trump-2",
-        "urlToImage": "https://cdn.financebuzz.com/images/2026/01/07/donald-trump-signature.jpg",
-        "publishedAt": "2026-10-31T09:00:00Z",
-        "content": "A lot changed in a short period of time. And unless you've been following Social Security headlines closely, there's a good chance you've only seen pieces of the story.\r\nFor millions of Americans who\u2026 [+4765 chars]"
+        "author": "Leah Groth",
+        "title": "11 Best New Costco Foods You Won\u2019t Want to Miss This November - Eat This Not That",
+        "description": "Check out the best new Costco foods to try this November, from bakery treats to easy weeknight meals.",
+        "url": "https://www.eatthis.com/best-new-costco-foods-november/",
+        "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/10/iStock-1996116801.jpg?quality=82&strip=all",
+        "publishedAt": "2026-11-01T14:09:47Z",
+        "content": "Discover the top new grocery items hitting Costco shelves this November.\r\nIt seems like just yesterday I was putting my kids on the bus for their first day of school, and suddenly, we\u2019re decorating f\u2026 [+4623 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Barron's"
+            "name": "Cnevpost.com"
         },
-        "author": "Al Root",
-        "title": "Yes, Alphabet Stock Got Hammered. No, We\u2019re Not Selling. - Barron's",
-        "description": "Google-parent Alphabet trades at a rare discount. If it simply returns to its historical valuation relative to Apple, the stock has nearly 50% upside.",
-        "url": "https://www.barrons.com/articles/buy-alphabet-google-stock-48c5972c",
-        "urlToImage": "https://images.barrons.com/im-77140239/social",
-        "publishedAt": "2026-10-31T06:41:00Z",
-        "content": "Observers failed to see the impending downturns in 1873, 1929, and 2000. And money is pouring into AI at a much higher rate than it did in those market crashes."
+        "author": "Phate Zhang",
+        "title": "Roundup: October 2026 deliveries by major Chinese automakers - CnEVPost",
+        "description": "Xpeng's monthly deliveries topped 50,000 for the first time, while Nio and Li Auto both saw declines.",
+        "url": "https://cnevpost.com/2026/11/01/roundup-oct-2026-deliveries-chinese-automakers/",
+        "urlToImage": "https://cnevpost.com/wp-content/uploads/2026/11/2026110107131012.jpg",
+        "publishedAt": "2026-11-01T14:07:00Z",
+        "content": "Deliveries by major automakers in China (Oct 2026)\r\nXiaomi Auto reported &gt;50,000 deliveries; bar length and order use 50,000. Its exact rank is unknown.\r\n<table>Deliveries by major automakers in C\u2026 [+12636 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Motley Fool"
         },
-        "author": "Jenni Reid",
-        "title": "Trump called out Big Oil profits. Here\u2019s how much their refining earnings have surged since - CNBC",
-        "description": "Trump criticized Big Oil for making \u201ctoo much money,\u201d but oil majors have since reported surging refining earnings as fuel supplies tightened.",
-        "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108478855-1793252242563-gettyimages-2265325794-US-.jpeg?v=1793376733&w=1920&h=1080",
-        "publishedAt": "2026-10-31T06:00:02Z",
-        "content": "Chevron does not report a comparable, standalone refining-margin figure, but it reported Friday that its downstream earnings more than quadrupled from a year earlier to $4.9 billion, with the company\u2026 [+1759 chars]"
+        "author": "Sean Williams",
+        "title": "Social Security's Trump Bump-Powered 2027 COLA Is the 5th Largest in 35 Years, but It Comes at a Potentially Steep Cost - The Motley Fool",
+        "description": "There\u2019s no free lunch when it comes to outsize Social Security raises.",
+        "url": "https://www.fool.com/retirement/2026/11/01/social-security-trump-bump-powered-2027-cola-5th-largest-in-35-years-comes-at-potentially-steep-cost/",
+        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ffb34c866dd28e61f570226f84bb4fa033e3ef58b-2048x1365.jpg&w=1200&op=resize",
+        "publishedAt": "2026-11-01T14:06:00Z",
+        "content": "For many of Social Security's more than 71 million traditional beneficiaries, no announcement is more anticipated than the annual cost-of-living adjustment (COLA) reveal in October.\r\nSocial Security'\u2026 [+6314 chars]"
     },
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Berber Jin",
-        "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round - WSJ",
-        "description": "The ChatGPT maker\u2019s latest funding round values it at $1.25 trillion, less than its $1.4 trillion target",
-        "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
-        "urlToImage": "https://images.wsj.net/im-81428095/social",
-        "publishedAt": "2026-10-31T02:56:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Brittany Miller",
-        "title": "McDonald's dealt legal setback as judge allows McRib meat lawsuit to proceed - Fox Business",
-        "description": "A federal judge dealt McDonald's a legal setback, allowing a lawsuit accusing the fast-food giant of misleading customers about the meat in its McRib sandwich to move forward.",
-        "url": "https://www.foxbusiness.com/lifestyle/mcdonalds-dealt-legal-setback-judge-allows-mcrib-lawsuit-over-sandwichs-meat-proceed",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/mcdonalds-3.jpg?ve=1&tl=1",
-        "publishedAt": "2026-10-31T01:33:00Z",
-        "content": "A federal judge ruled Friday that McDonald's must face a proposed class action lawsuit accusing the fast-food giant of misleading customers about the meat used in its popular McRib sandwich.\r\nU.S. Di\u2026 [+3073 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Essay | The Parents Who Are Letting Their Kids Drink - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/lifestyle/relationships/the-parents-taking-a-more-lenient-approach-to-teen-drinking-1b77dd93",
-        "urlToImage": null,
-        "publishedAt": "2026-10-31T01:00:00Z",
-        "content": null
+        "author": "Jim VandeHei, Mike Allen",
+        "title": "Behind the Curtain: OpenAI's post-election power play - Axios",
+        "description": "AI companies will face a harsher Washington after Tuesday.",
+        "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+        "urlToImage": "https://images.axios.com/8cTCchfXNAg9PQYnsZX4EL3Jc2k=/7x0:1294x724/1366x768/2026/11/01/1793494578708.png",
+        "publishedAt": "2026-11-01T13:46:43Z",
+        "content": "Right after Tuesday's midterms, OpenAI will unleash a policy and PR blitz to try to get in sync with the new Washington, including an effort to rebrand data centers as \"AI compute campuses.\" \r\nWhy it\u2026 [+5283 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Variety"
+            "name": "Electrek"
         },
-        "author": "Corbin Bolies",
-        "title": "Cate Blanchett-Backed Group of Stars Files Brief in NYT-OpenAI Lawsuit - Variety",
-        "description": "The Human Consent Foundation, the Cate Blanchett-backed nonprofit, and a legion of Hollywood stars supported a brief in the NYT's OpenAI lawsuit.",
-        "url": "https://variety.com/2026/biz/news/cate-blanchett-hollywood-stars-brief-nyt-openai-lawsuit-1236935578/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2026/10/HCF-Signatories.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2026-10-30T23:52:00Z",
-        "content": "The Human Consent Foundation, the Cate Blanchett-backed nonprofit trying to protect the likenesses of individuals from unauthorized scraping by AI models, and a legion of Hollywood companies have fil\u2026 [+4313 chars]"
+        "author": "Micah Toll",
+        "title": "I imported a $2,000 electric truck from China. Five years later, here\u2019s the truth - Electrek",
+        "description": "Five years ago, I did something that seemed pretty ridiculous at the time. I bought a $2,000 electric mini-truck from...",
+        "url": "http://electrek.co/2026/11/01/i-imported-a-2000-electric-truck-from-china-five-years-later-heres-the-truth/",
+        "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/10/changli-electric-mini-truck-head-micah-toll.jpg?quality=82&strip=all&resize=1200,628",
+        "publishedAt": "2026-11-01T13:29:00Z",
+        "content": "Five years ago, I did something that seemed pretty ridiculous at the time. I bought a $2,000 electric mini-truck from China, had it shipped across the oceans to the US, and put it to work on my paren\u2026 [+12530 chars]"
     }
 ]
