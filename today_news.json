@@ -1,107 +1,107 @@
 [
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
+            "id": null,
+            "name": "CNBC"
         },
-        "author": "Gunjan Banerji, WSJ Staff, Robbie Whelan, Vicky Ge Huang, Sam Goldfarb, Anissa Gardizy, Heather Gillers, Alexander Osipovich, Will Flannigan, Ed Ballard, Jack Pitcher, Melissa Korn, Hannah Erin Lang, David Uberti, Ben Dummett, Chelsey Dulaney, Kosaku Narioka, Alistair MacDonald",
-        "title": "Stock Market Today: Nasdaq Sinks 4% as Investors Ditch Chip, Data-Center Stocks \u2014 Live Updates - WSJ",
-        "description": "Live updates on markets and the top finance, economics and business stories. Plus the latest on bonds, oil prices, the Dow, S&P 500 and Nasdaq.",
-        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-        "urlToImage": "https://images.wsj.net/im-925349/social",
-        "publishedAt": "2026-11-05T18:25:00Z",
-        "content": "Stocks are falling sharply in a broad-based selloff driven by investors recalculating some of the year's most popular AI trades.\r\nThis is a true panic,\" said Jay Hatfield, CEO at Infrastructure Capit\u2026 [+869 chars]"
+        "author": "Ashley Capoot",
+        "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC - CNBC",
+        "description": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
+        "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
+        "publishedAt": "2026-11-06T16:22:49Z",
+        "content": "OpenAI CFO Sarah Friar on Friday said the company will continue to invest in artificial intelligence infrastructure, even after voters strongly rebuked data centers during Tuesday's midterm elections\u2026 [+2678 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Rita Nazareth",
+        "title": "US Stock Rout Pauses as Dip Buyers Offer Support: Markets Wrap - Bloomberg.com",
+        "description": "A rebound in chipmakers buoyed Wall Street as dip buyers emerged despite economic data that reinforced speculation the Federal Reserve will boost interest rates in December.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ielU73ynfik0/v0/1200x800.jpg",
+        "publishedAt": "2026-11-06T16:00:38Z",
+        "content": "A rebound in chipmakers buoyed Wall Street as dip buyers emerged despite economic data that reinforced speculation the Federal Reserve will boost interest rates in December.\r\nIn the aftermath of a se\u2026 [+286 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "WCVB Boston"
+            "name": "CNBC"
         },
-        "author": "Jamy Pombo Sesselman, Ted Wayman",
-        "title": "Pipefitter's pipes will provide new 'Voice of Logan' - WCVB",
-        "description": "A pipefitter from Arlington, Massachusetts, was announced Thursday as the winner of Boston Logan International Airport's \"Voice of Logan\" contest.",
-        "url": "https://www.wcvb.com/article/voice-of-logan-winner-announcement-boston/74343292",
-        "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/39325fcf-eed1-4e72-b6d3-4c35687ed7ef.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-        "publishedAt": "2026-11-05T17:29:27Z",
-        "content": "EAST BOSTON, Mass.A Massachusetts pipefitter was announced Thursday as the winner of Boston Logan International Airport's \"Voice of Logan\" contest.\r\nChristopher Donisi, 43, who grew up in Arlington, \u2026 [+1541 chars]"
+        "author": "Alexa LoMonaco, Jeff Nash",
+        "title": "Watch live: Jim Cramer shares his next investing moves for this tough market - CNBC",
+        "description": "At the Investing Club's 4th annual meeting, Cramer also reveals his outlook for 2027 and answers questions from the live audience and members at home.",
+        "url": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107200470-1677528554271-NUP_200782_00237.jpg?v=1697057003&w=1920&h=1080",
+        "publishedAt": "2026-11-06T15:18:37Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "Abcnews.com"
+            "name": "Barron's"
         },
-        "author": "DEE-ANN DURBIN AP business writer",
-        "title": "Wendy's rejects buyout bid from activist investor and adopts 'poison pill' plan - ABC News - Breaking News, Latest News and Videos",
-        "description": "Wendy\u2019s rejected a $1.4 billion buyout offer from an activist investor, saying Thursday that the bid was too low",
-        "url": "https://abcnews.com/Business/wireStory/wendys-rejects-buyout-bid-activist-investor-adopts-poison-137876779",
-        "urlToImage": "https://i.abcnewsfe.com/a/1079f3d6-e7b7-4a7a-be6d-df71ab7a032f/wirestory_15809c56629618ca75df028aa954f8e3_16x9.jpg?w=1600",
-        "publishedAt": "2026-11-05T17:18:42Z",
-        "content": "Wendys rejected a $1.4 billion buyout offer from an activist investor, saying Thursday that the bid was too low, and it adopted a poison pill plan that would make it more difficult to engineer a host\u2026 [+2859 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "So, about that Anthropic IPO . . . - Financial Times",
-        "description": "A dispatch from the trenches of daily market commentary",
-        "url": "https://www.ft.com/content/2fbd60ee-060a-4957-b9c5-3b5a0ce88e1a?syn-25a6b1a6=1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf7a9080-09d4-4502-ab6a-15133991e710.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-11-05T17:01:56Z",
-        "content": "Perhaps youre old enough to remember yesterday, when Wall Street stocks posted their biggest gain in three months as investors bet that the Democrats resounding victory in the US midterm elections wo\u2026 [+1284 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Jared Blikre",
-        "title": "Nvidia has lost nearly $1.4 trillion since its October record - Yahoo Finance",
-        "description": "Nvidia is losing the most in S&P 500 stocks by value in Thursday's market rout, on track for a fifth straight week of losses.",
-        "url": "https://finance.yahoo.com/markets/article/nvidia-has-lost-nearly-14-trillion-since-its-october-record-165912910.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/fb303fc5a7a27dcf9d66e915d6a1993c0107bf6ad55a7f43706c9de9b8ff87d6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F01b04b5e-924a-4051-be46-ff0e95c48597",
-        "publishedAt": "2026-11-05T16:59:12Z",
-        "content": "Nvidia (NVDA) is on track for its fifth straight losing week, and the slide since its October record has now erased nearly $1.4 trillion in market value.\r\nThursday did a lot of the damage. At its mor\u2026 [+2119 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall - BBC",
-        "description": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-        "url": "https://www.bbc.com/news/articles/cmn04705rd8jo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2258/live/1f0da230-d934-11f1-8bce-2396c9c50357.jpg",
-        "publishedAt": "2026-11-05T16:44:38Z",
-        "content": "\"A lot of our shift over the course of this year has really been to realise that from San Francisco trying to build infrastructure in Texas, Georgia, and other places, you can't just tweet and say: '\u2026 [+146 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "Blue Origin delays launches until 2027 - Financial Times",
-        "description": "Jeff Bezos\u2019s rocket company slips further behind Elon Musk\u2019s SpaceX following devastating explosion",
-        "url": "https://www.ft.com/content/39efbb7e-44a3-4a75-883b-e76ed6f9f5fd?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F59a8d3ae-2e06-45b8-946e-b313ae2b7704.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-11-05T16:35:33Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        "author": "Nate Wolf",
+        "title": "Everything Is Going Wrong for Chip Stocks. 5 Names at Fire-Sale Prices. - Barron's",
+        "description": "Nvidia, Intel, Qualcomm and other chip stocks are in the middle of a bloodbath. But shares that looked very pricey months ago are suddenly bargains, if investors pick the right names.",
+        "url": "https://www.barrons.com/articles/chip-stocks-nvidia-amd-broadcom-selloff-4f4e25a4",
+        "urlToImage": "https://images.barrons.com/im-12602152/social",
+        "publishedAt": "2026-11-06T15:18:00Z",
+        "content": "If your portfolio is flush with semiconductor stocks, I wouldnt suggest taking a look at your returns. Everything that could have gone wrong for chip makers has gone wrongseemingly all at once.\r\nCopy\u2026 [+93 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Ines Ferr\u00e9",
-        "title": "Micron stock declines 12% as chip sell-off deepens - Yahoo Finance",
-        "description": "Micron led the chip sector lower on Thursday amid a heavy sell-of",
-        "url": "https://finance.yahoo.com/markets/article/micron-declines-12-as-chip-sell-off-deepens-163137019.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/d1f8a3fb29392d3087b29d208811a91d7ebbaee0a7a55e961f59fbf07e75574f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fc9cf47b4-a56b-44db-bfc5-6da7b7872789",
-        "publishedAt": "2026-11-05T16:31:37Z",
-        "content": "Shares of memory chipmaker Micron Technology (MU) tumbled 12% as a chip sell-off deepened on Thursday.\r\nPeer SK Hynix (SKHY), along with memory and storage names Sandisk (SNDK), Seagate (STX), and We\u2026 [+713 chars]"
+        "author": "Grace O'Donnell",
+        "title": "Stock market today: Nasdaq futures rebound after brutal sell-off, Dow and S&P 500 wobble as US adds 165K jobs - Yahoo Finance",
+        "description": "Stocks are poised for steep weekly losses as a post-election rally turned into an artificial intelligence trade meltdown, sending tremors through markets.",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/a1cd96c384656b5e8125706ad6ab787be1cdf5f46942e72ca053d8d15d034b05/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4b10588d-ad96-4a76-80c7-f44bf22fd146",
+        "publishedAt": "2026-11-06T13:59:53Z",
+        "content": "Economic data: Change in nonfarm payrolls, October (+55,000 expected, +29,000 prior); Change in private payrolls, October (+55,000 expected, +46,000 prior); Change in manufacturing payrolls, October \u2026 [+1266 chars]"
+    },
+    {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Jonathan M. Gitlin",
+        "title": "The Cybertruck is dead, makes way for Cybercab says Elon Musk - Ars Technica",
+        "description": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
+        "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303012424-2560x1440.jpg",
+        "publishedAt": "2026-11-06T13:50:20Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bailey Lipschultz, Julien Ponthus, Levin Stamm",
+        "title": "Anthropic IPO Valuation Expectations Pressured After AI Rout - Bloomberg.com",
+        "description": "Anthropic PBC\u2019s initial public offering plans ran into a punishing post-election selloff, prompting a rethink among prospective investors of the company\u2019s expected valuation.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRvCluP4r1jA/v1/1200x800.jpg",
+        "publishedAt": "2026-11-06T13:12:57Z",
+        "content": "Anthropic PBCs initial public offering plans ran into a punishing post-election selloff, prompting a rethink among prospective investors of the companys expected valuation.\r\nAhead of the AI lab kicki\u2026 [+246 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Michael Wayland",
+        "title": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens - CNBC",
+        "description": "Automakers are warning about higher commodity, logistics and memory costs, while pricing power is becoming harder to extend to consumers.",
+        "url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138834-1746032874620-IMG_8425.JPG?v=1793912269&w=1920&h=1080",
+        "publishedAt": "2026-11-06T13:00:01Z",
+        "content": "Workers at Ford's Kentucky Truck Plant on April 30, 2025.\r\nDETROIT There's a growing concern that the global automotive industry may be stuck in neutral, if not reverse, heading into 2027.\r\nThe auto \u2026 [+6351 chars]"
     },
     {
         "source": {
@@ -109,141 +109,128 @@
             "name": "Investor's Business Daily"
         },
         "author": null,
-        "title": "SpaceX Lessors Look To Sell $40 Bil AI Deal. ARK Buys The Dip On SPCX Stock. - Investor's Business Daily",
-        "description": "Goldman Sachs, Apollo Global look to sell portions of $40 billion GPU deal with SpaceX. Cathie Wood buys the dip amid AI retreat.",
-        "url": "https://www.investors.com/news/spacex-goldman-sachs-apollo-40bil-nvidia-ai-gpu-deal-sale-cathie-wood-ark-invest-spcx-stock/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/11/stock-spaceX-Hawthorne-adobe.jpg",
-        "publishedAt": "2026-11-05T16:05:00Z",
+        "title": "Why The Blue Tsunami Rattled AI Stocks As Microsoft, Google, Amazon Fall - Investor's Business Daily",
+        "description": "The Blue Tsunami midterms sent some AI stocks like Nvidia reeling while Big Tech cloud providers Amazon, Microsoft and Google rallied.",
+        "url": "https://www.investors.com/news/technology/why-the-blue-tsunami-rattled-ai-stocks-as-microsoft-google-amazon-fall/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/09/stock-data-center-AI-adobe.jpg",
+        "publishedAt": "2026-11-06T13:00:00Z",
         "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "usa-today",
+            "name": "USA Today"
         },
-        "author": "Amelia Lucas",
-        "title": "Marc Lore's Wonder confidentially files for IPO - CNBC",
-        "description": "Marc Lore's latest startup Wonder has confidentially filed for an initial public offering.",
-        "url": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108448204-1792698576376-gettyimages-2235177281-McGregor250915NYCbusinesses04.jpeg?v=1793890557&w=1920&h=1080",
-        "publishedAt": "2026-11-05T15:57:32Z",
-        "content": "Food startup Wonder has confidentially filed for an initial public offering, the company said Thursday.\r\nCreated by serial entrepreneur Marc Lore in 2018, Wonder advertises itself as \"the best restau\u2026 [+1635 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Maggie Roth",
-        "title": "Expedia CEO says AI agents aren't changing booking habits \u2014 yet - CNBC",
-        "description": "Expedia CEO Ariane Gorin told CNBC that AI agents present an exciting time for the travel industry but that they haven't yet impacted bookings.",
-        "url": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108526068-1793889632169-gettyimages-2270855893-IMF_WORLD_BANK.jpeg?v=1793889686&w=1920&h=1080",
-        "publishedAt": "2026-11-05T15:34:55Z",
-        "content": "Expedia CEO Ariane Gorin said Thursday the company hasn't yet seen artificial intelligence agents affecting the way customers book, but the early signs show potential for an industry shift. \r\n\"It's a\u2026 [+2116 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "DTN The Progressive Farmer"
-        },
-        "author": "Todd Neeley",
-        "title": "John Deere Announces Iowa Plant Closures, Production Moves Through 2029 - DTN Progressive Farmer",
-        "description": "John Deere plans to close two Iowa manufacturing plants, shifting equipment production to other facilities as part of a broader restructuring of its manufacturing operations.",
-        "url": "https://www.dtnpf.com/agriculture/web/ag/equipment/article/2026/11/04/john-deere-announces-iowa-plant-2029",
-        "urlToImage": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=bigiron.jpg",
-        "publishedAt": "2026-11-05T15:31:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Victoria Craw",
-        "title": "Oil prices hit two-month low following decisive midterm election results - The Washington Post",
-        "description": "Stock markets in the U.S., Asia and Europe also surged following the midterm results, amid expectations of Democratic resistance to an escalation in fighting.",
-        "url": "https://www.washingtonpost.com/business/2026/11/05/oil-prices-hit-two-month-low-following-decisive-midterm-election-results/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost.s3.amazonaws.com%2Fpublic%2FBKXHNCGY2YI7DEYK4CHYBBXVVQ_size-normalized.jpg&w=1200",
-        "publishedAt": "2026-11-05T15:22:30Z",
-        "content": "D.C. officials on Thursday announced their intent to lobby incoming Democratic governors in states that flipped blue to recall their National Guard troops from the District.\r\nAt a D.C. Council hearin\u2026 [+1119 chars]"
+        "author": "Medora Lee",
+        "title": "IRS adjusts 2027 tax brackets. How your paycheck changes - USA Today",
+        "description": "The IRS is raising federal income tax brackets for 2027 to account for inflation, potentially lowering your tax bill.",
+        "url": "https://www.usatoday.com/story/money/personal-finance/taxes/2026/11/05/irs-2027-tax-brackets/92629232007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/05/USAT/92629825007-20251217-t-200056-z-1402217501-mt-1-usatoday-27838376-rtrmadp-3-aphotoillustrationshowstaxformsastheperiodtofile.JPG?crop=3118,1755,x0,y494&width=3118&height=1755&format=pjpg&auto=webp",
+        "publishedAt": "2026-11-06T12:57:00Z",
+        "content": "All seven federal income tax brackets will move higher next year to adjust for inflation, while tax rates remain the same, the IRS said.\r\nThe IRS announces federal income tax brackets that determine \u2026 [+2980 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Barron's"
         },
-        "author": "Al Root",
-        "title": "SpaceX Stock Today Has These 2 Positives. The Stock Is Still Falling. - Barron's",
-        "description": "China Renaissance initiates coverage of SpaceX with a Buy rating and a $194.20 price target,",
-        "url": "https://www.barrons.com/articles/spacex-stock-buy-rating-cathie-wood-e46d26d7",
-        "urlToImage": "https://images.barrons.com/im-55616031/social",
-        "publishedAt": "2026-11-05T15:01:00Z",
-        "content": "SpaceXstock was falling Thursday, dipping below its initial public offering price of $135 in June, following a new Buy rating on Wall Street and more buying from growth investorCathie Wood.\r\nCopyrigh\u2026 [+89 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NPR"
-        },
-        "author": "Jennifer Ludden",
-        "title": "First-time homebuyers remain scarce, but a record share of them pay all cash - NPR",
-        "description": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high.",
-        "url": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5281x2971+0+335/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F29%2F2594b31f489c9ae9d50618c1d5c2%2Fgettyimages-2285398438.jpg",
-        "publishedAt": "2026-11-05T15:00:00Z",
-        "content": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report\r\n by the National Association of Realtors. But th\u2026 [+4229 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Erica Andrews",
-        "title": "California-based restaurant chain operator files for bankruptcy as it blames state\u2019s brutal wage laws - New York Post",
-        "description": "The filing marks another blow to California\u2019s battered restaurant industry.",
-        "url": "https://nypost.com/2026/11/05/us-news/outback-steakhouse-operator-files-chapter-11-on-449m-debt/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147570102_2f5392.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-11-05T15:00:00Z",
-        "content": "A major California-based Outback Steakhouse franchise operator has gone bust, blaming the Golden States soaring labor costs, sky-high food prices and dwindling customers for pushing its restaurant em\u2026 [+5091 chars]"
+        "author": "Adam Clark",
+        "title": "Why Micron\u2019s Stock Valuation Now Looks Ridiculous - Barron's",
+        "description": "Micron stock has an incredibly low price-to-earnings multiple. Here's how to assess whether it's a bargain.",
+        "url": "https://www.barrons.com/articles/micron-stock-price-cheap-072ab5c1",
+        "urlToImage": "https://images.barrons.com/im-67439763/social",
+        "publishedAt": "2026-11-06T12:38:00Z",
+        "content": "Valuation tools arent much help with Elon Musks companies. There are good reasons why. Right now, its better to use technical factors."
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Eamon Javers, Kevin Breuninger",
-        "title": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control - CNBC",
-        "description": "JPMorgan kept Jeffrey Epstein as a client for years after top executive Mary Erdoes hearing claims he paid to have underage girls brought to his home.",
-        "url": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108338471-1784724287235-gettyimages-2281451826-DNI_POSTPONED.jpeg?v=1784724306&w=1920&h=1080",
-        "publishedAt": "2026-11-05T14:58:26Z",
-        "content": "Senate Democrats are gearing up to investigate JPMorgan Chase's banking relationship with the late sex offender Jeffrey Epstein once they take control of Congress early next year.\r\nDemocratic staffer\u2026 [+4993 chars]"
+        "author": "Laya Neelakandan, Leslie Josephs",
+        "title": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike - CNBC",
+        "description": "As shipping costs surge due to high fuel prices, smaller and medium-sized retailers struggle to keep up, and they face a difficult holiday season.",
+        "url": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108526064-1793889195442-gettyimages-1245272604-1223265-post-office-behind-the-scenes-37-ajs.jpeg?v=1793901393&w=1920&h=1080",
+        "publishedAt": "2026-11-06T12:00:01Z",
+        "content": "An employee moves large boxes of mail at the United States Postal Service Los Angeles Processing and Distribution Center, in Los Angeles, Nov. 30, 2022.\r\nWhen Jenni Shields began her small business e\u2026 [+5964 chars]"
     },
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": null,
+            "name": "NPR"
         },
-        "author": "Ian King",
-        "title": "Qualcomm Slides After Supply Costs Take a Bite Out of Profit - Bloomberg.com",
-        "description": "Qualcomm Inc. shares tumbled by the most in almost six months after the company gave a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inPuidNWewbc/v0/1200x799.jpg",
-        "publishedAt": "2026-11-05T14:38:36Z",
-        "content": "Qualcomm Inc. shares tumbled by the most in almost six months after the company gave a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher com\u2026 [+263 chars]"
+        "author": "Cooper Katz McKim",
+        "title": "Why gold prices are surprisingly low : Planet Money - NPR",
+        "description": "Gold tends to go up when there's uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. What's going on?",
+        "url": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+210/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F89%2F1703eb4442999596aa419c563b36%2Fgettyimages-2226987691.jpg",
+        "publishedAt": "2026-11-06T12:00:00Z",
+        "content": "You're reading a newsletter from\u00a0The Indicator from Planet Money.\u00a0Once a week, we curate our favorite stories and insights on business, finance, economics and why they matter.\u00a0Subscribe here\u00a0to get i\u2026 [+7456 chars]"
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": null,
+            "name": "Financial Times"
         },
-        "author": "Pan Pylas",
-        "title": "BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead - AP News",
-        "description": "The Bank of England is raising interest rates for the first time in more than three years in an effort to tackle an inflation shock stoked by the Iran war. The decision to lift the bank\u2019s main interest rate to 4% from 3.75% Thursday was widely expected given \u2026",
-        "url": "https://apnews.com/article/britain-economy-interest-rates-dce506792fe3b452ec4c3982147286f3",
-        "urlToImage": "https://dims.apnews.com/dims4/default/2eec11f/2147483647/strip/true/crop/5279x3519+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2F9a%2Fa8e95b315e93a4a1d442ffdf1305%2F896b4c19f1f645c7b8e20ac611ff2e1b",
-        "publishedAt": "2026-11-05T14:27:00Z",
-        "content": "LONDON (AP) The Bank of England indicated Thursday that the sharp decline in energy prices after the U.S. midterm elections if sustained could limit the prospect of further interest rate hikes in the\u2026 [+3359 chars]"
+        "author": null,
+        "title": "Moderna swings to profit as momentum for cancer vaccine builds - Financial Times",
+        "description": "Biotech company remains strongest performer in S&P 500 over past year",
+        "url": "https://www.ft.com/content/05ce7a1d-0d7e-434a-bcea-e8239dcde17a?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F99a58e14-0369-4760-b185-74f7500117a5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-11-06T11:45:04Z",
+        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "WSJ",
+        "title": "Oil Slides Below $100 a Barrel, With Focus on Iran Outlook After U.S. Midterms - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/business/energy-oil/brent-crude-climbs-above-100-as-middle-east-oil-supply-risks-persist-caaf64bb",
+        "urlToImage": null,
+        "publishedAt": "2026-11-06T11:01:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Natalia Kniazhevich",
+        "title": "Fast-Money Systematic Funds Stoked $2.3 Trillion Tech-Stock Rout - Yahoo Finance",
+        "description": "As investors rushed out of US technology stocks on Thursday, selling by trend-following systematic strategies amplified what quickly became a record plunge b...",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/fast-money-systematic-funds-stoked-103031992.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/5d7a70f5dd6a77905f91a6eea4740824dd0a138973a38f46b45d7d73b785e64d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F5650d62c9e7128ddade8f2d9d55195be.jpg",
+        "publishedAt": "2026-11-06T10:30:31Z",
+        "content": "(Bloomberg) -- As investors rushed out of US technology stocks on Thursday, selling by trend-following systematic strategies amplified what quickly became a record plunge by market value in the Nasda\u2026 [+2218 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Jenni Reid",
+        "title": "Democratic sweep gives markets a reason to rethink path of interest rates - CNBC",
+        "description": "Rate hikes could be curbed by an Iran war resolution, slower U.S. growth and fresh fiscal policy \u2014 but none are set in stone.",
+        "url": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108504024-1793627169043-gettyimages-2302715444-AFP_D66R9ZV.jpeg?v=1793661051&w=1920&h=1080",
+        "publishedAt": "2026-11-06T10:22:22Z",
+        "content": "The Democrats' resounding victory in the U.S. midterms has the potential to curb interest rate hikes globally next year, according to market watchers but the uncertain path of oil prices, U.S. econom\u2026 [+7328 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Michael Sinkewicz",
+        "title": "Asian stock markets plunge as Japan Nikkei, South Korea KOSPI and Taiwan stocks fall - Fox Business",
+        "description": "South Korea's KOSPI plunged over 8%, triggering a trading halt, while Japan's Nikkei and Taiwan's stock index fell sharply amid AI stock selling.",
+        "url": "https://www.foxbusiness.com/markets/asian-stock-markets-plunge-japan-nikkei-south-korea-kospi-taiwan-stocks-fall",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-stock-market-selloff-asian-market.jpg?ve=1&tl=1",
+        "publishedAt": "2026-11-06T09:51:00Z",
+        "content": "Asian stock markets plunged Friday as a massive Wall Street sell-off spread overseas, sending major indexes in Japan, South Korea and Taiwan sharply lower.\r\nMeanwhile, U.S. stock futures were mixed, \u2026 [+3030 chars]"
     }
 ]
