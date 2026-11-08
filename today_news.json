@@ -2,171 +2,171 @@
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Gothamist"
         },
-        "author": "Ashley Capoot",
-        "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC - CNBC",
-        "description": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
-        "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108533388-1793982421515-Screenshot-2026-11-06-at-112616_AM.jpg?v=1793982500&w=1920&h=1080",
-        "publishedAt": "2026-11-06T16:22:49Z",
-        "content": "OpenAI CFO Sarah Friar on Friday said the company will continue to invest in artificial intelligence infrastructure, even after voters strongly rebuked data centers during Tuesday's midterm elections\u2026 [+2678 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Rita Nazareth",
-        "title": "US Stock Rout Pauses as Dip Buyers Offer Support: Markets Wrap - Bloomberg.com",
-        "description": "A rebound in chipmakers buoyed Wall Street as dip buyers emerged despite economic data that reinforced speculation the Federal Reserve will boost interest rates in December.",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ielU73ynfik0/v0/1200x800.jpg",
-        "publishedAt": "2026-11-06T16:00:38Z",
-        "content": "A rebound in chipmakers buoyed Wall Street as dip buyers emerged despite economic data that reinforced speculation the Federal Reserve will boost interest rates in December.\r\nIn the aftermath of a se\u2026 [+286 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Alexa LoMonaco, Jeff Nash",
-        "title": "Watch live: Jim Cramer shares his next investing moves for this tough market - CNBC",
-        "description": "At the Investing Club's 4th annual meeting, Cramer also reveals his outlook for 2027 and answers questions from the live audience and members at home.",
-        "url": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107200470-1677528554271-NUP_200782_00237.jpg?v=1697057003&w=1920&h=1080",
-        "publishedAt": "2026-11-06T15:18:37Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Nate Wolf",
-        "title": "Everything Is Going Wrong for Chip Stocks. 5 Names at Fire-Sale Prices. - Barron's",
-        "description": "Nvidia, Intel, Qualcomm and other chip stocks are in the middle of a bloodbath. But shares that looked very pricey months ago are suddenly bargains, if investors pick the right names.",
-        "url": "https://www.barrons.com/articles/chip-stocks-nvidia-amd-broadcom-selloff-4f4e25a4",
-        "urlToImage": "https://images.barrons.com/im-12602152/social",
-        "publishedAt": "2026-11-06T15:18:00Z",
-        "content": "If your portfolio is flush with semiconductor stocks, I wouldnt suggest taking a look at your returns. Everything that could have gone wrong for chip makers has gone wrongseemingly all at once.\r\nCopy\u2026 [+93 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Grace O'Donnell",
-        "title": "Stock market today: Nasdaq futures rebound after brutal sell-off, Dow and S&P 500 wobble as US adds 165K jobs - Yahoo Finance",
-        "description": "Stocks are poised for steep weekly losses as a post-election rally turned into an artificial intelligence trade meltdown, sending tremors through markets.",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/a1cd96c384656b5e8125706ad6ab787be1cdf5f46942e72ca053d8d15d034b05/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4b10588d-ad96-4a76-80c7-f44bf22fd146",
-        "publishedAt": "2026-11-06T13:59:53Z",
-        "content": "Economic data: Change in nonfarm payrolls, October (+55,000 expected, +29,000 prior); Change in private payrolls, October (+55,000 expected, +46,000 prior); Change in manufacturing payrolls, October \u2026 [+1266 chars]"
-    },
-    {
-        "source": {
-            "id": "ars-technica",
-            "name": "Ars Technica"
-        },
-        "author": "Jonathan M. Gitlin",
-        "title": "The Cybertruck is dead, makes way for Cybercab says Elon Musk - Ars Technica",
-        "description": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
-        "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303012424-2560x1440.jpg",
-        "publishedAt": "2026-11-06T13:50:20Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Bailey Lipschultz, Julien Ponthus, Levin Stamm",
-        "title": "Anthropic IPO Valuation Expectations Pressured After AI Rout - Bloomberg.com",
-        "description": "Anthropic PBC\u2019s initial public offering plans ran into a punishing post-election selloff, prompting a rethink among prospective investors of the company\u2019s expected valuation.",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRvCluP4r1jA/v1/1200x800.jpg",
-        "publishedAt": "2026-11-06T13:12:57Z",
-        "content": "Anthropic PBCs initial public offering plans ran into a punishing post-election selloff, prompting a rethink among prospective investors of the companys expected valuation.\r\nAhead of the AI lab kicki\u2026 [+246 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Michael Wayland",
-        "title": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens - CNBC",
-        "description": "Automakers are warning about higher commodity, logistics and memory costs, while pricing power is becoming harder to extend to consumers.",
-        "url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138834-1746032874620-IMG_8425.JPG?v=1793912269&w=1920&h=1080",
-        "publishedAt": "2026-11-06T13:00:01Z",
-        "content": "Workers at Ford's Kentucky Truck Plant on April 30, 2025.\r\nDETROIT There's a growing concern that the global automotive industry may be stuck in neutral, if not reverse, heading into 2027.\r\nThe auto \u2026 [+6351 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Why The Blue Tsunami Rattled AI Stocks As Microsoft, Google, Amazon Fall - Investor's Business Daily",
-        "description": "The Blue Tsunami midterms sent some AI stocks like Nvidia reeling while Big Tech cloud providers Amazon, Microsoft and Google rallied.",
-        "url": "https://www.investors.com/news/technology/why-the-blue-tsunami-rattled-ai-stocks-as-microsoft-google-amazon-fall/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2026/09/stock-data-center-AI-adobe.jpg",
-        "publishedAt": "2026-11-06T13:00:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Medora Lee",
-        "title": "IRS adjusts 2027 tax brackets. How your paycheck changes - USA Today",
-        "description": "The IRS is raising federal income tax brackets for 2027 to account for inflation, potentially lowering your tax bill.",
-        "url": "https://www.usatoday.com/story/money/personal-finance/taxes/2026/11/05/irs-2027-tax-brackets/92629232007/",
-        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/05/USAT/92629825007-20251217-t-200056-z-1402217501-mt-1-usatoday-27838376-rtrmadp-3-aphotoillustrationshowstaxformsastheperiodtofile.JPG?crop=3118,1755,x0,y494&width=3118&height=1755&format=pjpg&auto=webp",
-        "publishedAt": "2026-11-06T12:57:00Z",
-        "content": "All seven federal income tax brackets will move higher next year to adjust for inflation, while tax rates remain the same, the IRS said.\r\nThe IRS announces federal income tax brackets that determine \u2026 [+2980 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Adam Clark",
-        "title": "Why Micron\u2019s Stock Valuation Now Looks Ridiculous - Barron's",
-        "description": "Micron stock has an incredibly low price-to-earnings multiple. Here's how to assess whether it's a bargain.",
-        "url": "https://www.barrons.com/articles/micron-stock-price-cheap-072ab5c1",
-        "urlToImage": "https://images.barrons.com/im-67439763/social",
-        "publishedAt": "2026-11-06T12:38:00Z",
-        "content": "Valuation tools arent much help with Elon Musks companies. There are good reasons why. Right now, its better to use technical factors."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Laya Neelakandan, Leslie Josephs",
-        "title": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike - CNBC",
-        "description": "As shipping costs surge due to high fuel prices, smaller and medium-sized retailers struggle to keep up, and they face a difficult holiday season.",
-        "url": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108526064-1793889195442-gettyimages-1245272604-1223265-post-office-behind-the-scenes-37-ajs.jpeg?v=1793901393&w=1920&h=1080",
-        "publishedAt": "2026-11-06T12:00:01Z",
-        "content": "An employee moves large boxes of mail at the United States Postal Service Los Angeles Processing and Distribution Center, in Los Angeles, Nov. 30, 2022.\r\nWhen Jenni Shields began her small business e\u2026 [+5964 chars]"
+        "author": "https://gothamist.com/staff/jessica-gould",
+        "title": "NYC schools\u2019 standoff with Google over AI raises prospect of no search in class - Gothamist",
+        "description": "Google\u2019s threat to pull the plug on search in classrooms underscored how deeply the technology\u2019s products are woven into the fabric of education.",
+        "url": "https://gothamist.com/news/nyc-schools-standoff-with-google-over-ai-raises-prospect-of-no-search-in-class",
+        "urlToImage": "https://api-prod.gothamist.com/images/362359/fill-1200x650|format-webp|webpquality-85/",
+        "publishedAt": "2026-11-07T15:21:00Z",
+        "content": "Google is locked in a standoff with the nations largest public school system as the debate over AIs place in the classroom pits parent groups against the tech behemoth.\r\nEarlier this week, Google sai\u2026 [+5871 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "NPR"
         },
-        "author": "Cooper Katz McKim",
-        "title": "Why gold prices are surprisingly low : Planet Money - NPR",
-        "description": "Gold tends to go up when there's uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. What's going on?",
-        "url": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x2268+0+210/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F89%2F1703eb4442999596aa419c563b36%2Fgettyimages-2226987691.jpg",
-        "publishedAt": "2026-11-06T12:00:00Z",
-        "content": "You're reading a newsletter from\u00a0The Indicator from Planet Money.\u00a0Once a week, we curate our favorite stories and insights on business, finance, economics and why they matter.\u00a0Subscribe here\u00a0to get i\u2026 [+7456 chars]"
+        "author": "Rob Stein",
+        "title": "A promising new medicine against heart disease fails unexpectedly - NPR",
+        "description": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference.",
+        "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1800+0+60/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2F66%2Fb8a0e1394fe0939c06d94bd754be%2Fgettyimages-1159313378.jpg",
+        "publishedAt": "2026-11-07T14:50:00Z",
+        "content": "For stories on the science of healthy living, subscribe to NPR's Health newsletter.\r\nAn experimental drug doctors hoped would be the next big advance in preventing heart attacks and strokes failed a \u2026 [+4585 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Robert McGreevy",
+        "title": "Millions of ladders recalled nationwide after numerous reports of head injuries, skull fractures - Fox Business",
+        "description": "The CPSC recall covers over 3.6 million Little Giant ladders after Rapid Lock failures caused falls leading to skull fractures and brain injuries.",
+        "url": "https://www.foxbusiness.com/retail/millions-ladders-recalled-nationwide-after-numerous-reports-head-injuries-skull-fractures",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/ladder_3.jpg?ve=1&tl=1",
+        "publishedAt": "2026-11-07T14:48:00Z",
+        "content": "The U.S. Consumer Product Safety Commission (CPSC) is recalling more than 3.6 million Little Giant ladders after receiving dozens of reports of injuries, including head trauma and skull fractures.\r\nT\u2026 [+2687 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Damian Troise",
+        "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - AP News",
+        "description": "The overwhelming victory by the Democrats in the midterm elections shook up Wall Street this week. The biggest tremors were felt in shares of companies tied to the boom in artificial intelligence on concerns that a Democratic Congress will put the brakes on f\u2026",
+        "url": "https://apnews.com/article/stock-market-winners-losers-defense-ai-musk-4ac9a6a3c35aeec37374fc8083bf9395",
+        "urlToImage": "https://dims.apnews.com/dims4/default/3328399/2147483647/strip/true/crop/5559x3706+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2Fe5%2F371da3e65dceb7d4aab42476f1b0%2F91053a149194445e8cae088406099762",
+        "publishedAt": "2026-11-07T14:32:00Z",
+        "content": "NEW YORK (AP) The overwhelming victory by the Democrats in the midterm elections shook up Wall Street this week. \r\nThe biggest tremors were felt in shares of companies tied to the boom in artificial \u2026 [+6098 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TheStreet"
+        },
+        "author": "TheStreet",
+        "title": "Jim Cramer sends a strong signal to Nvidia stock investors - TheStreet",
+        "description": null,
+        "url": "https://www.thestreet.com/investing/stocks/jim-cramer-sends-a-strong-signal-to-nvidia-stock-investors",
+        "urlToImage": null,
+        "publishedAt": "2026-11-07T14:17:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Tom Huddleston Jr., Mickey Todiwala",
+        "title": "31-year-old dumpster diver brought in $140,000 in 12 months: I 'did much more than I thought was possible' - CNBC",
+        "description": "Carter Stevens started reselling discarded items from dumpsters around Nashville, Tennessee, in March 2024. Months earlier, he'd been living in his car.",
+        "url": "https://www.cnbc.com/make-it/2026/11/07/dumpster-diver-resale-business.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108527923-1793911472143-stills3.jpg?v=1793911532&w=1920&h=1080",
+        "publishedAt": "2026-11-07T14:15:01Z",
+        "content": "When Carter Stevens tells people he makes six figures a year digging through dumpsters, they often assume he's \"blowing smoke,\" he says.\r\nNot everyone sees dollar signs in a brimming dumpster. But St\u2026 [+7452 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ashley Capoot",
+        "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers - CNBC",
+        "description": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
+        "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&w=1920&h=1080",
+        "publishedAt": "2026-11-07T13:00:01Z",
+        "content": "Americans were unequivocal at the ballot box this week as they expressed disdain for tech billionaires and mistrust of artificial intelligence. With that backdrop, Anthropic is about to try to go pub\u2026 [+6054 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Futurism"
+        },
+        "author": "Frank Landymore",
+        "title": "Governor-Elect of Texas Announces Plans to Control Elon Musk - Futurism",
+        "description": "Governor-elect of Texas Gina Hinojosa said she would work with Musk, but vowed that it would have to be \"on our terms.\"",
+        "url": "https://futurism.com/future-society/texas-governor-elon-musk",
+        "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/governor-texas-control-elon-musk.jpg?quality=85&w=1200",
+        "publishedAt": "2026-11-07T11:51:00Z",
+        "content": "Can\u2019t-miss innovations from the bleeding edge of science and tech\r\nThe governor-elect of Texas Gina Hinojosa made it clear on the campaign trail that she would work to rein in data centers and billio\u2026 [+2199 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Daniel de Vise\u0301",
+        "title": "Here are 5 factors that could derail the 4% rule in retirement - USA Today",
+        "description": "The 4% rule doesn't always work. Here's what to know.",
+        "url": "https://www.usatoday.com/story/money/personal-finance/2026/11/07/4-percent-rule-retirement-stocks-fees-savings/92615121007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/02/USAT/82780204007-b-9316481965-z-1-20150305193323-000-gdra-4-vc-8310.jpg?crop=1599,900,x0,y344&width=1599&height=900&format=pjpg&auto=webp",
+        "publishedAt": "2026-11-07T10:01:00Z",
+        "content": "Retirement savers love to debate the merits and pitfalls of the 4% rule, one of the best-known principles in retirement planning.\u00a0\u00a0\r\nThe rule says you should amass retirement savings with this goal: \u2026 [+5654 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Tatiana Sataua",
+        "title": "A new group of senators from both parties will vote on how to save Social Security. Here\u2019s what they\u2019ve said about it - Fortune",
+        "description": "From taxing higher earners to changing the retirement age, incoming lawmakers have offered different approaches to the funding gap.",
+        "url": "https://fortune.com/2026/11/07/social-security-reform-new-senators-2026-payroll-tax-cap/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2208901888-e1794000986420.jpg?resize=1200,600",
+        "publishedAt": "2026-11-07T10:00:00Z",
+        "content": "Democrats rode a blue wave of Senate pickups on Tuesday, flipping seven seats in red states and winning control of the chamber, while Republicans will also see some fresh faces. Together, the 17 newc\u2026 [+4658 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Patrick Svitek",
+        "title": "How Democrats used anger over data centers to flip red states - CNN",
+        "description": "As the dust settled on Election Night, Democratic operatives working to elect James Talarico were surprised by the breadth of his victory across Texas\u2019 254 counties. But even then, one area stood out: Kaufman County.",
+        "url": "https://www.cnn.com/2026/11/07/politics/democrats-midterms-data-centers-ken-paxton-james-talarico",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2292235029.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-11-07T08:00:15Z",
+        "content": "As the dust settled on Election Night, Democratic operatives working to elect James Talarico were surprised by the breadth of his victory across Texas 254 counties. But even then, one area stood out.\u2026 [+9273 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Fernando Cervantes Jr.",
+        "title": "Mega Millions winning numbers as jackpot climbs to $505M for Nov. 6 - USA Today",
+        "description": "The Mega Millions jackpot is $505 million for Friday\u2019s drawing, with a $213.3 million cash option.",
+        "url": "https://www.usatoday.com/story/money/lottery/2026/11/06/mega-millions-winning-numbers-nov-6-2026/92631831007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/05/USAT/92632696007-20260915-t-223641-z-720648848-mt-1-usatoday-29827880-rtrmadp-3-megamillionsslipsontuesdayapril-282026-1.JPG?crop=4031,2268,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2026-11-07T04:18:00Z",
+        "content": "The Mega Millions jackpot has climbed to $505 million for the Friday, Nov. 6, drawing, with a cash option of $213.3 million.\r\nIf someone wins Fridays jackpot, the winner can choose between a one-time\u2026 [+1468 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "David J. Lynch",
+        "title": "Here\u2019s what\u2019s at stake for the economy if AI investment falters - The Washington Post",
+        "description": "Investors are worried that data center building will slow. If the AI industry\u2019s investment math no longer works, the U.S. economy could take a hit.",
+        "url": "https://www.washingtonpost.com/business/2026/11/06/investors-dumping-ai-company-stocks-fears-democrats-will-stop-data-centers/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6NJ7TRMIW3OVCQMO5XUIY43OY_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-11-07T02:36:38Z",
+        "content": "The Democratic Partys takeover of Washington and key state capitals coupled with an abrupt financing chill threatens the artificial intelligence boom that has been driving U.S. economic growth and st\u2026 [+10 chars]"
     },
     {
         "source": {
@@ -174,12 +174,64 @@
             "name": "Financial Times"
         },
         "author": null,
-        "title": "Moderna swings to profit as momentum for cancer vaccine builds - Financial Times",
-        "description": "Biotech company remains strongest performer in S&P 500 over past year",
-        "url": "https://www.ft.com/content/05ce7a1d-0d7e-434a-bcea-e8239dcde17a?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F99a58e14-0369-4760-b185-74f7500117a5.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-11-06T11:45:04Z",
+        "title": "US believes Nvidia\u2019s Huang had romantic relationship with alleged Chinese spy - Financial Times",
+        "description": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
+        "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ed6c0f3-c692-4ded-bbe5-a309ff2020c9.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-11-07T02:33:57Z",
         "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Marina Temkin",
+        "title": "Crusoe sells troubled Wyoming data center project to Google - TechCrunch",
+        "description": "The deal highlights the challenges of developing massive AI data centers.",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+        "publishedAt": "2026-11-07T01:40:28Z",
+        "content": "Crusoe, an eight-year-old, Denver-based data center developer recently valued at $30.9 billion, confirmed Friday it has sold an unfinished data center project in southeastern Wyoming to Google.\r\nGoog\u2026 [+2379 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Lucas Ropek",
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation - TechCrunch",
+        "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+        "publishedAt": "2026-11-06T22:53:46Z",
+        "content": "OpenAI has reportedly raised $11 billion so far in a new funding round that values the AI lab at $1.25 trillion.\r\nBloomberg reported on the new funding on Friday, citing sources familiar with the mat\u2026 [+1331 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Louis Casiano",
+        "title": "Companies urged to adapt as restaurant franchisee files for bankruptcy: 'Businesses want to make excuses' - Fox Business",
+        "description": "Marcus Lemonis urges businesses to adapt to rising costs rather than \"make excuses\" after an Outback Steakhouse franchisee filed for bankruptcy with $449 million in debt.",
+        "url": "https://www.foxbusiness.com/economy/companies-urged-adapt-restaurant-franchisee-files-bankruptcy-businesses-want-make-excuses",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/outback-steakhouse-bankruptcy.jpg?ve=1&tl=1",
+        "publishedAt": "2026-11-06T22:33:42Z",
+        "content": "Companies operating in California and across the nation face growing pressure to adapt to high overhead and point to local economic conditions as the reason for financial collapse, experts say.\r\n\"A l\u2026 [+3373 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Brian Kahn",
+        "title": "The Cybertruck\u2019s Death Is Actually Great News for EVs - WIRED",
+        "description": "Tesla\u2019s massive EV is the second within the last year to get the ax, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.",
+        "url": "https://www.wired.com/story/cybertrucks-death-great-news-for-evs/",
+        "urlToImage": "https://media.wired.com/photos/6aee2f4e65a8d4362bf27531/191:100/w_1280,c_limit/GettyImages-2150577028.jpg",
+        "publishedAt": "2026-11-06T22:31:00Z",
+        "content": "Tesla will endproduction of the Cybertruck at its Texas Gigafactory next year.\r\nIts a uniquely toxic electric vehicle, between its divisive design and Elon Musks embrace of you name it. That toxicity\u2026 [+2396 chars]"
     },
     {
         "source": {
@@ -187,50 +239,11 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Oil Slides Below $100 a Barrel, With Focus on Iran Outlook After U.S. Midterms - WSJ",
+        "title": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/business/energy-oil/brent-crude-climbs-above-100-as-middle-east-oil-supply-risks-persist-caaf64bb",
+        "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-jobs-data-muted-ai-rebound-945344f6",
         "urlToImage": null,
-        "publishedAt": "2026-11-06T11:01:00Z",
+        "publishedAt": "2026-11-06T22:01:00Z",
         "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Natalia Kniazhevich",
-        "title": "Fast-Money Systematic Funds Stoked $2.3 Trillion Tech-Stock Rout - Yahoo Finance",
-        "description": "As investors rushed out of US technology stocks on Thursday, selling by trend-following systematic strategies amplified what quickly became a record plunge b...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/fast-money-systematic-funds-stoked-103031992.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/5d7a70f5dd6a77905f91a6eea4740824dd0a138973a38f46b45d7d73b785e64d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F5650d62c9e7128ddade8f2d9d55195be.jpg",
-        "publishedAt": "2026-11-06T10:30:31Z",
-        "content": "(Bloomberg) -- As investors rushed out of US technology stocks on Thursday, selling by trend-following systematic strategies amplified what quickly became a record plunge by market value in the Nasda\u2026 [+2218 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Jenni Reid",
-        "title": "Democratic sweep gives markets a reason to rethink path of interest rates - CNBC",
-        "description": "Rate hikes could be curbed by an Iran war resolution, slower U.S. growth and fresh fiscal policy \u2014 but none are set in stone.",
-        "url": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108504024-1793627169043-gettyimages-2302715444-AFP_D66R9ZV.jpeg?v=1793661051&w=1920&h=1080",
-        "publishedAt": "2026-11-06T10:22:22Z",
-        "content": "The Democrats' resounding victory in the U.S. midterms has the potential to curb interest rate hikes globally next year, according to market watchers but the uncertain path of oil prices, U.S. econom\u2026 [+7328 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Michael Sinkewicz",
-        "title": "Asian stock markets plunge as Japan Nikkei, South Korea KOSPI and Taiwan stocks fall - Fox Business",
-        "description": "South Korea's KOSPI plunged over 8%, triggering a trading halt, while Japan's Nikkei and Taiwan's stock index fell sharply amid AI stock selling.",
-        "url": "https://www.foxbusiness.com/markets/asian-stock-markets-plunge-japan-nikkei-south-korea-kospi-taiwan-stocks-fall",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/wall-street-stock-market-selloff-asian-market.jpg?ve=1&tl=1",
-        "publishedAt": "2026-11-06T09:51:00Z",
-        "content": "Asian stock markets plunged Friday as a massive Wall Street sell-off spread overseas, sending major indexes in Japan, South Korea and Taiwan sharply lower.\r\nMeanwhile, U.S. stock futures were mixed, \u2026 [+3030 chars]"
     }
 ]
