@@ -2,41 +2,145 @@
     {
         "source": {
             "id": null,
-            "name": "One Mile at a Time"
+            "name": "MarketWatch"
         },
-        "author": "Ben Schlappig",
-        "title": "Air Algerie Business Class Airbus A330neo Review: Utterly Awful - One Mile at a Time",
-        "description": "Air Algerie A330neo business class review from Montreal to Algiers: fine seats, but an indifferent crew, no menus, no alcohol, no amenity kits and slow service.",
-        "url": "https://onemileatatime.com/reviews/air-algerie-business-class-a330neo/",
-        "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2026/10/Air-Algerie-Business-Class-A330-18.jpeg",
-        "publishedAt": "2026-11-08T20:48:20Z",
-        "content": "For the first long haul segment of my Orient Express adventure via Africa trip, I flew Air Algerie\u2019s Airbus A330-900neo business class on the 6hr50min flight from Montreal (YUL) to Algiers (ALG). I h\u2026 [+24344 chars]"
+        "author": "Joy Wiltermuth, Tomi Kilgore, Nora Redmond, Jamie Chisholm, Steve Goldstein",
+        "title": "Stock Market Today: Dow jumps 1,000 points, S&P 500 and Nasdaq surge after last week\u2019s selloff; Nvidia stock drops as CEO probe launched: live updates - MarketWatch",
+        "description": "Stocks closed sharply higher Monday despite a retreat in Nvidia shares.",
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-s-p-500-nasdaq-nvidia-investigation-ceo-jensen-huang-relationship-chinese-spy",
+        "urlToImage": "https://images.mktw.net/im-28641878/social",
+        "publishedAt": "2026-11-09T19:10:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ashley Capoot",
+        "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds - CNBC",
+        "description": "The launch comes as Anthropic is gearing up for what is widely expected to be a blockbuster IPO",
+        "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&w=1920&h=1080",
+        "publishedAt": "2026-11-09T19:00:01Z",
+        "content": "Anthropic on Monday released two new artificial intelligence models, Claude Fable 5.2 and Claude Mythos 5.2, as the company readies for a potentially historic IPO that could take place as soon as nex\u2026 [+2852 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Yahoo Entertainment"
         },
-        "author": "Jaiveer Shekhawat",
-        "title": "Top 5 stocks to watch this week - Yahoo Finance",
-        "description": "Investing.com -- Investors are preparing for a busy week on Wall Street, with earnings from five closely watched companies, fresh U.S. inflation data and shi...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-watch-week-162025831.html",
-        "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-        "publishedAt": "2026-11-08T16:20:25Z",
-        "content": "Investing.com -- Investors are preparing for a busy week on Wall Street, with earnings from five closely watched companies, fresh U.S. inflation data and shifting interest rate expectations likely to\u2026 [+6473 chars]"
+        "author": "Claire Boston",
+        "title": "October inflation data is expected to be cooler, helped by steadying energy prices - Yahoo Finance",
+        "description": "Economists expect a 0.3% month-over-month jump in prices in October, reflecting cooler but still-sticky inflation.",
+        "url": "https://finance.yahoo.com/economy/article/october-inflation-data-is-expected-to-be-cooler-helped-by-steadying-energy-prices-190000304.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/ce1cfd812e4596bb72813d7b47a73060db37c2159b1ee716883dfcfba3348515/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F2d7fc5b6-0342-4930-8609-78c488bf609f",
+        "publishedAt": "2026-11-09T19:00:00Z",
+        "content": "October inflation data coming on Tuesday is expected to show that inflation cooled somewhat from September's elevated levels but remains sticky.\u00a0\r\nEconomists surveyed by Bloomberg expect the Consumer\u2026 [+2129 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "TheStreet"
+            "name": "New York Post"
         },
-        "author": "TheStreet",
-        "title": "Rainforest Cafe prepares to close another iconic location - TheStreet",
-        "description": null,
-        "url": "https://www.thestreet.com/restaurants/rainforest-cafe-restaurant-closure-disneyland-paris",
-        "urlToImage": null,
-        "publishedAt": "2026-11-08T16:03:00Z",
-        "content": null
+        "author": "Sheetal Banchariya",
+        "title": "Plane, terminal evacuated at California airport after passenger overhears spine-chilling conversation - New York Post",
+        "description": "A passenger on a Frontier Airlines flight overheard another passenger having a questionable phone conversation around 10 p.m. Sunday.",
+        "url": "https://nypost.com/2026/11/09/us-news/frontier-plane-evacuated-after-game-chatter-mistaken-for-bomb/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148120285.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-11-09T18:43:00Z",
+        "content": "An emergency evacuation was ordered Sunday evening after a passenger on a Frontier Airlines flight overheard a suspicious conversation.\r\nA passenger aboard the flight at Inland Empire\u2019s Ontario Inter\u2026 [+2753 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Yahoo Finance",
+        "title": "Nvidia live updates: Nvidia stock falls 5% as board investigates CEO's affair with alleged Chinese spy - Yahoo Finance",
+        "description": "Follow along for live updates and reactions regarding the revelation that Nvidia CEO Jensen Huang had a romantic relationship, reportedly with a woman believ...",
+        "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/a34d3f7bf62c173409e6bef4a7334414ee5eaf9f1f7c382cb8736a5d88ae08c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F0cd53bcc-959a-4d7b-8b1a-960fd4d9c2dd_ac3cb57621238ab5dd60f852e9b1771c203641f343dd80dd113fe96d74716bc2.jpg",
+        "publishedAt": "2026-11-09T18:42:29Z",
+        "content": "Months before Nvidia's (NVDA) CEO Jensen Huang's admitted affair and the board investigation into the matter made headlines, concerns over the world's leading AI chipmaker's exposure to China had alr\u2026 [+1561 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Hugh Son",
+        "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters - CNBC",
+        "description": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+        "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108546539-1794244522835-108546539-1794244383968-solomon1.jpg?v=1794244529&w=1920&h=1080",
+        "publishedAt": "2026-11-09T18:14:47Z",
+        "content": "Goldman Sachs CEO David Solomon told CNBC on Monday that financing demand for artificial intelligence infrastructure remains strong despite recent market jitters as investors reassess the risks invol\u2026 [+1846 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Berkeley Lovelace Jr.",
+        "title": "FDA orders new warning on GLP-1s over rare eye condition linked to sudden blindness - NBC News",
+        "description": "The Food and Drug Administration said Monday that GLP-1 drugmakers must add a warning label about a rare eye condition that can cause sudden blindness.",
+        "url": "https://www.nbcnews.com/health/health-care/fda-orders-new-warning-glp-1s-rare-eye-condition-linked-sudden-blindne-rcna608309",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-03/220328-fda-headquarters-2020-ac-611p-17ec72.jpg",
+        "publishedAt": "2026-11-09T18:14:12Z",
+        "content": "The Food and Drug Administration said Monday that GLP-1 drugmakers must add a warning label about a rare eye condition that can cause sudden blindness. \r\nThe condition, called nonarteritic anterior i\u2026 [+3139 chars]"
+    },
+    {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Julie Z. Weil",
+        "title": "People are paying thousands for a home upgrade that\u2019s often unnecessary - The Washington Post",
+        "description": "Outdated practices and codes are resulting in a costly recommendation.",
+        "url": "https://www.washingtonpost.com/business/2026/11/09/people-are-paying-thousands-home-upgrade-thats-often-unnecessary/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/CYK3RDNNOI4R3IFCHNS5NCFHXQ.jpg&w=1440",
+        "publishedAt": "2026-11-09T18:00:00Z",
+        "content": "When Jacob Baskin bought a Brooklyn brownstone, he wanted to replace the old gas stove and oven with an up-to-date induction range that runs on electric power. But his contractor told him his electri\u2026 [+196 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Jared Blikre",
+        "title": "SpaceX, Rocket Lab blast higher as NASA hands out $10 billion in moon base awards - Yahoo Finance",
+        "description": "The space trade came roaring back as NASA handed out moon base contracts and Rocket Lab heads into its earnings.",
+        "url": "https://finance.yahoo.com/markets/article/spacex-rocket-lab-blast-higher-as-nasa-hands-out-10-billion-in-moon-base-awards-164320855.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/e8b639b43c4f4453e8fa77e2946eeeb91204b02af75314e33a019e756956b29e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fc394249c-a631-4044-b89c-79213bfbe1fd",
+        "publishedAt": "2026-11-09T17:43:19Z",
+        "content": "NASA wants a base on the moon, and Wall Street is suddenly buying the ride there. Space stocks are ripping for a second session as SpaceX (SPCX) and seven other companies line up for lunar delivery w\u2026 [+2782 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Seattle Times"
+        },
+        "author": "Lauren Rosenblatt",
+        "title": "Boeing will cut 5% of its commercial airplane workforce - The Seattle Times",
+        "description": "Boeing is trimming its workforce by about 5% and slowing its commercial airplane production ramp-up, the head of Boeing Commercial Airplanes, Stephanie Pope, told employees Monday.",
+        "url": "https://www.seattletimes.com/business/boeing-aerospace/boeing-will-cut-5-of-its-commercial-airplane-workforce/",
+        "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/11/11092026_Boeing-Layoffs_tzr_090007.jpg?d=1200x630",
+        "publishedAt": "2026-11-09T17:30:00Z",
+        "content": "Boeing is trimming its workforce by about 5% and slowing its commercial airplane production ramp-up, the head of Boeing Commercial Airplanes, Stephanie Pope, told employees Monday.\r\nThe 5% workforce \u2026 [+1473 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Tim De Chant",
+        "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines - TechCrunch",
+        "description": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+        "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
+        "publishedAt": "2026-11-09T16:56:54Z",
+        "content": "AIs power crunch has become so acute that Anthropic, a company that has generally avoided buying physical infrastructure, is spending $3.4 billion on natural gas turbines.\u00a0\r\nThe AI company, which is \u2026 [+2314 chars]"
     },
     {
         "source": {
@@ -44,206 +148,89 @@
             "name": "BBC News"
         },
         "author": null,
-        "title": "Vinted and eBay could be included in under-16 social media ban, minister says - BBC",
-        "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-        "url": "https://www.bbc.com/news/articles/cmzxjvpqrjxro",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg",
-        "publishedAt": "2026-11-08T15:37:25Z",
-        "content": "It does not mean that Roblox, the biggest gaming site in the UK for those aged eight to 12, for example, will be banned for under-16s. However, certain features such as its chat function will be rest\u2026 [+6 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Andrea Palladino",
-        "title": "Top spending cities on OnlyFans revealed \u2013 and NYC is nowhere near the top - New York Post",
-        "description": "It turns out Americans are paying top dollar to show their fan appreciation.",
-        "url": "https://nypost.com/2026/11/08/lifestyle/top-onlyfans-cities-revealed-u-s-cities-lead-record-8-5b-spend/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147996902.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-11-08T15:25:00Z",
-        "content": "It turns out Americans are paying top dollar to show their fan appreciation. \r\nU.S. cities are fueling OnlyFans record $8.5 billion year in worldwide sales, and some American cities are far bigger fa\u2026 [+3356 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Titus Wu",
-        "title": "San Diego pizza maker has 3,500 people begging for a pie \u2014 but only makes 15 a week - New York Post",
-        "description": "The hottest, most elusive culinary reservation in Southern California operates out of an apartment kitchen.",
-        "url": "https://nypost.com/2026/11/08/lifestyle/san-diego-mans-apartment-made-pizzas-sell-out-in-30-seconds-as-3500-vie-for-15-weekly-slots/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147904216.jpg?quality=75&strip=all&w=1200",
-        "publishedAt": "2026-11-08T15:15:00Z",
-        "content": "The hottest pizza in Southern California isn\u2019t coming out of some fancy restaurant or trendy pizzeria it\u2019s being baked in a guy\u2019s apartment kitchen, and getting your hands on one is practically a lot\u2026 [+3217 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Jalopnik"
-        },
-        "author": "Logan K. Carter",
-        "title": "2027 Toyota RAV4 Woodland Gains An Inch Where It Counts, All PHEVs Get NACS And Level 3 Charging - Jalopnik",
-        "description": "The mildly updated RAV4 only sees a mild price increase for the 2027 model year.",
-        "url": "https://www.jalopnik.com/2309932/2027-toyota-rav4-woodland-suspension-lift-phevs-get-nacs-charging/",
-        "urlToImage": "https://www.jalopnik.com/img/gallery/2027-toyota-rav4-woodland-gains-an-inch-where-it-counts-all-phevs-get-nacs-and-level-3-charging/l-intro-1794003917.jpg",
-        "publishedAt": "2026-11-08T14:05:00Z",
-        "content": "The RAV4 Woodland's new raised suspension includes new springs, shocks, and jounce bumpers that accompany its added inch of clearance, and it also gets redesigned all-weather floor mats. That lift co\u2026 [+1527 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Megan Sauer",
-        "title": "Poppi founder still thinks water's boring\u2014her new beverage company is betting consumers feel the same - CNBC",
-        "description": "Poppi founder Allison Ellsworth's new hydration beverage company Jetty is betting on shoppers wanting flavor and functional drinks over plain, regular water.",
-        "url": "https://www.cnbc.com/make-it/2026/11/08/poppi-founder-jetty-hydration.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108533499-1793983219585-251105_HYDRATION_v4.png?v=1794007036&w=1920&h=1080",
-        "publishedAt": "2026-11-08T14:00:01Z",
-        "content": "After selling her first company, prebiotic soda brand Poppi, to PepsiCo for nearly $2 billion in May 2025, Allison Ellsworth finally got to take time off.\r\n\"I went to the doctor for the first time in\u2026 [+5655 chars]"
+        "title": "Poundland unable to buy new stock as fears over collapse grow - BBC",
+        "description": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+        "url": "https://www.bbc.com/news/articles/cw1l3lmem165o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4c59/live/3c72aa60-dc53-11f1-b8a2-9782924402f8.jpg",
+        "publishedAt": "2026-11-09T16:46:40Z",
+        "content": "Last week, Poundland boss Barry Williams told staff like-for-like sales, which exclude new store openings, were up 11.4% last week, which included Halloween, but said this was \u00a31.5m ahead of budget."
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Ryan Gould",
-        "title": "Wall Street Races for Megadeals as Countdown Begins on Trump Era - Bloomberg.com",
-        "description": "President Donald Trump\u2019s return to the White House changed the political calculus around mergers and acquisitions, reviving companies\u2019 desire for dream deals that had become difficult to pull off. Now, corporate America is on the clock.",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-08/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igC35LH42q5M/v1/1200x800.jpg",
-        "publishedAt": "2026-11-08T14:00:00Z",
-        "content": "President Donald Trumps return to the White House changed the political calculus around mergers and acquisitions, reviving companies desire for dream deals that had become difficult to pull off. Now,\u2026 [+297 chars]"
+        "author": "Erik Schatzker",
+        "title": "Carney Recruits Bridgewater Co-CIO to Run Canada Sovereign Wealth Fund - Bloomberg.com",
+        "description": "Karen Karniol-Tambour is leaving her role as co-chief investment officer of Bridgewater Associates to run Canada\u2019s new sovereign wealth fund, lending Wall Street credibility and expertise to one of Prime Minister Mark Carney\u2019s signature economic initiatives.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-09/canada-s-carney-hires-bridgewater-co-cio-karniol-tambour-to-run-sovereign-fund",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilYrvChc11Zs/v1/1200x799.jpg",
+        "publishedAt": "2026-11-09T16:45:21Z",
+        "content": "Karen Karniol-Tambour is leaving her role as co-chief investment officer of Bridgewater Associates to run Canadas new sovereign wealth fund, lending Wall Street credibility and expertise to one of Pr\u2026 [+402 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Fox Business"
+            "name": "TODAY"
         },
-        "author": "Bradford Betz",
-        "title": "Binance names new CFO days after $6.3 billion cryptocurrency hack - Fox Business",
-        "description": "Binance CFO Kaiser Ng is leaving after more than five years as the cryptocurrency exchange recovers from a $6.3 billion hack attributed to North Korean hackers.",
-        "url": "https://www.foxbusiness.com/fox-news-tech/binance-names-new-cfo-days-cryptocurrency-hack",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/changpeng-zhao-binance-6-billion-hack.jpg?ve=1&tl=1",
-        "publishedAt": "2026-11-08T13:42:00Z",
-        "content": "Binance has named a new chief financial officer just over a week after hackers stole approximately $6.3 billion in cryptocurrency from the exchange in what is believed to be the largest digital asset\u2026 [+3210 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Cristian  Benavides",
-        "title": "Villa Vie Odyssey \"forever cruise\" residents want their ship back - CBS News",
-        "description": "Some residents of the Villa Vie Odyssey cruise are trying to reclaim the ship, which could potentially be auctioned off by its lender, CBS News has learned.",
-        "url": "https://www.cbsnews.com/news/villa-vie-odyssey-forever-cruise-residents-want-ship-back/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/07/095c34b6-bf66-4e62-8d72-a93fc14c0e83/thumbnail/1200x630/26c2fcd9b342262a0700d494b4076f25/cbsn-fusion-forever-cruise-passengers-unpack-lifetime-deal-gone-wrong-thumbnail.jpg",
-        "publishedAt": "2026-11-08T13:28:03Z",
-        "content": "As the Villa Vie Odyssey cruise ship makes its way from Cambodia to Singapore, where it could potentially be auctioned off by its lender, CBS News has learned of at least two resident-led efforts to \u2026 [+3146 chars]"
+        "author": "Joseph Lamour",
+        "title": "Starbucks Reveals Surprise Box Edition Bearista Cups: See the Designs - TODAY.com",
+        "description": "Starbucks has revealed its Bearista Glass Cold Cup Surprise Box Edition cup designs \u2014 well, almost all of them. Here are the details.",
+        "url": "https://www.today.com/food/restaurants/starbucks-bearista-cups-surprise-box-rcna607740",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-12/starbucks-bearista-cup-restock-jl-5f2633.png",
+        "publishedAt": "2026-11-09T16:35:48Z",
+        "content": "Starbucks has finally spilled the coffee beans on its mystery box collection.\r\nOn Nov. 9, the colossal coffee chain announced that its Bearista Glass Cold Cup Surprise Box Edition drops Tuesday, Nov.\u2026 [+3243 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Leslie Josephs",
-        "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes - CNBC",
-        "description": "Thanksgiving airfare will cost more than last year as fares rise and strong demand continues.",
-        "url": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108330347-1783030838668-gettyimages-2283797997-JULY_4_TRAVEL.jpeg?v=1783031103&w=1920&h=1080",
-        "publishedAt": "2026-11-08T13:00:01Z",
-        "content": "Airline ticket prices have surged this year, especially for travel over the holidays. Don't expect many bargains if you're booking flights with miles, either.\r\nTickets bought with frequent flyer mile\u2026 [+1359 chars]"
+        "author": "Michael Wayland",
+        "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio - CNBC",
+        "description": "The Japanese automaker said the plant will focus on hybrid vehicles and is expected to begin production in 2029.",
+        "url": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108095724-1738345729872-IMG_3109.jpeg?v=1738346588&w=1920&h=1080",
+        "publishedAt": "2026-11-09T16:10:33Z",
+        "content": "MARYSVILLE, Ohio Honda Motor plans to invest $3 billion to build a new vehicle assembly plant in Ohio, the automaker announced Monday.\r\nHonda said the new plant, which will be near its other faciliti\u2026 [+3148 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Futurism"
+            "id": "the-verge",
+            "name": "The Verge"
         },
-        "author": "Frank Landymore",
-        "title": "Mamdani Blasts Google for Using Monopoly to Bully Schools That Ban AI - Futurism",
-        "description": "NYC mayor Zohran Mamdani criticized Google for cutting off access to its search engine to schools that don't want to use its AI.",
-        "url": "https://futurism.com/artificial-intelligence/mamdani-blasts-google-bullying-schools",
-        "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/mamdani-google-schools-ai.jpg?quality=85&w=1200",
-        "publishedAt": "2026-11-08T12:51:00Z",
-        "content": "Can\u2019t-miss innovations from the bleeding edge of science and tech\r\nNew York City mayor Zohran Mamdani blasted Google\u2019s decision to block its search engine in schools that restrict its AI features.\r\n\u201c\u2026 [+3908 chars]"
+        "author": "Jess Weatherbed",
+        "title": "Disney and Adobe are building generative AI tools together - The Verge",
+        "description": "The Walt Disney Company has teamed up with Adobe to develop proprietary \u201cartist-led\u201d generative AI models to support Disney\u2019s production pipeline.\ufeff",
+        "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-11-09T15:38:56Z",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe partnership will give Disney early access to AI tech for its resorts, cruise line, ESPN graphics, and more.\r\nThe partnership will give Disney early access to\u2026 [+3400 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
+            "id": "techcrunch",
+            "name": "TechCrunch"
         },
-        "author": "Vishesh Raisinghani",
-        "title": "Fidelity, Vanguard issue the same sobering 10-year outlook \u2014 and US retirees stand to suffer most. Protect your nest egg - Yahoo Finance",
-        "description": "The forecast is far from rosy. Are you prepared?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/fidelity-vanguard-issue-same-sobering-121500246.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/475fe604e5da8f0f74fd6dc4007af89870364603b0dbf23cb02ae0581962e1cc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2Fd8d5e62e2ff575c0801e32118d14a6d1.jpg",
-        "publishedAt": "2026-11-08T12:15:00Z",
-        "content": "Photo by Pressmaster / Shutterstock\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nRetirement planning is often based on several assumptions.\r\nTh\u2026 [+5741 chars]"
+        "author": "Kirsten Korosec",
+        "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say - TechCrunch",
+        "description": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
+        "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/02/waymo-getty-streets.jpg?resize=1200,800",
+        "publishedAt": "2026-11-09T15:24:59Z",
+        "content": "Nearly a year ago, Waymo updated its self-driving software and issued a recall after numerous reports that its robotaxis were illegally passing school buses that had stopped and deployed flashing red\u2026 [+2240 chars]"
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "the-washington-post",
+            "name": "The Washington Post"
         },
-        "author": "Alcynna Lloyd",
-        "title": "I lost my tech job and couldn't afford my mortgage. Now I live in a 100-square-foot shed in the yard. - Business Insider",
-        "description": "After a tech layoff, Lauren Patton couldn't afford her mortgage. So she built a tiny home and lives there while renting the main home on Airbnb.",
-        "url": "https://www.businessinsider.com/laid-off-tech-cant-afford-mortgage-live-in-tiny-home-airbnb-2026-11#article",
-        "urlToImage": "https://i.insider.com/6aed01f2c54bfafa65abf898?width=1200&format=jpeg",
-        "publishedAt": "2026-11-08T11:43:00Z",
-        "content": "This as-told-to essay is based on a conversation with Lauren Patton, 36, who built a tiny home in her Texas backyard. The conversation has been edited for length and clarity.\r\nAfter a couple of years\u2026 [+7682 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "John Schroyer",
-        "title": "This Firefighter Built A $60 Million Secret Door Company With Customers Like Post Malone - Forbes",
-        "description": "Murphy Door started as a side gig. Owner Jeremy Barker's previous ventures ended in bankruptcy. But thanks to the home fix-up craze, this one took off.",
-        "url": "https://www.forbes.com/sites/johnschroyer/2026/11/08/this-firefighter-built-a-60-million-secret-door-company-with-customers-like-post-malone/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6aee0fcbca360b158ca35736/0x0.jpg?format=jpg&crop=1999,1124,x0,y0,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-11-08T11:30:00Z",
-        "content": "At the end of June 2016, when Jeremy Barker got home from working shifts at two different fire stations in the Salt Lake City metro area, his wife greeted him with an ultimatum. She had carefully tra\u2026 [+7917 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Brian Sozzi",
-        "title": "AI stocks like Nvidia, Micron, and Sandisk have been blown up, but keep this in mind - Yahoo Finance",
-        "description": "The good news/bad news in the aftermath of the midterm blue wave.",
-        "url": "https://finance.yahoo.com/markets/article/ai-stocks-like-nvidia-micron-and-sandisk-have-been-blown-up-but-keep-this-in-mind-110000652.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/57f0b7aeb550a3c244fcc2a6672f6445f2090e73595d77298292c0b7bab048c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F0b08b1c1-0555-47a2-b8f7-376125ce7929",
-        "publishedAt": "2026-11-08T11:00:00Z",
-        "content": "I come to you today as a humble servant of the business and investing world with both good and bad news.\r\nFirst, the sprinkles of good news, because I think we can agree we need something uplifting a\u2026 [+3260 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Jinjoo Lee",
-        "title": "DoorDash Shareholders Aren\u2019t Convinced the Company Can Take On Amazon - WSJ",
-        "description": "Following Instacart acquisition plans and an Amazon deal with rival Uber Eats, DoorDash stock is on sale",
-        "url": "https://www.wsj.com/business/retail/doordash-shareholders-arent-convinced-the-company-can-take-on-amazon-bdb22c70",
-        "urlToImage": "https://images.wsj.net/im-68103229/social",
-        "publishedAt": "2026-11-08T10:30:00Z",
-        "content": "DoorDashDASH-0.14%decrease; down pointing triangle\r\nis suddenly competing with Amazon on multiple fronts. Investors shouldnt dismiss its chances.\u00a0\r\nLate last month, DoorDash announced a deal to buy I\u2026 [+397 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Alyshia Hull",
-        "title": "I'm a nanny who won't fly on private planes with my wealthy clients. I make it clear before I accept a job. - Business Insider",
-        "description": "Professional nanny Samantha Jordan explains why she refuses private jet travel and sets travel safety boundaries with her wealthy clients.",
-        "url": "https://www.businessinsider.com/nanny-wealthy-families-refuse-get-on-private-planes-2026-11#article",
-        "urlToImage": "https://i.insider.com/6aee3f2480d4b24f183471ac?width=1200&format=jpeg",
-        "publishedAt": "2026-11-08T10:05:00Z",
-        "content": "This as-told-to essay is based on a conversation with Samantha Jordan, a 30-year-old professional nanny, newborn care specialist, and postpartum doula who splits her time between Las Vegas and Upland\u2026 [+5799 chars]"
+        "author": "Elizabeth Dwoskin, Ian Duncan",
+        "title": "Trump\u2019s tech allies face a revolt from within their own industry - The Washington Post",
+        "description": "As public anger over AI grows, some Silicon Valley leaders are calling for a sharp break with the build-at-all-costs ethos that dominated Trump\u2019s Washington.",
+        "url": "https://www.washingtonpost.com/technology/2026/11/09/trumps-tech-allies-face-revolt-within-their-own-industry/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WMOXTMSE66ZRPUV44IVMRHQKMQ_size-normalized.jpg&w=1440",
+        "publishedAt": "2026-11-09T15:24:28Z",
+        "content": "In President Donald Trumps second term, Silicon Valleys most powerful executives made an unusually public show of allegiance. Top CEOs took prominent seats on the dais at Trumps inauguration, showeri\u2026 [+94 chars]"
     }
 ]
