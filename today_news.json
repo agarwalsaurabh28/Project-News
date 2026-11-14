@@ -2,184 +2,15 @@
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Barron's"
         },
-        "author": "Sean Conlon, Hugh Leask, Jenny Lee, Tanaya Macheel",
-        "title": "Nasdaq falters as Nvidia shares fall on CEO exit, oil prices rise: Live updates - CNBC",
-        "description": "The Nasdaq Composite fluctuated on Thursday as investors weighed the departure of Nvidia CEO Jensen Huang.",
-        "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108548217-1794329432696-Traders-Photo-20261110-KK-PRESS-007.jpg?v=1794329596&w=1920&h=1080",
-        "publishedAt": "2026-11-12T20:45:00Z",
-        "content": "Nvidia shares fell more than 5% after the company announced that Huang had resigned and named CFO Colette Kress as interim CEO. This comes after Huang reportedly had an affair with an alleged Chinese\u2026 [+1297 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Victoria Bisset",
-        "title": "United Airlines blocks AI agents from booking flights - The Washington Post",
-        "description": "The airline said the use of artificial intelligence agents could violate regulations.",
-        "url": "https://www.washingtonpost.com/travel/2026/11/12/united-airlines-blocks-ai-agents-booking-flights/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NBUIZZXZ34PFNYJWD3GDBCVJXE.JPG&w=1440",
-        "publishedAt": "2026-11-12T20:02:59Z",
-        "content": "United Airlines says it will prevent artificial intelligence agents and assistants from booking flights, citing data and security concerns. \r\nThe company said in a news release Wednesday that sharing\u2026 [+136 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Yahoo Finance",
-        "title": "Nvidia live updates: Following Jensen Huang's resignation as CEO, allegations of a third affair emerge - Yahoo Finance",
-        "description": "Follow along for live updates and reactions to reports of Nvidia CEO Jensen Huang's involvement in two extramarital affairs and exit from the company.",
-        "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-following-jensen-huangs-resignation-as-ceo-allegations-of-a-third-affair-emerge-195535310.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/a34d3f7bf62c173409e6bef4a7334414ee5eaf9f1f7c382cb8736a5d88ae08c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F0cd53bcc-959a-4d7b-8b1a-960fd4d9c2dd_ac3cb57621238ab5dd60f852e9b1771c203641f343dd80dd113fe96d74716bc2.jpg",
-        "publishedAt": "2026-11-12T19:57:54Z",
-        "content": "Wall Street analysts reacted with temporary relief on Thursday as Nvidia (NVDA) announced that CFO Colette Kress would serve as interim CEO after Jensen Huang resigned following reports of affairs wi\u2026 [+1653 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Ananya Chetia, Contessa Brewer",
-        "title": "Donald Trump Jr. exits advisory role at Kalshi prediction market - CNBC",
-        "description": "The president's son will no longer serve as an advisor at Kalshi.",
-        "url": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550396-1794509575881-gettyimages-2294603013-kbd75931_thplpp4l.jpeg?v=1794509636&w=1920&h=1080",
-        "publishedAt": "2026-11-12T19:14:40Z",
-        "content": "Prediction market platform Kalshi ended its advisory contract with Donald Trump Jr. in response to his venture capital firm, 1789 Capital, also holding a stake in rival platform Polymarket, according\u2026 [+1231 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Financial Times"
-        },
-        "author": null,
-        "title": "US home sales fall to lowest level since 2010 as mortgage rates soar - Financial Times",
-        "description": "Higher borrowing costs deepen housing market slump as interest rates weigh on transactions",
-        "url": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf2af41a-0e53-40d5-a413-cbf510a03eb6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-11-12T18:03:44Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "By Lucia Mutikani",
-        "title": "US labor market resilient; existing home sales hit more than 16-year low in October - Yahoo Finance",
-        "description": "By Lucia Mutikani WASHINGTON, Nov 12 (Reuters) - The number of Americans filing new claims for unemployment benefits increased more than expected last week,...",
-        "url": "https://finance.yahoo.com/economy/articles/us-weekly-jobless-claims-increase-133848522.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/ba6dcaa15aa9049ab19b295f027535f27edcf716533a5a890de90e53498b3e28/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F163091fcb1d1c8eb480cd960f5953fbf.jpg",
-        "publishedAt": "2026-11-12T17:48:44Z",
-        "content": "By Lucia Mutikani\r\nWASHINGTON, Nov 12 (Reuters) - The number of Americans filing new claims for unemployment benefits increased more than expected last week, but remained at a level consistent with a\u2026 [+6168 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Kate Dore, CFP\u00ae, EA",
-        "title": "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money - CNBC",
-        "description": "The IRS has announced higher 401(k) contribution limits for 2027. Here\u2019s what retirement savers need to know.",
-        "url": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210639-1760111060628-gettyimages-1455321435-dsc05644.jpeg?v=1792073809&w=1920&h=1080",
-        "publishedAt": "2026-11-12T17:23:14Z",
-        "content": "The IRS has announced new retirement\u00a0account contribution limits\u00a0for 2027. \r\nIn its release on Thursday, the agency increased the 401(k) employee deferral limit to $25,500 next year, up from $24,500 \u2026 [+3136 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Miriam Waldvogel",
-        "title": "Trump says Apple\u2019s Tim Cook should take over Nvidia - The Washington Post",
-        "description": "There\u2019s no indication that the company is considering Cook or that President Donald Trump has a say in the decision.",
-        "url": "https://www.washingtonpost.com/technology/2026/11/12/trump-says-apples-tim-cook-should-take-over-nvidia/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FMALHP3HDY2366TZNY4WIOW5GIM.JPG&w=1200",
-        "publishedAt": "2026-11-12T16:48:41Z",
-        "content": "President Donald Trump threatened Thursday to double tariffs on Mexico if authorities there do not stop what he said were huge CARAVANS of migrants on their way to the border with the United States.\r\u2026 [+2088 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "The Information"
-        },
-        "author": "Phoebe Liu",
-        "title": "Interim Nvidia CEO Colette Kress Has Tried to Tame Nvidia\u2019s Riskiest Bets - The Information",
-        "description": "Nvidia\u2019s appointment Thursday of its longtime chief financial officer Colette Kress as interim CEO will force the finance veteran to guide the business through a fraught storm of uncertainty created by the sudden resignation of former CEO Jensen Huang. Kress,\u2026",
-        "url": "https://www.theinformation.com/articles/interim-nvidia-ceo-colette-kress-tried-tame-nvidias-riskiest-bets",
-        "urlToImage": "https://tii.imgix.net/production/articles/18163/6cd2271f-a1bb-47b4-a994-4c93b2aaf307.png?fm=jpg&auto=compress&w=1200&frame=0",
-        "publishedAt": "2026-11-12T16:12:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Theron Mohamed",
-        "title": "'Big Short' Michael Burry says to 'get out' of Nvidia stock on CEO Jensen Huang's exit - Business Insider",
-        "description": "Michael Burry from \"The Big Short\" says Jensen Huang's departure as CEO could slow Nvidia's growth and shrink its profit margins.",
-        "url": "https://www.businessinsider.com/michael-burry-nvidia-stock-jensen-huang-big-short-ai-succession-2026-11#article",
-        "urlToImage": "https://i.insider.com/6af5b7550cc3ffba8779c4b2?width=1200&format=jpeg",
-        "publishedAt": "2026-11-12T15:20:00Z",
-        "content": "Michael Burry says Jensen Huang's exit will deal a heavy blow to Nvidia, and investors should sell their shares before the company hits the skids.\r\nHuang resigned as the AI chipmaker's CEO on Thursda\u2026 [+2935 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "BBC News"
-        },
-        "author": null,
-        "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently? - BBC",
-        "description": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-        "url": "https://www.bbc.com/news/articles/cqgm37dv20e8o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
-        "publishedAt": "2026-11-12T15:10:32Z",
-        "content": "Liu said Apple's former chief executive, Tim Cook, could be a possible choice as someone familiar with managing global supply chains, though she questioned whether he would be willing to leave the iP\u2026 [+33 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Ali Swenson",
-        "title": "Advocacy groups sue AI giants to freeze new models, warning of \u2018catastrophic\u2019 risks - AP News",
-        "description": "A coalition of online safety and consumer advocacy groups has sued five leading AI companies to halt further development. They allege the tech giants can't prevent their creations from causing \"catastrophic\" harm and allege their endangerment of public health\u2026",
-        "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
-        "urlToImage": "https://dims.apnews.com/dims4/default/4e44ba9/2147483647/strip/true/crop/4662x3108+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F30%2F0e%2Fef26d3feddcef8b768b205a106a9%2F4fd0f97a72934b7eb0c5305851250919",
-        "publishedAt": "2026-11-12T15:03:00Z",
-        "content": "NEW YORK (AP) A coalition of online safety and consumer advocacy groups on Thursday sued five of the worlds leading artificial intelligence companies to halt further development, alleging the tech gi\u2026 [+2935 chars]"
-    },
-    {
-        "source": {
-            "id": "newsweek",
-            "name": "Newsweek"
-        },
-        "author": "Rich Percival",
-        "title": "Trump Tariffs Backfire as Canada Warns of Damage to US Economy - Newsweek",
-        "description": "Canada said Trump's tariffs are hurting American businesses and consumers as pressure mounts on the White House to change course.",
-        "url": "https://www.newsweek.com/trump-tariffs-backfire-canada-damage-us-economy-12703582",
-        "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/11/Carney-and-Trump-Beneath-Allied-Flags.png?w=1200&crop=1",
-        "publishedAt": "2026-11-12T14:37:00Z",
-        "content": "President Donald Trumps tariffs are making America a more expensive place to do business and threatening investment in the U.S. economy, Canadas ambassador to Washington has warned.\r\nMark Wiseman sai\u2026 [+5542 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Ondas.com"
-        },
-        "author": null,
-        "title": "Ondas Posts Record Q3 2026 Revenue of $167.5 Million on Strong Bookings and Backlog Growth; Raises Full-Year Outlook - Ondas inc.",
-        "description": null,
-        "url": "https://ir.ondas.com/press-releases/detail/341/ondas-posts-record-q3-2026-revenue-of-167-5-million-on",
-        "urlToImage": "https://d1io3yog0oux5.cloudfront.net/_bfade721c20366831ed364c6d248d42e/ondas/db/595/4295/social_image_resized.jpg",
-        "publishedAt": "2026-11-12T14:02:56Z",
-        "content": "Record Q3 revenue of $167.5 million, up 100% sequentially and more than 16-fold year over year; pro forma organic revenue grew 64% year-over-year\r\nCaptured $214 million in new orders during Q3; backl\u2026 [+54354 chars]"
+        "author": "Adam Clark",
+        "title": "Nvidia Stock Falls. It Faces One Big Threat in Life After Jensen. - Barron's",
+        "description": "Nvidia falls as investors grapple with the big risk remaining after Jensen Huang\u2019s resignation.",
+        "url": "https://www.barrons.com/articles/nvidia-stock-price-today-jensen-huang-83183f5d",
+        "urlToImage": "https://images.barrons.com/im-66474472/social",
+        "publishedAt": "2026-11-13T17:44:00Z",
+        "content": "KeyBanc upgrades Palo Alto Networks to Overweight, betting that next-generation security growth will outweigh firewall concerns."
     },
     {
         "source": {
@@ -187,63 +18,245 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Nebius Lowers Outlook, Addresses Worries Over Financing AI Buildout - WSJ",
+        "title": "Stock Market Today: Nvidia Slides Again as Investors Brace for More Fallout; Nasdaq Slumps\u2014 Live Updates - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/business/earnings/nebius-lowers-outlook-addresses-worries-over-financing-ai-buildout-699ca1dc",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026",
         "urlToImage": null,
-        "publishedAt": "2026-11-12T13:38:00Z",
+        "publishedAt": "2026-11-13T17:30:00Z",
         "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "Newser"
+            "name": "Financial Times"
         },
-        "author": "Arden Dier",
-        "title": "Russian Crown Jewel Stuns at Auction Sale - Newser",
-        "description": "198-carat Romanov sapphire bracelet fetches nearly $5M, despite top-end estimate of $2M",
-        "url": "https://www.newser.com/story/399888/russian-crown-jewel-stuns-at-auction-sale.html",
-        "urlToImage": "https://cdn.newser.com/image/1724018-12-20261112075618.jpeg",
-        "publishedAt": "2026-11-12T13:35:00Z",
-        "content": "A Romanov sapphire weighing nearly 198 carats on a diamond-covered bracelet sold for more than 4.1 million Swiss francs ($4.9 million) at auction, vastly higher than the expected price range, Sotheby\u2026 [+990 chars]"
+        "author": null,
+        "title": "Arm boss Rene Haas approached in Nvidia CEO search - Financial Times",
+        "description": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
+        "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcfefd905-2f2c-4507-804d-be51de97ff0c.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-11-13T16:53:17Z",
+        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Mike Householder",
+        "title": "Ford throws open the doors to its new Vault, unveiling 125 rare historic vehicles - AP News",
+        "description": "Ford is throwing open the doors of its historic vehicle collection at the new Vault in Romulus, Michigan. The vast space houses 125 vehicles, including race cars, concept designs and pop culture icons. The collection previously was scattered across various lo\u2026",
+        "url": "https://apnews.com/article/ford-car-vehicle-mustang-vault-heritage-98681352d8071215d95813a8020f2657",
+        "urlToImage": "https://dims.apnews.com/dims4/default/4a13c8d/2147483647/strip/true/crop/3970x2646+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbd%2F61%2F95bde3b865d1fd0986a2b42e475d%2Fcb6ed535a7ca475cb685d2a1e0780841",
+        "publishedAt": "2026-11-13T16:02:00Z",
+        "content": "ROMULUS, Mich. (AP) Ford will open the doors to its new Vault this weekend to some lucky gearheads and fans of history.\r\nThe 123-year-old carmaker on Saturday will allow select members of the public \u2026 [+2390 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "FierceBiotech"
+            "name": "Yahoo Entertainment"
         },
-        "author": "Nick Paul Taylor",
-        "title": "BMS reunites R&D divisions under Cristian Massacesi, while Robert Plenge departs - Fierce Biotech",
-        "description": "Bristol Myers Squibb is\u00a0merging i | Bristol Myers Squibb is merging its research and development divisions under the leadership of Cristian Massacesi, M.D.",
-        "url": "https://www.fiercebiotech.com/biotech/bristol-myers-reunites-rd-divisions-under-cristian-massacesi",
-        "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/BMS%20ESMO.jpg?VersionId=nXFKGuSH7HAysnN.GBHDy.JqcHUiFoMq",
-        "publishedAt": "2026-11-12T13:16:30Z",
-        "content": null
+        "author": "Daniel Howley",
+        "title": "What the Nvidia scandal means for the company's earnings next week - Yahoo Finance",
+        "description": "Nvidia's earnings come a week after now-former CEO Jensen Huang's affair scandals rocked the company and tech world.",
+        "url": "https://finance.yahoo.com/technology/article/what-the-nvidia-scandal-means-for-the-companys-earnings-next-week-155903246.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/952438a7e45b296dcca27dd42d1f21aab12ca9cba04513484d32e2c22f75d5d0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Faf22ce0a-27a3-4be5-b51c-657021a681f5",
+        "publishedAt": "2026-11-13T15:59:03Z",
+        "content": "The fallout from the Nvidia (NVDA) board's ousting of co-founder Jensen Huang from his long-held role as CEO continues to reverberate across the tech and business worlds.\r\nCFO Colette Kress has taken\u2026 [+2309 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Dave Sebastian, Cathy Chan, Sangmi Cha, Dong Cao",
+        "title": "Anthropic IPO Share Orders From China Are Said to Be Rebuffed - Bloomberg.com",
+        "description": "Institutional investors based in mainland China and Hong Kong have been excluded from placing orders in Anthropic PBC\u2019s initial public offering, according to people familiar with the matter, highlighting the sensitivities around an industry both Washington an\u2026",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i1WPu_tyZMAU/v1/1200x800.jpg",
+        "publishedAt": "2026-11-13T15:37:27Z",
+        "content": "Institutional investors based in mainland China and Hong Kong have been excluded from placing orders in Anthropic PBCs initial public offering, according to people familiar with the matter, highlight\u2026 [+522 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Business Wire"
+            "name": "Yahoo Entertainment"
         },
-        "author": "Business Wire",
-        "title": "Hancock Whitney Corporation to Acquire Trustmark Corporation - Business Wire",
-        "description": null,
-        "url": "https://www.businesswire.com/news/home/20261112831229/en/Hancock-Whitney-Corporation-to-Acquire-Trustmark-Corporation",
-        "urlToImage": null,
-        "publishedAt": "2026-11-12T13:00:00Z",
-        "content": null
+        "author": "Grace O'Donnell",
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge higher after wholesale inflation grows, Nvidia stock rebounds - Yahoo Finance",
+        "description": "A bumpy week didn't prevent the major averages from pacing for weekly gains.",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/f719997dc6e6e5c636efcd9368a04dd55d0e11e78825910158af51cd9e0c15c0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fe74e7888-1e27-4daa-bb4f-9e73f0add69b",
+        "publishedAt": "2026-11-13T14:14:51Z",
+        "content": "US stocks fell Friday as a sell-off in chip stocks picked up, Nvidia (NVDA) stock continued to decline, and an annual reading of wholesale inflation came in hot.\r\nThe Dow Jones Industrial Average (^D\u2026 [+14127 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Michael Bloom",
-        "title": "Here are Thursday's biggest analyst calls: Nvidia, SpaceX, AMD, Apple, Ulta, Disney & more - CNBC",
-        "description": "Here are the biggest calls on Wall Street on Thursday.",
-        "url": "https://www.cnbc.com/2026/11/12/big-wall-street-analyst-calls-thursday-like-nvidia.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108228208-1763560713999-2025-11-04T144803Z_1031673352_RC2MPHA3TPV3_RTRMADP_3_GERMANY-TELEKOM-AI.JPG?v=1765301615&w=1920&h=1080",
-        "publishedAt": "2026-11-12T12:58:09Z",
-        "content": null
+        "author": "Jeff Cox",
+        "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years - CNBC",
+        "description": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
+        "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108548603-1794349961058-gettyimages-2304504735-anotherday36810201_9ykwsppz.jpeg?v=1794350087&w=1920&h=1080",
+        "publishedAt": "2026-11-13T13:31:21Z",
+        "content": "Wholesale prices increased less than expected in October, but inflation pressures persisted and the Federal Reserve is likely still on target for an interest rate increase soon.\r\nThe producer price i\u2026 [+3490 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Mark Bergen, Olivia Solon",
+        "title": "Neocloud Nscale Reveals $5.5 Billion Debt and Closer Nvidia Ties Ahead of IPO - Bloomberg.com",
+        "description": "Data center developer Nscale needs more cash, has significantly increased its debt and is more reliant on Nvidia Corp. than previously disclosed, it said in a regulatory filing ahead of its planned initial public offering.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-13/neocloud-nscale-reveals-5-5-billion-debt-and-closer-nvidia-ties-ahead-of-ipo",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioAVAbcT3DxQ/v1/1200x800.jpg",
+        "publishedAt": "2026-11-13T13:30:31Z",
+        "content": "Data center developer Nscale needs more cash, has significantly increased its debt and is more reliant on Nvidia Corp. than previously disclosed, it said in a regulatory filing ahead of its planned i\u2026 [+240 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The-independent.com"
+        },
+        "author": "Ellie Muir",
+        "title": "From Jensen Huang to Elon Musk: The uniforms of tech bros and the meaning behind them - The Independent",
+        "description": "Jensen Huang, the Nvidia CEO who just resigned over his affair scandal, has turned heads with his trademark luxury leather jacket. Ellie Muir looks at the signature uniforms of billionaire tech overlords \u2014 from Mark Zuckerberg to Elon Musk \u2013 and what it says \u2026",
+        "url": "https://www.the-independent.com/life-style/jensen-huang-nvidia-affair-leather-jacket-tech-style-b3084216.html",
+        "urlToImage": "https://static.the-independent.com/2026/11/12/21/58/MixCollage-12-Nov-2026-04-46-PM-4631.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-11-13T13:30:00Z",
+        "content": "Jensen Huang, the Nvidia CEO who has just resigned over his affair with a woman suspected of being a Chinese spy, has a signature aesthetic that makes him stick out from the Silicon Valley tech bro c\u2026 [+5609 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Ivan Mehta",
+        "title": "Jensen Huang didn\u2019t show confidence in his successor, report says - TechCrunch",
+        "description": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg?resize=1200,676",
+        "publishedAt": "2026-11-13T12:28:23Z",
+        "content": "Former Nvidia CEO Jensen Huang described Colette Kress, the company\u2019s CFO who has now replaced him as interim CEO, as \u201ca deer in the headlights\u201d during a presentation earlier in the summer, the Wall \u2026 [+1393 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Sean Conlon, Tobias Burns",
+        "title": "Dow rises 200 points as Nvidia stabilizes, inflation data is slightly lower than expected: Live updates - CNBC",
+        "description": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
+        "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550258-1794502895373-gettyimages-2304263485-US_STOCKS.jpeg?v=1794502956&w=1920&h=1080",
+        "publishedAt": "2026-11-13T12:06:05Z",
+        "content": "The Nasdaq Composite fell on Friday as Nvidia shares added to their recent losses, though the index still headed for a winning week alongside the other two major averages.\r\nThe tech-heavy Nasdaq drop\u2026 [+1959 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Detroit Free Press"
+        },
+        "author": "Susan Tompor",
+        "title": "IRS announces new 401(k) limits in 2027 for savers who hit the max - Detroit Free Press",
+        "description": "The IRS announced higher 401(k) contribution limits for 2027, allowing savers to set aside more for retirement.",
+        "url": "https://www.freep.com/story/money/personal-finance/susan-tompor/2026/11/13/new-401k-contribution-limits-set-for-2027-what-irs-says-you-can-do/92747742007/",
+        "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2026/08/31/USAT/91548725007-20260224-t-185446-z-1639784156-mt-1-usatoday-28327757-rtrmadp-3-theaveragefederalincometaxrefundhit-2476-upfrom.JPG?crop=1917,1080,x3,y146&width=1917&height=1080&format=pjpg&auto=webp",
+        "publishedAt": "2026-11-13T12:04:00Z",
+        "content": "<ul><li>The baseline amount that individuals can contribute to their 401(k) plans has been increased to $25,500 in 2027, up from $24,500 for 2026. The max goes up for older workers.</li><li>According\u2026 [+3174 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Adriel Bettelheim",
+        "title": "Doctors want liability shield from AI mistakes - Axios",
+        "description": "Increasingly sophisticated AI systems are blurring the lines around negligence in health care.",
+        "url": "https://www.axios.com/2026/11/13/doctors-ai-mistakes-liability-shield",
+        "urlToImage": "https://images.axios.com/NafkC6vUqrPrjipQfZpC-3tjCvU=/0x0:1920x1080/1366x768/2026/11/12/1794506966317.jpeg",
+        "publishedAt": "2026-11-13T11:22:51Z",
+        "content": "<ul><li>There's added urgency as autonomous AI takes on more and more important medical tasks with less direct oversight. </li><li>The question is who's responsible when something goes wrong.</li></u\u2026 [+3411 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Rachel Carlson",
+        "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive - NPR",
+        "description": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That's started to change. A crackdown for some highly potent products related to kratom is coming.",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+486/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F5b%2F108062ce4ba3bd3c837c527aedad%2Fgettyimages-2274290236.jpg",
+        "publishedAt": "2026-11-13T11:00:00Z",
+        "content": "Tyler's opioid addiction began in his early 20s, and when he decided he wanted to quit, he used kratom leaf powders to help ease withdrawal symptoms.\r\nTyler, now 38, told NPR he thinks kratom helped \u2026 [+11023 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": null,
+        "title": "FBI says it's recovered $1.2 billion worth of cryptocurrency stolen from Binance - CBS News",
+        "description": "The FBI says it's seized more than $1.2 billion of cryptocurrency reported stolen last month from Binance, the world's largest cryptocurrency exchange.",
+        "url": "https://www.cbsnews.com/news/fbi-cryptocurrency-1-2-billion-binance/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/23/da771d5f-c037-4b4a-b168-c7fafdec9da3/thumbnail/1200x630/2f49750673e563e6283f5c83343305bf/ap23325643193246.jpg",
+        "publishedAt": "2026-11-13T10:52:16Z",
+        "content": "Washington \u2014 The FBI said Thursday that it had seized more than $1.2 billion of cryptocurrency reported stolen last month from Binance, the world's largest crypto exchange.\r\nThe theft of about $6.3 b\u2026 [+1848 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Miles Klee",
+        "title": "\u2018Call Him Out\u2019: Cybertruck Loyalists Are in Mourning\u2014and They Want Answers From Elon Musk - WIRED",
+        "description": "Tesla\u2019s unpredictable CEO is ready to move on from the company\u2019s most controversial vehicle, but owners aren\u2019t about to let him off the hook for what they see as a poor decision.",
+        "url": "https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise/",
+        "urlToImage": "https://media.wired.com/photos/6af663e1fcffa2a0af03f00a/191:100/w_1280,c_limit/Cybertruck-Mourning-Culture.jpg",
+        "publishedAt": "2026-11-13T10:30:00Z",
+        "content": "Last week, Elon Musk announced on X that Tesla would halt production of the Cybertruck at Gigafactory Texas around the middle of next year, supposedly to allow for increased production of self-drivin\u2026 [+3575 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Medora Lee",
+        "title": "401(k) loans just jumped 80%. Why workers are tapping savings early - USA Today",
+        "description": "The share of workers taking hardship withdrawals hit 3.4% in 2025 while active loans surged 80%, signaling growing household financial strain.",
+        "url": "https://www.usatoday.com/story/money/personal-finance/retirement/2026/11/13/workers-raiding-401ks/92706954007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/10/USAT/92707199007-20090701-t-120000-z-450151591-gm-1-e-5710-nr-201-rtrmadp-3-financialusacheapskates.JPG?crop=3499,1968,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+        "publishedAt": "2026-11-13T10:05:00Z",
+        "content": "Saving is hard, and more Americans are tapping into retirement funds early to keep afloat, data show.\r\nHardship withdrawals from 401(k) savings more than doubled in three years and loan usage jumped \u2026 [+5522 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ProPublica"
+        },
+        "author": "Ben Berke, John Moritz, and Anastasia Lennon",
+        "title": "The Offshore Wind Industry Gave Him the Well-Paying Work He Needed. Then Trump Gutted It. - ProPublica",
+        "description": "Massachusetts and Connecticut invested millions into offshore wind in the hopes the once-blossoming industry would jump-start local economies. But amid Trump\u2019s multifront war on the industry, workers say they\u2019re watching opportunity dry up.",
+        "url": "https://www.propublica.org/article/offshore-wind-trump-connecticut-massachussetts",
+        "urlToImage": "https://www.propublica.org/wp-content/uploads/2026/11/DSC09529-1-SOCIAL.jpg?w=1200",
+        "publishedAt": "2026-11-13T10:00:00Z",
+        "content": "On a hot July day in 2022, then-President Joe Biden gave a speech from the ruins of a coal-fired power plant on the southern coast of Massachusetts.\u00a0\r\nStanding where ships once delivered coal for com\u2026 [+11462 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NPR"
+        },
+        "author": "Sequoia Carrillo",
+        "title": "Why is Google cutting off Search from AI-free schools? Here are some theories - NPR",
+        "description": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.",
+        "url": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3328x1872+0+115/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F0a%2F07635bc543269981b602417914fe%2Fap23345330599272.jpg",
+        "publishedAt": "2026-11-13T10:00:00Z",
+        "content": "Catch up on what you missed with our Education newsletter, sent weekly.\r\nGoogle is a big part of the school day for millions of students. It's not only a search engine. It's a hub for sharing documen\u2026 [+4194 chars]"
     }
 ]
