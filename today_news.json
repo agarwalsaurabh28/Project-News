@@ -2,80 +2,67 @@
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Financial Times"
         },
-        "author": "Katie Tarasov",
-        "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors - CNBC",
-        "description": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang\u2019s resignation.",
-        "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108330861-1783348415168-gettyimages-2284894623-0d6a8687_71g2vgle.jpeg?v=1794673296&w=1920&h=1080",
-        "publishedAt": "2026-11-14T17:35:51Z",
-        "content": "Two major Nvidia shareholders are calling on the board of directors to weigh all options for the company's future leadership, including \"the potential return of Jensen Huang.\"\r\nAltimeter Capital CEO \u2026 [+2646 chars]"
+        "author": null,
+        "title": "Jensen Huang discusses comeback as Nvidia CEO with allies - Financial Times",
+        "description": "Tech supporters lobby chipmaker\u2019s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
+        "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4147425d-589e-4196-83a7-198e7fdd797d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-11-15T19:03:41Z",
+        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Diamondback nears $5bn deal to expand drilling in oil-rich Permian Basin - Financial Times",
+        "description": "Acquisition would be latest in the heartland of the US shale boom amid volatile energy prices caused by Iran war",
+        "url": "https://www.ft.com/content/a56fc76f-af32-45b2-8ae1-d5e211cb9643?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4382ed0c-ccdd-4970-9fc0-9b7965968204.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-11-15T18:27:27Z",
+        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
         "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "John Csiszar",
-        "title": "Why homeowners who go electric have a secret advantage - The Washington Post",
-        "description": "Homeowners who go green to power their houses and cars have an extra economic edge not available to renters.",
-        "url": "https://www.washingtonpost.com/business/2026/11/14/why-homeowners-gain-most-solar-panels-ev-chargers/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TKXWLZXTCACRTJMUMJYLWKNAVQ_size-normalized.jpg&w=1440",
-        "publishedAt": "2026-11-14T17:32:13Z",
-        "content": "Owning a home has long been one of the most effective ways to build long-term wealth. And now homeowners have a new financial advantage that has nothing to do with equity or rising property values: e\u2026 [+14 chars]"
+        "author": "Gerrit De Vynck, Elizabeth Dwoskin, Cate Cadell",
+        "title": "It\u2019s not just an affair. Nvidia\u2019s bigger issue could be chip smuggling. - The Washington Post",
+        "description": "Megaspeed, the Nvidia customer at the heart of the scandal, was suspected by U.S. and Singaporean authorities of breaching export controls.",
+        "url": "https://www.washingtonpost.com/technology/2026/11/15/jensen-huang-nvidia-face-questions-over-knowledge-chip-smuggling/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BBRW3ZQNVIN2LIRVNZHS6DLA5I.JPG&w=1440",
+        "publishedAt": "2026-11-15T18:00:00Z",
+        "content": "Megaspeed, the Nvidia customer at the heart of the scandal, was suspected by U.S. and Singaporean authorities of breaching export controls.\r\nNovember 15, 2026 at 5:00 a.m. ESTToday at 5:00 a.m. EST"
     },
     {
         "source": {
-            "id": "the-verge",
-            "name": "The Verge"
+            "id": "cnn",
+            "name": "CNN"
         },
-        "author": "Sheena Vasani",
-        "title": "Here are our favorite deals from REI\u2019s giant Holiday Sale - The Verge",
-        "description": "REI\u2019s latest seasonal promo is basically an early Black Friday sale on camping gear, with discounts on everything from Garmin watches to satellite communicators.",
-        "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&strip=all&crop=0%2C10.752556637471%2C100%2C78.494886725057&w=1200",
-        "publishedAt": "2026-11-14T15:00:00Z",
-        "content": "<ul><li></li><li></li><li></li></ul>\r\nFrom Garmin watches to seasonal camping gear, REI is offering a slate of deep discounts ahead of Black Friday.\r\nFrom Garmin watches to seasonal camping gear, REI\u2026 [+11955 chars]"
+        "author": "Kaanita Iyer",
+        "title": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it - CNN",
+        "description": "Following a historic airspace meltdown on Friday that grounded all flights nationwide, Transportation Secretary Sean Duffy has implored Congress to authorize tens of billions of dollars in additional funding for the Federal Aviation Administration.",
+        "url": "https://www.cnn.com/2026/11/15/politics/congress-additional-funding-request-faa-duffy",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2246402135-20261115174552857.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-11-15T17:51:46Z",
+        "content": "Following a historic airspace meltdown on Friday that grounded all flights nationwide, Transportation Secretary Sean Duffy has implored Congress to authorize tens of billions of dollars in additional\u2026 [+4805 chars]"
     },
     {
         "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Will Weissert, Josh Funk, Hallie Golden",
-        "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop - AP News",
-        "description": "Airlines across the U.S. are working to dig out from the longest nationwide ground stop in 25 years. More than 2,000 flights were canceled Saturday. The more than four-hour ground stop has stranded passengers and forced professional and college sports teams t\u2026",
-        "url": "https://apnews.com/article/ground-stop-flights-airlines-cancellations-faa-1fbf4992f0ddaa4c463b0e4990b6e291",
-        "urlToImage": "https://dims.apnews.com/dims4/default/5b8ef2c/2147483647/strip/true/crop/6602x4401+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2F2e%2F087c2043255fba01e95bbb6c9997%2F69d444fe731a434aa9d62fb4f0af95e6",
-        "publishedAt": "2026-11-14T14:34:00Z",
-        "content": "WASHINGTON (AP) Airlines across the U.S. worked to recover from the longest nationwide ground stop in 25 years that canceled more than 2,500 flights Saturday, spread ripple effects around the world, \u2026 [+8096 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Orianna Rosa Royle",
-        "title": "Jensen Huang had a strict meetings rule for his 60 reports\u2014Nvidia\u2019s interim CEO has a similar mantra - Fortune",
-        "description": "Nvidia\u2019s ex-CEO Jensen Huang said frequent meetings cluttered his schedule\u2014and interim CEO Colette Kress is just as obsessed with speed.",
-        "url": "https://fortune.com/article/jensen-huang-had-a-strict-no-one-on-one-meetings-rule-for-his-60-direct-reports/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2299100584-e1794504561328.jpg?resize=1200,600",
-        "publishedAt": "2026-11-14T14:20:00Z",
-        "content": "Former Nvidia CEO and cofounder Jensen Huang famously avoided unnecessary meetings, prioritizing efficiency over routine check-ins. Even with, at one point, 60 direct reports, he refused to do catch-\u2026 [+3728 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Alex Crippen",
-        "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19% - CNBC",
-        "description": "Berkshire Hathaway's red-hot shares are ending a strong week with four consecutive fresh record high closes.",
-        "url": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080",
-        "publishedAt": "2026-11-14T14:02:39Z",
-        "content": "(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)\r\nEven more\u2026 [+7076 chars]"
+        "author": "Tony Czuczka",
+        "title": "Bessent Says Nvidia Needs \u2018Dramatic Shakeup\u2019 With Huang Out - Bloomberg.com",
+        "description": "Treasury Secretary Scott Bessent said that Nvidia Corp. needs a \u201cdramatic shakeup\u201d in leadership after the ouster of Chief Executive Officer Jensen Huang.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipasl3cBz3Yk/v1/1200x800.jpg",
+        "publishedAt": "2026-11-15T17:23:56Z",
+        "content": "Treasury Secretary Scott Bessent said that Nvidia Corp. needs a dramatic shakeup in leadership after the ouster of Chief Executive Officer Jensen Huang.\r\nSpeaking on Fox Newss Sunday Morning Futures,\u2026 [+211 chars]"
     },
     {
         "source": {
@@ -83,154 +70,193 @@
             "name": "The Wall Street Journal"
         },
         "author": "WSJ",
-        "title": "Our Reporter Tried About 50 Apple Varieties to Find the Crispest One - WSJ",
+        "title": "How Jensen Huang Built a Business to Feed Chinese Appetite for American Chips - WSJ",
         "description": null,
-        "url": "https://www.wsj.com/style/our-reporter-tried-about-50-apple-varieties-to-find-the-crispest-one-3151d4ce",
+        "url": "https://www.wsj.com/articles/how-jensen-huang-built-a-business-to-feed-chinese-appetite-for-american-chips-6c88ecce",
         "urlToImage": null,
-        "publishedAt": "2026-11-14T13:25:00Z",
+        "publishedAt": "2026-11-15T16:51:00Z",
         "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Abcnews.com"
+        },
+        "author": "ABC News - Breaking News, Latest News and Videos",
+        "title": "UPS plane, Copa Airlines flight collide on taxiway at Miami International Airport - ABC News - Breaking News, Latest News and Videos",
+        "description": null,
+        "url": "https://abcnews.com/US/ups-plane-copa-airlines-flight-collide-taxiway-miami/story?id\\\\u003d138152923",
+        "urlToImage": null,
+        "publishedAt": "2026-11-15T16:43:43Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Bernard Goyder, Lydia Beyoud",
+        "title": "Traders Turn to Kalshi Stock \u2018Perps\u2019 on Nvidia and SpaceX as Leverage Fears Grow - Bloomberg.com",
+        "description": "A new way for traders to place leveraged bets on stock prices is growing in popularity as questions around the outlook for AI following the US midterm elections spur demand for hedging.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-15/traders-turn-to-kalshi-stock-perps-on-nvidia-and-spacex-as-leverage-fears-grow",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if3al9Iv8WXI/v1/1200x799.jpg",
+        "publishedAt": "2026-11-15T15:00:00Z",
+        "content": "A new way for traders to place leveraged bets on stock prices is growing in popularity as questions around the outlook for AI following the US midterm elections spur demand for hedging. \r\nPerpetual f\u2026 [+268 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Lorie Konish",
+        "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks - CNBC",
+        "description": "Democrats advocated taxing high earners to shore up Social Security in the runup to the midterms. Plus, a senior deduction is slated to expire in two years.",
+        "url": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108433453-1792432353199-SS_TAX_BENEFITS.png?v=1792508141&w=1920&h=1080",
+        "publishedAt": "2026-11-15T14:30:01Z",
+        "content": "Congress has six years to enact changes to Social Security to prevent cuts to retirement benefits. Senators elected in the Nov. 3 midterms will be in office when the deadline arrives, and their decis\u2026 [+11118 chars]"
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Sasha Rogelberg",
+        "title": "Gen Z judges colleagues who use AI, but paradoxically may see it as the key to their own promotion - Fortune",
+        "description": "Nearly 80% of Gen Z believes AI is making people lazier, but the young generation has increased how much they\u2019re using the technology.",
+        "url": "https://fortune.com/article/why-does-gen-z-believe-using-ai-is-making-colleagues-dumb-lazy/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2253392709-e1769725098196.jpg?resize=1200,600",
+        "publishedAt": "2026-11-15T14:28:00Z",
+        "content": "Last year, researchers from Microsoft and Carnegie Mellon University revealed startling evidence about the impact of using AI on howand how hardpeople think, finding that among more than 300 knowledg\u2026 [+5483 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Tastingtable.com"
+        },
+        "author": "Ayomari",
+        "title": "9 Fast Food Chains With The Highest Quality Beef Burgers - Tasting Table",
+        "description": "Explore the fast food chains that serve highest quality beef burgers, with a closer look at their sourcing, cattle-raising standards, and freshness practices.",
+        "url": "https://www.tastingtable.com/2314440/fast-food-chains-beef-burgers-highest-quality/",
+        "urlToImage": "https://www.tastingtable.com/img/gallery/9-fast-food-chains-with-the-highest-quality-beef-burgers/l-intro-1794384498.jpg",
+        "publishedAt": "2026-11-15T14:20:00Z",
+        "content": "An up-and-coming East Coast chain, 7th Street Burger has exploded in popularity since opening in 2021. It keeps its menu short and sweet, offering only a cheeseburger, a double cheeseburger, a vegeta\u2026 [+844 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Melina Khan",
+        "title": "CVS settlement claim deadline is approaching. How to get money - USA Today",
+        "description": "CVS customers eligible for money from a class action settlement only have a few more days to file their claim. Here's how.",
+        "url": "https://www.usatoday.com/story/money/personal-finance/income/2026/11/15/cvs-settlement-deadline-claim-money/92743551007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/12/USAT/92743850007-20251115-t-003743-z-1998987171-mt-1-usatoday-27586942-rtrmadp-3-asignonacvspharmacy.JPG?crop=1483,835,x0,y25&width=1483&height=835&format=pjpg&auto=webp",
+        "publishedAt": "2026-11-15T13:10:08Z",
+        "content": "Eligible CVS customers have only a few more days to file a claim for money from a class-action settlement.\r\nThe company agreed to settle a class-action lawsuit alleging that CVS violated privacy laws\u2026 [+2623 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Michael Wayland",
+        "title": "Rivian, Lucid, Scout CEOs aren\u2019t counting on Democrats to restore EV federal support after midterm wins - CNBC",
+        "description": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
+        "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108116571-1742136946876-gettyimages-1242853588-AFP_32HF6PF.jpeg?v=1742136964&w=1920&h=1080",
+        "publishedAt": "2026-11-15T13:00:02Z",
+        "content": "Leaders of several U.S. electric vehicle manufacturers said they're not counting on increased federal support for their businesses once Democrats gain control of Congress in January, but they said th\u2026 [+4449 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "FiercePharma"
+        },
+        "author": "Angus Liu",
+        "title": "FDA rejects Summit\u2019s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class - Fierce Pharma",
+        "description": "The immuno-oncology revolution will have to wait.\u00a0 | The FDA has issued a complete response letter to Summit Therapeutics, derailing the immediate U.S. launch of a drug class that many industry heavyweights believe could eventually dethrone Merck & Co.\u2019s Keyt\u2026",
+        "url": "https://www.fiercepharma.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc",
+        "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/FDA%20STOP.jpg?VersionId=33eo0BnHveO4wxsGma8uhcfRqK5hZ2xH",
+        "publishedAt": "2026-11-15T12:50:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Newser"
+        },
+        "author": "Jenn Gidman",
+        "title": "Beef Imports Aren't Helping the Larger Problem - Newser",
+        "description": "Cattle shortage, plant closures are keeping beef prices high; they may not come down anytime soon",
+        "url": "https://www.newser.com/story/399747/dont-expect-beef-prices-to-drop-anytime-soon.html",
+        "urlToImage": "https://cdn.newser.com/image/1723710-12-20261115070233.jpeg",
+        "publishedAt": "2026-11-15T12:32:00Z",
+        "content": "Sticker shock at the meat counter isn't a blip\u2014it's the new baseline for beef. Writing for the Wall Street Journal, Patrick Thomas explains that the US cattle herd has shrunk to its smallest size in \u2026 [+1497 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Madison Mills",
+        "title": "How Nvidia's scandal knocked thousands off your 401(k) - Axios",
+        "description": "Nvidia's enormous weight in popular index funds means even those who have never purchased a single share of the company could feel the pain of its corporate upheaval in their 401(k)s.",
+        "url": "https://www.axios.com/2026/11/15/nvidia-stocks-401k-retirement-accounts",
+        "urlToImage": "https://images.axios.com/wGFYdo6iZiMCmA2-AZthh1lMhK4=/0x0:1920x1080/1366x768/2026/05/14/1778783042393.jpeg",
+        "publishedAt": "2026-11-15T12:31:43Z",
+        "content": "By the numbers: Index funds held nearly half of the assets in large private-sector 401(k) plans in 2023, according to the Investment Company Institute.\r\n<ul><li>Those funds include investments tracki\u2026 [+3044 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "TheStreet"
+        },
+        "author": "TheStreet",
+        "title": "Jim Cramer has a warning for Nvidia stock investors after CEO exit - TheStreet",
+        "description": null,
+        "url": "https://www.thestreet.com/investing/stocks/cramer-nvidia-ceo-succession",
+        "urlToImage": null,
+        "publishedAt": "2026-11-15T12:07:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "Will Nvidia earnings steady the AI sell-off? - Financial Times",
+        "description": "Market Questions is the FT\u2019s guide to the week ahead",
+        "url": "https://www.ft.com/content/3ccb1761-a0cd-43ba-a3e7-e19d00950ae3?syn-25a6b1a6\\\\u003d1",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8268a373-2d7b-473f-8f64-3f33354c9bd3.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-11-15T12:00:05Z",
+        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Jordan Novet",
+        "title": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot - CNBC",
+        "description": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+        "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108551525-1794626973698-gettyimages-2297195304-AFP_C9PF6JT.jpeg?v=1794627031&w=1920&h=1080",
+        "publishedAt": "2026-11-15T12:00:01Z",
+        "content": "Anthropic CEO Dario Amodei, center, arrives near the White House ahead of a planned meeting with President Donald Trump in Washington on Sept. 29, 2026.\r\nBetween rising interest rates, a nationwide A\u2026 [+6716 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Fox Business"
         },
-        "author": "Robert McGreevy",
-        "title": "Software company with thousands of Fortune 500 clients joins Microsoft in experiencing major outage - Fox Business",
-        "description": "Workday's major outage left 11,500 companies unable to access payroll and HR software, affecting Walmart, Target, Netflix and government agencies.",
-        "url": "https://www.foxbusiness.com/technology/software-company-thousands-fortune-500-clients-joins-microsoft-experiencing-major-outage",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/workday.jpg?ve=1&tl=1",
-        "publishedAt": "2026-11-14T13:13:00Z",
-        "content": "Workday, a business software that handles payroll and human resources management for thousands of prominent companies, suffered a major outage Friday, joining Microsoft in experiencing a shutdown thi\u2026 [+2980 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NewsChannel5.com"
-        },
-        "author": "Hannah McDonald",
-        "title": "AT&T begins shutting down landline services in Middle Tennessee this weekend, here's what to know - News Channel 5 Nashville",
-        "description": "AT&T begins shutting down landline services in Middle Tennessee this Sunday. Here's what homeowners and businesses need to know.",
-        "url": "https://www.newschannel5.com/HannahCanHelp/at-t-begins-shutting-down-landline-services-in-middle-tennessee-this-weekend-heres-what-to-know",
-        "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/4352f07/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fausw2%2Fslices%2F8ef%2F9ca48a3b38ef42538c6fe52a659b1e99%2F8effba589ee042fb905f29fc41887b90%2Fposter_3187340ffcb346d7b8eca0035ca82ad1.jpeg",
-        "publishedAt": "2026-11-14T13:12:25Z",
-        "content": "NASHVILLE, Tenn. (WTVF) Starting this Sunday, AT&amp;T will begin shutting down landline services across several Middle Tennessee communities after receiving permission from the Federal Communication\u2026 [+2652 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Space.com"
-        },
-        "author": "https://www.space.com/author/tariq-malik, https://www.space.com/author/josh-dinner, https://www.space.com/author/mike-wall",
-        "title": "SpaceX Starship Flight 15 live updates: Starship heat shield looks good for landing attempt today - Space",
-        "description": "SpaceX could make history with the world's first full recovery of an orbital rocket and spacecraft on Starship Flight 15.",
-        "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt",
-        "urlToImage": "https://cdn.mos.cms.futurecdn.net/bJHXeZhm26RX9tBiZutCPA-2331-80.jpg",
-        "publishedAt": "2026-11-14T13:00:19Z",
-        "content": "2026-11-14T13:00:15.029ZSpaceX's Starship Flight 15 begins day 2 of longest test flight\r\nGood morning and happy Saturday, Space Fans! Today is Flight Day 2 for SpaceX's Starship Flight 15 test flight\u2026 [+20035 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Laya Neelakandan",
-        "title": "Retailers are turning to entertainment to win shoppers\u2019 attention - CNBC",
-        "description": "Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.",
-        "url": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108527434-1793906235283-GAP_JYT_GROUP_SHOT.jpg?v=1794430218&w=1920&h=1080",
-        "publishedAt": "2026-11-14T13:00:01Z",
-        "content": "Gap Inc. has debuted its First \"fashiontainment\" partnership, with the emerging boy band Just Your Type.\r\nLegacy retailer Gap Inc. made an unconventional hire earlier this year: a chief entertainment\u2026 [+6430 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Maria Curi, Marc Caputo",
-        "title": "MAGA turns on Lutnick amid China spy scandal - Axios",
-        "description": "Regulators and policymakers on both sides of the aisle want someone's head for an affair that may have exposed sensitive technology to the nation's top foreign adversary",
-        "url": "https://www.axios.com/2026/11/14/lutnick-commerce-china",
-        "urlToImage": "https://images.axios.com/xvaGTLBzS7Gw0ZAZoHYMJ-e7fW4=/0x266:7728x4613/1366x768/2026/11/13/1794587701813.jpeg",
-        "publishedAt": "2026-11-14T12:39:39Z",
-        "content": "The big picture: Over the past year, Lutnick slow-walked broader administration efforts to address suspicions that Singapore-based company Megaspeed was illegally diverting chips to China, Axios firs\u2026 [+2965 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Hugh Son",
-        "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home - CNBC",
-        "description": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
-        "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108313716-17800536432026-03-12t071236z_1666355942_rc27fjaubt68_rtrmadp_0_tech-robots-conflict-zones.jpeg?v=1780053657&w=1920&h=1080",
-        "publishedAt": "2026-11-14T12:00:01Z",
-        "content": "Sankaet Pathak, CEO and founder of Foundation, a company that builds a humanoid robot Phantom-01, poses for a photo during an interview with Reuters at his company's factory in San Francisco, Califor\u2026 [+7856 chars]"
-    },
-    {
-        "source": {
-            "id": "axios",
-            "name": "Axios"
-        },
-        "author": "Courtenay Brown",
-        "title": "Wholesale food prices are on the rise - Axios",
-        "description": "New inflation data this week suggests that the inflationary pressure on groceries is not letting up.",
-        "url": "https://www.axios.com/2026/11/14/grocery-wholesale-inflation-vegetables",
-        "urlToImage": "https://images.axios.com/u4pHiVKIqY3T5lZNV5HiMz3Z5dA=/0x0:1280x720/1366x768/2026/11/13/1794606343384.jpg",
-        "publishedAt": "2026-11-14T11:13:58Z",
-        "content": "Food prices are rising sharply even before they reach supermarket shelves.\r\nWhy it matters: Americans are already paying more for groceries. New inflation data this week suggests that the pressure is\u2026 [+1537 chars]"
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": null,
-        "title": "Restaurant chain may rethink controversial 20% service charge in some venues after customer pushback - Fox News",
-        "description": "A Ford's Garage franchisee in Florida is testing a 20% automatic service charge at select restaurants, but the company's president admits some diners don't want a mandated fee.",
-        "url": "https://www.foxnews.com/food-drink/restaurant-chain-may-rethink-controversial-20-service-charge-some-venues-after-customer-pushback",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/customer-writes-tip-on-restaurant-receipt.jpg",
-        "publishedAt": "2026-11-14T11:00:44Z",
-        "content": "Ford's Garage may be reconsidering a controversial policy that automatically adds a 20% service charge to customers' checks at five Florida restaurants, with the chain's president acknowledging that \u2026 [+4666 chars]"
-    },
-    {
-        "source": {
-            "id": "wired",
-            "name": "Wired"
-        },
-        "author": "Jeremy White",
-        "title": "We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang\u2019s Leather Jacket - WIRED",
-        "description": "The signature moto jacket has officially worn out its welcome. Here\u2019s how fashion\u2019s pros would rebrand him.",
-        "url": "https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/",
-        "urlToImage": "https://media.wired.com/photos/6af7364ac76e30186375551b/191:100/w_1280,c_limit/111326-Jensen%20Style.jpg",
-        "publishedAt": "2026-11-14T10:15:00Z",
-        "content": "Asking Clarkson to step away from her celebrity clients for a moment to perform a hasty hypothetical make under (or glow down?) for Huang, she has very kindly put together three outfits that I think \u2026 [+1869 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Nevin Cohen, The Conversation",
-        "title": "NYC is spending $70 million on 5 city-run grocery stores pricing essentials 30% below retail - Fortune",
-        "description": "Five stores, one in each borough, are unlikely to substantially change grocery prices in a city with nearly 1,000 supermarkets and more than 8 million inhabitants.",
-        "url": "https://fortune.com/2026/11/14/nyc-city-run-grocery-stores-mamdani-bodegas/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2243986802-e1794588347326.jpg?resize=1200,600",
-        "publishedAt": "2026-11-14T10:00:00Z",
-        "content": "New York City is moving closer to launching its effort to counter food inflation by opening five city-run grocery stores. Mayor Zohran Mamdani announced in May 2026 that the first store would open in\u2026 [+7569 chars]"
-    },
-    {
-        "source": {
-            "id": "fortune",
-            "name": "Fortune"
-        },
-        "author": "Fernanda Tronco",
-        "title": "Jensen Huang's $145 billion question: What California divorce law says Lori Huang could get - Fortune",
-        "description": "Lori Huang could be entitled to half the couple's community property under California law. Most of Jensen Huang's 870 million Nvidia shares sit in trusts they share.",
-        "url": "https://fortune.com/2026/11/14/jensen-huang-divorce-lori-huang-nvidia-fortune-community-property/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2296998600.jpg?resize=1200,600",
-        "publishedAt": "2026-11-14T09:37:00Z",
-        "content": "Jensen Huang has lost his job, his board seat, and roughly $10 billion in paper wealth since admitting to an affair. If his 41-year marriage ends, California law could put a far larger share of his f\u2026 [+5218 chars]"
+        "author": "Kristen Altus",
+        "title": "As US credit card debt hits $1.29T, bank algorithms are rejecting debt-free, six-figure earners - Fox Business",
+        "description": "Across the country, debt-free Americans earning six figures face credit card denials as bank algorithms flag thin credit files as high-risk behavior.",
+        "url": "https://www.foxbusiness.com/personal-finance/us-credit-card-debt-hits-1-29t-bank-algorithms-rejecting-debt-free-six-figure-earners",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/us-man-credit-card-stress.jpg?ve=1&tl=1",
+        "publishedAt": "2026-11-15T12:00:00Z",
+        "content": "Across the country, Americans earning six-figure salaries, carrying no debt and sitting on healthy savings accounts are increasingly hitting an unexpected wall when applying for everyday credit cards\u2026 [+7135 chars]"
     }
 ]
