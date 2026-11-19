@@ -1,55 +1,68 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Daniel Howley",
-        "title": "Nvidia earnings live: Nvidia to report Q3 results after the bell with Colette Kress to host first call as interim CEO - Yahoo Finance",
-        "description": "Nvidia will report its Q3 earnings after the bell Tuesday.",
-        "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-to-report-q3-results-after-the-bell-with-colette-kress-to-host-first-call-as-interim-ceo-202616349.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/cc9ad1a3ec34ad4475f4f702b47a628bf29c64151d2763df1224ef89ec534f94/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F78cde9e3-767f-4ed2-a2b3-7a122d0d2792",
-        "publishedAt": "2026-11-17T20:26:16Z",
-        "content": "Reuters reports that the US Commerce and Justice Departments have been investigating Singapore-based cloud-computing company Megaspeed, Nvidia's Asia-Pacific partner, at which Alice Huang was an exec\u2026 [+1250 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Steve Thompson",
-        "title": "Fed official Lisa Cook refuses to attend White House firing hearing, citing bias - The Washington Post",
-        "description": "Federal Reserve governor Lisa Cook won\u2019t take part in a Dec. 14 White House hearing on whether to fire her unless the panel and its rules change, her lawyer said in a letter Monday. Letters exchanged since September show the two sides clashing over dates, doc\u2026",
-        "url": "https://www.washingtonpost.com/business/2026/11/17/fed-official-lisa-cook-refuses-attend-white-house-firing-hearing-citing-bias/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2G5QMNEYR5Z2JG6GUKWGCHUI2U.JPG&w=1440",
-        "publishedAt": "2026-11-17T19:51:36Z",
-        "content": "Federal Reserve governor Lisa Cook wont take part in a White House hearing next month on whether to fire her unless the panel and its rules change, her lawyer told President Donald Trumps aides Monda\u2026 [+1 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Andrew Kaczynski",
-        "title": "Sean Duffy\u2019s attacks on past FAA ground stop resurface - CNN",
-        "description": "Nearly four years before facing a nationwide FAA ground stop as transportation secretary himself, Sean Duffy criticized his predecessor in the job, then-Transportation Secretary Pete Buttigieg, over a similar disruption in 2023, blaming incompetent leadership\u2026",
-        "url": "https://www.cnn.com/2026/11/17/politics/kfile-duffy-past-faa-comments",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-11-14t162142z-1980498592-rc2snoas43n2-rtrmadp-3-usa-faa-ground-stop.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-11-17T19:00:16Z",
-        "content": "Nearly four years before facing a nationwide FAA ground stop as transportation secretary himself, Sean Duffy criticized his predecessor in the job, then-Transportation Secretary Pete Buttigieg, over \u2026 [+7421 chars]"
+        "author": "WSJ",
+        "title": "Fed Officials Saw Higher Rates Ahead When They Held Steady Last Month - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/economy/central-banking/fed-officials-saw-higher-rates-ahead-when-they-held-steady-last-month-ad4f3bf7",
+        "urlToImage": null,
+        "publishedAt": "2026-11-18T19:41:00Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Liz Napolitano, Jenni Reid, Jenny Lee, Fred Imbert",
-        "title": "Dow falls 700 points as tech shares decline, traders eye reported NSA network outage: Live updates - CNBC",
-        "description": "Traders on Tuesday reacted to several fresh earnings reports and awaited Nvidia's latest quarterly financial results.",
-        "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108553207-1794932257620-Traders-Photo-20261116-KK-PRESS-008.jpg?v=1794932755&w=1920&h=1080",
-        "publishedAt": "2026-11-17T18:24:59Z",
-        "content": "The European Union's executive body on Tuesday upgraded its growth forecasts for the bloc, attributing an \"upward surprise\" across the first three quarters to a rebound in exports and solid consumpti\u2026 [+1594 chars]"
+        "author": "Seema Mody, Kif Leswing, Katie Tarasov",
+        "title": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit - CNBC",
+        "description": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+        "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108554444-1795034841037-108554444-1795025697370-image-1_1024.jpg?v=1795034856&w=1920&h=1080",
+        "publishedAt": "2026-11-18T19:09:18Z",
+        "content": "Interim Nvidia CEO Colette Kress told employees \"let's move forward\" on Wednesday during the company's first all-hands meeting since founder Jensen Huang resigned, according to an attendee who spoke \u2026 [+2400 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Josh Funk",
+        "title": "DOT Secretary Sean Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown - AP News",
+        "description": "U.S. Transportation Secretary Sean Duffy continues to blame a contractor for the events that prompted the Federal Aviation Administration to order a ground stop last week even though investigators haven\u2019t determined the root cause. Since aviation was disrupte\u2026",
+        "url": "https://apnews.com/article/ground-stop-faa-l3harris-94757b1f6aa71c3435c8286e27926786",
+        "urlToImage": "https://dims.apnews.com/dims4/default/587492b/2147483647/strip/true/crop/5000x3333+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F82%2F50%2F191257d65950fbaf2bdd711cf5d4%2Fcd81fce93280408fba92b4be089b22d9",
+        "publishedAt": "2026-11-18T18:49:00Z",
+        "content": "U.S. Transportation Secretary Sean Duffy continues to blame a contractor for the events that prompted the Federal Aviation Administration to order a ground stop last week, even though investigators h\u2026 [+4692 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Grace O'Donnell",
+        "title": "UnitedHealth and other insurance stocks drag down the Dow after CMS proposes new anti-fraud rule - Yahoo Finance",
+        "description": "Healthcare stocks fell again on Wednesday after the Centers for Medicare & Medicaid Services (CMS) proposed a new rule that would toughen oversight of Medica...",
+        "url": "https://finance.yahoo.com/healthcare/article/unitedhealth-and-other-insurance-stocks-drag-down-the-dow-after-cms-proposes-new-anti-fraud-rule-173851810.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/61a1aba691e5320c3e2d990f0e1f337f696255fadfcb6a5baad86876eb9eaf50/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-11%2Fd591bed0-b332-11ef-bde6-d81790450553",
+        "publishedAt": "2026-11-18T17:38:51Z",
+        "content": "Healthcare stocks fell again on Wednesday after the Centers for Medicare &amp; Medicaid Services (CMS) proposed a new rule that would toughen oversight of Medicare, Medicaid, the Children's Health In\u2026 [+2093 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Michael Wayland",
+        "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions - CNBC",
+        "description": "Ford has started U.S. production and shipments of battery cells for its next-generation EVs using technologies licensed by Chinese\u00a0battery giant CATL.",
+        "url": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108554182-1795013717847-Final_inspection.jpg?v=1795014061&w=1920&h=1080",
+        "publishedAt": "2026-11-18T17:02:53Z",
+        "content": "MARSHALL, Mich. Ford Motor has started producing battery cells in the U.S. for its next generation of electric vehicles using technologies licensed by Chinese\u00a0battery giant CATL.\r\nThe automaker said \u2026 [+2721 chars]"
     },
     {
         "source": {
@@ -57,193 +70,193 @@
             "name": "Ars Technica"
         },
         "author": "Eric Berger",
-        "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines - Ars Technica",
-        "description": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
-        "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-2560x1440.jpg",
-        "publishedAt": "2026-11-17T18:00:51Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "Sharon Terlep, Jessica Toonkel",
-        "title": "Exclusive | General Motors Seeks Outside CEO Contenders to Succeed Mary Barra - WSJ",
-        "description": "Automaker weighs external executives alongside internal contenders as longtime chief lays groundwork for handover",
-        "url": "https://www.wsj.com/business/autos/general-motors-seeks-outside-ceo-contenders-to-succeed-mary-barra-e8177c4a",
-        "urlToImage": "https://images.wsj.net/im-59195403/social",
-        "publishedAt": "2026-11-17T17:57:05Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Laurie Kellman, Laura Bargfeld",
-        "title": "Outage math at the airport: When a four-hour Uber beats waiting out a ground stop - AP News",
-        "description": "Flight delays are becoming more common, causing financial and emotional stress for travelers. Angelina and Kyle Phoenix experienced it firsthand during an anniversary trip to Chicago last week that happened to coincide with Friday's nationwide ground stop on \u2026",
-        "url": "https://apnews.com/article/ground-stop-flights-delays-frustration-2f56c7e73199635c32f744941fff3792",
-        "urlToImage": "https://dims.apnews.com/dims4/default/b940473/2147483647/strip/true/crop/5069x3379+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1b%2Ffa%2F2dd1a92824df486c66e883420684%2Fa5048ca00ded4b1aa5e4db61d41b1582",
-        "publishedAt": "2026-11-17T17:38:00Z",
-        "content": "CHICAGO (AP) New airline tickets: $300. Hours waiting for luggage: four. And the topper: a four-hour Uber ride from Detroit to Chicago that cost $400.\r\nCall it outage math, a hellish calculation spaw\u2026 [+7261 chars]"
-    },
-    {
-        "source": {
-            "id": "cnn",
-            "name": "CNN"
-        },
-        "author": "Brian Stelter",
-        "title": "Social media algorithms are encouraging Americans to freak out about the tech outages - CNN",
-        "description": "How do seemingly ordinary tech snafus become ominous signs of impending societal collapse? When they\u2019re filtered through algorithms that reward alarmism, that\u2019s how.",
-        "url": "https://www.cnn.com/2026/11/17/media/tech-outages-microsoft-faa-united-blackout-social-media",
-        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1070699206.jpg?c=16x9&q=w_800,c_fill",
-        "publishedAt": "2026-11-17T17:10:09Z",
-        "content": "A version of this story appeared in CNNs Reliable Sources newsletter. To get it in your inbox, sign up for free here.\r\nHow do seemingly ordinary tech snafus become ominous signs of impending societal\u2026 [+5879 chars]"
-    },
-    {
-        "source": {
-            "id": "the-verge",
-            "name": "The Verge"
-        },
-        "author": "Tom Warren",
-        "title": "Inside Microsoft\u2019s giant Outlook outage - The Verge",
-        "description": "A bug took down Microsoft\u2019s email services for millions around the world.",
-        "url": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
-        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-11-17T17:00:00Z",
-        "content": "Notepad<ul><li></li><li></li><li></li></ul>\r\nA bug took down Microsofts email services for millions around the world. \r\nA bug took down Microsofts email services for millions around the world. \r\nby\r\n\u2026 [+7449 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KGO-TV"
-        },
-        "author": "Tim Johns",
-        "title": "CA DMV bans Waymos from operating on state freeways after Bay Area traffic incidents - ABC7 Bay Area",
-        "description": "The California DMV has ordered Waymo to stop operating its autonomous vehicles on state freeways, saying they \"pose an imminent hazard to public safety\" after several recent traffic incidents in the Bay Area.",
-        "url": "https://abc7news.com/story/california-dmv-bans-waymos-operating-state-freeways-bay-area-traffic-incidents/20046974/",
-        "urlToImage": "https://cdn.abcotvs.com/dip/images/20048185_111726-kgo-robotaxi-restrictions-img.jpg?w=1600",
-        "publishedAt": "2026-11-17T16:47:30Z",
-        "content": "The California Department of Motor Vehicles has ordered Waymo to stop operating its autonomous vehicles on California freeways, citing concerns that the vehicles pose an imminent public safety hazard\u2026 [+2880 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Deadline"
-        },
-        "author": "Jill Goldsmith",
-        "title": "Disney Unpacks $3 Billion In Planned Cost Savings - Deadline",
-        "description": "Disney\u2019s expected $3 billion in savings by FY '28 is going to \u201cto come from a wide variety of places across the organization,\u201d said the CFO.",
-        "url": "http://deadline.com/2026/11/disney-breaks-down-3-billion-in-cost-savings-1237225761/",
-        "urlToImage": "https://deadline.com/wp-content/uploads/2023/06/GettyImages-1229666994.jpg?w=1024",
-        "publishedAt": "2026-11-17T16:45:00Z",
-        "content": "Disney\u2019s push to save $3 billion in run-rate savings by fiscal 2028 is going to \u201cto come from a wide variety of places across the organization and across the functions that we have,\u201d said CFO Hugh Jo\u2026 [+2444 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Jill Lawless",
-        "title": "David Beckham sues for $41 million after his fragrance is sold in gas stations and discount stores - AP News",
-        "description": "David Beckham\u2019s company is suing beauty group Coty for at least $41 million. It alleges that sales of his perfumes in discount stores breached their licensing agreement and damaged his luxury brand. DB Ventures filed the claim in the New York Supreme Court an\u2026",
-        "url": "https://apnews.com/article/david-beckham-perfume-lawsuit-poundland-48901f3e47194ae00b855dc626d9cfe4",
-        "urlToImage": "https://dims.apnews.com/dims4/default/f926740/2147483647/strip/true/crop/5885x3923+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F12%2Fb4%2Fd84a9df4bd29c6e38c15dfd293a2%2Fc9cc0da228fb41a1815d39181f14ccf5",
-        "publishedAt": "2026-11-17T16:21:00Z",
-        "content": "LONDON (AP) A dispute over the sale of David Beckham perfumes has struck a sour note with the soccer star turned style icon.\r\nBeckhams commercial company is suing a beauty firm after his luxury fragr\u2026 [+2395 chars]"
-    },
-    {
-        "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36",
-        "urlToImage": null,
-        "publishedAt": "2026-11-17T16:11:00Z",
+        "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says - Ars Technica",
+        "description": "ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
+        "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+        "publishedAt": "2026-11-18T16:58:32Z",
         "content": null
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Variety"
         },
-        "author": "Ananya Chetia, Davis Giangiulio",
-        "title": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request - CNBC",
-        "description": "Some Trump-related Kalshi mention contracts have been taken down as the CFTC warns the contract type carries heightened manipulation risk.",
-        "url": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108344439-17858457182026-08-04t102957z_668477747_rc2mrmamjzd6_rtrmadp_0_usa-prediction-markets.jpeg?v=1785845777&w=1920&h=1080",
-        "publishedAt": "2026-11-17T16:00:50Z",
-        "content": "Prediction market platform Kalshi quietly paused trading in a handful of \"mention\" contracts tied to President Donald Trump at the end of last week at the request of the CFTC, the company confirmed o\u2026 [+2781 chars]"
+        "author": "Todd Spangler",
+        "title": "Elon Musk Has Invested in Skydance, David Ellison Confirms: \u2018To Have Him as a Shareholder Is an Honor\u2019 - Variety",
+        "description": "David Ellison, chairman and CEO of Skydance, confirmed that tech mogul Elon Musk has invested in the company, formed from the merger of Paramount and Warner Bros. Discovery.",
+        "url": "https://variety.com/2026/tv/news/elon-musk-invested-skydance-david-ellison-dealbook-conference-1236951800/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2026/09/David-Ellison-Elon-Musk.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-11-18T16:49:00Z",
+        "content": "David Ellison, chairman and CEO of Skydance, confirmed that tech mogul Elon Musk has invested in the company, formed through the merger of Paramount and Warner Bros. Discovery.\r\nMusk, the world\u2019s ric\u2026 [+10102 chars]"
+    },
+    {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Jonathan M. Gitlin",
+        "title": "Waymo suspends freeway driving after California construction zone complaint - Ars Technica",
+        "description": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
+        "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg",
+        "publishedAt": "2026-11-18T16:24:34Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Rita Nazareth",
+        "title": "Stocks Fall as Nvidia\u2019s Earnings Rally Sputters: Markets Wrap - Bloomberg.com",
+        "description": "Wall Street saw renewed volatility as Nvidia Corp.\u2019s post-earnings rally fizzled out, a sign that investors are looking for more evidence about the durability of the artificial-intelligence trade.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCLwVOTAECq4/v0/1200x801.jpg",
+        "publishedAt": "2026-11-18T16:22:47Z",
+        "content": "Wall Street saw renewed volatility as Nvidia Corp.s post-earnings rally fizzled out, a sign that investors are looking for more evidence about the durability of the artificial-intelligence trade.\r\nTh\u2026 [+299 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Fox Business"
         },
-        "author": "Anders Hagstrom",
-        "title": "Severe turbulence injures 5 on JetBlue flight to Florida - Fox Business",
-        "description": "Five people were hurt in severe turbulence on a JetBlue flight from Puerto Rico that landed at Fort Lauderdale-Hollywood International Airport, police say.",
-        "url": "https://www.foxbusiness.com/fox-news-us/severe-turbulence-injures-5-jetblue-flight-florida",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/JetBlue-Spirit.jpg?ve=1&tl=1",
-        "publishedAt": "2026-11-17T15:41:00Z",
-        "content": "Five people were injured in severe turbulence during a JetBlue flight from Puerto Rico to Florida on Tuesday, authorities say.\r\nThe flight landed at Fort Lauderdale-Hollywood International Airport ea\u2026 [+3628 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Anne D'Innocenzio",
-        "title": "Spending growth slowed at retail stores in October as high prices give shoppers pause - AP News",
-        "description": "Shoppers increased spending more slowly in October as economic uncertainty and high prices led more Americans to pull back on a variety of purchases from cars to clothing and furniture _ and even hobby projects _ ahead of the unofficial start to the holiday s\u2026",
-        "url": "https://apnews.com/article/retail-sales-inflation-consumers-0f76e8e304f5560e5a3116c4fec5d6b0",
-        "urlToImage": "https://dims.apnews.com/dims4/default/33f6d7b/2147483647/strip/true/crop/4158x2772+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F39%2Fb8%2F6c3b070cbd9b59b2794c8068ffef%2Fb6424e6a1f06455daf2869fee789a8f0",
-        "publishedAt": "2026-11-17T15:36:00Z",
-        "content": "NEW YORK (AP) Shoppers increased spending more slowly in October as economic uncertainty and high prices led more Americans to pull back on a variety of purchases from cars to clothing and furniture,\u2026 [+3998 chars]"
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": null,
-        "title": "Tech outages live updates: Microsoft, banks and FAA - Fox News",
-        "description": "Chase, Bank of America, Microsoft, iCloud and Gmail have experienced service disruptions, while the FAA air traffic review continues after US flights were grounded last week.",
-        "url": "https://www.foxnews.com/live-news/tech-outages-microsoft-banks-faa-fbi-11-17-26",
-        "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/11/6d5302fb382edec9c50b7cbe6c938501.jpg",
-        "publishedAt": "2026-11-17T15:22:29Z",
-        "content": "Upon entering the sixth day of sustained tech disruptions, U.S. lawmakers have begun to call on Trump administration officials to hold briefings with Congress and share what they know thus far.\r\nRep.\u2026 [+2693 chars]"
+        "author": "Bradford Betz",
+        "title": "Nvidia halts China AI chip shipments despite US approval - Fox Business",
+        "description": "Nvidia says it is no longer shipping licensed Hopper AI chips to China after selling $2.4 billion in the latest quarter, raising questions about future exports.",
+        "url": "https://www.foxbusiness.com/fox-news-tech/nvidia-halts-china-ai-chip-shipments-despite-us-approval",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/nvidia.jpg?ve=1&tl=1",
+        "publishedAt": "2026-11-18T15:55:00Z",
+        "content": "Nvidia has stopped shipping certain advanced artificial intelligence chips to China despite U.S. government approval for exports to eligible Chinese customers, and the company is excluding Chinese da\u2026 [+3119 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "Yahoo Entertainment"
         },
-        "author": null,
-        "title": "How Jensen Huang\u2019s family shaped Nvidia\u2019s Singapore dealings - Financial Times",
-        "description": "Daughter and son-in-law come under scrutiny as board launches probe over company\u2019s links to Megaspeed",
-        "url": "https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F746c933e-724e-4cea-91c9-ef29a359b4bc.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-11-17T15:11:34Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        "author": "Brian Sozzi",
+        "title": "Why Nvidia doesn't need a 'big splashy hire' to replace Jensen Huang as CEO - Yahoo Finance",
+        "description": "Amazon founder Jeff Bezos and \"Shark Tank\" star Kevin O'Leary make a great point on the Nvidia leadership drama.",
+        "url": "https://finance.yahoo.com/technology/article/why-nvidia-doesnt-need-a-big-splashy-hire-to-replace-jensen-huang-as-ceo-154424603.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/5685e03e61e764e0fc01a6d29adb0c7e4c6a1cec26b545ada0996c12960c1c02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F88017ff6-192c-44ef-b5da-424d82d03738",
+        "publishedAt": "2026-11-18T15:44:24Z",
+        "content": "Maybe Nvidia (NVDA) doesn't need a big free-agent CEO signing to replace highly visible founder and former CEO Jensen Huang.\r\n\"If you don't bring Jensen back, I would not hire an outsider,\" Amazon (A\u2026 [+2972 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "New York Post"
+        },
+        "author": "Allie Yang",
+        "title": "An erectile dysfunction drug could be the next Alzheimer\u2019s treatment - New York Post",
+        "description": "New research shows a related drug that\u2019s long been used for erectile dysfunction in Korea could soon help with Alzheimer\u2019s in the US.",
+        "url": "https://nypost.com/2026/11/18/health/an-erectile-disfunction-drug-could-treat-alzheimers/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-q3jrnwop2-1795012411458.jpg?quality=75&strip=all&1794994438&w=1200",
+        "publishedAt": "2026-11-18T15:25:00Z",
+        "content": "Maybe being bone-headed is a good thing.\r\nWith over 900,000 people getting diagnosed with Alzheimer\u2019s every year in the US, scientists are on the hunt for new and better treatments. And it turns out \u2026 [+3585 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Ashley Capoot, Leslie Picker",
+        "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges - CNBC",
+        "description": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
+        "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550657-1794523910753-108550657-1794523778580-gettyimages-2235057510-yeh_8158_95i9s3ni_kxuzy9en_yn8fiozr.jpeg?v=1795019793&w=1920&h=1080",
+        "publishedAt": "2026-11-18T15:15:54Z",
+        "content": "Anthropic is considering upsizing its initial public offering, people familiar with the details told CNBC, as the artificial intelligence lab weighs setting the price well above $80.\r\nThe company clo\u2026 [+4179 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Daniel Farr",
+        "title": "California sees staggering drop in home sales \u2014 as SoCal hits rock bottom - New York Post",
+        "description": "California saw sales sink to their lowest level in nearly three years.",
+        "url": "https://nypost.com/2026/11/18/real-estate/socal-housing-hits-rock-bottom-as-california-sales-plunge/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-wc9xxygzx-1794972025351.jpg?quality=75&strip=all&1794954083&w=1200",
+        "publishedAt": "2026-11-18T15:09:00Z",
+        "content": "Southern California\u2019s housing market is showing serious signs of trouble, with home sales plunging nearly 19% in a year as the state saw sales sink to their lowest level in nearly three years.\r\nOrang\u2026 [+3375 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Aimee  Picchi",
+        "title": "Costco sees surge in panic buying after string of tech outages, report says - CBS News",
+        "description": "Costco shoppers are stocking up on emergency items following a string of tech snafus, according to a Wall Street analyst.",
+        "url": "https://www.cbsnews.com/news/costco-panic-buying-tech-outages-generators/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/06/d9065c3d-7fb1-4f50-a9b9-018b68fd857d/thumbnail/1200x630/157398f5fcd13795cac41971204c9c6d/gettyimages-2219499786-1.jpg",
+        "publishedAt": "2026-11-18T14:37:36Z",
+        "content": "Consumers are panic-buying at Costco, snapping up generators and other emergency-preparedness items in response to a recent string of technology outages, according to investment firm Mizuho Securitie\u2026 [+2343 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Annika Kim Constantino, Brandon Gomez",
+        "title": "Hims & Hers launches new peptide treatments \u2014 while admitting there's more to learn about efficacy - CNBC",
+        "description": "The telehealth company will now offer compounded forms of sermorelin, glutathione, NAD+,  vitamin B-12 and L-carnitine, none of which are approved by the FDA.",
+        "url": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550474-1794514351694-6ae12503a2c3bf5ff4e281ad_26Q3_FDA-peptide-vial_newsroom_1920x1008_2.jpeg?v=1794514425&w=1920&h=1080",
+        "publishedAt": "2026-11-18T14:02:52Z",
+        "content": "Hims &amp; Hers peptide treatments.\r\nHims &amp; Hers Health on Wednesday said it will offer five formulations of peptides and longevity treatments compounded in the U.S. as part of the initial rollou\u2026 [+9761 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Kendall Little",
+        "title": "Bank outage: How to protect your money when your bank goes offline - Yahoo Finance",
+        "description": "A bank outage could leave you unable to pay bills or transfer money. Here's what to do next and how to prepare for a future outage.",
+        "url": "https://finance.yahoo.com/personal-finance/banking/article/bank-outage-how-to-protect-your-money-when-your-bank-goes-offline-214534103.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/efdf2b0c0ab5fead14d9a7cf6d22c3e2bab7f5e3e85bbf6e04bbb2a351554b46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-11%2Fc40aaf90-8742-11ee-babf-b4b0ca33a37a",
+        "publishedAt": "2026-11-18T13:54:42Z",
+        "content": "A widespread outage this week disrupted some of the largest financial institutions in the U.S., including Bank of America, Chase, and Wells Fargo, leaving customers unable to access their accounts.\u00a0\r\u2026 [+5422 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Brian Sozzi",
+        "title": "3 numbers explain why Nvidia stock is rising despite no Jensen Huang on the earnings call - Yahoo Finance",
+        "description": "Nvidia delivered several bullish numbers on its earning day,",
+        "url": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explain-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-115224556.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/28d2b2569a2e08bf6cb42b57706afaf1dec1e5fc78ec0762c3f2396877094b95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F33432cea-5b90-4218-88c3-556dac034a87",
+        "publishedAt": "2026-11-18T13:48:01Z",
+        "content": "Nvidia (NVDA) did its best late Tuesday on its earnings call to remind Wall Street that, for now, it's still the money-making Nvidia of old sans black-leather-jacket-wearing Jensen Huang as CEO.\r\nSha\u2026 [+1522 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Brooke DiPalma",
+        "title": "Target's traffic jumps 5%, the biggest gain since 2022, as turnaround brings shoppers back - Yahoo Finance",
+        "description": "Target outperformed expectations, but some key categories still need work.",
+        "url": "https://finance.yahoo.com/markets/stocks/article/targets-traffic-jumps-5-the-biggest-gain-since-2022-as-turnaround-brings-shoppers-back-130616166.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/e42db0430d5e8ecef1ceda860e6c528a74f82c3e1514eb67b299bb4c312b0cde/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F20bf8f79-f1db-4665-b8c4-aa4e8fd42467",
+        "publishedAt": "2026-11-18T13:06:16Z",
+        "content": "Target (TGT) is plotting its comeback, and it's bringing customers back through the doors.\r\nIn the third quarter, the retailer posted a 5% increase in foot traffic, the highest year-over-year jump si\u2026 [+2663 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Investor's Business Daily"
         },
         "author": null,
-        "title": "Customers report outages at Chase, Bank of America and Wells Fargo - BBC",
-        "description": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-        "url": "https://www.bbc.com/news/articles/cj752wvqneq6o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
-        "publishedAt": "2026-11-17T15:04:24Z",
-        "content": "The bank, a subsidiary of JP Morgan Chase, serves more than 86m customers at 5,000 branches across the US, as well as 7.4m small businesses, according to the company's webpage. It is also the top cre\u2026 [+25 chars]"
+        "title": "Biggest Dow Jones Loser Nike Keeps Sinking After Investor Day. Here's Why. - Investor's Business Daily",
+        "description": "Sneaker giant unveiled new five-year turnaround framework after long slump.",
+        "url": "https://www.investors.com/news/nike-stock-biggest-dow-jones-loser-2026-slides-after-investor-day/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2023/05/Stock-nike-thailand-01-adobe.jpg",
+        "publishedAt": "2026-11-18T12:26:00Z",
+        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
     }
 ]
