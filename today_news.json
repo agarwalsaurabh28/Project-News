@@ -1,250 +1,120 @@
 [
     {
         "source": {
-            "id": "the-wall-street-journal",
-            "name": "The Wall Street Journal"
-        },
-        "author": "WSJ",
-        "title": "Fed Officials Saw Higher Rates Ahead When They Held Steady Last Month - WSJ",
-        "description": null,
-        "url": "https://www.wsj.com/economy/central-banking/fed-officials-saw-higher-rates-ahead-when-they-held-steady-last-month-ad4f3bf7",
-        "urlToImage": null,
-        "publishedAt": "2026-11-18T19:41:00Z",
-        "content": null
-    },
-    {
-        "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Seema Mody, Kif Leswing, Katie Tarasov",
-        "title": "Nvidia interim CEO Kress tells employees \u2018let\u2019s move forward\u2019 at first all-hands meeting since Jensen Huang exit - CNBC",
-        "description": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
-        "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108554444-1795034841037-108554444-1795025697370-image-1_1024.jpg?v=1795034856&w=1920&h=1080",
-        "publishedAt": "2026-11-18T19:09:18Z",
-        "content": "Interim Nvidia CEO Colette Kress told employees \"let's move forward\" on Wednesday during the company's first all-hands meeting since founder Jensen Huang resigned, according to an attendee who spoke \u2026 [+2400 chars]"
-    },
-    {
-        "source": {
-            "id": "associated-press",
-            "name": "Associated Press"
-        },
-        "author": "Josh Funk",
-        "title": "DOT Secretary Sean Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown - AP News",
-        "description": "U.S. Transportation Secretary Sean Duffy continues to blame a contractor for the events that prompted the Federal Aviation Administration to order a ground stop last week even though investigators haven\u2019t determined the root cause. Since aviation was disrupte\u2026",
-        "url": "https://apnews.com/article/ground-stop-faa-l3harris-94757b1f6aa71c3435c8286e27926786",
-        "urlToImage": "https://dims.apnews.com/dims4/default/587492b/2147483647/strip/true/crop/5000x3333+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F82%2F50%2F191257d65950fbaf2bdd711cf5d4%2Fcd81fce93280408fba92b4be089b22d9",
-        "publishedAt": "2026-11-18T18:49:00Z",
-        "content": "U.S. Transportation Secretary Sean Duffy continues to blame a contractor for the events that prompted the Federal Aviation Administration to order a ground stop last week, even though investigators h\u2026 [+4692 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Grace O'Donnell",
-        "title": "UnitedHealth and other insurance stocks drag down the Dow after CMS proposes new anti-fraud rule - Yahoo Finance",
-        "description": "Healthcare stocks fell again on Wednesday after the Centers for Medicare & Medicaid Services (CMS) proposed a new rule that would toughen oversight of Medica...",
-        "url": "https://finance.yahoo.com/healthcare/article/unitedhealth-and-other-insurance-stocks-drag-down-the-dow-after-cms-proposes-new-anti-fraud-rule-173851810.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/61a1aba691e5320c3e2d990f0e1f337f696255fadfcb6a5baad86876eb9eaf50/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-11%2Fd591bed0-b332-11ef-bde6-d81790450553",
-        "publishedAt": "2026-11-18T17:38:51Z",
-        "content": "Healthcare stocks fell again on Wednesday after the Centers for Medicare &amp; Medicaid Services (CMS) proposed a new rule that would toughen oversight of Medicare, Medicaid, the Children's Health In\u2026 [+2093 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Michael Wayland",
-        "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions - CNBC",
-        "description": "Ford has started U.S. production and shipments of battery cells for its next-generation EVs using technologies licensed by Chinese\u00a0battery giant CATL.",
-        "url": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108554182-1795013717847-Final_inspection.jpg?v=1795014061&w=1920&h=1080",
-        "publishedAt": "2026-11-18T17:02:53Z",
-        "content": "MARSHALL, Mich. Ford Motor has started producing battery cells in the U.S. for its next generation of electric vehicles using technologies licensed by Chinese\u00a0battery giant CATL.\r\nThe automaker said \u2026 [+2721 chars]"
-    },
-    {
-        "source": {
-            "id": "ars-technica",
-            "name": "Ars Technica"
-        },
-        "author": "Eric Berger",
-        "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says - Ars Technica",
-        "description": "ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
-        "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
-        "publishedAt": "2026-11-18T16:58:32Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Todd Spangler",
-        "title": "Elon Musk Has Invested in Skydance, David Ellison Confirms: \u2018To Have Him as a Shareholder Is an Honor\u2019 - Variety",
-        "description": "David Ellison, chairman and CEO of Skydance, confirmed that tech mogul Elon Musk has invested in the company, formed from the merger of Paramount and Warner Bros. Discovery.",
-        "url": "https://variety.com/2026/tv/news/elon-musk-invested-skydance-david-ellison-dealbook-conference-1236951800/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2026/09/David-Ellison-Elon-Musk.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2026-11-18T16:49:00Z",
-        "content": "David Ellison, chairman and CEO of Skydance, confirmed that tech mogul Elon Musk has invested in the company, formed through the merger of Paramount and Warner Bros. Discovery.\r\nMusk, the world\u2019s ric\u2026 [+10102 chars]"
-    },
-    {
-        "source": {
-            "id": "ars-technica",
-            "name": "Ars Technica"
-        },
-        "author": "Jonathan M. Gitlin",
-        "title": "Waymo suspends freeway driving after California construction zone complaint - Ars Technica",
-        "description": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
-        "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
-        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg",
-        "publishedAt": "2026-11-18T16:24:34Z",
-        "content": null
+        "author": "Ashley Capoot, Caleigh Keating, Samantha Subin, Greg Iacurci",
+        "title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap, Ashton Kutcher celebrates debut - CNBC",
+        "description": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
+        "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108555553-1795111066483-108555553-1795107330360-gettyimages-2305893920-mms15509_wkojpdxh.jpeg?v=1795111106&w=1920&h=1080",
+        "publishedAt": "2026-11-19T18:24:00Z",
+        "content": "Amodei told JPMorgan Chase CEO Jamie Dimon in a fireside chat on Friday that he thinks talent and culture are the \"most important things\" that drive a company's success, which is why he and his co-fo\u2026 [+1074 chars]"
     },
     {
         "source": {
             "id": "bloomberg",
             "name": "Bloomberg"
         },
-        "author": "Rita Nazareth",
-        "title": "Stocks Fall as Nvidia\u2019s Earnings Rally Sputters: Markets Wrap - Bloomberg.com",
-        "description": "Wall Street saw renewed volatility as Nvidia Corp.\u2019s post-earnings rally fizzled out, a sign that investors are looking for more evidence about the durability of the artificial-intelligence trade.",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCLwVOTAECq4/v0/1200x801.jpg",
-        "publishedAt": "2026-11-18T16:22:47Z",
-        "content": "Wall Street saw renewed volatility as Nvidia Corp.s post-earnings rally fizzled out, a sign that investors are looking for more evidence about the durability of the artificial-intelligence trade.\r\nTh\u2026 [+299 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Bradford Betz",
-        "title": "Nvidia halts China AI chip shipments despite US approval - Fox Business",
-        "description": "Nvidia says it is no longer shipping licensed Hopper AI chips to China after selling $2.4 billion in the latest quarter, raising questions about future exports.",
-        "url": "https://www.foxbusiness.com/fox-news-tech/nvidia-halts-china-ai-chip-shipments-despite-us-approval",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/nvidia.jpg?ve=1&tl=1",
-        "publishedAt": "2026-11-18T15:55:00Z",
-        "content": "Nvidia has stopped shipping certain advanced artificial intelligence chips to China despite U.S. government approval for exports to eligible Chinese customers, and the company is excluding Chinese da\u2026 [+3119 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Brian Sozzi",
-        "title": "Why Nvidia doesn't need a 'big splashy hire' to replace Jensen Huang as CEO - Yahoo Finance",
-        "description": "Amazon founder Jeff Bezos and \"Shark Tank\" star Kevin O'Leary make a great point on the Nvidia leadership drama.",
-        "url": "https://finance.yahoo.com/technology/article/why-nvidia-doesnt-need-a-big-splashy-hire-to-replace-jensen-huang-as-ceo-154424603.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/5685e03e61e764e0fc01a6d29adb0c7e4c6a1cec26b545ada0996c12960c1c02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F88017ff6-192c-44ef-b5da-424d82d03738",
-        "publishedAt": "2026-11-18T15:44:24Z",
-        "content": "Maybe Nvidia (NVDA) doesn't need a big free-agent CEO signing to replace highly visible founder and former CEO Jensen Huang.\r\n\"If you don't bring Jensen back, I would not hire an outsider,\" Amazon (A\u2026 [+2972 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "New York Post"
-        },
-        "author": "Allie Yang",
-        "title": "An erectile dysfunction drug could be the next Alzheimer\u2019s treatment - New York Post",
-        "description": "New research shows a related drug that\u2019s long been used for erectile dysfunction in Korea could soon help with Alzheimer\u2019s in the US.",
-        "url": "https://nypost.com/2026/11/18/health/an-erectile-disfunction-drug-could-treat-alzheimers/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-q3jrnwop2-1795012411458.jpg?quality=75&strip=all&1794994438&w=1200",
-        "publishedAt": "2026-11-18T15:25:00Z",
-        "content": "Maybe being bone-headed is a good thing.\r\nWith over 900,000 people getting diagnosed with Alzheimer\u2019s every year in the US, scientists are on the hunt for new and better treatments. And it turns out \u2026 [+3585 chars]"
+        "author": "Ian King",
+        "title": "AMD Slides After Hunterbrook Shorts Stock, Cites Circular Deals - Bloomberg.com",
+        "description": "Advanced Micro Devices Inc. shares slid after Hunterbrook Capital said it shorted the stock, following a report by its media affiliate that the chipmaker is reliant on a potentially risky business in China.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_1Ud6gxfemA/v1/1200x800.jpg",
+        "publishedAt": "2026-11-19T17:59:37Z",
+        "content": "Advanced Micro Devices Inc. shares slid after Hunterbrook Capital said it shorted the stock, following a report by its media affiliate that the chipmaker is reliant on a potentially risky business in\u2026 [+102 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Ashley Capoot, Leslie Picker",
-        "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges - CNBC",
-        "description": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
-        "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550657-1794523910753-108550657-1794523778580-gettyimages-2235057510-yeh_8158_95i9s3ni_kxuzy9en_yn8fiozr.jpeg?v=1795019793&w=1920&h=1080",
-        "publishedAt": "2026-11-18T15:15:54Z",
-        "content": "Anthropic is considering upsizing its initial public offering, people familiar with the details told CNBC, as the artificial intelligence lab weighs setting the price well above $80.\r\nThe company clo\u2026 [+4179 chars]"
+        "author": "Sean Conlon, Jenny Lee, Tanaya Macheel",
+        "title": "Dow dives 800 points as Anthropic IPO milestone causes investors to take profits: Live updates - CNBC",
+        "description": "Traders are focused on how Anthropic performs when it debuts on the Nasdaq Thursday.",
+        "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108554308-17950192062026-11-18t162113z_2143931336_rc2dqoa4fpi2_rtrmadp_0_usa-stocks.jpeg?v=1795032993&w=1920&h=1080",
+        "publishedAt": "2026-11-19T16:19:00Z",
+        "content": "The head of France's central bank told CNBC he is confident there will be a budget put in place for next year, despite political divisions creating an impasse in talks among lawmakers. \u00a0\r\nA draft bud\u2026 [+2205 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "WSJ",
+        "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers - WSJ",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTy1UWkp5QmtjYW0wNmgzMm04Y295STZlSUdvQ3FwYzhoV01XY3R4S04xLUFPbnFpU0c1SU9iekhxNXlMZE4tS1FRSnRkeDBmSlVRcGZwc2FEOU80US1hZzZ5M2UyalFjZEE0Zmd6cjc3U1MxTzJfdFFtaXJEa1M3UnZJU1V3aVh6YXF0c3BVVkxDMmZtb1lPaHBNM0NIY2g0OUpOQW9tcW0?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2026-11-19T15:52:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Zack Whittaker",
+        "title": "UK government forced to disclose secret Apple backdoor order - TechCrunch",
+        "description": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+        "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675",
+        "publishedAt": "2026-11-19T15:32:20Z",
+        "content": "The U.K. government has been ordered to confirm that it issued a secret order demanding Apple to provide authorities with encrypted customer information.\r\nThe Thursday ruling from the U.K.\u2019s Investig\u2026 [+2150 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "New York Post"
+            "name": "RACER"
         },
-        "author": "Daniel Farr",
-        "title": "California sees staggering drop in home sales \u2014 as SoCal hits rock bottom - New York Post",
-        "description": "California saw sales sink to their lowest level in nearly three years.",
-        "url": "https://nypost.com/2026/11/18/real-estate/socal-housing-hits-rock-bottom-as-california-sales-plunge/",
-        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-wc9xxygzx-1794972025351.jpg?quality=75&strip=all&1794954083&w=1200",
-        "publishedAt": "2026-11-18T15:09:00Z",
-        "content": "Southern California\u2019s housing market is showing serious signs of trouble, with home sales plunging nearly 19% in a year as the state saw sales sink to their lowest level in nearly three years.\r\nOrang\u2026 [+3375 chars]"
+        "author": null,
+        "title": "Sponsor CEO charged in $600 million ponzi scheme - RACER - Racing News",
+        "description": "The United States Department of Justice has charged Phillip Patrick Williams, the CEO of investment firm Droplight which sponsors cars and motorcycles in IndyCar, Indy NXT, MotoAmerica, and NASCAR, with \u201csecurities fraud and wire fraud in connection with a sc\u2026",
+        "url": "https://racer.com/2026/11/19/sponsor-ceo-charged-in-600m-ponzi-scheme",
+        "urlToImage": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/bltcf5d36f49bf0e008/6aff17b499559c5768e0bafc/GettyImages-2275334020.jpg?environment=live&width=1200&height=630&fit=crop",
+        "publishedAt": "2026-11-19T15:31:00Z",
+        "content": "The United States Department of Justice has charged Phillip Patrick Williams, the CEO of investment firm Droplight which sponsors cars and motorcycles in IndyCar, Indy NXT, MotoAmerica, and NASCAR, w\u2026 [+3235 chars]"
     },
     {
         "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Aimee  Picchi",
-        "title": "Costco sees surge in panic buying after string of tech outages, report says - CBS News",
-        "description": "Costco shoppers are stocking up on emergency items following a string of tech snafus, according to a Wall Street analyst.",
-        "url": "https://www.cbsnews.com/news/costco-panic-buying-tech-outages-generators/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/06/d9065c3d-7fb1-4f50-a9b9-018b68fd857d/thumbnail/1200x630/157398f5fcd13795cac41971204c9c6d/gettyimages-2219499786-1.jpg",
-        "publishedAt": "2026-11-18T14:37:36Z",
-        "content": "Consumers are panic-buying at Costco, snapping up generators and other emergency-preparedness items in response to a recent string of technology outages, according to investment firm Mizuho Securitie\u2026 [+2343 chars]"
+        "author": "Lily Meier",
+        "title": "Walmart Raises Outlook as Wealthier Shoppers Hunt for Deals - Bloomberg.com",
+        "description": "Walmart Inc. raised its full-year forecasts for sales and earnings, as the retailer\u2019s focus on prices and a steady expansion of e-commerce continue to win over shoppers across income groups.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-19/walmart-raises-outlook-as-higher-income-shoppers-hunt-for-deals",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibXKnwKf8yHQ/v1/1200x800.jpg",
+        "publishedAt": "2026-11-19T14:33:31Z",
+        "content": "Walmart Inc. raised its full-year forecasts for sales and earnings, as the retailers focus on prices and a steady expansion of e-commerce continue to win over shoppers across income groups. \r\nNet sal\u2026 [+339 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "CNBC"
+            "id": "the-hill",
+            "name": "The Hill"
         },
-        "author": "Annika Kim Constantino, Brandon Gomez",
-        "title": "Hims & Hers launches new peptide treatments \u2014 while admitting there's more to learn about efficacy - CNBC",
-        "description": "The telehealth company will now offer compounded forms of sermorelin, glutathione, NAD+,  vitamin B-12 and L-carnitine, none of which are approved by the FDA.",
-        "url": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550474-1794514351694-6ae12503a2c3bf5ff4e281ad_26Q3_FDA-peptide-vial_newsroom_1920x1008_2.jpeg?v=1794514425&w=1920&h=1080",
-        "publishedAt": "2026-11-18T14:02:52Z",
-        "content": "Hims &amp; Hers peptide treatments.\r\nHims &amp; Hers Health on Wednesday said it will offer five formulations of peptides and longevity treatments compounded in the U.S. as part of the initial rollou\u2026 [+9761 chars]"
+        "author": "Max Rego",
+        "title": "Thanksgiving dinner will come with higher price tag: Research - The Hill",
+        "description": "The average Thanksgiving dinner will be more expensive this year, according to new research from the American Farm Bureau Federation. The cost of the average 10-person dinner will increase by 6 percent from 2025, to $5.86 per person, Farm Bureau economists re\u2026",
+        "url": "https://thehill.com/business/6229798-turkey-inflation-holiday-costs/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/11/Thanksgiving_102212_AP_Matthew-Mead.jpg?w=1280",
+        "publishedAt": "2026-11-19T14:05:00Z",
+        "content": "Skip to content\r\nThe average Thanksgiving dinner will be more expensive this year, according to new research from the American Farm Bureau Federation.\r\nThe cost of the average 10-person dinner will i\u2026 [+1786 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
+            "id": "google-news",
+            "name": "Google News"
         },
-        "author": "Kendall Little",
-        "title": "Bank outage: How to protect your money when your bank goes offline - Yahoo Finance",
-        "description": "A bank outage could leave you unable to pay bills or transfer money. Here's what to do next and how to prepare for a future outage.",
-        "url": "https://finance.yahoo.com/personal-finance/banking/article/bank-outage-how-to-protect-your-money-when-your-bank-goes-offline-214534103.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/efdf2b0c0ab5fead14d9a7cf6d22c3e2bab7f5e3e85bbf6e04bbb2a351554b46/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2023-11%2Fc40aaf90-8742-11ee-babf-b4b0ca33a37a",
-        "publishedAt": "2026-11-18T13:54:42Z",
-        "content": "A widespread outage this week disrupted some of the largest financial institutions in the U.S., including Bank of America, Chase, and Wells Fargo, leaving customers unable to access their accounts.\u00a0\r\u2026 [+5422 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Brian Sozzi",
-        "title": "3 numbers explain why Nvidia stock is rising despite no Jensen Huang on the earnings call - Yahoo Finance",
-        "description": "Nvidia delivered several bullish numbers on its earning day,",
-        "url": "https://finance.yahoo.com/markets/stocks/article/3-numbers-explain-why-nvidia-stock-is-rising-despite-no-jensen-huang-on-the-earnings-call-115224556.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/28d2b2569a2e08bf6cb42b57706afaf1dec1e5fc78ec0762c3f2396877094b95/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F33432cea-5b90-4218-88c3-556dac034a87",
-        "publishedAt": "2026-11-18T13:48:01Z",
-        "content": "Nvidia (NVDA) did its best late Tuesday on its earnings call to remind Wall Street that, for now, it's still the money-making Nvidia of old sans black-leather-jacket-wearing Jensen Huang as CEO.\r\nSha\u2026 [+1522 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Brooke DiPalma",
-        "title": "Target's traffic jumps 5%, the biggest gain since 2022, as turnaround brings shoppers back - Yahoo Finance",
-        "description": "Target outperformed expectations, but some key categories still need work.",
-        "url": "https://finance.yahoo.com/markets/stocks/article/targets-traffic-jumps-5-the-biggest-gain-since-2022-as-turnaround-brings-shoppers-back-130616166.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/e42db0430d5e8ecef1ceda860e6c528a74f82c3e1514eb67b299bb4c312b0cde/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F20bf8f79-f1db-4665-b8c4-aa4e8fd42467",
-        "publishedAt": "2026-11-18T13:06:16Z",
-        "content": "Target (TGT) is plotting its comeback, and it's bringing customers back through the doors.\r\nIn the third quarter, the retailer posted a 5% increase in foot traffic, the highest year-over-year jump si\u2026 [+2663 chars]"
+        "author": "WSJ",
+        "title": "U.S. Jobless Claims Unexpectedly Move Higher - WSJ",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSEd1MEFmRjY3WTh1ZGpfcUU0TUFnSVNJSEk5NnNWeEpVcVFyUmhOa1N4cHZfbU5CeDRJOTkzYWdUZDJLTnJkUzB2cXZrZm1rM0RuSWhhM2Rqc0dQcXVQeGRuem40ZmpYanB4UUtZTjhQeTh4bWNHMEVoUWNnLWFnLWJ1Nkh1VUVwWnNwejVB?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2026-11-19T13:56:00Z",
+        "content": null
     },
     {
         "source": {
@@ -252,11 +122,102 @@
             "name": "Investor's Business Daily"
         },
         "author": null,
-        "title": "Biggest Dow Jones Loser Nike Keeps Sinking After Investor Day. Here's Why. - Investor's Business Daily",
-        "description": "Sneaker giant unveiled new five-year turnaround framework after long slump.",
-        "url": "https://www.investors.com/news/nike-stock-biggest-dow-jones-loser-2026-slides-after-investor-day/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2023/05/Stock-nike-thailand-01-adobe.jpg",
-        "publishedAt": "2026-11-18T12:26:00Z",
+        "title": "Nvidia Slides After Blowout Earnings As Investigations Line Up; Is Nvidia Stock A Sell Now? - Investor's Business Daily",
+        "description": "Nvidia stock slides amid a five-day losing streak as investigations into export controls and ex-CEO Jensen Huang take center stage.",
+        "url": "https://www.investors.com/research/nvidia-nvda-stock-earnings-buy-now-november-2026/",
+        "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/SUSTAIN25_nvidia_101725_company.jpg",
+        "publishedAt": "2026-11-19T13:15:00Z",
         "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Bradford Betz",
+        "title": "Major KFC franchisee files for bankruptcy, puts 84 restaurants up for sale - Fox Business",
+        "description": "Tasty Chick\u2019n, which operates 84 KFC and KFC/Taco Bell locations, is seeking bankruptcy protection as it faces declining profits, debt and a franchise dispute.",
+        "url": "https://www.foxbusiness.com/economy/major-kfc-franchisee-files-bankruptcy-84-restaurants-sale",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/kfc-restaurant.jpg?ve=1&tl=1",
+        "publishedAt": "2026-11-19T13:01:00Z",
+        "content": "A major KFC franchise operator has filed for Chapter 11 bankruptcy protection as declining sales, mounting debt and a dispute over unpaid franchise fees threaten its restaurant operations.\r\nTasty Chi\u2026 [+2627 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Popular cruise ship rocked by illness outbreak as nearly 150 passengers and crew fall victim - Fox News",
+        "description": "With testing still pending, the CDC says nearly 150 people aboard Princess Cruises' Caribbean Princess reported vomiting and diarrhea on a 12-night voyage.",
+        "url": "https://www.foxnews.com/travel/popular-cruise-ship-rocked-illness-outbreak-nearly-150-passengers-crew-fall-victim",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/people-watching-princess-cruises.jpg",
+        "publishedAt": "2026-11-19T13:00:02Z",
+        "content": "A Caribbean cruise has taken an uncomfortable turn for nearly 150 passengers and crew members who have fallen sick with stomach illness symptoms with an infectious disease expert providing important \u2026 [+5019 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals - BBC",
+        "description": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (\u00a345bn).",
+        "url": "https://www.bbc.com/news/articles/cm9q84gp0gr3o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3358/live/5110da10-e40e-11f1-b37c-b3a71d7200af.jpg",
+        "publishedAt": "2026-11-19T12:56:30Z",
+        "content": "A US-led consortium, Frontier Minerals, has won the tender to develop Kenya's Mrima Hill mining project, beating seven bidders, including companies from China and Australia."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WRAL.com"
+        },
+        "author": "Liz McLaughlin, WRAL Climate Change Reporter",
+        "title": "NC utilities commissioner resigns days after Duke Energy rate hike decisions - WRAL",
+        "description": "NC Utilities Commissioner Donald van der Vaart is resigning after sitting out a Duke rate hike vote and missing hearings on the utility\u2019s long-term energy plan while on vacation.",
+        "url": "https://www.wral.com/news/local/nc-utilities-commissioner-resigns-days-after-duke-energy-rate-hike-decisions-november-2026/",
+        "urlToImage": "https://images.wral.com/b4261229-ffcc-48ca-b076-7e51649f3d5e?w=1200&h=630&height=630",
+        "publishedAt": "2026-11-19T12:14:10Z",
+        "content": "A North Carolina utilities commissioner who pushed for lower shareholder returns for Duke Energy and stronger protections against data center costs is stepping down.\r\nState Treasurer Brad Briner anno\u2026 [+1902 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Kathleen Wong",
+        "title": "Is basic business class worth it? What to know about the newest fare - USA Today",
+        "description": "Delta and United are unbundling premium cabins with cheaper basic fares. You keep the upscale seat but give up some familiar perks.",
+        "url": "https://www.usatoday.com/story/travel/airline-news/2026/11/19/airlines-basic-business-class-passport-check/92729875007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/13/USAT/92754392007-delta-one-suite-2.jpg?crop=1999,1126,x0,y103&width=1999&height=1126&format=pjpg&auto=webp",
+        "publishedAt": "2026-11-19T11:47:00Z",
+        "content": "Passport Check is USA TODAY's weekly international travel briefing, helping you stay ahead of changing rules, trends, costs and opportunities around the world.\r\nFor many travelers, a basic economy ti\u2026 [+6640 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Lisa Fickenscher",
+        "title": "Exclusive | Amazon warns NYC customers they face price hikes up to $5 for every order if delivery bill is passed - New York Post",
+        "description": "Amazon customers in New York City will be charged up to $5 more per order if the local government passes a controversial bill aimed at cracking down on employment practices for \u201clast-mile\u201d delivery\u2026",
+        "url": "https://nypost.com/2026/11/19/business/in-new-campaign-amazon-warns-nyc-customers-they-face-price-hikes-up-to-5-for-every-order-if-delivery-bill-is-passed/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-ggau0jgcj-1795048095811.jpg?quality=75&strip=all&1795030129&w=1200",
+        "publishedAt": "2026-11-19T11:00:00Z",
+        "content": "Amazon customers in New York City will be charged up to $5 more per order if the local government passes a controversial bill aimed at cracking down on employment practices for last-mile delivery dri\u2026 [+3231 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Avery Lotz",
+        "title": "Doomsday prepping goes mainstream - Axios",
+        "description": "Outages and infrastructure threats have global anxiety in overdrive.",
+        "url": "https://www.axios.com/2026/11/19/tech-outages-emergency-preparedness-prepper-boom",
+        "urlToImage": "https://images.axios.com/wMkyYdmIGfWDVvV40ND3CLtcg1Y=/0x0:1920x1080/1366x768/2026/11/17/1794947838826.jpeg",
+        "publishedAt": "2026-11-19T10:44:34Z",
+        "content": "<ul><li>Michael Mills, a University of Greenwich senior lecturer who studies doomsday preparation, says some people are turning to \"lightweight versions\" of traditional prepping amid doubts about glo\u2026 [+3217 chars]"
     }
 ]
