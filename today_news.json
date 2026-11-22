@@ -1,249 +1,262 @@
 [
     {
         "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
+            "id": "business-insider",
+            "name": "Business Insider"
         },
-        "author": "Rita Nazareth",
-        "title": "S&P 500 Is Set for Longest Losing Run Since 2020: Markets Wrap - Bloomberg.com",
-        "description": "Another bruising technology selloff rippled through markets around the world, driving US stocks toward their longest slide since 2020 as investors piled into the perceived safety of bonds.",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEy2KDsgWCYc/v0/1200x800.jpg",
-        "publishedAt": "2026-11-20T17:54:32Z",
-        "content": "Another bruising technology selloff rippled through markets around the world, driving US stocks toward their longest slide since 2020 as investors piled into the perceived safety of bonds.\r\nThe unrav\u2026 [+284 chars]"
+        "author": "Samuel O'Brient, Truman Dickerson",
+        "title": "What smart people are saying about the market sell-off ripping through tech and AI - Business Insider",
+        "description": "Carnage in markets on Friday dragged major indexes to grim milestones. Market pros worry the AI trade could be at a negative inflection point.",
+        "url": "https://www.businessinsider.com/stock-market-plunge-tech-ai-michael-burry-nvda-ant-2026-11#article",
+        "urlToImage": "https://i.insider.com/6b008c11d6c5d341c9b4ba18?width=1200&format=jpeg",
+        "publishedAt": "2026-11-21T17:23:00Z",
+        "content": "It was ugly out there in markets this week, and it only got uglier as Friday's session closed out.\r\nMajor indexes notched grim milestones on Friday, with the S&amp;P 500 and the Dow entering a correc\u2026 [+5506 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "MarketWatch"
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
         },
-        "author": "Aarthi Swaminathan",
-        "title": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots - MarketWatch",
-        "description": "As home sales plummet, the housing market has taken another sharp turn in buyers\u2019 favor.",
-        "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6",
-        "urlToImage": "https://images.mktw.net/im-39779425/social",
-        "publishedAt": "2026-11-20T16:37:00Z",
-        "content": "In mid-November in Kansas City, Mo., a homeowner called up real-estate agent Jeremy Applebaum, worried that their nearly $400,000 home wasnt selling. In the past six years, a home in that price range\u2026 [+504 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Barron's"
-        },
-        "author": "Al Root",
-        "title": "Nvidia Stock Drops Below $150 Support After Jensen Huang Scandal: Key Levels to Watch - Barron's",
-        "description": "Nvidia needs to reclaim $150 soon\u2014the stock\u2019s key level\u2014or $127 or even $100 is in play.",
-        "url": "https://www.barrons.com/articles/nvidia-stock-technical-analysis-ai-chips-2b0667d5",
-        "urlToImage": "https://images.barrons.com/im-04889491/social",
-        "publishedAt": "2026-11-20T16:31:00Z",
-        "content": "Nvidiais caught in a brutal pile-on, andthe stockis cratering. It has to reclaim a key level, or it will almost certainly head lower.\r\nCopyright \u00a92026Dow Jones &amp; Company, Inc. All Rights Reserved\u2026 [+33 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "MarketWatch"
-        },
-        "author": "Joseph Adinolfi, Steve Goldstein, Nora Redmond, Jamie Chisholm, Jules Rimmer",
-        "title": "Stock Market Today: Dow bounces, S&P 500 and Nasdaq fall as major indexes head for worst week since 'liberation day' - MarketWatch",
-        "description": "Follow all the latest U.S. market action for Friday here on Anthropic's second day of trading.",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-anthropic-ipo-second-day-trading",
-        "urlToImage": "https://images.mktw.net/im-66382853/social",
-        "publishedAt": "2026-11-20T16:28:00Z",
+        "author": "WSJ",
+        "title": "What It\u2019s Like to Retire in Thailand - WSJ",
+        "description": null,
+        "url": "https://www.wsj.com/personal-finance/retirement/retire-in-thailand-6853f4a7",
+        "urlToImage": null,
+        "publishedAt": "2026-11-21T17:01:36Z",
         "content": null
     },
     {
         "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
+            "id": "axios",
+            "name": "Axios"
         },
-        "author": "Daniel Howley",
-        "title": "Anthropic IPO live: Anthropic stock drops after first day of trading - Yahoo Finance",
-        "description": "Anthropic began publicly trading on Thursday.",
-        "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-drops-after-first-day-of-trading-143300513.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/3bee71aa73f659d4097f0383d9b5b2b3dd4ffacb327167a64eacda7b47c6c157/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fanthropic-ipo-thumbnail-main_7670.png",
-        "publishedAt": "2026-11-20T16:06:56Z",
-        "content": "Ashton Kutcher and Sam Bankman-Fried both bet early on Anthropic. Only one is celebrating its public market debut.\r\nBankman-Fried's FTX put $500 million into Anthropic (ANT) in 2021 for about 14% of \u2026 [+1812 chars]"
+        "author": "Ben Berkowitz",
+        "title": "Trump says he'd work with Dems to cap credit card interest, fees - Axios",
+        "description": "\"The credit card companies, they're getting too much,\" the president said.",
+        "url": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
+        "urlToImage": "https://images.axios.com/qslumVIW4mIjnd1g_y6o9IckwAQ=/0x0:5107x2873/1366x768/2026/11/21/1795278433499.jpeg",
+        "publishedAt": "2026-11-21T16:54:22Z",
+        "content": "Driving the news: Trump, in a Fox News interview Saturday morning, was asked whether a rate cap on cards was something on which he could find common ground with Democrats.\r\n<ul><li>Sen. Elizabeth War\u2026 [+1611 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Financial Times"
+            "name": "PBS"
         },
         "author": null,
-        "title": "The AI fever in markets is breaking - Financial Times",
-        "description": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
-        "url": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6\\\\u003d1",
-        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5d0fa98a-b575-4358-a8f4-7202a224128c.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "publishedAt": "2026-11-20T15:23:38Z",
-        "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China - PBS",
+        "description": "\u201cThe proper chip restrictions are in place,\u201d Bessent said in an interview with CNBC after returning from a trip to Asia with President Donald Trump. \u201cAnd the remote access has been curtailed.\u201d",
+        "url": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
+        "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-20T200556Z_1145765515_RC2UROAU648C_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+        "publishedAt": "2026-11-21T16:28:20Z",
+        "content": "WASHINGTON (AP) Treasury Secretary Scott Bessent said Friday that no further restrictions on the sale of older Nvidia chips to China are needed following the Trump administration's move earlier this \u2026 [+4743 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Travel+Leisure"
+        },
+        "author": "https://www.facebook.com/travelandleisure/",
+        "title": "We Asked 5 Hotel Front Desk Professionals What They Notice the Moment a Guest Walks In\u2014Here\u2019s What They Revealed - Travel + Leisure",
+        "description": "Flight attendants explain how airlines handle passenger fights, who makes the final decisions, and when disruptive behavior can lead to fines or flight diversions.",
+        "url": "https://www.travelandleisure.com/what-hotel-front-desk-agents-notice-about-guests-12262993",
+        "urlToImage": "https://www.travelandleisure.com/thmb/2hNC3lYzTN2ldaLiIl339sJH1kI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-guests-checking-in-at-a-hotel-HOTELCHECKINTELLS1126-724af2a3f96343c5896c6731e4cf534f.jpg",
+        "publishedAt": "2026-11-21T16:15:00Z",
+        "content": "Whether someones just come off an arduous transatlantic flight or is practically skipping through the lobby of a tropical resort to start a long-awaited vacation, hotel front desk agents are trained \u2026 [+6361 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Futurism"
+        },
+        "author": "Joe Wilkins",
+        "title": "SpaceX Lenders Horrified at Elon's Genius Idea to Blast Billions of Dollars Worth of Advanced AI Chips Into Space - Futurism",
+        "description": "The banks backstopping SpaceX's massive loan are worried that Elon Musk could shoot the collateral into the stratosphere.",
+        "url": "https://futurism.com/space/spacex-lenders-elon-musk-chips-space-data-centers",
+        "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/spacex-investors-elon-plan-chips-space.jpg?quality=85&w=1200",
+        "publishedAt": "2026-11-21T15:51:00Z",
+        "content": "Can\u2019t-miss innovations from the bleeding edge of science and tech\r\nElon Musk\u2019s latest flight of fancy involves potentially launching billions of dollars worth of cutting-edge AI chips into space.\r\nSt\u2026 [+2016 chars]"
+    },
+    {
+        "source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Truman Dickerson",
+        "title": "What Jensen Huang\u2019s allies say they've told him since his resignation: 'Let's fight' - Business Insider",
+        "description": "Former Nvidia CEO Jensen Huang's friends and allies have been calling. Here's what they say they've told him.",
+        "url": "https://www.businessinsider.com/jensen-huang-nvidia-ceo-comeback-advice-allies-2026-11#article",
+        "urlToImage": "https://i.insider.com/6b0070d50b69407d788a4f10?width=1200&format=jpeg",
+        "publishedAt": "2026-11-21T15:31:00Z",
+        "content": "As Jensen Huang games out a possible return to Nvidia as CEO, the 63-year-old chip mogul is turning to a pocket-sized lifeline: his phone.\r\nOn the other end of the line are a series of tech CEOs, Nvi\u2026 [+4295 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Newser"
+        },
+        "author": "Jenn Gidman",
+        "title": "Honda, Toyota Recall 1.6M Vehicles Over Airbag Risk - Newser",
+        "description": "Car manufacturers recall 1.6M vehicles over risks with Takata airbag inflators rupturing",
+        "url": "https://www.newser.com/story/400415/honda-toyota-recall-16m-vehicles-over-airbag-risk.html",
+        "urlToImage": "https://cdn.newser.com/image/1725929-12-20261121110403.jpeg",
+        "publishedAt": "2026-11-21T15:30:00Z",
+        "content": "Honda and Toyota are pulling 1.6 million vehicles off the road over a fresh concern with Takata airbag inflators\u2014this time in models that were previously thought to be safer due to their moisture-abs\u2026 [+392 chars]"
     },
     {
         "source": {
             "id": "fortune",
             "name": "Fortune"
         },
-        "author": "Amanda Gerut",
-        "title": "Ex-Super Micro exec married to Nvidia\u2019s former sales chief says she took CEO job days before smuggling scandal broke - Fortune",
-        "description": "ChronoScale, which is majority owned by Applied Digital, is sending $200 million to Super Micro through a subsidiary to pay for GPUs, a filing this week shows.",
-        "url": "https://fortune.com/2026/11/20/ex-super-micro-exec-cenly-chen-married-nvda-jay-puri-chronoscale-ceo-china-gpu-scandal/",
-        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/cenly-chen-chronoscale-tight.jpg?resize=1200,600",
-        "publishedAt": "2026-11-20T15:20:00Z",
-        "content": "A little-known figure in the palace intrigue involving Nvidias Jensen Huang and possible chip smuggling is rapidly gaining attention. Ying Cenly Chen, a former senior executive at Super Micro Compute\u2026 [+12587 chars]"
+        "author": "Nick Lichtenberg",
+        "title": "Goldman Sachs admits the 'AI unwind' has spiraled into something more dangerous \u2014 and it's watching for 3 signs of bottom - Fortune",
+        "description": "Hedge funds have trimmed AI bets, but Goldman says mutual funds, ETFs and futures traders remain heavily invested, even with indexes in a correction.",
+        "url": "https://fortune.com/2026/11/21/goldman-sachs-sp-500-correction-ai-unwind-bottom-three-conditions-hedge-funds-positioning/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2305538532-e1795271671574.jpg?resize=1200,600",
+        "publishedAt": "2026-11-21T14:47:00Z",
+        "content": "The S&amp;P 500 closed Friday in a correction, falling 3.59% to 6,918.45 for its seventh straight loss and its longest losing streak since February 2020. The Nasdaq Composite dropped 5.28% and is now\u2026 [+5524 chars]"
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Alex Veiga",
+        "title": "A 10% drop for the stock market is unnerving, but it\u2019s not that unusual - AP News",
+        "description": "The U.S. stock market has dropped 10% from its high set last month amid concerns about the growing hurdles faced by the high-flying artificial intelligence industry. The fall for the S&P 500 is steep enough that Wall Street has a name for it: a \u201ccorrection.\u201d \u2026",
+        "url": "https://apnews.com/article/ai-tech-stocks-correction-sp-500-e69b0efcc423bc91871c1afabf36742d",
+        "urlToImage": "https://dims.apnews.com/dims4/default/25efdf5/2147483647/strip/true/crop/5603x3735+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2F5e%2Fe97782585bf8ed4616057a7a92b7%2Ff490c0acc4cd429a911eb66f04d90578",
+        "publishedAt": "2026-11-21T14:01:00Z",
+        "content": "The U.S. stock market has dropped 10% from its high set last month amid concerns about the growing hurdles faced by the high-flying artificial intelligence industry.\r\nThe fall for the S&amp;P 500 is \u2026 [+5686 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "CNBC"
+            "name": "Futurism"
         },
-        "author": "Michael Wayland",
-        "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough' - CNBC",
-        "description": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
-        "url": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107358100-1705075396840-GMManagementChanges02.jpg?v=1705180335&w=1920&h=1080",
-        "publishedAt": "2026-11-20T15:10:15Z",
-        "content": "Mary Barra, chief executive officer of General Motors Co., center, outside the Nasdaq MarketSite in New York, US, on Tuesday, Nov. 17, 2026. \r\nFormer General Motors CEO and Chairman Dan Akerson doesn\u2026 [+4764 chars]"
+        "author": "Frank Landymore",
+        "title": "Economists Are Hyperventilating Over the AI Bubble - Futurism",
+        "description": "As Anthropic's historic IPO failed to reverse a weekslong selloff in tech stocks, the AI bubble is looking more menacing than ever.",
+        "url": "https://futurism.com/future-society/economists-hyperventilating-ai-bubble",
+        "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/economists-hyperventilating-ai-bubble.jpg?quality=85&w=1200",
+        "publishedAt": "2026-11-21T13:51:00Z",
+        "content": "Can\u2019t-miss innovations from the bleeding edge of science and tech\r\nDon\u2019t panic about the AI bubble, folks just ignore all the economists hyperventilating about it in the corner.\r\nThe absurdly swift r\u2026 [+3299 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "google-news",
+            "name": "Google News"
         },
-        "author": "Forbes",
-        "title": "Did Banks Get Hacked? Visa, Mastercard, Chase Confirm Vendor Cyberattack - Forbes",
+        "author": "HuffPost",
+        "title": "Trump Again Separating His Followers From Their Money With Another Crypto Dinner - HuffPost",
         "description": null,
-        "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/20/chase-visa-mastercard-customer-data-leaked-in-cyberattack/",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0xrZmNkRDBNcXVWdDJmVktLaFdxOW1SUjZaYUtOU1NHMnJNNXRoX2NoSUp6aDBSZnJJZ1QyT19TQzdpaG9rTEZHaTZDRVpJSWQtdDRGSFBMZVFFalR1QlFXckcxS1lWcUt0bl9ZVG9zSDJKX1VwUi04VkhXbVR1emRTSE1sQ0lIcWpsdk130gGTAUFVX3lxTE9vb3NrSzdubG9ubzhIbUtRNFhNWG1jX3ExZW84UDdJYlpoS3pwOE1TTEQyQk5qNEl0anBnZEd1d2RrM3c5akpObEpWQWdMWncyX2c4dzRRZHBMUXN4aDVjRFNxb05neDRKMDh0N1Y2YjcxeF9iazB1SzNMS0I3NkJ6S21laTJsVHZ6QVFtRl84TDdkVQ?oc=5",
         "urlToImage": null,
-        "publishedAt": "2026-11-20T15:02:00Z",
+        "publishedAt": "2026-11-21T13:00:17Z",
         "content": null
     },
     {
         "source": {
-            "id": "techcrunch",
-            "name": "TechCrunch"
-        },
-        "author": "Ram Iyer",
-        "title": "California AG subpoenas Nvidia over worries about Huang\u2019s ties with China - TechCrunch",
-        "description": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-        "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/nemoclaw.jpg?resize=1200,675",
-        "publishedAt": "2026-11-20T13:21:11Z",
-        "content": "California\u2019s Attorney General Rob Bonta on Thursday evening said the state has served an investigative subpoena to Nvidia following news of former CEO Jensen Huang\u2019s affair with a woman who the U.S. \u2026 [+2539 chars]"
-    },
-    {
-        "source": {
             "id": null,
             "name": "CNBC"
         },
-        "author": "Ashley Capoot",
-        "title": "Anthropic raises $93.5 billion total as underwriters scoop up \u2018greenshoe\u2019 overallotment - CNBC",
-        "description": "The AI company sold an aggregate of 1,127,000,000 shares at $83 per share in the record IPO.",
-        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108555352-17951019042026-11-19t145814z_563319887_rc21roaktnjs_rtrmadp_0_anthropic-ipo-debut.jpeg?v=1795101947&w=1920&h=1080",
-        "publishedAt": "2026-11-20T13:11:10Z",
-        "content": "Anthropic underwriters have officially exercised their overallotment of shares in the historic initial public offering, bringing the total raised to $93.5 billion, according to a release Friday.\u00a0\r\nTh\u2026 [+2301 chars]"
+        "author": "Jordan Novet",
+        "title": "Anthropic\u2019s record IPO collides with tech\u2019s worst week on Wall Street since 2020 - CNBC",
+        "description": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+        "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108555254-1795098552302-gettyimages-2305298530-AFP_D7ZG87P.jpeg?v=1795137591&w=1920&h=1080",
+        "publishedAt": "2026-11-21T13:00:01Z",
+        "content": "Anthropic CEO Dario Amodei appears at the Nasdaq MarketSite ahead of the company's trading debut in New York on Nov. 19, 2026. \r\nStartup investor Ben Narasin is so jazzed about Anthropic's blockbuste\u2026 [+7298 chars]"
     },
     {
         "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
+            "id": "wired",
+            "name": "Wired"
         },
-        "author": "Elizabeth Robinson, Josephine Murphy",
-        "title": "Stocks slide despite Anthropic\u2019s record debut and Trump touts \u2018unbelievable\u2019 China summit: Morning Rundown - NBC News",
-        "description": "Stocks fell despite Anthropic\u2019s record-setting public debut.",
-        "url": "https://www.nbcnews.com/news/us-news/anthropic-stock-debut-trump-china-summit-morning-rundown-rcna610364",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/2612118-anthropic-logo-ww-1239-35b0c8.jpg",
-        "publishedAt": "2026-11-20T12:01:23Z",
-        "content": "Stocks fell despite Anthropics record-setting public debut. Trump calls his meetings with Xi and Putin amazing. And why Google is getting backlash from some of the nations largest school districts.\r\n\u2026 [+7612 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Ryan Baker",
-        "title": "Rejecting cheap fabrics, higher prices: Why shoppers are asking for better clothes - CNBC",
-        "description": "Retailers are charging higher prices for clothing made with cheaper materials. Shoppers are taking notice and experts say it could shift how they spend.",
-        "url": "https://www.cnbc.com/2026/11/20/clothing-prices-polyester-cotton-quality.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108528287-1793915091143-gettyimages-2295079211-China_Manufacturing_Industry.jpeg?v=1794005313&w=1920&h=1080",
-        "publishedAt": "2026-11-20T12:00:02Z",
-        "content": "Clothing isn't made like it used to be, and more shoppers are taking notice.\r\nThe makeup of apparel imported into the U.S. has shifted in recent years. In 2010, about 60% of clothing was predominantl\u2026 [+7795 chars]"
-    },
-    {
-        "source": {
-            "id": "politico",
-            "name": "Politico"
-        },
-        "author": "Andrew Atterbury",
-        "title": "Dems crash Elon Musk\u2019s Texas honeymoon - Politico",
-        "description": "Newly empowered Democrats want to revisit deals benefiting the tech titan\u2019s business empire.",
-        "url": "https://www.politico.com/news/2026/11/20/elon-musk-spacex-texas-democrats-election-01177121",
-        "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F3c%2Fcf%2F2bfb085243db980a9c624546a967%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2297775036",
-        "publishedAt": "2026-11-20T11:50:00Z",
-        "content": "Elon Musks regrets about spending hundreds of millions of dollars to unsuccessfully back Republicans could be getting deeper in Texas, the epicenter of his sprawling tech empire.\r\nThe Democrats set t\u2026 [+782 chars]"
+        "author": "Lily Hay Newman, Matt Burgess",
+        "title": "The Outages Are Just Getting Started - WIRED",
+        "description": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+        "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+        "urlToImage": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/191:100/w_1280,c_limit/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
+        "publishedAt": "2026-11-21T13:00:00Z",
+        "content": "IT administrators are leaning on AI more as well to accelerate their evaluation and prepare their systems for updates, but current AI tools still cant replace human analysis and planning.\r\nAI can hel\u2026 [+1936 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "Space.com"
         },
-        "author": "Brian Smith, Davide Barbuscia and Caleb Mutua",
-        "title": "SpaceX Sells $32 Billion of AI Chip Debt at Yields Topping 8% - Yahoo Finance",
-        "description": "SpaceX sold $32 billion of bonds to fund its purchase of artificial intelligence chips on Thursday, in a complicated and relatively high-yielding transaction...",
-        "url": "https://finance.yahoo.com/technology/ai/articles/spacex-sells-32-billion-ai-234112045.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/13d44671b4134cad1d8e17b541f92cfb8032f28118e5a0980537b09fd3c061a7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F406eea7501deb3d4203ee383dd24e728.jpg",
-        "publishedAt": "2026-11-20T11:47:03Z",
-        "content": "(Bloomberg) -- SpaceX (SPCX) sold $32 billion of bonds to fund its purchase of artificial intelligence chips on Thursday, in a complicated and relatively high-yielding transaction that may serve as a\u2026 [+4381 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Fox Business"
-        },
-        "author": "Kristen Altus",
-        "title": "Anthropic's $1.5 trillion IPO sets off a fresh wave of tech wealth heading for South Florida - Fox Business",
-        "description": "Anthropic's $1.5 trillion IPO is minting new tech millionaires, and South Florida developers say a massive wave of blue-state wealth is heading to the Sunshine State.",
-        "url": "https://www.foxbusiness.com/real-estate/anthropics-1-5-trillion-ipo-sets-off-fresh-wave-tech-wealth-heading-south-florida",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/florida-anthropic.png?ve=1&tl=1",
-        "publishedAt": "2026-11-20T11:00:00Z",
-        "content": "Now live on the Nasdaq, Anthropic\u2019s $1.5 trillion stock market debut is poised to mint a fresh class of overnight multimillionaires. While Wall Street cheers one of the largest public listings in his\u2026 [+7448 chars]"
+        "author": "Mike Wall",
+        "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says - Space",
+        "description": "Ship 42 will go on display.",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/FBiquE8ByNwXYMJZeaXVkm-2560-80.jpg",
+        "publishedAt": "2026-11-21T13:00:00Z",
+        "content": null
     },
     {
         "source": {
             "id": null,
             "name": "NPR"
         },
-        "author": "Rafael Nam",
-        "title": "How exactly did Trump get so rich on crypto? We explain - NPR",
-        "description": "President Trump has made billions of dollars in his second term \u2014 most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
-        "url": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+506/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fcf%2F8f%2F9e5455a243c8b992264a02774d3d%2Fgettyimages-1188743848.jpg",
-        "publishedAt": "2026-11-20T10:00:00Z",
-        "content": "For the last year, Will Ragland and a team of researchers at the Center for American Progress a left-leaning think tank in Washington, D.C. have dedicated themselves to counting how much money Presid\u2026 [+6817 chars]"
+        "author": "The Associated Press",
+        "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - NPR",
+        "description": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an AI company or someone linked to one claim\u2026",
+        "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8565x4818+0+446/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2F26%2F578525af4450b59d88792c06e0da%2Fap26323821321779.jpg",
+        "publishedAt": "2026-11-21T12:30:16Z",
+        "content": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude.\r\nIt marks the second time in re\u2026 [+3965 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "CNBC"
         },
-        "author": "Thomas Germain",
-        "title": "Yes, you're getting ripped off on Black Friday. These tips will help you spot the bogus bargains - BBC",
-        "description": "Online 'deals' can often not be as good as they first seem and actually cost you more. But there are some easy ways to spot slippery pricing.",
-        "url": "https://www.bbc.com/future/article/20261119-the-black-friday-deals-that-rip-you-off",
-        "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0pnxt8v.jpg",
-        "publishedAt": "2026-11-20T10:00:00Z",
-        "content": "No one I spoke to suggested Amazon is breaking the law. But US law says you generally can't offer a discount that doesn't exist, says Seth Frotman, a senior fellow at the Berkeley Center for Consumer\u2026 [+107 chars]"
+        "author": "Leslie Josephs",
+        "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin - CNBC",
+        "description": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+        "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108555266-1795098920001-IMG_6917_1.jpg?v=1795099096&w=1920&h=1080",
+        "publishedAt": "2026-11-21T12:00:01Z",
+        "content": "A Pan American (Pan Am) air hostess serving champagne in the first class cabin of a Boeing 747 jumbo jet on Jan. 12, 1970.\r\nThe era of U.S. airlines' long-haul, international first class ended this w\u2026 [+7460 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "crash.net"
+            "name": "Internet"
         },
-        "author": "Simon Hancocks",
-        "title": "US trailblazer\u2019s Marc Marquez MotoGP dream overshadowed by $600m sponsor fraud charge - Crash.net",
-        "description": "Kayla Yaakov's historic year is being overshadowed by a major fraud investigation onto a team sponsor",
-        "url": "https://www.crash.net/motogp/news/1110275/1/us-trailblazers-marc-marquez-motogp-dream-overshadowed-600m-sponsor-fraud",
-        "urlToImage": "https://www.crash.net/sites/default/files/2026-07/yaakov1.png?width=1600&aspect_ratio=16:9",
-        "publishedAt": "2026-11-20T09:25:46Z",
-        "content": "Kayla Yaakov's dream Ducati MotoGP ride made 2026 a year to remember, but her team's sponsor is now embroiled in a $600m fraud scandal.\r\nKayla Yaakov has enjoyed a season to remember in 2026, becomin\u2026 [+2738 chars]"
+        "author": "The Hacker News",
+        "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats - The Hacker News",
+        "description": "Researchers demonstrated Meta Muse flaws enabling conversation theft and cloud machine takeover; NebuSec says the issues are fixed.",
+        "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+        "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYiVrbfn3FWfI_uNyjj8q9SZ38d2mHKu2ehdtYYKPwyg-05yKJBYUAPEaVxJq5KDGwU11X2tmEKNUKPIHQY9s67e1K9w_8NRdEOxVCDJqqMbQ6F27kfOj3GKjcQ3-0WHFNg7uYT6QeIU90qX1YW_Zvyn7WhZwpV41i5Pj6watQsF7Ti8NN1GIQLxw-jPc/s1600/muse-ai.jpg",
+        "publishedAt": "2026-11-21T11:53:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "fortune",
+            "name": "Fortune"
+        },
+        "author": "Molly A. Wallace",
+        "title": "Google told schools to accept AI or lose Search. Now 3 of America\u2019s 4 largest districts are pushing back - Fortune",
+        "description": "Chicago, New York and Los Angeles have restricted student AI. Now Google says keeping Search means accepting AI Overviews, and Miami-Dade, a Gemini partner, isn\u2019t saying how it will respond.",
+        "url": "https://fortune.com/2026/11/21/google-search-ai-overviews-schools-chicago-nyc-los-angeles-miami/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-1254051142.jpg?resize=1200,600",
+        "publishedAt": "2026-11-21T11:40:00Z",
+        "content": "Google has handed school districts what many have called an ultimatum: Allow students to see AI summaries in their Google searches, or give up Google Search on school accounts altogether.In August, G\u2026 [+9197 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Reshma Kapadia",
+        "title": "If the AI Boom Turns Into a Total Bust, Here\u2019s What the Pain Could Look Like - Barron's",
+        "description": "No matter what stage of the AI bust we are in, the rapid tech selloff has forced analysts and investors to at least entertain what happens if the AI spending boom is about to wind down.",
+        "url": "https://www.barrons.com/articles/ai-tech-stocks-selloff-economy-markets-15c6461b",
+        "urlToImage": "https://images.barrons.com/im-56122297/social",
+        "publishedAt": "2026-11-21T11:30:00Z",
+        "content": "Thinking through the fallout of an AI bust took on new urgency after Fridays market meltdown.\r\nCopyright \u00a92026Dow Jones &amp; Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
     }
 ]
