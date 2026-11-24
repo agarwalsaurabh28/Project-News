@@ -1,54 +1,171 @@
 [
     {
         "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Rachel Roubein, Ariana Eunjung Cha",
-        "title": "Federal scientists flag new cancer concerns with common herbicide - The Washington Post",
-        "description": "The findings from their new look at the active ingredient in Roundup and cancer are raising alarms among researchers and advocates.",
-        "url": "https://www.washingtonpost.com/health/2026/11/22/federal-scientists-flag-new-cancer-concerns-with-common-herbicide/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FSZ3EVA4HNCJHJH242MNOI7CAA.jpg&w=1440",
-        "publishedAt": "2026-11-23T00:32:52Z",
-        "content": "New findings from federal scientists could increase pressure on the Environmental Protection Agency to change its position on the link between glyphosate and cancer, according to environmental health\u2026 [+70 chars]"
-    },
-    {
-        "source": {
-            "id": "bloomberg",
-            "name": "Bloomberg"
-        },
-        "author": "Anand Krishnamoorthy",
-        "title": "US Stock Futures Open Higher After Tech Selloff: Markets Wrap - Bloomberg.com",
-        "description": "US equity-index futures opened higher in early Asian trading as buyers returned following Friday\u2019s sharp selloff sparked by an unwinding of the artificial intelligence trade. Treasury bond futures fell.",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap",
-        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip2.waWRveJE/v1/1200x800.jpg",
-        "publishedAt": "2026-11-22T23:36:15Z",
-        "content": "US equity-index futures opened higher in early Asian trading as buyers returned following Fridays sharp selloff sparked by an unwinding of the artificial intelligence trade. Treasury bond futures fel\u2026 [+97 chars]"
-    },
-    {
-        "source": {
             "id": "nbc-news",
             "name": "NBC News"
         },
-        "author": "Megan Shannon, Patrick Maguire, Julie Tsirkin, Raquel Coronell Uribe",
-        "title": "Trump hosts exclusive dinner for investors in his declining meme coin - NBC News",
-        "description": "President Donald Trump will reward top investors in his declining meme coin with an exclusive dinner Sunday night as Democrats focus future congressional probes on the president\u2019s business dealings, including his crypto ventures.",
-        "url": "https://www.nbcnews.com/politics/donald-trump/trump-hosts-exclusive-dinner-investors-declining-meme-coin-rcna610757",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261122-trump-manila-philippines-ww-1417-034fd4.jpg",
-        "publishedAt": "2026-11-22T23:11:54Z",
-        "content": "President Donald Trump will reward top investors in his declining meme coin with an exclusive dinner Sunday night as Democrats focus future congressional probes on the presidents business dealings, i\u2026 [+3357 chars]"
+        "author": "Steve Kopack",
+        "title": "Stocks surge in best day since 2025, adding trillions in value after Jensen Huang returns to Nvidia - NBC News",
+        "description": "Major U.S. stock indexes soared Monday to their best day since April 2025, as Wall Street cheered Jensen Huang\u2019s return to Nvidia.",
+        "url": "https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261123-nyse-rs-5aa299.jpg",
+        "publishedAt": "2026-11-23T22:29:19Z",
+        "content": "Major U.S. stock indexes soared Monday to their best day since April 2025, as Wall Street cheered Jensen Huangs return to Nvidia.\r\nThe S&amp;P 500 rallied 4.7%, while the Nasdaq 100 index surged almo\u2026 [+6339 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Abcnews.com"
+            "name": "Semafor.com"
         },
-        "author": "ABC News - Breaking News, Latest News and Videos",
-        "title": "Equipment outage in Atlanta causes over 1,600 Delta flight delays - ABC News - Breaking News, Latest News and Videos",
-        "description": null,
-        "url": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id\\\\u003d138360900",
-        "urlToImage": null,
-        "publishedAt": "2026-11-22T22:21:52Z",
+        "author": "Ashley Gold",
+        "title": "Exclusive / Commerce to add Megaspeed to trade blacklist - Semafor",
+        "description": "US companies will not be able to sell chips to the Singapore-based firm at the heart of the Nvidia scandal without obtaining a license.",
+        "url": "https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist",
+        "urlToImage": "https://img.semafor.com/0e70f2355e8cce4ccae3a2a88f09dc2db1a80665-4109x2740.jpg?rect=0,292,4109,2157&w=1200&h=630&q=75&auto=format",
+        "publishedAt": "2026-11-23T22:08:00Z",
+        "content": "The Trump administration on Monday added the company at the heart of the Nvidia scandal, Megaspeed, to a trade blacklist designed to prevent it from obtaining US-made semiconductors. \r\nThe Singapore-\u2026 [+2222 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Louis Casiano",
+        "title": "US moves to recover over $1B in crypto stolen by North Korean hackers in Binance heist - Fox Business",
+        "description": "Federal prosecutors are moving to recover more than $1 billion in USDC stablecoins stolen during the massive $6 billion North Korean cyberattack on Binance.",
+        "url": "https://www.foxbusiness.com/fox-news-tech/us-recover-1b-crypto-stolen-north-korean-hackers-binance-heist",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/0/0/FINTECH-CRYPTO-BINANCE-STABLECOIN-e1677698826961.jpg?ve=1&tl=1",
+        "publishedAt": "2026-11-23T21:40:00Z",
+        "content": "The U.S. government has begun legal proceedings to recover more than $1 billion in cryptocurrency stolen by North Korean hackers during a $6 billion heist from the Binance crypto exchange.\r\nSo far, t\u2026 [+2584 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gothamist"
+        },
+        "author": "https://gothamist.com/staff/stephen-nessen",
+        "title": "NYC Citi Bike member rides to be capped at $3.65 after Mamdani inks new deal with Lyft - Gothamist",
+        "description": "The agreement also freezes membership prices through May 2029.",
+        "url": "https://gothamist.com/news/nyc-citi-bike-rides-to-be-capped-at-365-for-members-under-new-deal-with-lyft",
+        "urlToImage": "https://api-prod.gothamist.com/images/362600/fill-1200x650|format-webp|webpquality-85/",
+        "publishedAt": "2026-11-23T21:38:00Z",
+        "content": "Citi Bike members will soon pay less for electric bike rides under a new agreement between Mayor Zohran Mamdanis administration and Lyft, which operates the bike-share program.\r\nThe deal will also fr\u2026 [+2598 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Daniel Howley",
+        "title": "Nvidia stock has best day since May 2003, gaining nearly $1T in market cap after Jensen Huang is reinstated as CEO - Yahoo Finance",
+        "description": "Nvidia reinstated Jensen Huang as CEO, stock soars 30%.",
+        "url": "https://finance.yahoo.com/technology/article/nvidia-stock-has-best-day-since-may-2003-gaining-nearly-1t-in-market-cap-after-jensen-huang-is-reinstated-as-ceo-212735744.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/fdb917782b1855d9c544cfa9291f57fca6bb138d0824e10ea650867ae03fa16e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F9d1fc1c2-e102-41a6-9c92-b0ed4f355e5a",
+        "publishedAt": "2026-11-23T21:27:35Z",
+        "content": "Nvidia's (NVDA) stock rocketed more than 30% Monday after the company's board announced it reinstated Jensen Huang as CEO and president of the chip giant.\r\nThe chip giant added nearly $1 trillion to \u2026 [+3158 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Barron's"
+        },
+        "author": "Anita Hamilton",
+        "title": "Why Anthropic\u2019s Stock Is Sitting Out Nvidia\u2019s Big Rally - Barron's",
+        "description": "The AI firm\u2019s IPO has been a bummer for retail investors so far.",
+        "url": "https://www.barrons.com/articles/anthropic-stock-nvidia-big-rally-6782b633",
+        "urlToImage": "https://images.barrons.com/im-33296038/social",
+        "publishedAt": "2026-11-23T19:58:00Z",
+        "content": "As traders breathed a collective sigh of relief Monday following the reinstatement of Jensen Huang asNvidiaCEO, one tech stock was notably excluded from the rally.Anthropicshares fell more than 3% Mo\u2026 [+141 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Kara Scannell",
+        "title": "New York judge urged Kalshi to compromise on limiting bets by anyone under 21 - CNN",
+        "description": "A New York judge on Monday urged Kalshi to reach a compromise limiting bets on sports and culture contracts by anyone younger than 21 years old while denying a temporary restraining order that risked shutting down the prediction market across all 50 states.",
+        "url": "https://www.cnn.com/2026/11/23/politics/judge-kalshi-limiting-bets-under-21",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2300011869.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2026-11-23T19:55:21Z",
+        "content": "A New York judge on Monday urged Kalshi to reach a compromise limiting bets on sports and culture contracts by anyone younger than 21 years old while denying a temporary restraining order that risked\u2026 [+3219 chars]"
+    },
+    {
+        "source": {
+            "id": "politico",
+            "name": "Politico"
+        },
+        "author": "Jasper Goodman",
+        "title": "Senate schedules Jensen Huang hearing - Politico",
+        "description": "The Senate Banking hearing sets the stage for a blockbuster public interrogation of the reinstated Nvidia CEO.",
+        "url": "https://www.politico.com/live-updates/2026/11/23/congress/jensen-huang-testify-senate-banking-nvidia-congress-01180480",
+        "urlToImage": "https://www.politico.com/dims4/default/09004ef/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff3%2Ff9%2Fd2d5edb24dc583dd455b3d5c04fa%2Fu-s-congress-33894.jpg",
+        "publishedAt": "2026-11-23T19:22:15Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "Sarah Rankin",
+        "title": "States sue Musk companies over flood of sexualized images made with AI chatbot Grok - AP News",
+        "description": "Two Democratic attorneys general are suing several of Elon Musk's companies in connection with the controversy over his AI chatbot's ability to create sexualized images. Virginia and Oregon argue in lawsuits filed Monday that Musk's companies disregarded safe\u2026",
+        "url": "https://apnews.com/article/grok-lawsuit-elon-musk-ai-abuse-images-452cc64e7169a55868f797982d0e8238",
+        "urlToImage": "https://dims.apnews.com/dims4/default/2ba245b/2147483647/strip/true/crop/7681x5121+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F08%2Faf%2Fee283fe98e3ade3524189d6cd599%2F799dee9b6dcc489ca27300214d1180c6",
+        "publishedAt": "2026-11-23T19:21:00Z",
+        "content": "RICHMOND, Va. (AP) Elon Musks businesses harmed consumers by avoiding safeguards when they designed and launched an artificial intelligence chatbot capable of creating sexualized images, two Democrat\u2026 [+5503 chars]"
+    },
+    {
+        "source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Nathan Bomey",
+        "title": "Nvidia board shows \"lack of backbone\" in re-hiring Jensen Huang, governance experts say - Axios",
+        "description": "Nvidia's sudden reappointment of Jensen Huang exposes the company to legal liability, political blowback and internal turmoil while rendering the board nearly toothless to keep their CEO accountable moving forward, according to corporate governance and busine\u2026",
+        "url": "https://www.axios.com/2026/11/23/jensen-huang-ceo-board-affair",
+        "urlToImage": "https://images.axios.com/wOLkHR0JiqGw9z6pqYF3btUx-9g=/0x312:7256x4394/1366x768/2026/11/23/1795447442197.jpeg",
+        "publishedAt": "2026-11-23T19:04:45Z",
+        "content": "<ul><li>\"The whole thing shows a total lack of backbone on the part of that board,\" says Charles Elson, a corporate governance expert and former University of Delaware professor. \"And it's an abrogat\u2026 [+3845 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Times"
+        },
+        "author": null,
+        "title": "The leveraged short Nvidia ETFs have just blown up - Financial Times",
+        "description": "You love to see it",
+        "url": "https://www.ft.com/content/6a18ca6e-e85a-4f07-b8ff-08344b982609",
+        "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F36422838-c13e-496e-b27d-678816ea9c5b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "publishedAt": "2026-11-23T17:44:08Z",
+        "content": "Complete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.\r\n<ul><li>Global news &amp; analysis</li><li>Expert opinion</li><li>FT App\u2026 [+420 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NBC Chicago"
+        },
+        "author": "Alex Dvorak",
+        "title": "Ground stop issued at O'Hare Airport \u2018due to staffing' at start of busy holiday week - NBC Chicago",
+        "description": "A ground stop has been issued at Chicago's O'Hare Airport at the start of the busy Thanksgiving holiday travel week, the FAA announced Monday.",
+        "url": "https://www.nbcchicago.com/news/local/ground-stop-issued-at-ohare-airport-due-to-staffing-at-start-of-busy-holiday-week/4020413/",
+        "urlToImage": "https://media.nbcchicago.com/2026/01/GettyImages-2192206716.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2026-11-23T17:28:22Z",
+        "content": "A ground stop was briefly issued at Chicago's O'Hare International Airport Monday by the Federal Aviation Administration. \r\nAccording to the FAA, \"departures to Chicago O'Hare International are groun\u2026 [+666 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "Joy Wiltermuth, Myra P. Saefong, Joseph Adinolfi, Jules Rimmer, Tomi Kilgore, Nora Redmond, Steve Goldstein",
+        "title": "Stock Market Today: Dow jumps 1,500 points, Nasdaq surges 6.7%, S&P 500 shoots higher after Nvidia reinstates Jensen Huang; Nvidia shares up 30% \u2014 live updates - MarketWatch",
+        "description": "It's a big turnaround Monday as Nvidia's board reinstates CEO Jensen Huang and a powerful tech rebound lifts the broader market.",
+        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-slides-tech-rout-anthropic-ipo",
+        "urlToImage": "https://images.mktw.net/im-51746529/social",
+        "publishedAt": "2026-11-23T17:28:00Z",
         "content": null
     },
     {
@@ -56,207 +173,90 @@
             "id": "techcrunch",
             "name": "TechCrunch"
         },
-        "author": "Anthony Ha",
-        "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development - TechCrunch",
-        "description": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-        "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-        "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-        "publishedAt": "2026-11-22T21:14:07Z",
-        "content": "A new blog post from OpenAIs chief scientist Jakub Pachocki discusses potential limits on AI development, with a focus on a measurement called perplexity.\r\nSlowing AI development became a particularl\u2026 [+2060 chars]"
+        "author": "Rebecca Bellan",
+        "title": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips - TechCrunch",
+        "description": "Amazon is acquiring Decart\u2019s AI optimization technology and research team in a reported $7.5 billion deal.",
+        "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
+        "publishedAt": "2026-11-23T17:14:23Z",
+        "content": "Amazon has agreed to acquire a good chunk of Israeli startup Decart.\r\nThe e-commerce and cloud giant is paying $7.5 billion for the startup, according to Bloomberg.\u00a0\r\nDecart has made a name for itsel\u2026 [+1135 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "KING5.com"
+            "name": "Gothamist"
         },
-        "author": "KING5.com",
-        "title": "Officials warn king tides may disrupt Thanksgiving travel across western WA - KING5.com",
-        "description": null,
-        "url": "https://www.king5.com/article/weather/severe-weather/officials-king-tides-disrupt-thanksgiving-travel-acoss-western-wa/281-2ed7c85e-3a3d-4a92-87ab-83f3cf60d29b",
-        "urlToImage": null,
-        "publishedAt": "2026-11-22T19:34:00Z",
+        "author": "https://gothamist.com/staff/giulia-heyward",
+        "title": "Delta delays flights ahead of Thanksgiving holiday over system failure - Gothamist",
+        "description": "An issue with Delta Airlines\u2019 weight and balance system is responsible for the delay at one of the busiest airports in the country.",
+        "url": "https://gothamist.com/news/scattered-showers-heading-for-nyc-could-linger-into-monday",
+        "urlToImage": "https://api-prod.gothamist.com/images/362598/fill-1200x650|format-webp|webpquality-85/",
+        "publishedAt": "2026-11-23T15:24:00Z",
+        "content": "A tech snafu at one of the worlds busiest airports on Sunday is delaying thousands of Delta Airlines flights headed ahead of the Thanksgiving holiday.\r\nAn issue with Delta Airlines weight and balance\u2026 [+1485 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "FierceBiotech"
+        },
+        "author": "Nick Paul Taylor",
+        "title": "Kymera\u2019s oral eczema drug impresses analysts with Dupixent-like phase 2 efficacy - Fierce Biotech",
+        "description": "Kymera Therapeutics\u2019 phase 2b eczema clinical trial has",
+        "url": "https://www.fiercebiotech.com/biotech/kymeras-oral-eczema-drug-impresses-analysts-dupixent-phase-2-efficacy",
+        "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1472458060.jpg?VersionId=X_MXn7FAd8X4zoL6U74kT7vYfH0weq7f",
+        "publishedAt": "2026-11-23T14:50:00Z",
         "content": null
     },
     {
         "source": {
-            "id": "fox-news",
-            "name": "Fox News"
+            "id": null,
+            "name": "Phys.Org"
         },
         "author": null,
-        "title": "Jim Beam to pause production at flagship Kentucky distillery in major shift for iconic American whiskey brand - Fox News",
-        "description": "Jim Beam shifts bourbon production to its Booker Noe Distillery in Boston, Kentucky, as whiskey inventory hits three times annual U.S. demand, per IWSR.",
-        "url": "https://www.foxnews.com/food-drink/jim-beam-pause-production-flagship-kentucky-distillery-major-shift-iconic-american-whiskey-brand",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/split-image-of-jim-beam-distillery-and-pouring-jim-beam-whiskey.jpg",
-        "publishedAt": "2026-11-22T19:26:28Z",
-        "content": "Jim Beam will indefinitely pause production at its historic flagship distillery in Clermont, Kentucky, amid declining whiskey sales and record inventories.\r\nThe iconic American whiskey brand, owned b\u2026 [+2421 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Natalia Kniazhevich",
-        "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks - Yahoo Finance",
-        "description": "Goldman Sachs Group Inc.\u2019s trading desk says last week\u2019s selloff has created an attractive opportunity to snap up US stocks. Still, the bank cautions that ov...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-traders-see-entry-point-190502514.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/998fe56551eb132bbd563c04ee2aaeb72638898b127ca69e31155a233a6b3791/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F950c3e2177c204c68a5831b4a1497bdd.jpg_up.jpg",
-        "publishedAt": "2026-11-22T19:05:02Z",
-        "content": "(Bloomberg) -- Goldman Sachs Group Inc.'s trading desk says last week's selloff has created an attractive opportunity to snap up US stocks. Still, the bank cautions that overall investor positioning \u2026 [+3622 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Hugh Son",
-        "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens - CNBC",
-        "description": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-        "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108314199-1780134094393-Phantom_work2.png?v=1780135127&w=1920&h=1080",
-        "publishedAt": "2026-11-22T18:55:05Z",
-        "content": "Foundation Future Industries, a start-up founded in 2024, aims to leverage humanoid robots for military and industrial work, rather than household tasks and the service sector.\r\nEmployees at Foundati\u2026 [+5525 chars]"
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Kaia  Hubbard",
-        "title": "Bessent says we \"need answers\" on role Nvidia played in sending AI chips to China, suggests Alice Huang is \"kind of a canard\" - CBS News",
-        "description": "Treasury Secretary Scott Bessent says the government wants to know if Nvidia had \"malicious actors down at the bottom of the company who were responsible for the noncompliance\" with chip export controls.",
-        "url": "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/",
-        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/c9086ee4-e943-463e-a513-2f52fbb7e081/thumbnail/1200x630/e9361894e48a17663bd5b9e09b4bf86a/cbsn-fusion-bessent-says-trump-administration-has-been-in-touch-with-nvidia-leadership-but-still-needs-answers-thumbnail.jpg",
-        "publishedAt": "2026-11-22T18:48:39Z",
-        "content": "Washington \u2014 Treasury Secretary Scott Bessent said Sunday that the administration needs answers from Nvidia as questions swirl about whether it has complied with export restrictions, after revelation\u2026 [+3152 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Substack.com"
-        },
-        "author": "Gary Marcus",
-        "title": "Levent Alp\u00f6ge has solved the Riemann Hypothesis with help of Claude! What does it mean? - Marcus on AI | Substack",
-        "description": "And why isn\u2018t it immediately rescuing the market?",
-        "url": "https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann",
-        "urlToImage": "https://substackcdn.com/image/fetch/$s_!-jYB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51fdd6f6-b68f-4d5b-82a3-377334dbad28_1473x646.png",
-        "publishedAt": "2026-11-22T18:37:02Z",
-        "content": "The stunning news Friday, just after the market closed, was that Levent Alp\u00f6ge appears to have proven the Riemann Hypothesis with the help of Anthropics Claude. \r\nThis is truly, genuinely amazing.\r\nB\u2026 [+3425 chars]"
+        "title": "'The sacred object in mathematics': The Riemann hypothesis, AI and a proof no human can read - Phys.org",
+        "description": "On Friday, Turkish American mathematician and Anthropic employee Levent Alp\u00f6ge announced he had produced a proof of the Riemann hypothesis, one of the most important and famous open problems in mathematics, with the aid of an artificial intelligence (AI) mode\u2026",
+        "url": "https://phys.org/news/2026-11-sacred-mathematics-riemann-hypothesis-ai.html",
+        "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2019/14-mathematical.jpg",
+        "publishedAt": "2026-11-23T14:40:08Z",
+        "content": "On Friday, Turkish American mathematician and Anthropic employee Levent Alp\u00f6ge announced he had produced a proof of the Riemann hypothesis, one of the most important and famous open problems in mathe\u2026 [+6609 chars]"
     },
     {
         "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Lauren Weber, Drew Harwell, Jeremy B. Merrill",
-        "title": "MAHA champions promote dubious products, Post investigation finds - The Washington Post",
-        "description": "Some of the movement\u2019s influencers are advertising more than ever, building businesses that could outlast the political moment.",
-        "url": "https://www.washingtonpost.com/technology/interactive/2026/11/22/coffee-enemas-drinkable-silver-booming-industry-maha-influencers/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/DO5ZP2N2DYTHJKFFHXGXIZLKSM.jpg&w=1200",
-        "publishedAt": "2026-11-22T18:00:00Z",
-        "content": "(@realalexclark/Instagram)\r\nAlex Clarkadvertised Microplastic Daily Detox supplements that cost $39.95, saying a capsule every morning helped stop her from feeling like she was turning into a human p\u2026 [+43509 chars]"
+        "author": "Ian Duncan",
+        "title": "Jensen Huang went to war with Washington \u2014 and won a path to China - The Washington Post",
+        "description": "The Nvidia founder wooed the president and pushed back against lawmakers as the company sought a foothold in the vast Chinese market. The tactics left a trail of mistrust.",
+        "url": "https://www.washingtonpost.com/technology/2026/11/23/how-nvidia-fought-years-washington-sell-its-prized-chips-china/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TZWOBEQUHFCRVO5JAMSJIX7ZF4.jpg&w=1440",
+        "publishedAt": "2026-11-23T14:33:12Z",
+        "content": "For years, Nvidia founder Jensen Huang and his lobbyists barreled through Washington seeking to secure the companys right to sell its powerful artificial intelligence chips to China.\r\nThe companys ca\u2026 [+239 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Motor1 "
+            "name": "404media.co"
         },
-        "author": "Flavio Atzori",
-        "title": "Ferrari's New 296 Challenge Stradale Is A 670-HP Race Car You Can Drive Home - Motor1.com",
-        "description": "The Ferrari 296 Challenge Stradale weighs just 2,932 pounds, makes 670 horsepower, and shares much of its engineering with Ferrari's latest race car.",
-        "url": "https://www.motor1.com/news/816314/ferrari-296-challenge-stradale-first-look-debut/",
-        "urlToImage": "https://cdn.motor1.com/images/mgl/g42rPw/s1/ferrari-296-challenge-stradale.jpg",
-        "publishedAt": "2026-11-22T17:37:23Z",
-        "content": "The curtains open, and for a moment, you're completely transfixed. You know right away that you're looking at something special. This car represents a turning point for Ferrari, a significant departu\u2026 [+7202 chars]"
-    },
-    {
-        "source": {
-            "id": "mashable",
-            "name": "Mashable"
-        },
-        "author": "Bethany Allard, Timothy Beck Werth, Lauren Allain, Samantha Mangino",
-        "title": "77 best early Black Friday deals: Bose, Apple, Nintendo on sale - Mashable",
-        "description": "Pssst \u2014\u00a0you don't actually have to wait until Thanksgiving to score Black Friday deals from your favorite brands.",
-        "url": "https://mashable.com/tech/best-black-friday-live-deals-2026",
-        "urlToImage": "https://helios-i.mashable.com/imagery/articles/05u5ICpaweejHwBrBX2w37b/hero-image.fill.size_1200x675.v1795268958.jpg",
-        "publishedAt": "2026-11-22T17:31:48Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": null,
-        "title": "Transcript: Treasury Secretary Scott Bessent on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026 - CBS News",
-        "description": "The following is the transcript of the interview with Treasury Secretary Scott Bessent that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.",
-        "url": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/",
-        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/2c31aa9f-7902-4892-b6c4-4edf5e3cee26/thumbnail/1200x630g2/d3e205612f1ab8d2660b363a7a26e72d/1-12-20261122-102939-ftn-segment1-cam3-mxf.png",
-        "publishedAt": "2026-11-22T17:16:00Z",
-        "content": "The following is the transcript of the interview with Treasury Secretary Scott Bessent that aired on \"Face the Nation with Margaret Brennan\" on Nov. 22, 2026.\r\nMARGARET BRENNAN: We begin with the Sec\u2026 [+12898 chars]"
+        "author": "Joseph Cox",
+        "title": "\u2018The Code Is Already Copied Everywhere\u2019: The AI Hacking Tool Causing Havoc Around the World - 404 Media",
+        "description": "The original author of AI hacking framework ARTEX may have taken the tool down. But 404 Media spoke to multiple people who are distributing it for anyone to download.",
+        "url": "https://www.404media.co/the-code-is-already-copied-everywhere-the-ai-hacking-tool-causing-havoc-around-the-world-artex-github/",
+        "urlToImage": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/11/Hacker_26322642210237.jpg",
+        "publishedAt": "2026-11-23T14:21:45Z",
+        "content": "ARTEX, an open source framework that makes it easy for AI agents to hack companies at superspeed, is causing havoc. People using the tool appear to include Chinese hackers breaking into targets for e\u2026 [+5258 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "Yahoo Entertainment"
+            "name": "Jalopnik"
         },
-        "author": "Kerry Hannon",
-        "title": "The AI boom is fueling demand for skilled trades - Yahoo Finance",
-        "description": "An expected 1.7 million skilled trade jobs will open each year in the next decade, according to a recent report.",
-        "url": "https://finance.yahoo.com/economy/article/the-ai-boom-is-fueling-demand-for-skilled-trades-163100912.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/7d09af717f343216274637048290060b95d851c20030a878a7d767ad382a98aa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F36b62dd3-e51f-4808-aa81-2f9d73f3a23f",
-        "publishedAt": "2026-11-22T16:31:00Z",
-        "content": "On weekdays from 5 a.m. to 1 p.m., Marty Tougher clocks in at the construction site of a new building at UPMC Presbyterian, a 900-bed hospital in downtown Pittsburgh.\r\nDepending on the day, he might \u2026 [+5689 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Garrett Downs",
-        "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages - CNBC",
-        "description": "Clayton\u2019s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
-        "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&w=1920&h=1080",
-        "publishedAt": "2026-11-22T16:17:53Z",
-        "content": "Director of National Intelligence Jay Clayton warned Americans to prepare for \"bumps in the road\" after a set of damaging technology outages rocked air travel and systems like Microsoft Outlook.\r\nGov\u2026 [+1872 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Migflug.com"
-        },
-        "author": "Fortun\u00e9 Leroy",
-        "title": "Brussels Airport Cancels All Flights as Skeyes Shuts Belgian Airspace - MiGFlug",
-        "description": "Skeyes suspends Belgian air traffic control 07:00-21:00 on Monday 23 November. The Brussels Airport strike cancels all 429 flights and hits 59,500 passengers.",
-        "url": "https://migflug.com/afterburner/de/brussels-airport-all-flights-cancelled-skeyes-strike-23-november-2026/",
-        "urlToImage": "https://migflug.com/afterburner/wp-content/uploads/sites/4/2026/11/FEATURED-brussels-airport-flights-cancelled-strike.jpg",
-        "publishedAt": "2026-11-22T15:52:25Z",
-        "content": "Teile diese GeschichteThe decision landed on a Saturday afternoon, about thirty-six hours before it took effect. Skeyes, the state company that controls Belgian airspace, told the country\u2019s airports \u2026 [+13636 chars]"
-    },
-    {
-        "source": {
-            "id": "the-washington-post",
-            "name": "The Washington Post"
-        },
-        "author": "Nitasha Tiku",
-        "title": "Inside an AI prophet\u2019s secretive visions for humanity\u2019s future - The Washington Post",
-        "description": "Anthropic is worth more than $1 trillion. CEO Dario Amodei also wants to sell the world on his philosophy of the future.",
-        "url": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ORJMXYWGKRFUNNVETYVSHWLD3Q.jpg&w=1440",
-        "publishedAt": "2026-11-22T14:32:09Z",
-        "content": "SAN FRANCISCO As Anthropic chief executive Dario Amodei regaled investors last month with his artificial intelligence companys plans for future products, a very different meeting unfolded elsewhere i\u2026 [+27 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Lorie Konish",
-        "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep - CNBC",
-        "description": "A 3.6% Social Security cost-of-living adjustment for 2027 will increase benefits across the board. But Medicare and tax changes will also affect retirees.",
-        "url": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108554224-1795015724490-gettyimages-2223442880-hhhe25austriacvancarovcigetty2019hhh086.jpeg?v=1795208254&w=1920&h=1080",
-        "publishedAt": "2026-11-22T14:30:01Z",
-        "content": "Whether you're working or retired, changes to Social Security in 2027 could affect your finances.\r\nStarting in January, millions of program beneficiaries will get a 3.6% increase to their benefits, t\u2026 [+7130 chars]"
+        "author": "Logan K. Carter",
+        "title": "2027 Audi Q7 And SQ7 Are, Like, Reeeeally Good - Jalopnik",
+        "description": "The redesigned Q7 and SQ7 are a return to form for the four-ring brand, embodying the chic, stylish and high-quality attributes of Audi's greatest models.",
+        "url": "https://www.jalopnik.com/2324509/2027-audi-q7-sq7-first-drive-review/",
+        "urlToImage": "https://www.jalopnik.com/img/gallery/2027-audi-q7-and-sq7-are-like-reeeeally-good/l-intro-1795453801.jpg",
+        "publishedAt": "2026-11-23T14:00:00Z",
+        "content": "Much the same as its bigger SQ9 sibling, the SQ7 is mind-bendingly quick and adept at bombing down a back road. The SQ7's twin-turbo V8 sounds fantastic from both outside and inside the cabin, where \u2026 [+2274 chars]"
     }
 ]
