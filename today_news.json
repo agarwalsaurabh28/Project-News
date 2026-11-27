@@ -1,172 +1,16 @@
 [
     {
         "source": {
-            "id": null,
-            "name": "MarketWatch"
-        },
-        "author": "Tomi Kilgore, Christine Idzelis, Myra P. Saefong, Joseph Adinolfi, Nora Redmond, Steve Goldstein, Jamie Chisholm",
-        "title": "Stock Market Today: Dow up 300 points, S&P 500 and Nasdaq bounce off lows as tech selling eases \u2014 live update - MarketWatch",
-        "description": "Follow all the latest U.S. market action for Wednesday here, as the technology sector continues to decline, and after PCE inflation data confirms need to raise rates.",
-        "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-investors-inflation-data-pce-nvidia",
-        "urlToImage": "https://images.mktw.net/im-51746529/social",
-        "publishedAt": "2026-11-25T20:25:00Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "Reuters",
-        "title": "Nasdaq, S&P 500 ease, but off lows of the day as investors seek bargains - Reuters",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2026-11-25T20:04:52Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Investor's Business Daily"
-        },
-        "author": null,
-        "title": "Stock Market Today: Dow Cuts Loss Of 1,100 Points, Equal-Weighted S&P 500 Fund Up (Live Coverage) - Investor's Business Daily",
-        "description": "Stock Market Today: The Dow Jones index fell 800 points Wednesday on surprise inflation data before turning higher.",
-        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-inflation-data-nvidia-anthropic/",
-        "urlToImage": "https://www.investors.com/wp-content/uploads/2016/05/BIGpic_bear_051016_adobe.jpg",
-        "publishedAt": "2026-11-25T19:57:00Z",
-        "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
-    },
-    {
-        "source": {
-            "id": "nbc-news",
-            "name": "NBC News"
-        },
-        "author": "Steve Kopack",
-        "title": "Market sell-off eases up, but AI doubts, tariffs and inflation still weigh down stocks - NBC News",
-        "description": "U.S. stocks broadly slumped Wednesday, led by companies linked to the AI boom.",
-        "url": "https://www.nbcnews.com/business/markets/market-sell-underway-gains-huangs-nvidia-move-stall-rcna611268",
-        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261125-nasdaq-mn-0940-5e48f9.jpg",
-        "publishedAt": "2026-11-25T18:36:31Z",
-        "content": "U.S. stocks broadly slumped Wednesday, led by companies linked to the AI boom.\r\nThe volatile day began with a sharp sell-off that briefly sent the influential Nasdaq 100 index into bear market territ\u2026 [+6169 chars]"
-    },
-    {
-        "source": {
             "id": "the-washington-post",
             "name": "The Washington Post"
         },
-        "author": "Joe Heim, Jon Swaine",
-        "title": "Sale of Stefanik family\u2019s D.C. home deemed \u2018unusual,\u2019 city records show - The Washington Post",
-        "description": "A rowhome owned by the outgoing congresswoman\u2019s family was taken off the market after failing to sell for $1.99 million \u2014 and then sold in a private transaction for $910,000 more than that.",
-        "url": "https://www.washingtonpost.com/dc-md-va/2026/11/25/sale-stefanik-familys-dc-home-deemed-unusual-city-records-show/",
-        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4S6SSCB6UNEC5EE2STUVZAK2SY.JPG&w=1440",
-        "publishedAt": "2026-11-25T18:31:48Z",
-        "content": "In a Washington Post story last week about the sale of her familys three-bedroom Capitol Hill home for $2.9 million,the office of Rep. Elise Stefanik (R-New York) described the transaction as commerc\u2026 [+151 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Jared Blikre",
-        "title": "The $2 trillion chip rally is getting wiped out \u2014 here's what history says comes next - Yahoo Finance",
-        "description": "Two days after Nvidia's record rebound, chip stocks are back where they started.",
-        "url": "https://finance.yahoo.com/markets/article/the-2-trillion-chip-rally-is-getting-wiped-out--heres-what-history-says-comes-next-145306996.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/354b35c568659a62f797ea3a57e5623195670daa1181c205abde3c9309d62ee3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4f227f33-2d67-421a-8dd0-0fb2e363e579",
-        "publishedAt": "2026-11-25T18:27:39Z",
-        "content": "The biggest one-day rescue in stock market history is coming undone. Jensen Huang returned to Nvidia, and Wall Street's AI doubts are back with a vengeance.\r\nMonday was supposed to be the start of th\u2026 [+3857 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "CNBC"
-        },
-        "author": "Lora Kolodny, Annie Palmer",
-        "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites - CNBC",
-        "description": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
-        "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&w=1920&h=1080",
-        "publishedAt": "2026-11-25T18:22:59Z",
-        "content": "The Federal Communications Commission has authorized Elon Musk's SpaceX to put 1 million artificial intelligence computing satellites in orbit, Chairman Brendan Carr announced on Wednesday. \r\nCarr sa\u2026 [+2552 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Hal Bundrick, CFP\u00ae",
-        "title": "FAA\u2019s \u2018line up and wait\u2019 rule is in effect: How it could affect your flight - Yahoo Finance",
-        "description": "Heading to the airport? Here's what the FAA's \"line up and wait\" rule could mean for your travel plans.",
-        "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/faas-line-up-and-wait-rule-is-in-effect-how-it-could-affect-your-flight-170658037.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/5db9d90b680f590970f9420b3a249c93dabdb2d3cd4c9fdb28a261235baf5e76/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F32cdf8c6-ee99-48e4-809f-185318bf7091",
-        "publishedAt": "2026-11-25T17:06:58Z",
-        "content": "The Federal Aviation Administration has restricted a takeoff protocol that could potentially slow holiday travel. The FAA has modified the \"line up and wait\" procedure that allows departing planes to\u2026 [+2917 chars]"
-    },
-    {
-        "source": {
-            "id": "google-news",
-            "name": "Google News"
-        },
-        "author": "Gizmodo",
-        "title": "FAA Investigates Amazon Drone Crash in Michigan - Gizmodo",
-        "description": null,
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSkFCSHRMckU1WnlJSy1ham1fZ2Z1Y2pxenU4TzNWM3Q4emszMUQ2VDhyaHVFWVNpTUM2MS1kMUU3dDRLOUh0QVZ0bVk5Qmp5MUFzVmRCdF9JOWVQQV9wZWdDeWdXdHRQM0FPcG83VTdlQjdLcm5Xd1hNLVdKNVRRVTdPTVpMVkd2OEU1QnZYZHVkSm0wbjBWY0NVcEtYU3l5SE1pOFdIM0R4QQ?oc=5",
-        "urlToImage": null,
-        "publishedAt": "2026-11-25T17:00:45Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "KABC-TV"
-        },
-        "author": null,
-        "title": "Chicago-bound American Airlines flight diverted to Phoenix; Video shows man being restrained - ABC7 Los Angeles",
-        "description": "A Chicago-bound flight was forced to make an emergency landing after there was an apparent altercation on board.",
-        "url": "https://abc7.com/story/chicago-bound-american-airlines-flight-diverted-phoenix-video-shows-man-being-restrained/20078969/",
-        "urlToImage": "https://cdn.abcotvs.com/dip/images/20080152_112526-wls-naomi-flight-disturbance11a-vid.jpg?w=1600",
-        "publishedAt": "2026-11-25T15:42:07Z",
-        "content": "CHICAGO -- A Chicago-bound American Airlines flight was forced to make an emergency landing after there was an apparent altercation on board.\r\nAmerican Airlines flight 1494 was headed from San Diego \u2026 [+2257 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Yahoo Entertainment"
-        },
-        "author": "Rebecca Carhart",
-        "title": "These Walmart Black Friday style deals are as low as $5 \u2014 our top picks from Hanes, Crocs, Michael Kors, Wrangler and more - Yahoo",
-        "description": "On my Black Friday shopping list: Major steals on winter-ready flannels, sweaters, jackets, jeans and boots.",
-        "url": "https://shopping.yahoo.com/deals/breaking-news/article/these-walmart-black-friday-style-deals-are-as-low-as-5--our-top-picks-from-hanes-crocs-michael-kors-wrangler-and-more-192620927.html",
-        "urlToImage": "https://s.yimg.com/lo/mysterio/api/bf5cdcd80917bc11c8b5d856e09aaa516aac84529af63fbfeb04cfd3df6499b3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F05-multi-ugc-2-images-copy_9843.png",
-        "publishedAt": "2026-11-25T14:38:17Z",
-        "content": "Sponsored by Walmart\r\nWalmart's fashion finds have been seriously impressive this year, and they're even better now that the Black Friday Deals event is underway. Everything from cozy cold-weather st\u2026 [+8466 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Abcnews.com"
-        },
-        "author": "ABC News - Breaking News, Latest News and Videos",
-        "title": "Fed's preferred gauge of inflation climbs ahead of possible rate hike - ABC News - Breaking News, Latest News and Videos",
-        "description": null,
-        "url": "https://abcnews.com/Business/inflation-report-provide-feds-preferred-gauge-prices-ahead/story?id\\\\u003d138410424",
-        "urlToImage": null,
-        "publishedAt": "2026-11-25T14:23:39Z",
-        "content": null
-    },
-    {
-        "source": {
-            "id": "cbs-news",
-            "name": "CBS News"
-        },
-        "author": "Jennifer  Jacobs, Robert  Costa, Jo Ling  Kent, Olivia  Gazis, Nicole  Sganga",
-        "title": "Inside Trump's effort to reinstate Jensen Huang as Nvidia's CEO - CBS News",
-        "description": "Jensen Huang's comeback as Nvidia CEO came after a weekend of strategizing by Trump administration officials, who offered assurances to the company.",
-        "url": "https://www.cbsnews.com/news/trump-jensen-huang-nvidia-ceo-reinstated/",
-        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/f1d47006-d310-42e6-aa5d-c2d1a3c66bc1/thumbnail/1200x630/b3e457fe976c40e866f0e02eeef98a0d/ap26315101383942.jpg",
-        "publishedAt": "2026-11-25T14:19:00Z",
-        "content": "President Trump made it clear to advisers on Friday: He wanted Jensen Huang back at Nvidia.\u00a0\r\nIt had been less than two weeks since the computing giant's CEO and founder had resigned following an aff\u2026 [+6738 chars]"
+        "author": "Victoria Craw",
+        "title": "FCC approves 1 million SpaceX data centers in space. Astronomers are dismayed. - The Washington Post",
+        "description": "Putting data centers in space has long been the goal of SpaceX CEO Elon Musk. Some scientists are skeptical about the reality.",
+        "url": "https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/O3FEXMOKRYDEVH4MAM4FXFHFTE.JPG&w=1440",
+        "publishedAt": "2026-11-26T19:25:39Z",
+        "content": "The Trump administration has granted SpaceX authorization to deploy a constellation of 1 million data centers in space to fuel the artificial intelligence boom, in a move that is worrying some scient\u2026 [+26 chars]"
     },
     {
         "source": {
@@ -174,37 +18,219 @@
             "name": "Fox Business"
         },
         "author": "Sophia Compton",
-        "title": "Thanksgiving Day hours: What\u2019s open and closed across grocery, retail and restaurants - Fox Business",
-        "description": "Planning a Thanksgiving Day errand? Here's your full 2026 guide to which major retailers, grocery stores and restaurants are open or closed on Thursday.",
-        "url": "https://www.foxbusiness.com/lifestyle/thanksgiving-day-hours-whats-open-closed-across-grocery-retail-restaurants",
-        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/09/0/0/publix-shoppers-1.jpg?ve=1&tl=1",
-        "publishedAt": "2026-11-25T14:17:00Z",
-        "content": "With families across the country gathering for Thanksgiving on Thursday, many major U.S. retailers are shutting their doors to give employees the day off.\u00a0\r\nHowever, a handful of pharmacies, grocers \u2026 [+5770 chars]"
+        "title": "Amtrak ridership hits record as high gas prices drive more Americans to train travel - Fox Business",
+        "description": "The rail operator posted its third consecutive year of record passenger volume, fueled in part by high airfares and gas prices, as revenue climbed to $4.1 billion.",
+        "url": "https://www.foxbusiness.com/lifestyle/amtrak-ridership-hits-record-high-gas-prices-drive-more-americans-train-travel",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/amtrak-train-passengers-union-station-washington.jpg?ve=1&tl=1",
+        "publishedAt": "2026-11-26T19:13:00Z",
+        "content": "Amtrak said this week that it hit a record 37.1 million riders over the past year, a 7.4% jump fueled in part by Americans ditching expensive flights and high gas prices.\r\nFor the 12-month period end\u2026 [+3322 chars]"
     },
     {
         "source": {
-            "id": "axios",
-            "name": "Axios"
+            "id": "bloomberg",
+            "name": "Bloomberg"
         },
-        "author": "Courtenay Brown",
-        "title": "U.S. economy grew at rapid 4.3% pace in third quarter, new estimate shows - Axios",
-        "description": "The revision shows that the economy has even more momentum than previously understood.",
-        "url": "https://www.axios.com/2026/11/25/economy-gdp-inflation-ai",
-        "urlToImage": "https://images.axios.com/B4KY0fVnnv7N9KcvaPeSNA9fvQo=/0x894:8360x5597/1366x768/2026/11/25/1795614595861.jpg",
-        "publishedAt": "2026-11-25T14:03:00Z",
-        "content": "Why it matters: The economy has even more momentum than previously understood, a sign of remarkable resilience in the face of higher borrowing costs and stubborn inflation that could give the Fed mor\u2026 [+1106 chars]"
+        "author": "Andre Janse Van Vuuren, Rivaldo Jantjies",
+        "title": "Stocks, Nasdaq Futures Climb as AI Trade Rebounds: Markets Wrap - Bloomberg.com",
+        "description": "Stocks rose as investors in Europe and Asia took their cue from a comeback in technology shares on Wall Street after days of sharp swings.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iitofMfFUQtc/v0/1200x675.png",
+        "publishedAt": "2026-11-26T18:07:43Z",
+        "content": "Stocks rose as investors in Europe and Asia took their cue from a comeback in technology shares on Wall Street after days of sharp swings.\r\nEuropes Stoxx 600 rallied 1.7%. A gauge of Asian stocks cli\u2026 [+258 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera Staff",
+        "title": "Spanish economist to become new European Central Bank chief - Al Jazeera",
+        "description": "Economist Pablo Hernandez de Cos was announced after a meeting of eurozone leaders.",
+        "url": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-26T143642Z_902721325_RC2Y7NATVPDM_RTRMADP_3_ECB-PRESIDENT-1795712300.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-11-26T18:04:02Z",
+        "content": "The president of the European Council says eurozone member states have agreed to recommend Pablo Hernandez de Cos as the new European Central Bank (ECB) president.\r\nAntonio Costa also announced that \u2026 [+1943 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Rob Wile",
+        "title": "Pregnant inmate escapes from New Mexico corrections facility - NBC News",
+        "description": "Authorities are searching for a pregnant inmate who escaped from a New Mexico corrections facility on Wednesday.",
+        "url": "https://www.nbcnews.com/news/us-news/pregnant-inmate-escapes-new-mexico-corrections-facility-rcna611443",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261126-Rebecca-Taylor-rs-2623d0.jpg",
+        "publishedAt": "2026-11-26T17:36:05Z",
+        "content": "A multi-agency search is underway for a pregnant inmate who escaped while being transported from a New Mexico corrections facility Wednesday, while officers stopped to eat.\r\nRebecca Taylor, a woman i\u2026 [+1586 chars]"
+    },
+    {
+        "source": {
+            "id": "bloomberg",
+            "name": "Bloomberg"
+        },
+        "author": "Patrick Van Oosterom, Sarah Jacob",
+        "title": "Netherlands Plans to Fight Rollout of Proposed US Curbs on ASML - Bloomberg",
+        "description": "The Dutch government said it will resist US plans to further restrict ASML Holding NV\u2019s sales to China, calling the proposed rules a threat to Europe\u2019s most valuable company and widening a rift with Washington.",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-26/netherlands-plans-to-fight-rollout-of-proposed-us-curbs-on-asml",
+        "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8rEnQLIFauQ/v0/1200x800.jpg",
+        "publishedAt": "2026-11-26T16:54:37Z",
+        "content": "The Dutch government said it will resist US plans to further restrict ASML Holding NVs sales to China, calling the proposed rules a threat to Europes most valuable company and widening a rift with Wa\u2026 [+390 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "NPR"
+            "name": "Yahoo Entertainment"
         },
-        "author": "Stephan Bisaha",
-        "title": "What to know before using AI agents for Black Friday shopping - NPR",
-        "description": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
-        "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3733x2100+0+390/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2F3a%2F99324afc42febd0bdf8ef965b3a1%2Fgettyimages-2297767958.jpg",
-        "publishedAt": "2026-11-25T13:51:56Z",
-        "content": "Artificial intelligence is here to help with Black Friday.\r\nThis weekend, 59% of consumers plan on using AI to support their winter shopping, according to the National Retail Federation\r\n.\r\nBut AI ha\u2026 [+5590 chars]"
+        "author": "By David Milliken and Phoebe Seers",
+        "title": "Bank of England sees growing financial risks as AI borrowing surges - Yahoo Finance",
+        "description": "By David Milliken and Phoebe Seers LONDON, Nov 26 (Reuters) - The Bank of England said on Thursday that risks in the global financial system had intensified...",
+        "url": "https://finance.yahoo.com/economy/policy/articles/bank-england-sees-growing-financial-153906001.html",
+        "urlToImage": "https://s.yimg.com/lo/mysterio/api/9e7f2264eaef0b519aba5f7663d28d21a37da1e002f7f694d8d43e3838456a42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8fe9acd1dd444c21a6f1d0b5ba1b5039.jpg_up.jpg",
+        "publishedAt": "2026-11-26T15:39:06Z",
+        "content": "By David Milliken and Phoebe Seers\r\nLONDON, Nov 26 (Reuters) - The Bank of England said on Thursday that risks in the global financial system had intensified in recent months as the conflict in the M\u2026 [+3642 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Kai Nicol-Schwarz",
+        "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say - CNBC",
+        "description": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
+        "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108553116-1794927200152-gettyimages-2305495249-vcg111682705669.jpeg?v=1794927260&w=1920&h=1080",
+        "publishedAt": "2026-11-26T15:34:08Z",
+        "content": "Neoclouds are being told they won't be able to purchase Nvidia chips if any of the computing capacity will be rented by Chinese companies, sources told CNBC. \r\nIt comes after a new rule restricting r\u2026 [+2469 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Ariel Zilber",
+        "title": "Big Apple retail blues: More than 16,000 NYC storefronts sit empty as businesses struggle - New York Post",
+        "description": "As more shoppers ditch their local mom-and-pop for online stores, New York City storefronts are reaching shocking vacancy levels.",
+        "url": "https://nypost.com/2026/11/26/business/big-apple-retail-blues-more-than-16000-nyc-storefronts-sit-empty-as-businesses-struggle/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/150030624.jpg?quality=75&strip=all&w=1200",
+        "publishedAt": "2026-11-26T14:43:00Z",
+        "content": "As more shoppers ditch their local mom-and-pop for online stores, New York City storefronts are reaching shocking vacancy levels.\r\nOver 16,000 storefronts across the five boroughs are sitting empty a\u2026 [+6604 chars]"
+    },
+    {
+        "source": {
+            "id": "the-hill",
+            "name": "The Hill"
+        },
+        "author": "Steff Danielle Thomas",
+        "title": "Denny\u2019s celebrates Jensen Huang return to Nvidia: \u2018Your booth is waiting\u2019 - The Hill",
+        "description": "Denny\u2019s, the popular breakfast spot, celebrated Jensen Huang\u2019s return as Nvidia CEO on Wednesday, highlighting its decades-long ties to the embattled tech executive. The diner chain said it restored a plaque marking the booth at its San Jose, Calif., restaura\u2026",
+        "url": "https://thehill.com/policy/technology/6244572-dennys-jensen-huang-nvidia-comeback-trump-administration/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26294365742048-e1795702021365.jpg?w=1280",
+        "publishedAt": "2026-11-26T14:31:00Z",
+        "content": "Skip to content\r\nDenny\u2019s, the popular breakfast spot, celebrated Jensen Huang\u2019s return as Nvidia CEO on Wednesday, highlighting its decades-long ties to the embattled tech executive.\r\nThe diner chain\u2026 [+2416 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WKYC.com"
+        },
+        "author": "WKYC",
+        "title": "Winning Powerball numbers for the $31 million jackpot on Nov. 25, 2026: See all the prizes hit in Ohio - WKYC",
+        "description": null,
+        "url": "https://www.wkyc.com/article/news/lottery/winning-powerball-numbers-31-million-jackpot-wednesday-november-25-ohio-lottery-winners/95-317184b0-1f90-4851-a5ad-e501c24d0602",
+        "urlToImage": null,
+        "publishedAt": "2026-11-26T12:41:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "the-hill",
+            "name": "The Hill"
+        },
+        "author": "Steff Danielle Thomas",
+        "title": "FedEx plane overruns Miami runway, snarling Thanksgiving travel - The Hill",
+        "description": "A FedEx cargo plane overran a runway at Miami International Airport late Wednesday, triggering widespread flight delays during one of the busiest travel periods of the year. The airport said in a statement that the incident occurred around 8:40 p.m. local tim\u2026",
+        "url": "https://thehill.com/policy/transportation/6244509-fedex-plane-overruns-miami-runway/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26330155683200-e1795695571596.jpg?w=1280",
+        "publishedAt": "2026-11-26T12:23:00Z",
+        "content": "Skip to content\r\nA FedEx cargo plane overran a runway at Miami International Airport late Wednesday, triggering widespread flight delays during one of the busiest travel periods of the year.\r\nThe air\u2026 [+1962 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Norse Atlantic suspends all flights as it faces potential collapse - BBC",
+        "description": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
+        "url": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+        "publishedAt": "2026-11-26T11:38:45Z",
+        "content": "Rory Boland, Which? travel editor, said: \"If Norse does go bust, whether you get a refund depends on how you booked and paid. If you booked directly with Norse, you may be able to claim a refund via \u2026 [+55 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Mary  Cunningham",
+        "title": "What's open and closed today on Thanksgiving Day 2026? Hours for stores, restaurants, banks and more - CBS News",
+        "description": "A handful of grocery stores will welcome customers on Thanksgiving this year, while most retailers will be closed. Here's what to know.",
+        "url": "https://www.cbsnews.com/news/thanksgiving-store-hours-open-closed-2026-black-friday/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/25/f127dd30-2ba3-449a-9a5c-0c7e2293e237/thumbnail/1200x630/05d1295486ab7f1d06e0b03fabc67329/gettyimages-1717111546.jpg",
+        "publishedAt": "2026-11-26T11:00:21Z",
+        "content": "Thanksgiving is here, giving Americans a chance to gather around the table, overdose on rich foods and renew family squabbles. Need to make a quick run to the store for some last-minute supplies? We \u2026 [+4188 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Southernliving.com"
+        },
+        "author": "https://www.facebook.com/SouthernLiving/",
+        "title": "Don\u2019t Let Amazon\u2019s Black Friday Sale Overwhelm You\u2014These 15 Finds Are The Best Place To Start - Southern Living",
+        "description": "Amazon\u2019s Black Friday Sale is rolling out new deals every day. We rounded up 15 of the best bargains to score during Amazon\u2019s Black Friday sale, including a Michael Kors tote, a Le Creuset Dutch oven, a chic sweater dress, and more from $12.",
+        "url": "https://www.southernliving.com/what-to-buy-amazon-black-friday-deals-2026-12243834",
+        "urlToImage": "https://www.southernliving.com/thmb/GUrLbqMeNsbP2zNDg5EBoP9gAvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/slv-prime-day-primary-le-creuset-2dece0e11936415aad8fa3aec3ef6333.jpg",
+        "publishedAt": "2026-11-26T11:00:00Z",
+        "content": "As a shopping writer, its my job to search for the latest and greatest sales, and with Amazons Black Friday sale rolling out new deals every day, Ive taken the liberty of hand picking the best Black \u2026 [+7231 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Variety"
+        },
+        "author": "K.J. Yossman",
+        "title": "Former Disney Boss Bob Iger \u2018Got ABC Employee Pregnant\u2019 During Affair, New Book Claims - Variety",
+        "description": "A new book claims former Disney boss Bob Iger impregnated an employee during a consensual extra-marital relationship.",
+        "url": "https://variety.com/2026/film/global/bob-iger-employee-pregnant-new-book-1236958840/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2026/11/Philadelphia-Eagles-v-Green-Bay-Packers-1000.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2026-11-26T10:24:00Z",
+        "content": "Former Disney boss Bob Iger allegedly impregnated an employee in the 1990s, according to an explosive new book, per the New York Times.\r\nThe newspaper has published an interview with Wall Street Jour\u2026 [+1683 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "Nora Redmond",
+        "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank - MarketWatch",
+        "description": "",
+        "url": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6",
+        "urlToImage": "https://images.mktw.net/im-59635589/social",
+        "publishedAt": "2026-11-26T10:11:00Z",
+        "content": "The selloff in technology stocks should subside soon, which could help the S&amp;P 500 to gain upward of 25%, according to Deutsche Bank.\r\nSince mid-October, the Nasdaq-100 \r\nNDX has plunged about 12\u2026 [+515 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Daily Beast"
+        },
+        "author": "Leigh Kimmins",
+        "title": "Fox News Serves Trump Humiliating Thanksgiving Reality Check - The Daily Beast",
+        "description": "Bret Baier is not afraid to take on the president.",
+        "url": "https://www.thedailybeast.com/fox-news-serves-trump-humiliating-thanksgiving-reality-check",
+        "urlToImage": "https://media.thedailybeast.com/resizer/v2/OVKAVEBS2ZGDZG6HOITNHYDCNA.jpg?auth=43dd95f86a4e0aa391e0cec5e446954364c1fc28dc1be7903f77766ca1f8d50e&width=1200&height=630&focal=320%2C180",
+        "publishedAt": "2026-11-26T10:02:01Z",
+        "content": "Fox News host Bret Baier has served President Donald Trump a humiliating Thanksgiving reality check on prices. Speaking on Special Report on Wednesday, the host noted that the price of a festive meal\u2026 [+3576 chars]"
     }
 ]
